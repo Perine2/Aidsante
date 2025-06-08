@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1,
+    "question": "Quel est le traitement de première intention de l'hypertension artérielle essentielle chez l'adulte sans comorbidité ?",
+    "options": [
+      "Furosémide",
+      "Inhibiteur de l’enzyme de conversion (IEC)",
+      "Bêta-bloquant",
+      "Anticoagulant"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 2,
+    "question": "Une angine à streptocoque du groupe A se traite prioritairement avec :",
+    "options": [
+      "Amoxicilline",
+      "Azithromycine",
+      "Ciprofloxacine",
+      "Doxycycline"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 3,
+    "question": "Chez un patient de 65 ans avec BPCO stable, le vaccin recommandé est :",
+    "options": [
+      "Antitétanique",
+      "BCG",
+      "Antigrippal + antipneumococcique",
+      "Antipaludique"
+    ],
+    "answer": "C"
+  }
+]
