@@ -58,7 +58,7 @@
     "question": "Un ECG montrant une onde T négative en DII, DIII, aVF évoque :",
     "options": ["Ischémie sous-endocardique inférieure", "Infarctus antérieur", "Bloc de branche droit", "Péricardite"],
     "answer": "A"
-  }
+  },
   {
     "id": 11,
     "question": "Quel est le signe clinique le plus fréquent d’une infection urinaire basse ?",
@@ -118,7 +118,7 @@
     "question": "Quel est le traitement de première ligne dans la prise en charge de l’asthme léger intermittent ?",
     "options": ["Bronchodilatateurs de courte durée d’action (salbutamol)", "Corticostéroïdes oraux", "Antibiotiques", "Oxygénothérapie"],
     "answer": "A"
-  }{
+  },{
     "id": 21,
     "question": "Quel est le principal facteur de risque du cancer du poumon ?",
     "options": ["Tabagisme", "Pollution atmosphérique", "Infection virale", "Alcoolisme"],
@@ -236,7 +236,7 @@
     "question": "Quel est le symptôme le plus fréquent du reflux gastro-œsophagien ?",
     "options": ["Brûlures rétrosternales", "Nausées", "Diarrhée", "Douleur abdominale basse"],
     "answer": "A"
-  }{
+  },{
     "id": 31,
     "question": "Quelle est la méthode de dépistage du diabète recommandée ?",
     "options": ["Dosage de la glycémie à jeun", "Mesure de la pression artérielle", "Test respiratoire", "Électrocardiogramme"],
