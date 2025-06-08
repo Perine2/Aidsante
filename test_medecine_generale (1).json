@@ -339,9 +339,14 @@
   },
   {
     "id": 48,
-    "question": "Quel est le traitement de première intention pour une crise d’asthme aiguë légère ?",
-    "options": ["Bêta2 agoniste inhalé à courte durée d’action", "Corticostéroïdes oraux", "Antibiotiques", "Oxygénothérapie uniquement"],
-    "answer": "Bêta2 agoniste inhalé à courte durée d’action"
+  "question": "Quel est le traitement de première intention pour une crise d’asthme aiguë légère ?",
+  "options": [
+    "Bêta2 agoniste inhalé à courte durée d'action",
+    "Corticostéroïdes oraux",
+    "Antibiotiques",
+    "Oxygénothérapie uniquement"
+  ],
+  "answer": "Bêta2 agoniste inhalé à courte durée d'action"
   },
   {
     "id": 49,
