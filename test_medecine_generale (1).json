@@ -177,7 +177,7 @@
     "question": "Quel est le traitement de première intention de la dépression majeure ?",
     "options": ["Antidépresseurs ISRS et psychothérapie", "Antipsychotiques", "Benzodiazépines", "Antibiotiques"],
     "answer": "A"
-  }{
+  },{
     "id": 31,
     "question": "Quelle est la méthode de dépistage du diabète recommandée ?",
     "options": ["Dosage de la glycémie à jeun", "Mesure de la pression artérielle", "Test respiratoire", "Électrocardiogramme"],
@@ -295,7 +295,7 @@
     "question": "Quel est le symptôme le plus fréquent du reflux gastro-œsophagien ?",
     "options": ["Brûlures rétrosternales", "Nausées", "Diarrhée", "Douleur abdominale basse"],
     "answer": "A"
-  }{
+  },{
     "id": 41,
     "question": "Quelle est la principale cause de cirrhose du foie ?",
     "options": ["Consommation excessive d’alcool", "Hépatite A", "Cancer du pancréas", "Insuffisance rénale"],
