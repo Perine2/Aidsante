@@ -108,5 +108,281 @@
       "GDS"
     ],
     "reponse_correcte": "Angio-scanner thoracique"
-  }
+  },{
+        "number": 11,
+        "question": "Quelle est la définition de l’hypoxémie ?",
+        "options": ["PaO₂ > 80 mmHg", "SaO₂ > 95 %", "PaO₂ < 60 mmHg", "PaCO₂ > 45 mmHg"],
+        "answer": "PaO₂ < 60 mmHg"
+    },
+    {
+        "number": 12,
+        "question": "Un syndrome interstitiel à la radio est typique de :",
+        "options": ["Pneumothorax", "Fibrose pulmonaire", "Bronchite aiguë", "Emphysème"],
+        "answer": "Fibrose pulmonaire"
+    },
+    {
+        "number": 13,
+        "question": "La toux sèche chronique sans fièvre chez un non-fumeur évoque :",
+        "options": ["Cancer bronchique", "Asthme ou reflux gastro-œsophagien", "Tuberculose", "Pneumonie bactérienne"],
+        "answer": "Asthme ou reflux gastro-œsophagien"
+    },
+    {
+        "number": 14,
+        "question": "Quelle bactérie est souvent en cause dans les pneumonies communautaires ?",
+        "options": ["Escherichia coli", "Streptococcus pneumoniae", "Klebsiella", "Clostridium difficile"],
+        "answer": "Streptococcus pneumoniae"
+    },
+    {
+        "number": 15,
+        "question": "Un pneumothorax spontané touche le plus souvent :",
+        "options": ["Personnes âgées", "Fumeurs âgés", "Hommes jeunes et minces", "Femmes enceintes"],
+        "answer": "Hommes jeunes et minces"
+    },
+    {
+        "number": 16,
+        "question": "L’examen à réaliser pour confirmer un pneumothorax est :",
+        "options": ["Scanner", "Radiographie thoracique", "Épreuve d’effort", "Gaz du sang"],
+        "answer": "Radiographie thoracique"
+    },
+    {
+        "number": 17,
+        "question": "Quelle est la cause principale de la tuberculose ?",
+        "options": ["Virus de la grippe", "Staphylocoque doré", "Mycobacterium tuberculosis", "Candida albicans"],
+        "answer": "Mycobacterium tuberculosis"
+    },
+    {
+        "number": 18,
+        "question": "Le test de Mantoux est utilisé pour :",
+        "options": ["Diagnostiquer l’asthme", "Dépister la tuberculose latente", "Évaluer une embolie", "Tester la fonction respiratoire"],
+        "answer": "Dépister la tuberculose latente"
+    },
+    {
+        "number": 19,
+        "question": "Le traitement de la tuberculose active inclut :",
+        "options": ["Amoxicilline seule", "Isoniazide + Rifampicine + Ethambutol + Pyrazinamide", "Antifongiques", "Bêta-2 mimétiques"],
+        "answer": "Isoniazide + Rifampicine + Ethambutol + Pyrazinamide"
+    },
+    {
+        "number": 20,
+        "question": "Un syndrome obstructif à la spirométrie montre :",
+        "options": ["VEMS augmenté", "CVF augmentée", "VEMS/CVF diminué", "Aucun changement"],
+        "answer": "VEMS/CVF diminué"
+    },{
+        "numero": 21,
+        "question": "Un patient BPCO ne doit pas recevoir en monothérapie :",
+        "options": ["A) Corticoïdes inhalés seuls", "B) Bêta-2 mimétiques", "C) Anticholinergiques", "D) Bronchodilatateurs de longue durée"],
+        "reponse": "A"
+    },
+    {
+        "numero": 22,
+        "question": "Un nodule pulmonaire isolé chez un fumeur doit faire évoquer :",
+        "options": ["A) Cancer bronchique", "B) Sarcoïdose", "C) Pneumonie", "D) Emphysème"],
+        "reponse": "A"
+    },
+    {
+        "numero": 23,
+        "question": "L’hémoptysie massive est définie par :",
+        "options": ["A) 50 mL/24h", "B) >200-600 mL en 24h", "C) Toute trace de sang", "D) Saignement digestif associé"],
+        "reponse": "B"
+    },
+    {
+        "numero": 24,
+        "question": "L’asbestose est une pathologie liée à :",
+        "options": ["A) L’aluminium", "B) L’amiante", "C) Le sable", "D) La silice"],
+        "reponse": "B"
+    },
+    {
+        "numero": 25,
+        "question": "Le syndrome d’apnées du sommeil est diagnostiqué par :",
+        "options": ["A) Scanner thoracique", "B) Polysomnographie", "C) Spirométrie", "D) Radiographie"],
+        "reponse": "B"
+    },
+    {
+        "numero": 26,
+        "question": "L’index d’apnée-hypopnée (IAH) pathologique est :",
+        "options": ["A) IAH > 3", "B) IAH > 5", "C) IAH > 15", "D) IAH > 20"],
+        "reponse": "B"
+    },
+    {
+        "numero": 27,
+        "question": "Le traitement de référence du SAOS est :",
+        "options": ["A) Corticoïdes", "B) Pression positive continue (PPC ou CPAP)", "C) Chirurgie", "D) Antibiotiques"],
+        "reponse": "B"
+    },
+    {
+        "numero": 28,
+        "question": "L'oxygénothérapie au long cours est indiquée si :",
+        "options": ["A) PaO₂ < 55 mmHg au repos", "B) Saturation > 94 %", "C) Dyspnée d’effort seule", "D) Toux chronique"],
+        "reponse": "A"
+    },
+    {
+        "numero": 29,
+        "question": "Une sarcoïdose pulmonaire présente souvent :",
+        "options": ["A) Pneumothorax", "B) Adénopathies hilaires bilatérales", "C) Hyperinflation", "D) Douleurs thoraciques aiguës"],
+        "reponse": "B"
+    },
+    {
+        "numero": 30,
+        "question": "L’inhalation de corps étranger est plus fréquente chez :",
+        "options": ["A) Les enfants", "B) Les sportifs", "C) Les asthmatiques", "D) Les personnes âgées"],
+        "reponse": "A"
+    },{
+        "number": 31,
+        "question": "L’emphysème est caractérisé par :",
+        "options": ["Fibrose alvéolaire", "Destruction des parois alvéolaires", "Infection bronchique", "Œdème interstitiel"],
+        "answer": "Destruction des parois alvéolaires"
+    },
+    {
+        "number": 32,
+        "question": "Le test de la fonction respiratoire ne comprend pas :",
+        "options": ["VEMS", "Hémoculture", "CVF", "Capacité pulmonaire totale"],
+        "answer": "Hémoculture"
+    },
+    {
+        "number": 33,
+        "question": "Quelle pathologie est associée au déficit en alpha-1-antitrypsine ?",
+        "options": ["Fibrose kystique", "Emphysème panlobulaire", "Asthme", "Tuberculose"],
+        "answer": "Emphysème panlobulaire"
+    },
+    {
+        "number": 34,
+        "question": "Le syndrome de Kartagener associe :",
+        "options": ["Asthme, allergies, éosinophilie", "Situs inversus, sinusite, bronchectasies", "Fibrose, cyanose, hypercapnie", "Hémoptysie, épanchement, pneumothorax"],
+        "answer": "Situs inversus, sinusite, bronchectasies"
+    },
+    {
+        "number": 35,
+        "question": "Le principal effet secondaire de la Rifampicine est :",
+        "options": ["Surdité", "Coloration orange des urines et toxicité hépatique", "Myopathie", "Photosensibilité"],
+        "answer": "Coloration orange des urines et toxicité hépatique"
+    },
+    {
+        "number": 36,
+        "question": "Quelle maladie est considérée comme une pneumopathie d’hypersensibilité ?",
+        "options": ["BPCO", "Tuberculose", "Poumon du fermier", "Cancer pulmonaire"],
+        "answer": "Poumon du fermier"
+    },
+    {
+        "number": 37,
+        "question": "Le test de la sueur est utilisé pour diagnostiquer :",
+        "options": ["Mucoviscidose (fibrose kystique)", "Asthme", "Bronchite chronique", "Sarcoïdose"],
+        "answer": "Mucoviscidose (fibrose kystique)"
+    },
+    {
+        "number": 38,
+        "question": "Un élargissement du médiastin à la radio peut évoquer :",
+        "options": ["Pneumonie", "Adénopathies ou dissection aortique", "BPCO", "Pneumothorax"],
+        "answer": "Adénopathies ou dissection aortique"
+    },
+    {
+        "number": 39,
+        "question": "L'hypercapnie correspond à une PaCO₂ :",
+        "options": ["< 35 mmHg", "< 40 mmHg", "> 45 mmHg", "> 100 mmHg"],
+        "answer": "> 45 mmHg"
+    },
+    {
+        "number": 40,
+        "question": "La cyanose centrale s’observe dans :",
+        "options": ["L’urticaire", "Hypoxémie sévère (SaO₂ < 85%)", "Hyperventilation", "Infection urinaire"],
+        "answer": "Hypoxémie sévère (SaO₂ < 85%)"
+    },{
+        "question": "Quel examen permet d’évaluer la diffusion de l’oxygène dans les poumons ?",
+        "options": [
+            "DLCO (diffusing capacity of the lungs for carbon monoxide)",
+            "GDS",
+            "Épreuve d’effort",
+            "Angio-scanner"
+        ],
+        "answer": "DLCO (diffusing capacity of the lungs for carbon monoxide)"
+    },
+    {
+        "question": "Quel vaccin est recommandé chez les BPCO ?",
+        "options": [
+            "ROR",
+            "Pneumocoque + grippe annuelle",
+            "Méningocoque",
+            "Tétanos uniquement"
+        ],
+        "answer": "Pneumocoque + grippe annuelle"
+    },
+    {
+        "question": "Le signe du double contour à la radio suggère :",
+        "options": [
+            "Pneumothorax bilatéral",
+            "Pleurésie massive",
+            "Fibrose",
+            "OAP"
+        ],
+        "answer": "Pleurésie massive"
+    },
+    {
+        "question": "Une hémoptysie avec fièvre, amaigrissement et sueurs nocturnes évoque :",
+        "options": [
+            "Asthme",
+            "Tuberculose pulmonaire",
+            "Embolie pulmonaire",
+            "BPCO"
+        ],
+        "answer": "Tuberculose pulmonaire"
+    },
+    {
+        "question": "Les crépitants en fin d’inspiration sont typiques de :",
+        "options": [
+            "Pneumothorax",
+            "Fibrose pulmonaire",
+            "Asthme",
+            "Apnée du sommeil"
+        ],
+        "answer": "Fibrose pulmonaire"
+    },
+    {
+        "question": "Une respiration rapide, superficielle et inefficace est appelée :",
+        "options": [
+            "Apnée",
+            "Tachycardie",
+            "Polypnée",
+            "Bradyphnée"
+        ],
+        "answer": "Polypnée"
+    },
+    {
+        "question": "Le syndrome obstructif se distingue d’un syndrome restrictif par :",
+        "options": [
+            "Une CVF plus basse",
+            "Une VEMS élevée",
+            "Un VEMS/CVF < 70 %",
+            "Une saturation normale"
+        ],
+        "answer": "Un VEMS/CVF < 70 %"
+    },
+    {
+        "question": "Une alvéolite allergique extrinsèque est causée par :",
+        "options": [
+            "Inhalation répétée d’antigènes organiques (champignons, moisissures)",
+            "Tabac",
+            "Infections bactériennes",
+            "Médicaments"
+        ],
+        "answer": "Inhalation répétée d’antigènes organiques (champignons, moisissures)"
+    },
+    {
+        "question": "Le test de marche de 6 minutes évalue :",
+        "options": [
+            "Saturation au repos",
+            "Capacité fonctionnelle d’effort en pathologie respiratoire",
+            "Rythme cardiaque",
+            "Présence de pneumothorax"
+        ],
+        "answer": "Capacité fonctionnelle d’effort en pathologie respiratoire"
+    },
+    {
+        "question": "Un traitement par CPAP est indiqué surtout pour :",
+        "options": [
+            "Bronchite chronique",
+            "Syndrome d’apnées du sommeil",
+            "Tuberculose",
+            "Cancer bronchique"
+        ],
+        "answer": "Syndrome d’apnées du sommeil"
+    }
 ]
