@@ -1,0 +1,102 @@
+[
+  {
+    "question": "1. Quelle est la principale cause de l’insuffisance rénale chronique dans le monde ?",
+    "options": [
+      "Infection urinaire",
+      "Diabète",
+      "Glomérulonéphrite",
+      "Lithiase rénale"
+    ],
+    "answer": "Diabète"
+  },
+  {
+    "question": "2. Quel est le rôle principal du glomérule rénal ?",
+    "options": [
+      "Réabsorption d’eau",
+      "Sécrétion d’hormones",
+      "Filtration du plasma sanguin",
+      "Production d’urine concentrée"
+    ],
+    "answer": "Filtration du plasma sanguin"
+  },
+  {
+    "question": "3. La protéinurie est définie par :",
+    "options": [
+      "Présence de globules rouges dans les urines",
+      "Présence de bactéries",
+      "Présence anormale de protéines dans les urines",
+      "Absence totale d’urine"
+    ],
+    "answer": "Présence anormale de protéines dans les urines"
+  },
+  {
+    "question": "4. Quel est le principal symptôme de l’insuffisance rénale aiguë ?",
+    "options": [
+      "Douleur abdominale",
+      "Oligurie ou anurie",
+      "Hyperglycémie",
+      "Fièvre"
+    ],
+    "answer": "Oligurie ou anurie"
+  },
+  {
+    "question": "5. Le syndrome néphrotique est caractérisé par :",
+    "options": [
+      "Hématurie macroscopique",
+      "Hypertension artérielle",
+      "Protéinurie massive, hypoalbuminémie, œdèmes",
+      "Douleurs lombaires"
+    ],
+    "answer": "Protéinurie massive, hypoalbuminémie, œdèmes"
+  },
+  {
+    "question": "6. Quelle est la cause la plus fréquente de glomérulonéphrite aiguë post-infectieuse ?",
+    "options": [
+      "Virus hépatite B",
+      "VIH",
+      "Infection streptococcique",
+      "Parasite"
+    ],
+    "answer": "Infection streptococcique"
+  },
+  {
+    "question": "7. La dialyse péritonéale utilise :",
+    "options": [
+      "Le sang",
+      "Le péritoine comme membrane de dialyse",
+      "Le foie",
+      "Les poumons"
+    ],
+    "answer": "Le péritoine comme membrane de dialyse"
+  },
+  {
+    "question": "8. Quel ion est le principal responsable de l’équilibre acido-basique régulé par les reins ?",
+    "options": [
+      "Calcium",
+      "Potassium",
+      "Bicarbonate",
+      "Sodium"
+    ],
+    "answer": "Bicarbonate"
+  },
+  {
+    "question": "9. L’hyperkaliémie est une complication grave de l’insuffisance rénale car elle peut provoquer :",
+    "options": [
+      "Hypertension",
+      "Œdème pulmonaire",
+      "Troubles du rythme cardiaque",
+      "Hypoglycémie"
+    ],
+    "answer": "Troubles du rythme cardiaque"
+  },
+  {
+    "question": "10. La néphropathie diabétique se manifeste principalement par :",
+    "options": [
+      "Hématurie macroscopique",
+      "Crises d’insuffisance cardiaque",
+      "Protéinurie et déclin progressif de la fonction rénale",
+      "Douleur rénale aiguë"
+    ],
+    "answer": "Protéinurie et déclin progressif de la fonction rénale"
+  }
+]
