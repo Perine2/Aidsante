@@ -110,31 +110,31 @@
     "reponse": "Diagnostiquer un diabète sucré gestationnel"
   },
     {
-      "id": 11,
+      "numero": 11,
       "question": "Quelle hormone est produite par la médullosurrénale ?",
       "options": ["Cortisol", "Adrénaline et noradrénaline", "Aldostérone", "Insuline"],
       "answer": "Adrénaline et noradrénaline"
     },
     {
-      "id": 12,
+      "numero": 12,
       "question": "L’acromégalie est due à une hyperproduction de :",
       "options": ["Prolactine", "Cortisol", "Hormone de croissance (GH)", "Thyroxine"],
       "answer": "Hormone de croissance (GH)"
     },
     {
-      "id": 13,
+      "numero": 13,
       "question": "Quel est le signe clinique principal du diabète insipide ?",
       "options": ["Hyperglycémie", "Polyurie importante avec soif intense", "Oligurie", "Fatigue"],
       "answer": "Polyurie importante avec soif intense"
     },
     {
-      "id": 14,
+      "numero": 14,
       "question": "L’hypoglycémie est définie par une glycémie inférieure à :",
       "options": ["1,5 g/L", "0,8 g/L", "0,6 g/L (60 mg/dL)", "2,0 g/L"],
       "answer": "0,6 g/L (60 mg/dL)"
     },
     {
-      "id": 15,
+      "numero": 15,
       "question": "Le rôle principal de l’aldostérone est :",
       "options": [
         "Augmenter la glycémie",
@@ -145,19 +145,19 @@
       "answer": "Favoriser la réabsorption du sodium et la sécrétion du potassium au niveau rénal"
     },
     {
-      "id": 16,
+      "numero": 16,
       "question": "La TSH (thyroid stimulating hormone) est sécrétée par :",
       "options": ["Thyroïde", "Hypothalamus", "Hypophyse (adénohypophyse)", "Surrénale"],
       "answer": "Hypophyse (adénohypophyse)"
     },
     {
-      "id": 17,
+      "numero": 17,
       "question": "Quel est le traitement de première intention du diabète de type 2 ?",
       "options": ["Insuline", "Metformine", "Sulfonylurées", "Corticoïdes"],
       "answer": "Metformine"
     },
     {
-      "id": 18,
+      "numero": 18,
       "question": "Le goitre est :",
       "options": [
         "Une tumeur thyroïdienne maligne",
@@ -168,13 +168,13 @@
       "answer": "Une hypertrophie diffuse ou nodulaire de la thyroïde"
     },
     {
-      "id": 19,
+      "numero": 19,
       "question": "La principale complication microvasculaire du diabète est :",
       "options": ["Infarctus du myocarde", "Rétinopathie diabétique", "AVC", "Hypertension"],
       "answer": "Rétinopathie diabétique"
     },
     {
-      "id": 20,
+      "numero": 20,
       "question": "Quel test permet d’évaluer la fonction surrénalienne ?",
       "options": [
         "Test au glucose",
@@ -185,43 +185,43 @@
       "answer": "Test au Synacthène (ACTH)"
     },
     {
-      "id": 21,
+      "numero": 21,
       "question": "Quelle hormone est responsable du développement des caractères sexuels secondaires masculins ?",
       "options": ["Œstrogènes", "Testostérone", "Progestérone", "LH"],
       "answer": "Testostérone"
     },
     {
-      "id": 22,
+      "numero": 22,
       "question": "La maladie de Basedow se manifeste par :",
       "options": ["Hypothyroïdie", "Goitre simple", "Hyperthyroïdie avec exophtalmie", "Cancer thyroïdien"],
       "answer": "Hyperthyroïdie avec exophtalmie"
     },
     {
-      "id": 23,
+      "numero": 23,
       "question": "La principale cause d’hypoparathyroïdie est :",
       "options": ["Carence en calcium", "Ablation chirurgicale de la thyroïde", "Hypercalcémie", "Diabète"],
       "answer": "Ablation chirurgicale de la thyroïde"
     },
     {
-      "id": 24,
+      "numero": 24,
       "question": "Quel médicament est un analogue de la somatostatine utilisé dans l’acromégalie ?",
       "options": ["Metformine", "Corticostéroïdes", "Octréotide", "Insuline"],
       "answer": "Octréotide"
     },
     {
-      "id": 25,
+      "numero": 25,
       "question": "Quel est le principal facteur de risque du diabète de type 2 ?",
       "options": ["Tabagisme", "Consommation d’alcool", "Obésité abdominale", "Exercice physique"],
       "answer": "Obésité abdominale"
     },
     {
-      "id": 26,
+      "numero": 26,
       "question": "L’hyperprolactinémie peut entraîner :",
       "options": ["Hyperthyroïdie", "Aménorrhée et galactorrhée", "Hypoglycémie", "Polyurie"],
       "answer": "Aménorrhée et galactorrhée"
     },
     {
-      "id": 27,
+      "numero": 27,
       "question": "Le test du cortisol salivaire est utilisé pour :",
       "options": [
         "Diagnostiquer l’hypothyroïdie",
@@ -232,13 +232,13 @@
       "answer": "Évaluer l’hypercortisolisme (syndrome de Cushing)"
     },
     {
-      "id": 28,
+      "numero": 28,
       "question": "L’hyperthyroïdie peut provoquer :",
       "options": ["Bradycardie", "Tachycardie et perte de poids", "Gain de poids", "Hypotension"],
       "answer": "Tachycardie et perte de poids"
     },
     {
-      "id": 29,
+      "numero": 29,
       "question": "Quel est le rôle de la leptine ?",
       "options": [
         "Réguler la glycémie",
@@ -249,7 +249,7 @@
       "answer": "Réguler la sensation de satiété et le poids corporel"
     },
     {
-      "id": 30,
+      "numero": 30,
       "question": "La phase initiale du diabète de type 1 se caractérise par :",
       "options": [
         "Une résistance à l’insuline",
@@ -260,7 +260,7 @@
       "answer": "Une destruction progressive des cellules bêta"
     },
     {
-      "id": 31,
+      "numero": 31,
       "question": "Quelle est la conséquence principale d’une hypothyroïdie chez l’enfant ?",
       "options": [
         "Hypotension",
@@ -271,7 +271,7 @@
       "answer": "Retard mental et physique (crétinisme)"
     },
     {
-      "id": 32,
+      "numero": 32,
       "question": "L’hormone antidiurétique (ADH) agit principalement sur :",
       "options": [
         "Les reins pour réabsorber l’eau",
@@ -282,7 +282,7 @@
       "answer": "Les reins pour réabsorber l’eau"
     },
     {
-      "id": 33,
+      "numero": 33,
       "question": "Quelle hormone est sécrétée par l’adénohypophyse ?",
       "options": [
         "Adrénaline",
@@ -293,7 +293,7 @@
       "answer": "Prolactine"
     },
     {
-      "id": 34,
+      "numero": 34,
       "question": "La prise de corticostéroïdes peut entraîner :",
       "options": [
         "Hypoglycémie",
@@ -304,7 +304,7 @@
       "answer": "Hyperglycémie et syndrome de Cushing iatrogène"
     },
     {
-      "id": 35,
+      "numero": 35,
       "question": "Quel test est utilisé pour diagnostiquer une hypothyroïdie primaire ?",
       "options": [
         "Dosage de la T3 uniquement",
@@ -315,7 +315,7 @@
       "answer": "Dosage élevé de TSH avec T4 basse"
     },
     {
-      "id": 36,
+      "numero": 36,
       "question": "Quelle est la cause la plus fréquente d’hyperaldostéronisme primaire ?",
       "options": [
         "Carence en sodium",
@@ -326,7 +326,7 @@
       "answer": "Adénome surrénalien"
     },
     {
-      "id": 37,
+      "numero": 37,
       "question": "Quel est le rôle principal du glucagon ?",
       "options": [
         "Diminuer la glycémie",
@@ -337,7 +337,7 @@
       "answer": "Augmenter la glycémie par glycogénolyse"
     },
     {
-      "id": 38,
+      "numero": 38,
       "question": "Le traitement de première intention de la maladie de Basedow est :",
       "options": [
         "Chirurgie",
@@ -348,7 +348,7 @@
       "answer": "Antithyroïdiens de synthèse (ex: carbimazole)"
     },
     {
-      "id": 39,
+      "numero": 39,
       "question": "Quel est le principal effet de l’hormone parathyroïdienne sur les reins ?",
       "options": [
         "Diminution de la réabsorption du calcium",
@@ -359,7 +359,7 @@
       "answer": "Augmentation de la réabsorption du calcium et excrétion du phosphate"
     },
     {
-      "id": 40,
+      "numero": 40,
       "question": "La galactorrhée peut être causée par :",
       "options": [
         "Hyperthyroïdie",
@@ -370,7 +370,7 @@
       "answer": "Hyperprolactinémie"
     },
     {
-      "id": 41,
+      "numero": 41,
       "question": "Quel est le principal effet du cortisol sur le métabolisme ?",
       "options": [
         "Hypoglycémie",
@@ -381,7 +381,7 @@
       "answer": "Hyperglycémie par gluconéogenèse"
     },
     {
-      "id": 42,
+      "numero": 42,
       "question": "La résistance à l’insuline est associée à :",
       "options": [
         "Diabète de type 1",
@@ -392,7 +392,7 @@
       "answer": "Diabète de type 2"
     },
     {
-      "id": 43,
+      "numero": 43,
       "question": "La principale hormone régulant le calcium sanguin est :",
       "options": [
         "Insuline",
@@ -403,7 +403,7 @@
       "answer": "Parathormone (PTH)"
     },
     {
-      "id": 44,
+      "numero": 44,
       "question": "Quel examen est utile pour évaluer une masse thyroïdienne ?",
       "options": [
         "Radiographie pulmonaire",
@@ -414,7 +414,7 @@
       "answer": "Échographie thyroïdienne"
     },
     {
-      "id": 45,
+      "numero": 45,
       "question": "Quel est le traitement principal du diabète insipide central ?",
       "options": [
         "Insuline",
@@ -425,7 +425,7 @@
       "answer": "Desmopressine (analogues de l’ADH)"
     },
     {
-      "id": 46,
+      "numero": 46,
       "question": "La sécrétion d’hormones hypophysaires est régulée par :",
       "options": [
         "La thyroïde",
@@ -436,7 +436,7 @@
       "answer": "L’hypothalamus"
     },
     {
-      "id": 47,
+      "numero": 47,
       "question": "Quel est le rôle de la calcitonine ?",
       "options": [
         "Augmenter la calcémie",
@@ -447,7 +447,7 @@
       "answer": "Diminuer la calcémie en inhibant la résorption osseuse"
     },
     {
-      "id": 48,
+      "numero": 48,
       "question": "L’hyperthyroïdie peut entraîner :",
       "options": [
         "Constipation",
@@ -458,7 +458,7 @@
       "answer": "Diarrhée et tachycardie"
     },
     {
-      "id": 49,
+      "numero": 49,
       "question": "Quelle hormone est sécrétée par l’ovaire ?",
       "options": [
         "Testostérone",
@@ -469,7 +469,7 @@
       "answer": "Œstrogènes et progestérone"
     },
     {
-      "id": 50,
+      "numero": 50,
       "question": "Quelle est la complication la plus fréquente du diabète sucré ?",
       "options": [
         "Hypertension",
