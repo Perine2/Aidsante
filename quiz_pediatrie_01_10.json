@@ -108,5 +108,241 @@
       "Fibres alimentaires"
     ],
     "answer": "Manque d’exposition solaire"
-  }
+  }, {
+        "id": 11,
+        "question": "Âge de fermeture de la fontanelle antérieure ?",
+        "options": ["2 mois", "6 mois", "12 mois", "12–18 mois"],
+        "answer": "12–18 mois"
+    },
+    {
+        "id": 12,
+        "question": "L’encoprésie désigne :",
+        "options": ["L’énurésie", "Le refus de manger", "L’émission involontaire de selles", "La diarrhée"],
+        "answer": "L’émission involontaire de selles"
+    },
+    {
+        "id": 13,
+        "question": "Cause la plus fréquente d’abdomen aigu chirurgical :",
+        "options": ["Hernie étranglée", "Intussusception", "Appendicite", "Constipation"],
+        "answer": "Appendicite"
+    },
+    {
+        "id": 14,
+        "question": "Allaitement exclusif recommandé pendant :",
+        "options": ["1 mois", "3 mois", "6 mois", "9 mois"],
+        "answer": "6 mois"
+    },
+    {
+        "id": 15,
+        "question": "Les convulsions fébriles sont souvent causées par :",
+        "options": ["Méningite", "Hypoglycémie", "Fièvre virale rapide", "Épilepsie"],
+        "answer": "Fièvre virale rapide"
+    },
+    {
+        "id": 16,
+        "question": "Une cyanose centrale persistante évoque :",
+        "options": ["Infection cutanée", "Infection urinaire", "Cardiopathie congénitale", "Jaunisse"],
+        "answer": "Cardiopathie congénitale"
+    },
+    {
+        "id": 17,
+        "question": "Dépistage de l’hypothyroïdie congénitale ?",
+        "options": ["Glycémie", "TSH", "Calcium", "Protéinurie"],
+        "answer": "TSH"
+    },
+    {
+        "id": 18,
+        "question": "À quel âge un enfant dit deux mots ensemble ?",
+        "options": ["12 mois", "18 mois", "24 mois", "36 mois"],
+        "answer": "24 mois"
+    },
+    {
+        "id": 19,
+        "question": "Le score de Silverman évalue :",
+        "options": ["Déshydratation", "Détresse respiratoire néonatale", "Douleur", "Constipation"],
+        "answer": "Détresse respiratoire néonatale"
+    },
+    {
+        "id": 20,
+        "question": "Un bébé de 3 mois ne fixe pas le regard. Il faut :",
+        "options": ["Rien faire", "Évaluer sa vision", "Hospitaliser", "Traiter une infection"],
+        "answer": "Évaluer sa vision"
+    },{
+  "id": 21,
+  "question": "Cause fréquente de diarrhée aiguë chez l’enfant ?",
+  "options": ["Bactérienne", "Virale (rotavirus)", "Parasitaire", "Fongique"],
+  "answer": "Virale (rotavirus)"
+},
+{
+  "id": 22,
+  "question": "Traitement initial d’une déshydratation modérée ?",
+  "options": ["Réhydratation orale", "Réhydratation IV", "Diurétiques", "Antibiotiques"],
+  "answer": "Réhydratation orale"
+},
+{
+  "id": 23,
+  "question": "Test de dépistage néonatal pour la phénylcétonurie ?",
+  "options": ["Test de Guthrie", "Test d’Apgar", "Bilan hépatique", "Électrophorèse"],
+  "answer": "Test de Guthrie"
+},
+{
+  "id": 24,
+  "question": "Dose initiale d’adrénaline en cas d’anaphylaxie chez l’enfant ?",
+  "options": ["0,01 mg/kg", "0,01 mL/kg (1:1000)", "0,1 mL/kg (1:10 000)", "1 mL/kg"],
+  "answer": "0,01 mL/kg (1:1000)"
+},
+{
+  "id": 25,
+  "question": "Meilleur examen pour la tuberculose chez un enfant vacciné BCG ?",
+  "options": ["Test IGRA (Quantiferon)", "IDR", "Culture de crachats", "PCR urinaire"],
+  "answer": "Test IGRA (Quantiferon)"
+},
+{
+  "id": 26,
+  "question": "Un souffle systolique bénin chez un enfant est :",
+  "options": ["Toujours pathologique", "Fréquent et bénin", "Nécessite chirurgie", "Incompatible avec l’école"],
+  "answer": "Fréquent et bénin"
+},
+{
+  "id": 27,
+  "question": "Traitement de la gale chez un enfant >2 ans ?",
+  "options": ["Perméthrine 5%", "Ivermectine par voie orale", "Bétadine", "Crème à l’aloé"],
+  "answer": "Perméthrine 5%"
+},
+{
+  "id": 28,
+  "question": "Manifestation typique d’une rougeole ?",
+  "options": ["Prurit uniquement", "Vésicules", "Taches de Koplik", "Nodules"],
+  "answer": "Taches de Koplik"
+},
+{
+  "id": 29,
+  "question": "Signe d’alerte en cas de fièvre chez le nourrisson ?",
+  "options": ["Toux sèche", "Diarrhée", "Lenteur ou hypotonie", "Larmes"],
+  "answer": "Lenteur ou hypotonie"
+},
+{
+  "id": 30,
+  "question": "Quelle est la formule de calcul de la fréquence cardiaque maximale théorique chez l’enfant ?",
+  "options": ["220 – âge", "200 – âge", "180 – âge", "150 – âge"],
+  "answer": "200 – âge"
+},{
+  "id": 31,
+  "question": "L’hémangiome infantile est souvent :",
+  "options": ["Cancéreux", "Bénin et régressif", "Systémique", "Infectieux"],
+  "answer": "Bénin et régressif"
+},
+{
+  "id": 32,
+  "question": "Principal symptôme d’une otite moyenne aiguë ?",
+  "options": ["Douleur auriculaire", "Éternuements", "Dysphagie", "Fatigue"],
+  "answer": "Douleur auriculaire"
+},
+{
+  "id": 33,
+  "question": "Cause de stridor congénital ?",
+  "options": ["Laryngomalacie", "Sténose trachéale", "Tumeur", "Croup"],
+  "answer": "Laryngomalacie"
+},
+{
+  "id": 34,
+  "question": "Signe clinique de coqueluche chez le nourrisson ?",
+  "options": ["Quintes de toux avec reprise inspiratoire", "Fièvre élevée", "Éruption cutanée", "Vomissements"],
+  "answer": "Quintes de toux avec reprise inspiratoire"
+},
+{
+  "id": 35,
+  "question": "Risque principal de bronchiolite sévère ?",
+  "options": ["Otite", "Détresse respiratoire aiguë", "Saignement nasal", "Convulsion"],
+  "answer": "Détresse respiratoire aiguë"
+},
+{
+  "id": 36,
+  "question": "Le poids triple en moyenne à :",
+  "options": ["6 mois", "12 mois", "18 mois", "24 mois"],
+  "answer": "12 mois"
+},
+{
+  "id": 37,
+  "question": "Quelle formule utilise-t-on pour estimer la pression artérielle normale chez l’enfant ?",
+  "options": ["70 + (2 × âge en années)", "80 + (3 × âge)", "50 + âge", "100 – âge"],
+  "answer": "70 + (2 × âge en années)"
+},
+{
+  "id": 38,
+  "question": "Le périmètre crânien augmente rapidement jusqu’à :",
+  "options": ["1 mois", "3 mois", "1 an", "2 ans"],
+  "answer": "1 an"
+},
+{
+  "id": 39,
+  "question": "Quel type de vaccin est le BCG ?",
+  "options": ["Inactivé", "Vivant atténué", "Toxine purifiée", "Recombinant"],
+  "answer": "Vivant atténué"
+},
+{
+  "id": 40,
+  "question": "Quel score est utilisé pour évaluer la douleur chez le nourrisson ?",
+  "options": ["EDIN", "APGAR", "Ballard", "Dubowitz"],
+  "answer": "EDIN"
+},{
+  "id": 41,
+  "question": "Quelle est la première dent à apparaître ?",
+  "options": ["Canine", "Incisive centrale inférieure", "Molaire", "Incisive latérale"],
+  "answer": "Incisive centrale inférieure"
+},
+{
+  "id": 42,
+  "question": "Cause principale de retard staturo-pondéral en Afrique ?",
+  "options": ["Génétique", "Malnutrition", "Hyperthyroïdie", "Dysplasie osseuse"],
+  "answer": "Malnutrition"
+},
+{
+  "id": 43,
+  "question": "L’âge de marche autonome est généralement atteint à :",
+  "options": ["9 mois", "12–15 mois", "18 mois", "24 mois"],
+  "answer": "12–15 mois"
+},
+{
+  "id": 44,
+  "question": "Quel est le risque principal d’une méningite bactérienne chez l’enfant ?",
+  "options": ["Diabète", "Séquelles neurologiques", "Obésité", "Insuffisance hépatique"],
+  "answer": "Séquelles neurologiques"
+},
+{
+  "id": 45,
+  "question": "Traitement de première intention de l’asthme aigu léger ?",
+  "options": ["Corticoïde oral", "Salbutamol en aérosol", "Antibiotique", "Adrénaline"],
+  "answer": "Salbutamol en aérosol"
+},
+{
+  "id": 46,
+  "question": "Quelle est la première étape de la réanimation néonatale ?",
+  "options": ["Séchage et stimulation", "Intubation", "Injection", "Massage"],
+  "answer": "Séchage et stimulation"
+},
+{
+  "id": 47,
+  "question": "Les nourrissons prématurés ont besoin de supplémentation en :",
+  "options": ["Calcium", "Fer", "Vitamine K", "Iode"],
+  "answer": "Fer"
+},
+{
+  "id": 48,
+  "question": "Signe typique de la varicelle :",
+  "options": ["Plaques sèches", "Vésicules en goutte de rosée", "Papules scarlatineuses", "Nodules"],
+  "answer": "Vésicules en goutte de rosée"
+},
+{
+  "id": 49,
+  "question": "L’âge de début du sevrage alimentaire est :",
+  "options": ["2 mois", "4 mois", "6 mois", "8 mois"],
+  "answer": "6 mois"
+},
+{
+  "id": 50,
+  "question": "Quel est le principal symptôme d’une anémie ferriprive chez l’enfant ?",
+  "options": ["Fièvre", "Fatigue, pâleur", "Saignement nasal", "Hyperactivité"],
+  "answer": "Fatigue, pâleur"
+}
 ]
