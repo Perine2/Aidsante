@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "question": "Quelle est la principale cause de mortalité néonatale dans les pays à faibles revenus ?",
+    "options": [
+      "Malaria",
+      "Asphyxie périnatale",
+      "Rougeole",
+      "Diabète congénital"
+    ],
+    "answer": "Asphyxie périnatale"
+  },
+  {
+    "id": 2,
+    "question": "Quel est l'âge recommandé pour la première dose du vaccin ROR (Rougeole-Oreillons-Rubéole) ?",
+    "options": [
+      "À la naissance",
+      "6 mois",
+      "9 mois",
+      "12 mois"
+    ],
+    "answer": "12 mois"
+  },
+  {
+    "id": 3,
+    "question": "Un nourrisson présente des vomissements en jet après les repas. Quel diagnostic suspecter ?",
+    "options": [
+      "Reflux gastro-œsophagien",
+      "Sténose hypertrophique du pylore",
+      "Gastroentérite virale",
+      "Intolérance au lactose"
+    ],
+    "answer": "Sténose hypertrophique du pylore"
+  },
+  {
+    "id": 4,
+    "question": "Quel est le signe clinique le plus fréquent d’une bronchiolite ?",
+    "options": [
+      "Fièvre élevée",
+      "Toux sèche",
+      "Gêne respiratoire avec sibilances",
+      "Éruption cutanée"
+    ],
+    "answer": "Gêne respiratoire avec sibilances"
+  },
+  {
+    "id": 5,
+    "question": "Quel antibiotique est recommandé pour une otite moyenne aiguë chez un enfant de 3 ans ?",
+    "options": [
+      "Azithromycine",
+      "Amoxicilline",
+      "Ciprofloxacine",
+      "Gentamicine"
+    ],
+    "answer": "Amoxicilline"
+  },
+  {
+    "id": 6,
+    "question": "Une fièvre prolongée avec langue framboisée et conjonctivite évoque :",
+    "options": [
+      "Scarlatine",
+      "Rougeole",
+      "Maladie de Kawasaki",
+      "Varicelle"
+    ],
+    "answer": "Maladie de Kawasaki"
+  },
+  {
+    "id": 7,
+    "question": "Le poids d’un nourrisson à 5 mois est généralement :",
+    "options": [
+      "Inchangé",
+      "×1,5",
+      "Double",
+      "Triple"
+    ],
+    "answer": "Double"
+  },
+  {
+    "id": 8,
+    "question": "Quel score est utilisé à la naissance pour évaluer le nouveau-né ?",
+    "options": [
+      "Glasgow",
+      "Silverman",
+      "APGAR",
+      "Ballard"
+    ],
+    "answer": "APGAR"
+  },
+  {
+    "id": 9,
+    "question": "Quel examen est prioritaire devant une boiterie fébrile chez l’enfant ?",
+    "options": [
+      "IRM",
+      "Radio du bassin",
+      "Échographie de hanche",
+      "Scanner lombaire"
+    ],
+    "answer": "Échographie de hanche"
+  },
+  {
+    "id": 10,
+    "question": "Le principal facteur de risque du rachitisme carentiel est :",
+    "options": [
+      "Allergie au lait",
+      "Manque d’exposition solaire",
+      "Protéines excessives",
+      "Fibres alimentaires"
+    ],
+    "answer": "Manque d’exposition solaire"
+  }
+]
