@@ -1,0 +1,112 @@
+[
+  {
+    "numero": 1,
+    "question": "Quelle hormone est sécrétée par les cellules bêta des îlots de Langerhans ?",
+    "options": [
+      "Glucagon",
+      "Adrénaline",
+      "Insuline",
+      "Cortisol"
+    ],
+    "reponse": "Insuline"
+  },
+  {
+    "numero": 2,
+    "question": "Le diabète de type 1 est principalement causé par :",
+    "options": [
+      "Résistance à l’insuline",
+      "Obésité",
+      "Destruction auto-immune des cellules bêta",
+      "Alcoolisme"
+    ],
+    "reponse": "Destruction auto-immune des cellules bêta"
+  },
+  {
+    "numero": 3,
+    "question": "Quel est le principal effet de l’insuline ?",
+    "options": [
+      "Augmentation de la glycogénolyse",
+      "Augmentation de la lipolyse",
+      "Augmentation de la captation du glucose par les cellules",
+      "Diminution du stockage du glucose"
+    ],
+    "reponse": "Augmentation de la captation du glucose par les cellules"
+  },
+  {
+    "numero": 4,
+    "question": "Quelle hormone est sécrétée par la glande thyroïde ?",
+    "options": [
+      "Cortisol",
+      "Thyroxine (T4)",
+      "Parathormone",
+      "Insuline"
+    ],
+    "reponse": "Thyroxine (T4)"
+  },
+  {
+    "numero": 5,
+    "question": "Quel test est utilisé pour diagnostiquer un diabète sucré ?",
+    "options": [
+      "Test de grossesse",
+      "Dosage de la glycémie à jeun ou HbA1c",
+      "ECG",
+      "Radiographie"
+    ],
+    "reponse": "Dosage de la glycémie à jeun ou HbA1c"
+  },
+  {
+    "numero": 6,
+    "question": "Le syndrome de Cushing est causé par :",
+    "options": [
+      "Carence en insuline",
+      "Excès de cortisol",
+      "Hypothyroïdie",
+      "Hyperparathyroïdie"
+    ],
+    "reponse": "Excès de cortisol"
+  },
+  {
+    "numero": 7,
+    "question": "Quel est le symptôme classique d’une hypothyroïdie ?",
+    "options": [
+      "Tachycardie",
+      "Fatigue, prise de poids, frilosité",
+      "Hyperactivité",
+      "Perte de poids"
+    ],
+    "reponse": "Fatigue, prise de poids, frilosité"
+  },
+  {
+    "numero": 8,
+    "question": "La principale cause d’hyperthyroïdie est :",
+    "options": [
+      "Thyroïdite",
+      "Carence iodée",
+      "Maladie de Basedow (Graves)",
+      "Cancer thyroïdien"
+    ],
+    "reponse": "Maladie de Basedow (Graves)"
+  },
+  {
+    "numero": 9,
+    "question": "Quel est l’effet de la parathormone (PTH) ?",
+    "options": [
+      "Augmente la calcémie en mobilisant le calcium osseux",
+      "Diminue la calcémie",
+      "Augmente la production d’insuline",
+      "Inhibe la production d’adrénaline"
+    ],
+    "reponse": "Augmente la calcémie en mobilisant le calcium osseux"
+  },
+  {
+    "numero": 10,
+    "question": "Le test de tolérance au glucose sert à :",
+    "options": [
+      "Mesurer la glycémie à jeun",
+      "Dépister l’hypoglycémie",
+      "Diagnostiquer un diabète sucré gestationnel",
+      "Évaluer la fonction rénale"
+    ],
+    "reponse": "Diagnostiquer un diabète sucré gestationnel"
+  }
+]
