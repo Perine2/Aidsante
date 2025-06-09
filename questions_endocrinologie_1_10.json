@@ -108,5 +108,379 @@
       "Évaluer la fonction rénale"
     ],
     "reponse": "Diagnostiquer un diabète sucré gestationnel"
-  }
+  },{
+  "questions": [
+    {
+      "id": 11,
+      "question": "Quelle hormone est produite par la médullosurrénale ?",
+      "options": ["Cortisol", "Adrénaline et noradrénaline", "Aldostérone", "Insuline"],
+      "answer": "Adrénaline et noradrénaline"
+    },
+    {
+      "id": 12,
+      "question": "L’acromégalie est due à une hyperproduction de :",
+      "options": ["Prolactine", "Cortisol", "Hormone de croissance (GH)", "Thyroxine"],
+      "answer": "Hormone de croissance (GH)"
+    },
+    {
+      "id": 13,
+      "question": "Quel est le signe clinique principal du diabète insipide ?",
+      "options": ["Hyperglycémie", "Polyurie importante avec soif intense", "Oligurie", "Fatigue"],
+      "answer": "Polyurie importante avec soif intense"
+    },
+    {
+      "id": 14,
+      "question": "L’hypoglycémie est définie par une glycémie inférieure à :",
+      "options": ["1,5 g/L", "0,8 g/L", "0,6 g/L (60 mg/dL)", "2,0 g/L"],
+      "answer": "0,6 g/L (60 mg/dL)"
+    },
+    {
+      "id": 15,
+      "question": "Le rôle principal de l’aldostérone est :",
+      "options": [
+        "Augmenter la glycémie",
+        "Diminuer la pression artérielle",
+        "Favoriser la réabsorption du sodium et la sécrétion du potassium au niveau rénal",
+        "Stimuler la sécrétion d’insuline"
+      ],
+      "answer": "Favoriser la réabsorption du sodium et la sécrétion du potassium au niveau rénal"
+    },
+    {
+      "id": 16,
+      "question": "La TSH (thyroid stimulating hormone) est sécrétée par :",
+      "options": ["Thyroïde", "Hypothalamus", "Hypophyse (adénohypophyse)", "Surrénale"],
+      "answer": "Hypophyse (adénohypophyse)"
+    },
+    {
+      "id": 17,
+      "question": "Quel est le traitement de première intention du diabète de type 2 ?",
+      "options": ["Insuline", "Metformine", "Sulfonylurées", "Corticoïdes"],
+      "answer": "Metformine"
+    },
+    {
+      "id": 18,
+      "question": "Le goitre est :",
+      "options": [
+        "Une tumeur thyroïdienne maligne",
+        "Une hypertrophie diffuse ou nodulaire de la thyroïde",
+        "Une inflammation surrénalienne",
+        "Un kyste thyroïdien"
+      ],
+      "answer": "Une hypertrophie diffuse ou nodulaire de la thyroïde"
+    },
+    {
+      "id": 19,
+      "question": "La principale complication microvasculaire du diabète est :",
+      "options": ["Infarctus du myocarde", "Rétinopathie diabétique", "AVC", "Hypertension"],
+      "answer": "Rétinopathie diabétique"
+    },
+    {
+      "id": 20,
+      "question": "Quel test permet d’évaluer la fonction surrénalienne ?",
+      "options": [
+        "Test au glucose",
+        "Test de stimulation à l’insuline",
+        "Test au Synacthène (ACTH)",
+        "Dosage de la TSH"
+      ],
+      "answer": "Test au Synacthène (ACTH)"
+    },{
+  "questions": [
+    {
+      "id": 21,
+      "question": "Quelle hormone est responsable du développement des caractères sexuels secondaires masculins ?",
+      "options": ["Œstrogènes", "Testostérone", "Progestérone", "LH"],
+      "answer": "Testostérone"
+    },
+    {
+      "id": 22,
+      "question": "La maladie de Basedow se manifeste par :",
+      "options": ["Hypothyroïdie", "Goitre simple", "Hyperthyroïdie avec exophtalmie", "Cancer thyroïdien"],
+      "answer": "Hyperthyroïdie avec exophtalmie"
+    },
+    {
+      "id": 23,
+      "question": "La principale cause d’hypoparathyroïdie est :",
+      "options": ["Carence en calcium", "Ablation chirurgicale de la thyroïde", "Hypercalcémie", "Diabète"],
+      "answer": "Ablation chirurgicale de la thyroïde"
+    },
+    {
+      "id": 24,
+      "question": "Quel médicament est un analogue de la somatostatine utilisé dans l’acromégalie ?",
+      "options": ["Metformine", "Corticostéroïdes", "Octréotide", "Insuline"],
+      "answer": "Octréotide"
+    },
+    {
+      "id": 25,
+      "question": "Quel est le principal facteur de risque du diabète de type 2 ?",
+      "options": ["Tabagisme", "Consommation d’alcool", "Obésité abdominale", "Exercice physique"],
+      "answer": "Obésité abdominale"
+    },
+    {
+      "id": 26,
+      "question": "L’hyperprolactinémie peut entraîner :",
+      "options": ["Hyperthyroïdie", "Aménorrhée et galactorrhée", "Hypoglycémie", "Polyurie"],
+      "answer": "Aménorrhée et galactorrhée"
+    },
+    {
+      "id": 27,
+      "question": "Le test du cortisol salivaire est utilisé pour :",
+      "options": [
+        "Diagnostiquer l’hypothyroïdie",
+        "Évaluer l’hypercortisolisme (syndrome de Cushing)",
+        "Mesurer la fonction rénale",
+        "Diagnostiquer le diabète"
+      ],
+      "answer": "Évaluer l’hypercortisolisme (syndrome de Cushing)"
+    },
+    {
+      "id": 28,
+      "question": "L’hyperthyroïdie peut provoquer :",
+      "options": ["Bradycardie", "Tachycardie et perte de poids", "Gain de poids", "Hypotension"],
+      "answer": "Tachycardie et perte de poids"
+    },
+    {
+      "id": 29,
+      "question": "Quel est le rôle de la leptine ?",
+      "options": [
+        "Réguler la glycémie",
+        "Réguler la sensation de satiété et le poids corporel",
+        "Augmenter la sécrétion d’insuline",
+        "Stimuler la production de cortisol"
+      ],
+      "answer": "Réguler la sensation de satiété et le poids corporel"
+    },
+    {
+      "id": 30,
+      "question": "La phase initiale du diabète de type 1 se caractérise par :",
+      "options": [
+        "Une résistance à l’insuline",
+        "Une hyperinsulinémie",
+        "Une destruction progressive des cellules bêta",
+        "Une hypersécrétion de glucagon"
+      ],
+      "answer": "Une destruction progressive des cellules bêta"
+    },{
+  "questions": [
+    {
+      "id": 31,
+      "question": "Quelle est la conséquence principale d’une hypothyroïdie chez l’enfant ?",
+      "options": [
+        "Hypotension",
+        "Retard mental et physique (crétinisme)",
+        "Hyperactivité",
+        "Hypoglycémie"
+      ],
+      "answer": "Retard mental et physique (crétinisme)"
+    },
+    {
+      "id": 32,
+      "question": "L’hormone antidiurétique (ADH) agit principalement sur :",
+      "options": [
+        "Les reins pour réabsorber l’eau",
+        "Le foie",
+        "Le pancréas",
+        "Les poumons"
+      ],
+      "answer": "Les reins pour réabsorber l’eau"
+    },
+    {
+      "id": 33,
+      "question": "Quelle hormone est sécrétée par l’adénohypophyse ?",
+      "options": [
+        "Adrénaline",
+        "Insuline",
+        "Prolactine",
+        "Calcitonine"
+      ],
+      "answer": "Prolactine"
+    },
+    {
+      "id": 34,
+      "question": "La prise de corticostéroïdes peut entraîner :",
+      "options": [
+        "Hypoglycémie",
+        "Hyperglycémie et syndrome de Cushing iatrogène",
+        "Hypotension",
+        "Perte de poids"
+      ],
+      "answer": "Hyperglycémie et syndrome de Cushing iatrogène"
+    },
+    {
+      "id": 35,
+      "question": "Quel test est utilisé pour diagnostiquer une hypothyroïdie primaire ?",
+      "options": [
+        "Dosage de la T3 uniquement",
+        "Dosage élevé de TSH avec T4 basse",
+        "Dosage de cortisol",
+        "Glycémie"
+      ],
+      "answer": "Dosage élevé de TSH avec T4 basse"
+    },
+    {
+      "id": 36,
+      "question": "Quelle est la cause la plus fréquente d’hyperaldostéronisme primaire ?",
+      "options": [
+        "Carence en sodium",
+        "Adénome surrénalien",
+        "Hyperplasie hypophysaire",
+        "Infection rénale"
+      ],
+      "answer": "Adénome surrénalien"
+    },
+    {
+      "id": 37,
+      "question": "Quel est le rôle principal du glucagon ?",
+      "options": [
+        "Diminuer la glycémie",
+        "Augmenter la glycémie par glycogénolyse",
+        "Stimuler la sécrétion d’insuline",
+        "Inhiber la lipolyse"
+      ],
+      "answer": "Augmenter la glycémie par glycogénolyse"
+    },
+    {
+      "id": 38,
+      "question": "Le traitement de première intention de la maladie de Basedow est :",
+      "options": [
+        "Chirurgie",
+        "Antithyroïdiens de synthèse (ex: carbimazole)",
+        "Corticostéroïdes",
+        "Radiothérapie"
+      ],
+      "answer": "Antithyroïdiens de synthèse (ex: carbimazole)"
+    },
+    {
+      "id": 39,
+      "question": "Quel est le principal effet de l’hormone parathyroïdienne sur les reins ?",
+      "options": [
+        "Diminution de la réabsorption du calcium",
+        "Augmentation de la réabsorption du calcium et excrétion du phosphate",
+        "Sécrétion de glucagon",
+        "Augmentation de la sécrétion d’aldostérone"
+      ],
+      "answer": "Augmentation de la réabsorption du calcium et excrétion du phosphate"
+    },
+    {
+      "id": 40,
+      "question": "La galactorrhée peut être causée par :",
+      "options": [
+        "Hyperthyroïdie",
+        "Hyperprolactinémie",
+        "Insuffisance surrénalienne",
+        "Hypoglycémie"
+      ],
+      "answer": "Hyperprolactinémie"
+    },{
+  "questions": [
+    {
+      "id": 41,
+      "question": "Quel est le principal effet du cortisol sur le métabolisme ?",
+      "options": [
+        "Hypoglycémie",
+        "Hyperglycémie par gluconéogenèse",
+        "Augmentation de la synthèse protéique",
+        "Augmentation de la sécrétion d’insuline"
+      ],
+      "answer": "Hyperglycémie par gluconéogenèse"
+    },
+    {
+      "id": 42,
+      "question": "La résistance à l’insuline est associée à :",
+      "options": [
+        "Diabète de type 1",
+        "Diabète de type 2",
+        "Hyperthyroïdie",
+        "Hypothyroïdie"
+      ],
+      "answer": "Diabète de type 2"
+    },
+    {
+      "id": 43,
+      "question": "La principale hormone régulant le calcium sanguin est :",
+      "options": [
+        "Insuline",
+        "Calcitonine",
+        "Parathormone (PTH)",
+        "Cortisol"
+      ],
+      "answer": "Parathormone (PTH)"
+    },
+    {
+      "id": 44,
+      "question": "Quel examen est utile pour évaluer une masse thyroïdienne ?",
+      "options": [
+        "Radiographie pulmonaire",
+        "Échographie thyroïdienne",
+        "IRM cérébrale",
+        "ECG"
+      ],
+      "answer": "Échographie thyroïdienne"
+    },
+    {
+      "id": 45,
+      "question": "Quel est le traitement principal du diabète insipide central ?",
+      "options": [
+        "Insuline",
+        "Desmopressine (analogues de l’ADH)",
+        "Corticostéroïdes",
+        "Diurétiques"
+      ],
+      "answer": "Desmopressine (analogues de l’ADH)"
+    },
+    {
+      "id": 46,
+      "question": "La sécrétion d’hormones hypophysaires est régulée par :",
+      "options": [
+        "La thyroïde",
+        "La glande surrénale",
+        "L’hypothalamus",
+        "Le pancréas"
+      ],
+      "answer": "L’hypothalamus"
+    },
+    {
+      "id": 47,
+      "question": "Quel est le rôle de la calcitonine ?",
+      "options": [
+        "Augmenter la calcémie",
+        "Diminuer la calcémie en inhibant la résorption osseuse",
+        "Stimuler la production d’insuline",
+        "Augmenter la pression artérielle"
+      ],
+      "answer": "Diminuer la calcémie en inhibant la résorption osseuse"
+    },
+    {
+      "id": 48,
+      "question": "L’hyperthyroïdie peut entraîner :",
+      "options": [
+        "Constipation",
+        "Bradycardie",
+        "Diarrhée et tachycardie",
+        "Prise de poids"
+      ],
+      "answer": "Diarrhée et tachycardie"
+    },
+    {
+      "id": 49,
+      "question": "Quelle hormone est sécrétée par l’ovaire ?",
+      "options": [
+        "Testostérone",
+        "Cortisol",
+        "Œstrogènes et progestérone",
+        "Insuline"
+      ],
+      "answer": "Œstrogènes et progestérone"
+    },
+    {
+      "id": 50,
+      "question": "Quelle est la complication la plus fréquente du diabète sucré ?",
+      "options": [
+        "Hypertension",
+        "Neuropathie périphérique",
+        "AVC",
+        "Asthme"
+      ],
+      "answer": "Neuropathie périphérique"
+    }
 ]
