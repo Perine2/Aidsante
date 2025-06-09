@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "question": "Quelle est la valeur seuil définissant l’hypertension artérielle chez l’adulte ?",
+    "options": [
+      "120/70 mmHg",
+      "130/80 mmHg",
+      "140/90 mmHg",
+      "150/95 mmHg"
+    ],
+    "answer": "140/90 mmHg"
+  },
+  {
+    "id": 2,
+    "question": "Quelle est la cause la plus fréquente d'infarctus du myocarde ?",
+    "options": [
+      "Spasme coronarien",
+      "Thrombose sur plaque d’athérome",
+      "Embolie pulmonaire",
+      "Dissection aortique"
+    ],
+    "answer": "Thrombose sur plaque d’athérome"
+  },
+  {
+    "id": 3,
+    "question": "Quel est le traitement de première intention de l'hypertension essentielle ?",
+    "options": [
+      "Digitaliques",
+      "Diurétiques ou IEC/ARA2",
+      "Statines",
+      "Bêta-bloquants seuls"
+    ],
+    "answer": "Diurétiques ou IEC/ARA2"
+  },
+  {
+    "id": 4,
+    "question": "Quelle anomalie est typiquement observée à l’ECG lors d’un infarctus aigu du myocarde ?",
+    "options": [
+      "Onde P élargie",
+      "Bloc AV",
+      "Sus-décalage du segment ST",
+      "Bradycardie sinusale"
+    ],
+    "answer": "Sus-décalage du segment ST"
+  },
+  {
+    "id": 5,
+    "question": "Le souffle systolique du rétrécissement aortique est :",
+    "options": [
+      "Diastolique, apexien",
+      "Systolique, irradiant vers le dos",
+      "Systolique, irradiant vers les carotides",
+      "Systolique, non irradié"
+    ],
+    "answer": "Systolique, irradiant vers les carotides"
+  },
+  {
+    "id": 6,
+    "question": "Le principal facteur de risque cardiovasculaire modifiable est :",
+    "options": [
+      "Sexe masculin",
+      "Tabagisme",
+      "Antécédents familiaux",
+      "Âge"
+    ],
+    "answer": "Tabagisme"
+  },
+  {
+    "id": 7,
+    "question": "La fibrillation auriculaire se caractérise par :",
+    "options": [
+      "Bradycardie régulière",
+      "Onde P bien visible",
+      "Rythme irrégulier sans onde P visible",
+      "Rythme sinusal lent"
+    ],
+    "answer": "Rythme irrégulier sans onde P visible"
+  },
+  {
+    "id": 8,
+    "question": "Le score CHA2DS2-VASc évalue :",
+    "options": [
+      "Risque hémorragique",
+      "Risque thromboembolique chez les patients en FA",
+      "Risque d’infarctus",
+      "Risque de dissection aortique"
+    ],
+    "answer": "Risque thromboembolique chez les patients en FA"
+  },
+  {
+    "id": 9,
+    "question": "Quel examen est le plus utilisé pour confirmer une embolie pulmonaire ?",
+    "options": [
+      "Radiographie thoracique",
+      "ECG",
+      "Angio-scanner thoracique",
+      "Échodoppler des jambes"
+    ],
+    "answer": "Angio-scanner thoracique"
+  },
+  {
+    "id": 10,
+    "question": "Quel est l’effet secondaire classique des IEC ?",
+    "options": [
+      "Bradycardie",
+      "Hypokaliémie",
+      "Toux sèche",
+      "Hyperglycémie"
+    ],
+    "answer": "Toux sèche"
+  }
+]
