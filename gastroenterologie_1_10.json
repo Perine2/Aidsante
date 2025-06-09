@@ -1,0 +1,112 @@
+[
+  {
+    "numero": 1,
+    "question": "Quel est le principal facteur de risque du cancer bronchique ?",
+    "options": [
+      "Pollution",
+      "Tabagisme",
+      "Alcool",
+      "Antécédents familiaux"
+    ],
+    "reponse_correcte": "Tabagisme"
+  },
+  {
+    "numero": 2,
+    "question": "L’asthme est une maladie caractérisée par :",
+    "options": [
+      "Une infection bactérienne chronique",
+      "Une inflammation des voies respiratoires avec bronchoconstriction réversible",
+      "Une fibrose pulmonaire irréversible",
+      "Un collapsus alvéolaire permanent"
+    ],
+    "reponse_correcte": "Une inflammation des voies respiratoires avec bronchoconstriction réversible"
+  },
+  {
+    "numero": 3,
+    "question": "Le traitement de fond de l’asthme repose sur :",
+    "options": [
+      "Antibiotiques",
+      "Corticoïdes inhalés",
+      "Antihistaminiques",
+      "Nitrés"
+    ],
+    "reponse_correcte": "Corticoïdes inhalés"
+  },
+  {
+    "numero": 4,
+    "question": "Quelle est la triade classique de la BPCO ?",
+    "options": [
+      "Fièvre, toux, douleurs thoraciques",
+      "Toux chronique, expectorations, dyspnée progressive",
+      "Toux sèche, hémoptysie, sueurs",
+      "Douleur pleurale, crépitants, cyanose"
+    ],
+    "reponse_correcte": "Toux chronique, expectorations, dyspnée progressive"
+  },
+  {
+    "numero": 5,
+    "question": "Le diagnostic positif de la BPCO repose sur :",
+    "options": [
+      "Radiographie thoracique",
+      "Spirométrie montrant un VEMS/CVF < 70 % post-bronchodilatateur",
+      "ECG",
+      "Scanner thoracique"
+    ],
+    "reponse_correcte": "Spirométrie montrant un VEMS/CVF < 70 % post-bronchodilatateur"
+  },
+  {
+    "numero": 6,
+    "question": "Le traitement de première intention dans l'exacerbation aiguë de BPCO est :",
+    "options": [
+      "Antibiotiques seuls",
+      "Bronchodilatateurs + corticoïdes + oxygène si nécessaire",
+      "Statines",
+      "Anticoagulants"
+    ],
+    "reponse_correcte": "Bronchodilatateurs + corticoïdes + oxygène si nécessaire"
+  },
+  {
+    "numero": 7,
+    "question": "Quelle est la cause principale de l’embolie pulmonaire ?",
+    "options": [
+      "Infection virale",
+      "Thrombose veineuse profonde (TVP)",
+      "Asthme",
+      "Tumeur"
+    ],
+    "reponse_correcte": "Thrombose veineuse profonde (TVP)"
+  },
+  {
+    "numero": 8,
+    "question": "Le signe le plus fréquent d’une embolie pulmonaire est :",
+    "options": [
+      "Hémoptysie",
+      "Toux productive",
+      "Dyspnée brutale",
+      "Cyanose"
+    ],
+    "reponse_correcte": "Dyspnée brutale"
+  },
+  {
+    "numero": 9,
+    "question": "Le test de diagnostic initial recommandé en cas de suspicion d’embolie pulmonaire est :",
+    "options": [
+      "Radiographie",
+      "D-dimères + score de Wells",
+      "ECG",
+      "Épreuve fonctionnelle respiratoire"
+    ],
+    "reponse_correcte": "D-dimères + score de Wells"
+  },
+  {
+    "numero": 10,
+    "question": "Le diagnostic de certitude d'une embolie pulmonaire repose sur :",
+    "options": [
+      "Échographie cardiaque",
+      "Angio-scanner thoracique",
+      "Test à la sueur",
+      "GDS"
+    ],
+    "reponse_correcte": "Angio-scanner thoracique"
+  }
+]
