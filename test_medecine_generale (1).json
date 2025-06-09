@@ -1,5 +1,4 @@
-[
-  {
+{
     "id": 1,
     "question": "Quel est le traitement de première intention de l'hypertension artérielle essentielle chez l'adulte sans comorbidité ?",
     "options": ["Furosémide", "Inhibiteur de l’enzyme de conversion (IEC)", "Bêta-bloquant", "Anticoagulant"],
@@ -59,7 +58,7 @@
     "options": ["Ischémie sous-endocardique inférieure", "Infarctus antérieur", "Bloc de branche droit", "Péricardite"],
     "answer": "Ischémie sous-endocardique inférieure"
   },
-  {
+   {
     "id": 11,
     "question": "Quel est le signe clinique le plus fréquent d’une infection urinaire basse ?",
     "options": ["Pollakiurie", "Douleur lombaire", "Hématurie macroscopique", "Dysphagie"],
@@ -251,13 +250,13 @@
   {
     "id": 33,
     "question": "Quel est le signe clinique caractéristique de la pneumonie ?",
-    "options": [" douleur thoracique","Fièvre, toux productive", "Dyspnée sans fièvre", "Hémoptysie isolée", "Douleur abdominale"],
+    "options": ["Douleur thoracique", "Fièvre, toux productive", "Dyspnée sans fièvre", "Hémoptysie isolée", "Douleur abdominale"],
     "answer": "Fièvre, toux productive"
   },
   {
     "id": 34,
     "question": "Quelle est la complication principale de l’hypertension non traitée ?",
-    "options": [ "Infection pulmonaire", "Diabète", "Arthrite", "Accident vasculaire cérébral"],
+    "options": ["Infection pulmonaire", "Diabète", "Arthrite", "Accident vasculaire cérébral"],
     "answer": "Accident vasculaire cérébral"
   },
   {
@@ -269,13 +268,13 @@
   {
     "id": 36,
     "question": "Quelle est la principale cause de diarrhée aiguë infectieuse ?",
-    "options": [ "Allergie alimentaire","Infection bactérienne ou virale", "Cancer du côlon", "Constipation chronique"],
+    "options": ["Allergie alimentaire", "Infection bactérienne ou virale", "Cancer du côlon", "Constipation chronique"],
     "answer": "Infection bactérienne ou virale"
   },
   {
     "id": 37,
     "question": "Quel médicament est un anticoagulant oral direct ?",
-    "options": [ "Aspirine", "Paracétamol","Rivaroxaban", "Amoxicilline"],
+    "options": ["Aspirine", "Paracétamol", "Rivaroxaban", "Amoxicilline"],
     "answer": "Rivaroxaban"
   },
   {
@@ -287,13 +286,13 @@
   {
     "id": 39,
     "question": "Quelle est la cause la plus fréquente d’insuffisance cardiaque chez l’adulte ?",
-    "options": [ "Cardiomyopathie dilatée", "Cardiopathie ischémique","Hypertension artérielle", "Valvulopathie"],
+    "options": ["Cardiomyopathie dilatée", "Cardiopathie ischémique", "Hypertension artérielle", "Valvulopathie"],
     "answer": "Cardiopathie ischémique"
   },
   {
     "id": 40,
     "question": "Quel est le symptôme le plus fréquent du reflux gastro-œsophagien ?",
-    "options": [ "Nausées", "Diarrhée", "Douleur abdominale basse","Brûlures rétrosternales"],
+    "options": ["Nausées", "Diarrhée", "Douleur abdominale basse", "Brûlures rétrosternales"],
     "answer": "Brûlures rétrosternales"
   },{
     "id": 41,
@@ -310,25 +309,25 @@
   {
     "id": 43,
     "question": "Quelle est la vaccination recommandée pour les patients atteints de BPCO ?",
-    "options": [ "Vaccin contre la rougeole", "Vaccin HPV","Vaccin antigrippal annuel", "Vaccin polio"],
+    "options": ["Vaccin contre la rougeole", "Vaccin HPV", "Vaccin antigrippal annuel", "Vaccin polio"],
     "answer": "Vaccin antigrippal annuel"
   },
   {
     "id": 44,
     "question": "Quel est le test diagnostique de choix pour une suspicion de diabète sucré ?",
-    "options": [ "Numération formule sanguine","Glycémie à jeun", "Ionogramme sanguin", "Bilan hépatique"],
+    "options": ["Numération formule sanguine", "Glycémie à jeun", "Ionogramme sanguin", "Bilan hépatique"],
     "answer": "Glycémie à jeun"
   },
   {
     "id": 45,
     "question": "Quelle est la complication la plus fréquente de l’infarctus du myocarde ?",
-    "options": [ "AVC hémorragique","Insuffisance cardiaque", "Diabète", "Pneumonie"],
+    "options": ["AVC hémorragique", "Insuffisance cardiaque", "Diabète", "Pneumonie"],
     "answer": "Insuffisance cardiaque"
   },
   {
     "id": 46,
     "question": "Quel signe clinique est typique d’une fracture de la clavicule ?",
-    "options": [ "Douleur abdominale", "Déformation avec attitude antalgique du membre supérieur","Oedème de la cheville", "Hématome facial"],
+    "options": ["Douleur abdominale", "Déformation avec attitude antalgique du membre supérieur", "Oedème de la cheville", "Hématome facial"],
     "answer": "Déformation avec attitude antalgique du membre supérieur"
   },
   {
@@ -339,19 +338,19 @@
   },
   {
     "id": 48,
-  "question": "Quel est le traitement de première intention pour une crise d’asthme aiguë légère ?",
-  "options": [
-    "Bêta2 agoniste inhalé à courte durée d'action",
-    "Corticostéroïdes oraux",
-    "Antibiotiques",
-    "Oxygénothérapie uniquement"
-  ],
-  "answer": "Bêta2 agoniste inhalé à courte durée d'action"
+    "question": "Quel est le traitement de première intention pour une crise d’asthme aiguë légère ?",
+    "options": [
+      "Bêta2 agoniste inhalé à courte durée d'action",
+      "Corticostéroïdes oraux",
+      "Antibiotiques",
+      "Oxygénothérapie uniquement"
+    ],
+    "answer": "Bêta2 agoniste inhalé à courte durée d'action"
   },
   {
     "id": 49,
     "question": "Quel est le test le plus spécifique pour le diagnostic de la tuberculose ?",
-    "options": [ "Radiographie thoracique", "Hémoculture", "Test de Mantoux", "Culture de Mycobacterium tuberculosis"],
+    "options": ["Radiographie thoracique", "Hémoculture", "Test de Mantoux", "Culture de Mycobacterium tuberculosis"],
     "answer": "Culture de Mycobacterium tuberculosis"
   },
   {
