@@ -108,8 +108,7 @@
       "Évaluer la fonction rénale"
     ],
     "reponse": "Diagnostiquer un diabète sucré gestationnel"
-  },{
-  "questions": [
+  },
     {
       "id": 11,
       "question": "Quelle hormone est produite par la médullosurrénale ?",
@@ -184,8 +183,7 @@
         "Dosage de la TSH"
       ],
       "answer": "Test au Synacthène (ACTH)"
-    },{
-  "questions": [
+    },
     {
       "id": 21,
       "question": "Quelle hormone est responsable du développement des caractères sexuels secondaires masculins ?",
@@ -260,8 +258,7 @@
         "Une hypersécrétion de glucagon"
       ],
       "answer": "Une destruction progressive des cellules bêta"
-    },{
-  "questions": [
+    },
     {
       "id": 31,
       "question": "Quelle est la conséquence principale d’une hypothyroïdie chez l’enfant ?",
@@ -371,8 +368,7 @@
         "Hypoglycémie"
       ],
       "answer": "Hyperprolactinémie"
-    },{
-  "questions": [
+    },
     {
       "id": 41,
       "question": "Quel est le principal effet du cortisol sur le métabolisme ?",
