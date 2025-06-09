@@ -1,0 +1,102 @@
+[
+  {
+    "question": "1. Quelle est la principale cause d’AVC ischémique ?",
+    "options": [
+      "Tumeur cérébrale",
+      "Hémorragie méningée",
+      "Thrombose artérielle ou embolie",
+      "Hypoglycémie"
+    ],
+    "answer": "Thrombose artérielle ou embolie"
+  },
+  {
+    "question": "2. Une hémiplégie droite avec aphasie évoque une lésion dans :",
+    "options": [
+      "Hémisphère droit",
+      "Hémisphère gauche (aire de Broca)",
+      "Tronc cérébral",
+      "Cervelet"
+    ],
+    "answer": "Hémisphère gauche (aire de Broca)"
+  },
+  {
+    "question": "3. Quelle est la triade classique de la maladie de Parkinson ?",
+    "options": [
+      "Amnésie, apathie, hallucinations",
+      "Tremblement de repos, akinésie, rigidité",
+      "Hémiplégie, paralysie faciale, aphasie",
+      "Vertige, céphalée, diplopie"
+    ],
+    "answer": "Tremblement de repos, akinésie, rigidité"
+  },
+  {
+    "question": "4. Le traitement de référence de la maladie de Parkinson est :",
+    "options": [
+      "Corticoïdes",
+      "Lévodopa (L-DOPA)",
+      "Diazépam",
+      "Bêtabloquants"
+    ],
+    "answer": "Lévodopa (L-DOPA)"
+  },
+  {
+    "question": "5. Quel examen est le plus utile dans le diagnostic d’épilepsie ?",
+    "options": [
+      "Scanner",
+      "Électroencéphalogramme (EEG)",
+      "ECG",
+      "Ponction lombaire"
+    ],
+    "answer": "Électroencéphalogramme (EEG)"
+  },
+  {
+    "question": "6. L’aura dans l’épilepsie est :",
+    "options": [
+      "Un symptôme sensoriel annonciateur d’une crise",
+      "Une période post-critique",
+      "Un état de mal épileptique",
+      "Une hallucination"
+    ],
+    "answer": "Un symptôme sensoriel annonciateur d’une crise"
+  },
+  {
+    "question": "7. Une paralysie faciale périphérique se reconnaît par :",
+    "options": [
+      "Atteinte de toute l’hémiface, y compris le front",
+      "Atteinte uniquement de la bouche",
+      "Absence de troubles moteurs",
+      "Spasmes faciaux isolés"
+    ],
+    "answer": "Atteinte de toute l’hémiface, y compris le front"
+  },
+  {
+    "question": "8. La sclérose en plaques est une maladie :",
+    "options": [
+      "Génétique dominante",
+      "Auto-immune démyélinisante du SNC",
+      "Vasculaire",
+      "Infectieuse chronique"
+    ],
+    "answer": "Auto-immune démyélinisante du SNC"
+  },
+  {
+    "question": "9. La névralgie du trijumeau provoque :",
+    "options": [
+      "Paresthésies des 4 membres",
+      "Douleurs faciales unilatérales paroxystiques",
+      "Diplopie",
+      "Douleurs cervicales bilatérales"
+    ],
+    "answer": "Douleurs faciales unilatérales paroxystiques"
+  },
+  {
+    "question": "10. Une diplopie avec ptose palpébrale chez un jeune adulte évoque :",
+    "options": [
+      "AVC",
+      "Migraine",
+      "Myasthénie",
+      "SLA"
+    ],
+    "answer": "Myasthénie"
+  }
+]
