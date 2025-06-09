@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "question": "Quelle est la durée moyenne d’un cycle menstruel normal ?",
+    "options": [
+      "21 jours",
+      "26 jours",
+      "28 jours",
+      "35 jours"
+    ],
+    "answer": "28 jours"
+  },
+  {
+    "id": 2,
+    "question": "Quelle hormone est responsable du pic ovulatoire ?",
+    "options": [
+      "FSH",
+      "LH",
+      "Progestérone",
+      "Estradiol"
+    ],
+    "answer": "LH"
+  },
+  {
+    "id": 3,
+    "question": "Quel est le principal site de fécondation ?",
+    "options": [
+      "Vagin",
+      "Utérus",
+      "Trompe de Fallope (ampoule)",
+      "Ovaire"
+    ],
+    "answer": "Trompe de Fallope (ampoule)"
+  },
+  {
+    "id": 4,
+    "question": "Quelle est la durée normale d'une grossesse ?",
+    "options": [
+      "36 semaines",
+      "38 semaines",
+      "40 semaines (280 jours)",
+      "42 semaines"
+    ],
+    "answer": "40 semaines (280 jours)"
+  },
+  {
+    "id": 5,
+    "question": "À partir de quelle semaine parle-t-on de prématurité ?",
+    "options": [
+      "Avant 24 SA",
+      "Avant 37 SA",
+      "Avant 40 SA",
+      "Avant 38 SA"
+    ],
+    "answer": "Avant 37 SA"
+  },
+  {
+    "id": 6,
+    "question": "Le test de grossesse détecte principalement :",
+    "options": [
+      "LH",
+      "FSH",
+      "HCG",
+      "Progestérone"
+    ],
+    "answer": "HCG"
+  },
+  {
+    "id": 7,
+    "question": "La prééclampsie se manifeste par :",
+    "options": [
+      "Hyperglycémie et fatigue",
+      "HTA + protéinurie",
+      "Contractions utérines",
+      "Bradycardie fœtale"
+    ],
+    "answer": "HTA + protéinurie"
+  },
+  {
+    "id": 8,
+    "question": "Un utérus en position rétroversée est :",
+    "options": [
+      "Dirigé vers l’arrière",
+      "Pathologique",
+      "Témoin d’une grossesse",
+      "Toujours douloureux"
+    ],
+    "answer": "Dirigé vers l’arrière"
+  },
+  {
+    "id": 9,
+    "question": "La trisomie 21 est liée principalement à :",
+    "options": [
+      "Infections",
+      "Âge maternel élevé",
+      "Tabac",
+      "Alcoolisme"
+    ],
+    "answer": "Âge maternel élevé"
+  },
+  {
+    "id": 10,
+    "question": "Quel est le traitement de première intention d’un syndrome des ovaires polykystiques chez la femme obèse ?",
+    "options": [
+      "Pilule œstroprogestative",
+      "Perte de poids + Metformine",
+      "Clomifène seul",
+      "Chirurgie ovarienne"
+    ],
+    "answer": "Perte de poids + Metformine"
+  }
+]
