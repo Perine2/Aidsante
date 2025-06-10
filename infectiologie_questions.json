@@ -1,0 +1,112 @@
+[
+    {
+        "numero": 1,
+        "question": "Quelle bactérie est responsable de la tuberculose ?",
+        "options": [
+            "Streptococcus pneumoniae",
+            "Staphylococcus aureus",
+            "Mycobacterium tuberculosis",
+            "Escherichia coli"
+        ],
+        "answer": "Mycobacterium tuberculosis"
+    },
+    {
+        "numero": 2,
+        "question": "Quel est le vecteur principal du paludisme ?",
+        "options": [
+            "Moustique Culex",
+            "Moustique Anopheles",
+            "Tique",
+            "Mouche tsé-tsé"
+        ],
+        "answer": "Moustique Anopheles"
+    },
+    {
+        "numero": 3,
+        "question": "Quelle maladie est causée par le virus VIH ?",
+        "options": [
+            "Hépatite B",
+            "Grippe",
+            "Sida",
+            "Tuberculose"
+        ],
+        "answer": "Sida"
+    },
+    {
+        "numero": 4,
+        "question": "Quel examen est le plus utilisé pour diagnostiquer une infection bactérienne ?",
+        "options": [
+            "Sérologie",
+            "Culture bactérienne",
+            "PCR virale",
+            "Radiographie"
+        ],
+        "answer": "Culture bactérienne"
+    },
+    {
+        "numero": 5,
+        "question": "Quel antibiotique est efficace contre les infections à streptocoques ?",
+        "options": [
+            "Pénicilline",
+            "Amphotéricine B",
+            "Aciclovir",
+            "Ciprofloxacine"
+        ],
+        "answer": "Pénicilline"
+    },
+    {
+        "numero": 6,
+        "question": "Quelle maladie infectieuse est caractérisée par une fièvre élevée et des ganglions enflés, souvent chez les enfants ?",
+        "options": [
+            "Rougeole",
+            "Scarlatine",
+            "Rubéole",
+            "Varicelle"
+        ],
+        "answer": "Scarlatine"
+    },
+    {
+        "numero": 7,
+        "question": "Quel virus est responsable de l’hépatite C ?",
+        "options": [
+            "Virus de l’herpès",
+            "Virus de la rougeole",
+            "Virus de l’hépatite C (VHC)",
+            "Virus VIH"
+        ],
+        "answer": "Virus de l’hépatite C (VHC)"
+    },
+    {
+        "numero": 8,
+        "question": "Quel traitement est le plus efficace contre les infections à champignons ?",
+        "options": [
+            "Antibiotiques",
+            "Antiviraux",
+            "Antifongiques",
+            "Corticoïdes"
+        ],
+        "answer": "Antifongiques"
+    },
+    {
+        "numero": 9,
+        "question": "Quel test permet de dépister l’infection à VIH ?",
+        "options": [
+            "Test PCR bactérien",
+            "Test sérologique ELISA",
+            "Culture virale",
+            "Biopsie"
+        ],
+        "answer": "Test sérologique ELISA"
+    },
+    {
+        "numero": 10,
+        "question": "Quel est le principal mode de transmission du virus Ebola ?",
+        "options": [
+            "Aérien",
+            "Eau contaminée",
+            "Contact direct avec fluides corporels infectés",
+            "Piqûre de moustique"
+        ],
+        "answer": "Contact direct avec fluides corporels infectés"
+    }
+]
