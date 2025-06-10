@@ -1,0 +1,112 @@
+[
+    {
+        "numero": 1,
+        "question": "Quel est le symptôme principal du trouble dépressif majeur ?",
+        "options": [
+            "Euphorie excessive",
+            "Hallucinations",
+            "Humeur dépressive persistante",
+            "Anxiété intense"
+        ],
+        "reponse": "Humeur dépressive persistante"
+    },
+    {
+        "numero": 2,
+        "question": "Quel médicament est un antipsychotique de première génération ?",
+        "options": [
+            "Risperidone",
+            "Halopéridol",
+            "Olanzapine",
+            "Clozapine"
+        ],
+        "reponse": "Halopéridol"
+    },
+    {
+        "numero": 3,
+        "question": "Quelle est la durée minimale pour diagnostiquer un trouble anxieux généralisé ?",
+        "options": [
+            "1 semaine",
+            "2 semaines",
+            "6 mois",
+            "1 an"
+        ],
+        "reponse": "6 mois"
+    },
+    {
+        "numero": 4,
+        "question": "Quel trouble psychiatrique est caractérisé par des épisodes maniaques alternant avec des épisodes dépressifs ?",
+        "options": [
+            "Schizophrénie",
+            "Trouble anxieux",
+            "Trouble bipolaire",
+            "Trouble de la personnalité borderline"
+        ],
+        "reponse": "Trouble bipolaire"
+    },
+    {
+        "numero": 5,
+        "question": "Quel est le traitement de première ligne pour la dépression majeure ?",
+        "options": [
+            "Benzodiazépines",
+            "Inhibiteurs sélectifs de la recapture de la sérotonine (ISRS)",
+            "Neuroleptiques",
+            "Lithium"
+        ],
+        "reponse": "Inhibiteurs sélectifs de la recapture de la sérotonine (ISRS)"
+    },
+    {
+        "numero": 6,
+        "question": "Quel symptôme est caractéristique de la schizophrénie ?",
+        "options": [
+            "Phobie sociale",
+            "Hallucinations auditives",
+            "Trouble obsessionnel-compulsif",
+            "Amnésie"
+        ],
+        "reponse": "Hallucinations auditives"
+    },
+    {
+        "numero": 7,
+        "question": "Quel trouble psychiatrique implique des obsessions et des compulsions ?",
+        "options": [
+            "Trouble bipolaire",
+            "Trouble dépressif majeur",
+            "Trouble obsessionnel-compulsif (TOC)",
+            "Trouble panique"
+        ],
+        "reponse": "Trouble obsessionnel-compulsif (TOC)"
+    },
+    {
+        "numero": 8,
+        "question": "Quel est le principal effet secondaire des antipsychotiques typiques ?",
+        "options": [
+            "Insomnie",
+            "Syndrome extrapyramidal",
+            "Prise de poids légère",
+            "Tachycardie"
+        ],
+        "reponse": "Syndrome extrapyramidal"
+    },
+    {
+        "numero": 9,
+        "question": "Quel type de thérapie est principalement utilisé pour traiter les troubles anxieux ?",
+        "options": [
+            "Thérapie électroconvulsive",
+            "Thérapie de groupe uniquement",
+            "Thérapie cognitivo-comportementale (TCC)",
+            "Psychochirurgie"
+        ],
+        "reponse": "Thérapie cognitivo-comportementale (TCC)"
+    },
+    {
+        "numero": 10,
+        "question": "Quelle hormone est souvent impliquée dans la physiopathologie de la dépression ?",
+        "options": [
+            "Adrénaline",
+            "Dopamine uniquement",
+            "Sérotonine",
+            "Insuline"
+        ],
+        "reponse": "Sérotonine"
+    }
+]
