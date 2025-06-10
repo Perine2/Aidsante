@@ -1,0 +1,112 @@
+[
+    {
+        "numero": 1,
+        "question": "Quel est le principal mécanisme de formation d’un cancer ?",
+        "options": [
+            "Infection bactérienne",
+            "Inflammation chronique",
+            "Mutation génétique des cellules",
+            "Carence vitaminique"
+        ],
+        "reponse": "Mutation génétique des cellules"
+    },
+    {
+        "numero": 2,
+        "question": "Quel terme désigne la capacité d’une tumeur à se propager à distance ?",
+        "options": [
+            "Invasion locale",
+            "Métastase",
+            "Nécrose",
+            "Métastase"
+        ],
+        "reponse": "Métastase"
+    },
+    {
+        "numero": 3,
+        "question": "Quelle est la méthode la plus utilisée pour diagnostiquer un cancer ?",
+        "options": [
+            "Examen clinique seul",
+            "Radiographie simple",
+            "Biopsie et examen histologique",
+            "Échographie"
+        ],
+        "reponse": "Biopsie et examen histologique"
+    },
+    {
+        "numero": 4,
+        "question": "Quel type de cancer est le plus fréquent chez l’homme dans le monde ?",
+        "options": [
+            "Cancer du sein",
+            "Cancer du poumon",
+            "Cancer colorectal",
+            "Cancer du poumon"
+        ],
+        "reponse": "Cancer du poumon"
+    },
+    {
+        "numero": 5,
+        "question": "Quel est le rôle principal de la chimiothérapie ?",
+        "options": [
+            "Renforcer le système immunitaire",
+            "Retirer chirurgicalement la tumeur",
+            "Détruire les cellules cancéreuses",
+            "Soulager la douleur uniquement"
+        ],
+        "reponse": "Détruire les cellules cancéreuses"
+    },
+    {
+        "numero": 6,
+        "question": "Quel traitement est généralement le plus efficace pour les cancers localisés ?",
+        "options": [
+            "Radiothérapie",
+            "Chirurgie",
+            "Immunothérapie",
+            "Hormonothérapie"
+        ],
+        "reponse": "Chirurgie"
+    },
+    {
+        "numero": 7,
+        "question": "Quel est le principal facteur de risque du cancer du col de l’utérus ?",
+        "options": [
+            "Tabac",
+            "Infection par le HPV (Papillomavirus humain)",
+            "Alcool",
+            "Exposition aux UV"
+        ],
+        "reponse": "Infection par le HPV (Papillomavirus humain)"
+    },
+    {
+        "numero": 8,
+        "question": "Quel biomarqueur est souvent utilisé pour dépister le cancer de la prostate ?",
+        "options": [
+            "CA 125",
+            "CEA",
+            "PSA (antigène spécifique de la prostate)",
+            "AFP"
+        ],
+        "reponse": "PSA (antigène spécifique de la prostate)"
+    },
+    {
+        "numero": 9,
+        "question": "Quel type de cancer se développe à partir des cellules épithéliales ?",
+        "options": [
+            "Sarcome",
+            "Carcinome",
+            "Lymphome",
+            "Gliome"
+        ],
+        "reponse": "Carcinome"
+    },
+    {
+        "numero": 10,
+        "question": "Quel est l’effet secondaire fréquent de la radiothérapie ?",
+        "options": [
+            "Insomnie",
+            "Infection",
+            "Brûlures cutanées locales",
+            "Hypoglycémie"
+        ],
+        "reponse": "Brûlures cutanées locales"
+    }
+]
