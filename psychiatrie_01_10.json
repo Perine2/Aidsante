@@ -108,52 +108,53 @@
             "Insuline"
         ],
         "reponse": "Sérotonine"
-    },{
-  "numero": 11,
+    },
+    {
+     "numero": 11,
     "question": "Quel trouble est caractérisé par des épisodes de panique récurrents et imprévisibles ?",
     "options": ["Trouble bipolaire", "Trouble obsessionnel-compulsif", "Trouble panique", "Schizophrénie"],
     "answer": "Trouble panique"
-  },
+  },{
   "numero": 12,
     "question": "Quel médicament est un stabilisateur de l’humeur couramment utilisé dans le trouble bipolaire ?",
     "options": ["Fluoxétine", "Halopéridol", "Lithium", "Clozapine"],
     "answer": "Lithium"
-  },
+  },{
   "numero":13,
     "question": "Quelle est la durée minimale d’un épisode maniaque pour poser un diagnostic de trouble bipolaire ?",
     "options": ["12 heures", "1 jour", "7 jours", "30 jours"],
     "answer": "7 jours"
-  },
+  },{
  "numero": 14,
     "question": "Quel est un signe typique de la phase maniaque ?",
     "options": ["Retrait social", "Humeur dépressive", "Hyperactivité et euphorie", "Hallucinations visuelles"],
     "answer": "Hyperactivité et euphorie"
-  },
+  },{
   "numero": 15,
     "question": "Quel est le trouble caractérisé par une perte de contact avec la réalité ?",
     "options": ["Trouble de la personnalité borderline", "Psychose", "Trouble anxieux", "Dépression majeure"],
     "answer": "Psychose"
-  },
+  },{
  "numero": 16,
     "question": "Quel est le traitement d’urgence d’un épisode psychotique aigu ?",
     "options": ["Benzodiazépines uniquement", "Antipsychotiques", "ISRS", "Thérapie familiale"],
     "answer": "Antipsychotiques"
-  },
+  },{
   "numero": 17,
     "question": "Quelle est une caractéristique des troubles de la personnalité ?",
     "options": ["Épisodes dépressifs récurrents", "Modes durables et rigides de comportement", "Hallucinations", "Troubles alimentaires"],
     "answer": "Modes durables et rigides de comportement"
-  },
+  },{
   "numero": 18,
     "question": "Quel test permet d’évaluer la sévérité d’une dépression ?",
     "options": ["EEG", "IRM cérébrale", "Questionnaire PHQ-9", "Test sanguin"],
     "answer": "Questionnaire PHQ-9"
-  },
+  },{
  "numero": 19,
     "question": "Quel trouble est caractérisé par un besoin compulsif de vol ?",
     "options": ["Trouble de la personnalité antisociale", "Trouble obsessionnel-compulsif", "Cleptomanie", "Trouble bipolaire"],
     "answer": "Cleptomanie"
-  },
+  },{
   "numero": 20,
     "question": "Quel symptôme est caractéristique de la catatonie ?",
     "options": ["Euphorie", "Anxiété", "Immobilité ou rigidité musculaire", "Troubles de la mémoire"],
@@ -163,47 +164,47 @@
     "question": "Quel est le neurotransmetteur le plus associé à la schizophrénie ?",
     "options": ["Sérotonine", "Acétylcholine", "Dopamine", "Noradrénaline"],
     "answer": "Dopamine"
-  },
+  },{
   "numero":22,
     "question": "Quelle est une caractéristique du trouble de stress post-traumatique (TSPT) ?",
     "options": ["Hallucinations", "Anxiété généralisée", "Reviviscence des événements traumatiques", "Hyperactivité"],
     "answer": "Reviviscence des événements traumatiques"
-  },
+  },{
   "numero": 23,
     "question": "Quel est un symptôme principal de la schizophrénie paranoïde ?",
     "options": ["Troubles moteurs", "Idées délirantes paranoïaques", "Dépression", "TOC"],
     "answer": "Idées délirantes paranoïaques"
-  },
+  },{
  "numero": 24,
     "question": "Quel médicament est un antipsychotique atypique ?",
     "options": ["Halopéridol", "Olanzapine", "Chlorpromazine", "Lithium"],
     "answer": "Olanzapine"
-  },
+  },{
   "numero":25,
     "question": "Quel trouble implique une peur intense et irrationnelle d’un objet ou d’une situation spécifique ?",
     "options": ["Trouble bipolaire", "Trouble panique", "Phobie spécifique", "Dépression majeure"],
     "answer": "Phobie spécifique"
-  },
+  },{
   "numero": 26,
     "question": "Quel symptôme n’est PAS typique de la dépression majeure ?",
     "options": ["Perte d’appétit", "Insomnie", "Hyperactivité", "Fatigue"],
     "answer": "Hyperactivité"
-  },
+  },{
   "numero": 27,
     "question": "Quel est un effet secondaire fréquent des antidépresseurs ISRS ?",
     "options": ["Hypotension", "Constipation", "Troubles digestifs et nausées", "Somnolence importante"],
     "answer": "Troubles digestifs et nausées"
-  },
+  },{
   "numero": 28,
     "question": "Quelle est la principale différence entre trouble bipolaire de type I et type II ?",
     "options": ["Présence d’épisodes psychotiques", "Présence d’épisodes maniaques complets (type I) vs hypomaniaques (type II)", "Durée des épisodes dépressifs", "Âge d’apparition"],
     "answer": "Présence d’épisodes maniaques complets (type I) vs hypomaniaques (type II)"
-  },
+  },{
  "numero": 29,
     "question": "Quel symptôme est central dans le trouble borderline de la personnalité ?",
     "options": ["Anxiété", "Hallucinations", "Instabilité émotionnelle et impulsivité", "Phobies"],
     "answer": "Instabilité émotionnelle et impulsivité"
-  },
+  },{
   "numero": 30,
     "question": "Quel est le principal mécanisme d’action des benzodiazépines ?",
     "options": ["Antagoniste dopaminergique", "Inhibiteur de la recapture de la sérotonine", "Agoniste du récepteur GABA-A", "Inhibiteur de la monoamine oxydase"],
@@ -213,47 +214,47 @@
     "question": "Quel est le principal traitement pharmacologique de la schizophrénie ?",
     "options": ["Benzodiazépines", "Antipsychotiques", "ISRS", "Lithium"],
     "answer": "Antipsychotiques"
-  },
+  },{
   "numero": 32,
     "question": "Quel trouble est caractérisé par des épisodes répétés de binge-eating suivis de comportements compensatoires ?",
     "options": ["Anorexie mentale", "Boulimie nerveuse", "Trouble bipolaire", "TOC"],
     "answer": "Boulimie nerveuse"
-  },
+  },{
   "numero": 33,
     "question": "Quel trouble implique une peur intense de situations où la fuite pourrait être difficile ?",
     "options": ["Trouble panique", "Agoraphobie", "Phobie sociale", "Schizophrénie"],
     "answer": "Agoraphobie"
-  },
+  },{
   "numero": 34,
     "question": "Quelle thérapie est efficace dans le traitement du trouble borderline ?",
     "options": ["Thérapie électroconvulsive", "Thérapie familiale uniquement", "Thérapie dialectique comportementale (TDC)", "Thérapie médicamenteuse seule"],
     "answer": "Thérapie dialectique comportementale (TDC)"
-  },
+  },{
   "numero": 35,
     "question": "Quel neurotransmetteur est principalement diminué dans la maladie de Parkinson ?",
     "options": ["Sérotonine", "Acétylcholine", "Dopamine", "Noradrénaline"],
     "answer": "Dopamine"
-  },
+  },{
   "numero": 36,
     "question": "Quel symptôme est typique d’une manie ?",
     "options": ["Humeur dépressive", "Retrait social", "Logorrhée et diminution du besoin de sommeil", "Hallucinations visuelles"],
     "answer": "Logorrhée et diminution du besoin de sommeil"
-  },
+  },{
   "numero": 37,
     "question": "Quel trouble se caractérise par une peur intense et persistante d’être jugé dans des situations sociales ?",
     "options": ["Trouble bipolaire", "Phobie sociale", "Trouble panique", "TOC"],
     "answer": "Phobie sociale"
-  },
+  },{
   "numero": 38,
     "question": "Quel médicament est un antidépresseur tricyclique ?",
     "options": ["Fluoxétine", "Sertraline", "Amitriptyline", "Paroxétine"],
     "answer": "Amitriptyline"
-  },
+  },{
   "numero": 39,
     "question": "Quel trouble psychiatrique est caractérisé par des troubles de la mémoire et de la cognition ?",
     "options": ["Trouble bipolaire", "Schizophrénie", "Démence", "Anxiété généralisée"],
     "answer": "Démence"
-  },
+  },{
   "numero": 40,
     "question": "Quel est un symptôme fréquent de la catatonie ?",
     "options": ["Hallucinations", "Anxiété", "Stupor (immobilité) et mutisme", "Euphorie"],
@@ -263,47 +264,47 @@
     "question": "Quel est le traitement de première ligne dans la schizophrénie résistante ?",
     "options": ["Halopéridol", "Risperidone", "Clozapine", "Lithium"],
     "answer": "Clozapine"
-  },
+  },{
   "numero": 42,
     "question": "Quel symptôme caractérise le trouble de l’attention avec hyperactivité (TDAH) ?",
     "options": ["Hallucinations", "Instabilité de l’humeur", "Inattention et hyperactivité", "Anxiété"],
     "answer": "Inattention et hyperactivité"
-  },
+  },{
   "numero": 43,
     "question": "Quel trouble implique des crises soudaines et récurrentes de peur intense ?",
     "options": ["Schizophrénie", "Trouble bipolaire", "Trouble panique", "Dépression majeure"],
     "answer": "Trouble panique"
-  },
+  },{
   "numero": 44,
     "question": "Quel médicament est souvent utilisé pour traiter les troubles anxieux ?",
     "options": ["Lithium", "Benzodiazépines", "Antipsychotiques typiques", "Corticoïdes"],
     "answer": "Benzodiazépines"
-  },
+  },{
   "numero": 45,
     "question": "Quelle technique peut être utilisée en cas de dépression sévère résistante ?",
     "options": ["Psychothérapie uniquement", "Médicaments uniquement", "Thérapie électroconvulsive (ECT)", "Chirurgie"],
     "answer": "Thérapie électroconvulsive (ECT)"
-  },
+  },{
   "numero": 46,
     "question": "Quel trouble est caractérisé par des idées délirantes sans autres symptômes psychotiques ?",
     "options": ["Trouble bipolaire", "Schizophrénie", "Trouble délirant", "Trouble obsessionnel-compulsif"],
     "answer": "Trouble délirant"
-  },
+  },{
   "numero": 47,
     "question": "Quel est un signe d’amélioration chez un patient dépressif sous traitement ?",
     "options": ["Augmentation de l’isolement social", "Augmentation de la fatigue", "Amélioration de l’humeur et du sommeil", "Augmentation des pensées suicidaires"],
     "answer": "Amélioration de l’humeur et du sommeil"
-  },
+  },{
   "numero": 48,
     "question": "Quelle est une complication possible du traitement par lithium ?",
     "options": ["Hypoglycémie", "Hypertension artérielle", "Toxicité rénale", "Hyperthyroïdie"],
     "answer": "Toxicité rénale"
-  },
+  },{
   "numero": 49,
     "question": "Quel est un symptôme caractéristique du trouble schizo-affectif ?",
     "options": ["Anxiété uniquement", "Symptômes psychotiques associés à un trouble de l’humeur", "Trouble obsessionnel compulsif", "Phobie sociale"],
     "answer": "Symptômes psychotiques associés à un trouble de l’humeur"
-  },
+  },{
   "numero": 50,
     "question": "Quel est un facteur de risque majeur pour le suicide ?",
     "options": ["Bonne santé mentale", "Absence de traitement", "Antécédents de tentative de suicide", "Prise en charge psychologique"],
