@@ -1,0 +1,112 @@
+[
+    {
+        "numero": 1,
+        "question": "Quelle maladie rhumatologique est caractérisée par une inflammation chronique des articulations ?",
+        "options": [
+            "Ostéoporose",
+            "Polyarthrite rhumatoïde",
+            "Arthrose",
+            "Goutte"
+        ],
+        "reponse": "Polyarthrite rhumatoïde"
+    },
+    {
+        "numero": 2,
+        "question": "Quel est le principal facteur de risque de l’arthrose ?",
+        "options": [
+            "Infection bactérienne",
+            "Maladie auto-immune",
+            "Vieillissement et surutilisation articulaire",
+            "Carence en calcium"
+        ],
+        "reponse": "Vieillissement et surutilisation articulaire"
+    },
+    {
+        "numero": 3,
+        "question": "La goutte est due à :",
+        "options": [
+            "Un excès de cholestérol",
+            "Une accumulation d’acide urique dans les articulations",
+            "Une infection virale",
+            "Une carence en vitamine D"
+        ],
+        "reponse": "Une accumulation d’acide urique dans les articulations"
+    },
+    {
+        "numero": 4,
+        "question": "Quel examen est le plus utile pour diagnostiquer une fracture osseuse ?",
+        "options": [
+            "IRM",
+            "Échographie",
+            "Radiographie",
+            "Prise de sang"
+        ],
+        "reponse": "Radiographie"
+    },
+    {
+        "numero": 5,
+        "question": "La spondylarthrite ankylosante affecte principalement :",
+        "options": [
+            "Les doigts",
+            "Les genoux",
+            "La colonne vertébrale et les articulations sacro-iliaques",
+            "Les hanches uniquement"
+        ],
+        "reponse": "La colonne vertébrale et les articulations sacro-iliaques"
+    },
+    {
+        "numero": 6,
+        "question": "Quel biomarqueur est souvent élevé dans la polyarthrite rhumatoïde ?",
+        "options": [
+            "CRP",
+            "HbA1c",
+            "Facteur rhumatoïde (FR) et anticorps anti-CCP",
+            "Cholestérol"
+        ],
+        "reponse": "Facteur rhumatoïde (FR) et anticorps anti-CCP"
+    },
+    {
+        "numero": 7,
+        "question": "Quel traitement est couramment utilisé en première ligne pour la polyarthrite rhumatoïde ?",
+        "options": [
+            "Antibiotiques",
+            "Anti-inflammatoires non stéroïdiens (AINS)",
+            "Corticostéroïdes oraux",
+            "Biothérapies"
+        ],
+        "reponse": "Anti-inflammatoires non stéroïdiens (AINS)"
+    },
+    {
+        "numero": 8,
+        "question": "Quelle vitamine est essentielle pour la santé osseuse ?",
+        "options": [
+            "Vitamine C",
+            "Vitamine B12",
+            "Vitamine D",
+            "Vitamine K"
+        ],
+        "reponse": "Vitamine D"
+    },
+    {
+        "numero": 9,
+        "question": "Quel est le principal mécanisme de l’ostéoporose ?",
+        "options": [
+            "Inflammation articulaire",
+            "Accumulation d’acide urique",
+            "Diminution de la densité osseuse due à un déséquilibre entre résorption et formation osseuse",
+            "Infection"
+        ],
+        "reponse": "Diminution de la densité osseuse due à un déséquilibre entre résorption et formation osseuse"
+    },
+    {
+        "numero": 10,
+        "question": "Quel est le symptôme caractéristique d’une bursite ?",
+        "options": [
+            "Douleur musculaire",
+            "Engourdissement",
+            "Douleur et gonflement localisé près d’une articulation",
+            "Rougeur généralisée"
+        ],
+        "reponse": "Douleur et gonflement localisé près d’une articulation"
+    }
+]
