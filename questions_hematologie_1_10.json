@@ -1,0 +1,112 @@
+[
+  {
+    "numero": 1,
+    "question": "Quel composant du sang est principalement responsable du transport de l’oxygène ?",
+    "options": [
+      "Plaquettes",
+      "Globules blancs",
+      "Globules rouges (érythrocytes)",
+      "Plasma"
+    ],
+    "reponse": "Globules rouges (érythrocytes)"
+  },
+  {
+    "numero": 2,
+    "question": "Quel est le principal symptôme de l’anémie ?",
+    "options": [
+      "Fièvre",
+      "Fatigue et pâleur",
+      "Douleur thoracique",
+      "Gonflement des ganglions"
+    ],
+    "reponse": "Fatigue et pâleur"
+  },
+  {
+    "numero": 3,
+    "question": "Quel test sanguin mesure le pourcentage de globules rouges dans le volume total de sang ?",
+    "options": [
+      "Numération leucocytaire",
+      "Hématocrite",
+      "Taux de plaquettes",
+      "Temps de saignement"
+    ],
+    "reponse": "Hématocrite"
+  },
+  {
+    "numero": 4,
+    "question": "La leucémie aiguë myéloïde (LAM) est une maladie caractérisée par :",
+    "options": [
+      "Une infection bactérienne du sang",
+      "Une prolifération rapide de cellules myéloïdes immatures",
+      "Une carence en vitamine B12",
+      "Une augmentation des plaquettes"
+    ],
+    "reponse": "Une prolifération rapide de cellules myéloïdes immatures"
+  },
+  {
+    "numero": 5,
+    "question": "Quel facteur est essentiel à la coagulation sanguine ?",
+    "options": [
+      "Érythropoïétine",
+      "Fibrinogène",
+      "Hémoglobine",
+      "Globuline"
+    ],
+    "reponse": "Fibrinogène"
+  },
+  {
+    "numero": 6,
+    "question": "Quelle est la cause la plus fréquente de l’anémie ferriprive ?",
+    "options": [
+      "Hémorragie chronique",
+      "Infection",
+      "Carence en fer",
+      "Maladie auto-immune"
+    ],
+    "reponse": "Carence en fer"
+  },
+  {
+    "numero": 7,
+    "question": "Quel test permet de diagnostiquer une thrombocytopénie ?",
+    "options": [
+      "Numération des globules rouges",
+      "Numération plaquettaire",
+      "Hématocrite",
+      "Vitesse de sédimentation"
+    ],
+    "reponse": "Numération plaquettaire"
+  },
+  {
+    "numero": 8,
+    "question": "La drépanocytose est due à :",
+    "options": [
+      "Une carence en fer",
+      "Une infection bactérienne",
+      "Une mutation génétique de l’hémoglobine",
+      "Un déficit en vitamine B12"
+    ],
+    "reponse": "Une mutation génétique de l’hémoglobine"
+  },
+  {
+    "numero": 9,
+    "question": "Quel médicament est utilisé pour prévenir la formation de caillots sanguins ?",
+    "options": [
+      "Antibiotiques",
+      "Anticoagulants (héparine, warfarine)",
+      "Anti-inflammatoires",
+      "Corticostéroïdes"
+    ],
+    "reponse": "Anticoagulants (héparine, warfarine)"
+  },
+  {
+    "numero": 10,
+    "question": "Quel est le rôle principal des plaquettes dans le sang ?",
+    "options": [
+      "Transporter l’oxygène",
+      "Combattre les infections",
+      "Participer à la coagulation",
+      "Réguler la pression sanguine"
+    ],
+    "reponse": "Participer à la coagulation"
+  }
+]
