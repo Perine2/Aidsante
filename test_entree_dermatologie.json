@@ -1,112 +1,548 @@
 [
     {
-        "numero": 1,
-        "question": "Quelle est la cause la plus fréquente d’acné chez l’adulte ?",
-        "options": [
-            "Staphylococcus aureus",
-            "Candida albicans",
-            "Hyperandrogénie",
-            "Hypothyroïdie"
-        ],
-        "reponse": "C"
-    },
-    {
-        "numero": 2,
-        "question": "Quel est le traitement de première intention du psoriasis léger à modéré ?",
-        "options": [
-            "Rétinoïdes systémiques",
-            "Photothérapie",
-            "Corticoïdes topiques",
-            "Méthotrexate"
-        ],
-        "reponse": "C"
-    },
-    {
-        "numero": 3,
-        "question": "Quel germe est responsable de l’impétigo ?",
-        "options": [
-            "Pseudomonas aeruginosa",
-            "Streptococcus pyogenes",
-            "Escherichia coli",
-            "Candida tropicalis"
-        ],
-        "reponse": "B"
-    },
-    {
-        "numero": 4,
-        "question": "Quelle lésion est typiquement présente dans l’eczéma ?",
-        "options": [
-            "Papule kératosique",
-            "Vésicule prurigineuse",
-            "Pustule purulente",
-            "Ulcère nécrosé"
-        ],
-        "reponse": "B"
-    },
-    {
-        "numero": 5,
-        "question": "Quel type de cancer cutané est le plus fréquent ?",
-        "options": [
-            "Mélanome",
-            "Carcinome basocellulaire",
-            "Carcinome spinocellulaire",
-            "Lymphome cutané"
-        ],
-        "reponse": "B"
-    },
-    {
-        "numero": 6,
-        "question": "Quelle est la principale cause de perte de cheveux diffuse chez la femme ?",
-        "options": [
-            "Pelade",
-            "Effluvium télogène",
-            "Teigne inflammatoire",
-            "Alopécie androgénétique"
-        ],
-        "reponse": "B"
-    },
-    {
-        "numero": 7,
-        "question": "Quelle substance provoque le plus souvent une dermatite de contact allergique ?",
-        "options": [
-            "Nickel",
-            "Acide salicylique",
-            "Vaseline",
-            "Talc"
-        ],
-        "reponse": "A"
-    },
-    {
-        "numero": 8,
-        "question": "La teigne du cuir chevelu est causée par :",
-        "options": [
-            "Des bactéries anaérobies",
-            "Des virus",
-            "Des dermatophytes",
-            "Des parasites"
-        ],
-        "reponse": "C"
-    },
-    {
-        "numero": 9,
-        "question": "Quel examen confirme une infection fongique des ongles ?",
-        "options": [
-            "Dermatoscopie",
-            "Culture bactérienne",
-            "Grattage + examen direct + culture fongique",
-            "Prise de sang"
-        ],
-        "reponse": "C"
-    },
-    {
-        "numero": 10,
-        "question": "Une plaque érythémato-squameuse en anneau évoque :",
-        "options": [
-            "Psoriasis",
-            "Lupus discoïde",
-            "Teigne corporelle",
-            "Urticaire"
-        ],
-        "reponse": "C"
-    }
+    "id": 1,
+    "question": "Quelle est la cause la plus fréquente d’acné chez l’adulte ?",
+    "options": [
+      "Staphylococcus aureus",
+      "Candida albicans",
+      "Hyperandrogénie",
+      "Hypothyroïdie"
+    ],
+    "answer": "Hyperandrogénie"
+  },
+  {
+    "id": 2,
+    "question": "Quel est le traitement de première intention du psoriasis léger à modéré ?",
+    "options": [
+      "Rétinoïdes systémiques",
+      "Photothérapie",
+      "Corticoïdes topiques",
+      "Méthotrexate"
+    ],
+    "answer": "Corticoïdes topiques"
+  },
+  {
+    "id": 3,
+    "question": "Quel germe est responsable de l’impétigo ?",
+    "options": [
+      "Pseudomonas aeruginosa",
+      "Streptococcus pyogenes",
+      "Escherichia coli",
+      "Candida tropicalis"
+    ],
+    "answer": "Streptococcus pyogenes"
+  },
+  {
+    "id": 4,
+    "question": "Quelle lésion est typiquement présente dans l’eczéma ?",
+    "options": [
+      "Papule kératosique",
+      "Vésicule prurigineuse",
+      "Pustule purulente",
+      "Ulcère nécrosé"
+    ],
+    "answer": "Vésicule prurigineuse"
+  },
+  {
+    "id": 5,
+    "question": "Quel type de cancer cutané est le plus fréquent ?",
+    "options": [
+      "Mélanome",
+      "Carcinome basocellulaire",
+      "Carcinome spinocellulaire",
+      "Lymphome cutané"
+    ],
+    "answer": "Carcinome basocellulaire"
+  },
+  {
+    "id": 6,
+    "question": "Quelle est la principale cause de perte de cheveux diffuse chez la femme ?",
+    "options": [
+      "Pelade",
+      "Effluvium télogène",
+      "Teigne inflammatoire",
+      "Alopécie androgénétique"
+    ],
+    "answer": "Effluvium télogène"
+  },
+  {
+    "id": 7,
+    "question": "Quelle substance provoque le plus souvent une dermatite de contact allergique ?",
+    "options": [
+      "Nickel",
+      "Acide salicylique",
+      "Vaseline",
+      "Talc"
+    ],
+    "answer": "Nickel"
+  },
+  {
+    "id": 8,
+    "question": "La teigne du cuir chevelu est causée par :",
+    "options": [
+      "Des bactéries anaérobies",
+      "Des virus",
+      "Des dermatophytes",
+      "Des parasites"
+    ],
+    "answer": "Des dermatophytes"
+  },
+  {
+    "id": 9,
+    "question": "Quel examen confirme une infection fongique des ongles ?",
+    "options": [
+      "Dermatoscopie",
+      "Culture bactérienne",
+      "Grattage + examen direct + culture fongique",
+      "Prise de sang"
+    ],
+    "answer": "Grattage + examen direct + culture fongique"
+  },
+  {
+    "id": 10,
+    "question": "Une plaque érythémato-squameuse en anneau évoque :",
+    "options": [
+      "Psoriasis",
+      "Lupus discoïde",
+      "Teigne corporelle",
+      "Urticaire"
+    ],
+    "answer": "Teigne corporelle"
+  }, {
+    "id": 11,
+    "question": "Quel est le signe typique du psoriasis unguéal ?",
+    "options": [
+      "Décoloration en bandes",
+      "Lignes de Beau",
+      "Tavelures (piqûres en dé à coudre)",
+      "Hyperplasie épidermique"
+    ],
+    "answer": "Tavelures (piqûres en dé à coudre)"
+  },
+  {
+    "id": 12,
+    "question": "Quel médicament est associé à une hyperpigmentation cutanée ?",
+    "options": [
+      "Amoxicilline",
+      "Doxycycline",
+      "Hydroxychloroquine",
+      "Ibuprofène"
+    ],
+    "answer": "Hydroxychloroquine"
+  },
+  {
+    "id": 13,
+    "question": "Une éruption en cocarde est typique de :",
+    "options": [
+      "Urticaire",
+      "Érythème polymorphe",
+      "Pityriasis rosé",
+      "Lichen plan"
+    ],
+    "answer": "Érythème polymorphe"
+  },
+  {
+    "id": 14,
+    "question": "Quelle est la localisation typique du mélanome acral lentigineux ?",
+    "options": [
+      "Tronc",
+      "Cuir chevelu",
+      "Ongles et paumes/plantes",
+      "Visage"
+    ],
+    "answer": "Ongles et paumes/plantes"
+  },
+  {
+    "id": 15,
+    "question": "L’alopécie areata est une maladie :",
+    "options": [
+      "Infectieuse",
+      "Auto-immune",
+      "Carentielle",
+      "Hormonale"
+    ],
+    "answer": "Auto-immune"
+  },
+  {
+    "id": 16,
+    "question": "Quel est le traitement de première intention des verrues vulgaires ?",
+    "options": [
+      "Antibiothérapie",
+      "Cryothérapie à l’azote liquide",
+      "Photothérapie",
+      "Laser CO₂"
+    ],
+    "answer": "Cryothérapie à l’azote liquide"
+  },
+  {
+    "id": 17,
+    "question": "Quel est le principal effet secondaire des rétinoïdes oraux ?",
+    "options": [
+      "Anémie",
+      "Hépatotoxicité",
+      "Teratogénicité",
+      "Cécité"
+    ],
+    "answer": "Teratogénicité"
+  },
+  {
+    "id": 18,
+    "question": "Un nævus atypique présente :",
+    "options": [
+      "Bords réguliers",
+      "Couleur uniforme",
+      "Asymétrie et plusieurs couleurs",
+      "Aucun risque de transformation"
+    ],
+    "answer": "Asymétrie et plusieurs couleurs"
+  },
+  {
+    "id": 19,
+    "question": "L’urticaire chronique est définie par une durée :",
+    "options": [
+      "> 3 jours",
+      "> 7 jours",
+      "> 6 semaines",
+      "> 6 mois"
+    ],
+    "answer": "> 6 semaines"
+  },
+  {
+    "id": 20,
+    "question": "Quelle pathologie provoque un épaississement jaune et friable des ongles ?",
+    "options": [
+      "Psoriasis",
+      "Lichen plan",
+      "Onychomycose",
+      "Alopécie androgénétique"
+    ],
+    "answer": "Onychomycose"
+  },{
+    "id": 21,
+    "question": "Quelle est la principale cause d’eczéma chez les nourrissons ?",
+    "options": [
+      "Eczéma de contact",
+      "Dermatite atopique",
+      "Psoriasis",
+      "Gale"
+    ],
+    "answer": "Dermatite atopique"
+  },
+  {
+    "id": 22,
+    "question": "Quel est le traitement standard du carcinome basocellulaire superficiel ?",
+    "options": [
+      "Radiothérapie",
+      "Antibiothérapie",
+      "Exérèse chirurgicale",
+      "Photothérapie"
+    ],
+    "answer": "Exérèse chirurgicale"
+  },
+  {
+    "id": 23,
+    "question": "Le pityriasis rosé débute souvent par :",
+    "options": [
+      "Une éruption purpurique",
+      "Une plaque mère",
+      "Une pustule",
+      "Un prurit généralisé"
+    ],
+    "answer": "Une plaque mère"
+  },
+  {
+    "id": 24,
+    "question": "Quelle est la principale lésion du lupus cutané ?",
+    "options": [
+      "Plaques prurigineuses suintantes",
+      "Papules érythémateuses",
+      "Plaques érythémato-squameuses atrophiques",
+      "Vésicules hémorragiques"
+    ],
+    "answer": "Plaques érythémato-squameuses atrophiques"
+  },
+  {
+    "id": 25,
+    "question": "Une kératose actinique peut évoluer en :",
+    "options": [
+      "Carcinome basocellulaire",
+      "Carcinome spinocellulaire",
+      "Mélanome",
+      "Lymphome cutané"
+    ],
+    "answer": "Carcinome spinocellulaire"
+  },
+  {
+    "id": 26,
+    "question": "Quelle est la première mesure à prendre en cas de mélanome suspect ?",
+    "options": [
+      "Biopsie-exérèse complète",
+      "Antibiothérapie",
+      "Corticoïdes oraux",
+      "Laser"
+    ],
+    "answer": "Biopsie-exérèse complète"
+  },
+  {
+    "id": 27,
+    "question": "Le lichen plan affecte souvent :",
+    "options": [
+      "Les paumes",
+      "Le cuir chevelu",
+      "Les muqueuses buccales",
+      "Les ongles uniquement"
+    ],
+    "answer": "Les muqueuses buccales"
+  },
+  {
+    "id": 28,
+    "question": "Quel signe est typique de la gale ?",
+    "options": [
+      "Prurit nocturne",
+      "Pustules faciales",
+      "Vésicules dans le dos",
+      "Éruption sur le cuir chevelu uniquement"
+    ],
+    "answer": "Prurit nocturne"
+  },
+  {
+    "id": 29,
+    "question": "Le vitiligo est caractérisé par :",
+    "options": [
+      "Hyperpigmentation",
+      "Hypopigmentation partielle",
+      "Dépigmentation bien délimitée",
+      "Rougeur inflammatoire"
+    ],
+    "answer": "Dépigmentation bien délimitée"
+  },
+  {
+    "id": 30,
+    "question": "Quel test est utilisé pour diagnostiquer une dermatophytose ?",
+    "options": [
+      "Test ELISA",
+      "Culture bactérienne",
+      "Examen à la lampe de Wood",
+      "PCR virale"
+    ],
+    "answer": "Examen à la lampe de Wood"
+  },{
+    "id": 31,
+    "question": "Quelle maladie est associée au signe de Koebner ?",
+    "options": [
+      "Psoriasis",
+      "Urticaire",
+      "Teigne",
+      "Gale"
+    ],
+    "answer": "Psoriasis"
+  },
+  {
+    "id": 32,
+    "question": "Le syndrome de Stevens-Johnson est souvent déclenché par :",
+    "options": [
+      "Un aliment",
+      "Une bactérie",
+      "Un médicament",
+      "Le soleil"
+    ],
+    "answer": "Un médicament"
+  },
+  {
+    "id": 33,
+    "question": "Quelle est la principale lésion de l’herpès labial ?",
+    "options": [
+      "Papule kératosique",
+      "Vésicules regroupées sur fond érythémateux",
+      "Ulcère profond",
+      "Nodule dur"
+    ],
+    "answer": "Vésicules regroupées sur fond érythémateux"
+  },
+  {
+    "id": 34,
+    "question": "La dermatite séborrhéique touche préférentiellement :",
+    "options": [
+      "Les jambes",
+      "Le dos",
+      "Les zones riches en glandes sébacées",
+      "Les mains"
+    ],
+    "answer": "Les zones riches en glandes sébacées"
+  },
+  {
+    "id": 35,
+    "question": "Quel traitement est contre-indiqué chez une femme enceinte atteinte d'acné sévère ?",
+    "options": [
+      "Antibiotiques topiques",
+      "Rétinoïdes oraux",
+      "Acide azélaïque",
+      "Benzoyle peroxyde"
+    ],
+    "answer": "Rétinoïdes oraux"
+  },
+  {
+    "id": 36,
+    "question": "Quelle est la cause principale du carcinome épidermoïde cutané ?",
+    "options": [
+      "Exposition chronique au froid",
+      "Infection bactérienne",
+      "Rayons UV",
+      "Carence en vitamine D"
+    ],
+    "answer": "Rayons UV"
+  },
+  {
+    "id": 37,
+    "question": "Quel agent infectieux provoque le molluscum contagiosum ?",
+    "options": [
+      "Virus",
+      "Bactérie",
+      "Parasite",
+      "Champignon"
+    ],
+    "answer": "Virus"
+  },
+  {
+    "id": 38,
+    "question": "Quel traitement est adapté à la rosacée ?",
+    "options": [
+      "Antifongiques",
+      "Antibiotiques (métronidazole)",
+      "Antihistaminiques",
+      "Corticoïdes systémiques"
+    ],
+    "answer": "Antibiotiques (métronidazole)"
+  },
+  {
+    "id": 39,
+    "question": "L’ongle en cuillère (koïlonychie) est souvent associé à :",
+    "options": [
+      "Lichen plan",
+      "Carence martiale",
+      "Infection fongique",
+      "Traumatisme"
+    ],
+    "answer": "Carence martiale"
+  },
+  {
+    "id": 40,
+    "question": "Le signe de Nikolsky est positif dans :",
+    "options": [
+      "Psoriasis",
+      "Pemphigus vulgaris",
+      "Teigne",
+      "Urticaire"
+    ],
+    "answer": "Pemphigus vulgaris"
+  },{
+    "id": 41,
+    "question": "Une alopécie cicatricielle implique :",
+    "options": [
+      "Une chute temporaire des cheveux",
+      "Une repousse rapide",
+      "Une destruction irréversible des follicules",
+      "Une infection virale"
+    ],
+    "answer": "Une destruction irréversible des follicules"
+  },
+  {
+    "id": 42,
+    "question": "Quelle est la cause principale de l’érythrasma ?",
+    "options": [
+      "Dermatophytes",
+      "Bactéries corynéformes",
+      "Virus herpétique",
+      "Parasites"
+    ],
+    "answer": "Bactéries corynéformes"
+  },
+  {
+    "id": 43,
+    "question": "Quel test est utilisé pour identifier une allergie de contact ?",
+    "options": [
+      "Biopsie",
+      "Patch-test",
+      "Prise de sang",
+      "Culture"
+    ],
+    "answer": "Patch-test"
+  },
+  {
+    "id": 44,
+    "question": "Le mélasma est souvent lié à :",
+    "options": [
+      "Carence nutritionnelle",
+      "Infection virale",
+      "Facteurs hormonaux et soleil",
+      "Traumatisme"
+    ],
+    "answer": "Facteurs hormonaux et soleil"
+  },
+  {
+    "id": 45,
+    "question": "Le traitement du pityriasis versicolor repose sur :",
+    "options": [
+      "Antibiotiques",
+      "Antiviraux",
+      "Antifongiques",
+      "Corticoïdes"
+    ],
+    "answer": "Antifongiques"
+  },
+  {
+    "id": 46,
+    "question": "Quel est le principal facteur déclenchant du lupus cutané ?",
+    "options": [
+      "Froid",
+      "Chaleur",
+      "Lumière UV",
+      "Alcool"
+    ],
+    "answer": "Lumière UV"
+  },
+  {
+    "id": 47,
+    "question": "Une plaque squameuse bien délimitée avec bordures actives évoque :",
+    "options": [
+      "Dermatite atopique",
+      "Psoriasis",
+      "Teigne",
+      "Urticaire"
+    ],
+    "answer": "Teigne"
+  },
+  {
+    "id": 48,
+    "question": "La gale est causée par :",
+    "options": [
+      "Dermatophytes",
+      "Virus",
+      "Sarcoptes scabiei",
+      "Bactéries"
+    ],
+    "answer": "Sarcoptes scabiei"
+  },
+  {
+    "id": 49,
+    "question": "Un nævus congénital géant augmente le risque de :",
+    "options": [
+      "Psoriasis",
+      "Mélanome",
+      "Gale",
+      "Lichen plan"
+    ],
+    "answer": "Mélanome"
+  },
+  {
+    "id": 50,
+    "question": "Quel traitement est indiqué en première intention dans l’eczéma atopique modéré ?",
+    "options": [
+      "Antibiotiques",
+      "Corticoïdes topiques",
+      "Photothérapie",
+      "Rétinoïdes"
+    ],
+    "answer": "Corticoïdes topiques"
+  }
 ]
