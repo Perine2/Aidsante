@@ -1,0 +1,112 @@
+[
+    {
+        "numero": 1,
+        "question": "Quel test est indispensable pour diagnostiquer une BPCO ?",
+        "options": [
+            "Radiographie thoracique",
+            "Scanner thoracique",
+            "Gaz du sang",
+            "Spirométrie"
+        ],
+        "reponse": "D"
+    },
+    {
+        "numero": 2,
+        "question": "Quelle est la principale cause de l’asthme allergique ?",
+        "options": [
+            "Pollution",
+            "Acariens",
+            "Infection bactérienne",
+            "Tabac"
+        ],
+        "reponse": "B"
+    },
+    {
+        "numero": 3,
+        "question": "Quel signe radiologique est typique d’un pneumothorax ?",
+        "options": [
+            "Opacité hiliaire",
+            "Déviation médiastinale",
+            "Hyperclarté apicale sans trame vasculaire",
+            "Lignes de Kerley"
+        ],
+        "reponse": "C"
+    },
+    {
+        "numero": 4,
+        "question": "Quelle est la durée minimale du traitement d’une tuberculose pulmonaire sensible ?",
+        "options": [
+            "2 mois",
+            "4 mois",
+            "6 mois",
+            "9 mois"
+        ],
+        "reponse": "C"
+    },
+    {
+        "numero": 5,
+        "question": "Quelle est la principale complication de l’embolie pulmonaire ?",
+        "options": [
+            "Hémoptysie",
+            "Pneumothorax",
+            "Infarctus pulmonaire",
+            "Œdème aigu du poumon"
+        ],
+        "reponse": "C"
+    },
+    {
+        "numero": 6,
+        "question": "Quelle bactérie est la plus souvent impliquée dans les pneumonies communautaires ?",
+        "options": [
+            "Klebsiella pneumoniae",
+            "Haemophilus influenzae",
+            "Streptococcus pneumoniae",
+            "Mycobacterium tuberculosis"
+        ],
+        "reponse": "C"
+    },
+    {
+        "numero": 7,
+        "question": "Dans l’asthme, quel médicament est utilisé en traitement de fond ?",
+        "options": [
+            "Salbutamol",
+            "Béclométhasone",
+            "Ipratropium",
+            "Montélukast"
+        ],
+        "reponse": "B"
+    },
+    {
+        "numero": 8,
+        "question": "Quel est l’effet indésirable principal des corticoïdes inhalés ?",
+        "options": [
+            "Œdème de Quincke",
+            "Dysphonie et candidose buccale",
+            "Hyperkaliémie",
+            "Hypotension"
+        ],
+        "reponse": "B"
+    },
+    {
+        "numero": 9,
+        "question": "Quelle est la définition de l’hypoxémie ?",
+        "options": [
+            "PaCO₂ > 45 mmHg",
+            "PaO₂ < 80 mmHg",
+            "pH < 7,35",
+            "SaO₂ > 95 %"
+        ],
+        "reponse": "B"
+    },
+    {
+        "numero": 10,
+        "question": "Quelle anomalie est retrouvée dans la fibrose pulmonaire idiopathique ?",
+        "options": [
+            "Obstruction bronchique",
+            "Hyperinflation",
+            "Syndrome restrictif",
+            "Syndrome pleural"
+        ],
+        "reponse": "C"
+    }
+]
