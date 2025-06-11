@@ -1,0 +1,112 @@
+[
+    {
+        "numero": 1,
+        "question": "Quelle est la cause la plus fréquente d’infection urinaire chez l’homme ?",
+        "options": [
+            "Virus",
+            "Escherichia coli",
+            "Champignons",
+            "Protéus mirabilis"
+        ],
+        "reponse": "Escherichia coli"
+    },
+    {
+        "numero": 2,
+        "question": "Quel est le symptôme principal d'une hyperplasie bénigne de la prostate (HBP) ?",
+        "options": [
+            "Fièvre élevée",
+            "Douleur testiculaire",
+            "Jet urinaire faible et mictions fréquentes",
+            "Sang dans les selles"
+        ],
+        "reponse": "Jet urinaire faible et mictions fréquentes"
+    },
+    {
+        "numero": 3,
+        "question": "Quel examen est recommandé en première intention pour évaluer un globe vésical ?",
+        "options": [
+            "IRM pelvienne",
+            "Échographie vésicale",
+            "Uroscanner",
+            "Toucher rectal"
+        ],
+        "reponse": "Échographie vésicale"
+    },
+    {
+        "numero": 4,
+        "question": "Quelle pathologie est souvent liée à une douleur testiculaire aiguë chez l’adolescent ?",
+        "options": [
+            "Hernie inguinale",
+            "Prostatite",
+            "Torsion du cordon spermatique",
+            "Épididymite chronique"
+        ],
+        "reponse": "Torsion du cordon spermatique"
+    },
+    {
+        "numero": 5,
+        "question": "Quelle est l’indication d’un toucher rectal chez un homme de plus de 50 ans ?",
+        "options": [
+            "Examen de la rate",
+            "Détection de calculs",
+            "Dépistage du cancer de la prostate",
+            "Recherche de varicocèle"
+        ],
+        "reponse": "Dépistage du cancer de la prostate"
+    },
+    {
+        "numero": 6,
+        "question": "Quel test sanguin est utilisé dans le suivi du cancer de la prostate ?",
+        "options": [
+            "Créatinine",
+            "PSA (antigène prostatique spécifique)",
+            "Glycémie",
+            "Hémoglobine"
+        ],
+        "reponse": "PSA (antigène prostatique spécifique)"
+    },
+    {
+        "numero": 7,
+        "question": "Une pyélonéphrite aiguë est une infection de :",
+        "options": [
+            "La vessie",
+            "L’un ou les deux reins",
+            "L’urètre",
+            "La prostate"
+        ],
+        "reponse": "L’un ou les deux reins"
+    },
+    {
+        "numero": 8,
+        "question": "Quel traitement est proposé en urgence pour une rétention aiguë d’urine ?",
+        "options": [
+            "Sonde urinaire à demeure",
+            "Antibiotiques oraux",
+            "Chirurgie immédiate",
+            "Lavage vésical"
+        ],
+        "reponse": "Sonde urinaire à demeure"
+    },
+    {
+        "numero": 9,
+        "question": "Quelle anomalie urinaire est typique dans la colique néphrétique ?",
+        "options": [
+            "Glucose urinaire",
+            "Hématurie microscopique",
+            "Protéinurie abondante",
+            "Nitrites positifs"
+        ],
+        "reponse": "Hématurie microscopique"
+    },
+    {
+        "numero": 10,
+        "question": "Le cancer du testicule survient surtout chez :",
+        "options": [
+            "Les hommes âgés (> 60 ans)",
+            "Les jeunes hommes (15–35 ans)",
+            "Les enfants",
+            "Les femmes"
+        ],
+        "reponse": "Les jeunes hommes (15–35 ans)"
+    }
+]
