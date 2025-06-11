@@ -1,0 +1,102 @@
+{
+  "1": {
+    "question": "Quelle structure de l'œil est responsable de la mise au point des images sur la rétine ?",
+    "options": [
+      "Rétine",
+      "Cornée",
+      "Cristallin",
+      "Iris"
+    ],
+    "answer": "Cristallin"
+  },
+  "2": {
+    "question": "Quelle maladie est la cause la plus fréquente de cécité irréversible dans le monde ?",
+    "options": [
+      "Cataracte",
+      "Dégénérescence maculaire liée à l’âge (DMLA)",
+      "Glaucome",
+      "Kératite"
+    ],
+    "answer": "Glaucome"
+  },
+  "3": {
+    "question": "Quel est le principal symptôme de la cataracte ?",
+    "options": [
+      "Douleur oculaire",
+      "Perte périphérique de vision",
+      "Vision floue progressive",
+      "Sécheresse oculaire"
+    ],
+    "answer": "Vision floue progressive"
+  },
+  "4": {
+    "question": "Quel test mesure la pression intraoculaire ?",
+    "options": [
+      "Ophtalmoscopie",
+      "OCT",
+      "Tonometry",
+      "Réfractométrie"
+    ],
+    "answer": "Tonometry"
+  },
+  "5": {
+    "question": "Quelle affection provoque des corps flottants et des éclairs lumineux soudains ?",
+    "options": [
+      "Conjonctivite",
+      "Cataracte",
+      "Décollement de rétine",
+      "Glaucome"
+    ],
+    "answer": "Décollement de rétine"
+  },
+  "6": {
+    "question": "Quel est le traitement principal d’un glaucome à angle ouvert ?",
+    "options": [
+      "Corticoïdes",
+      "Antibiotiques",
+      "Collyres hypotenseurs (ex. bêta-bloquants)",
+      "Greffe de cornée"
+    ],
+    "answer": "Collyres hypotenseurs (ex. bêta-bloquants)"
+  },
+  "7": {
+    "question": "Quelle anomalie réfractive est causée par un globe oculaire trop long ?",
+    "options": [
+      "Hypermétropie",
+      "Myopie",
+      "Astigmatisme",
+      "Presbytie"
+    ],
+    "answer": "Myopie"
+  },
+  "8": {
+    "question": "Quelle est la fonction de la rétine ?",
+    "options": [
+      "Contrôler la quantité de lumière",
+      "Protéger l’œil",
+      "Convertir la lumière en impulsions nerveuses",
+      "Maintenir la forme de l’œil"
+    ],
+    "answer": "Convertir la lumière en impulsions nerveuses"
+  },
+  "9": {
+    "question": "Quel test est utilisé pour diagnostiquer la DMLA ?",
+    "options": [
+      "Test de Schirmer",
+      "Tomographie par cohérence optique (OCT)",
+      "Pachymétrie",
+      "Tonographie"
+    ],
+    "answer": "Tomographie par cohérence optique (OCT)"
+  },
+  "10": {
+    "question": "Quelle est la principale cause infectieuse de cécité dans les pays en développement ?",
+    "options": [
+      "Trachome",
+      "Uvéite",
+      "Herpès oculaire",
+      "Blépharite"
+    ],
+    "answer": "Trachome"
+  }
+}
