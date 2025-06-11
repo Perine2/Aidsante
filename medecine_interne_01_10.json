@@ -1,0 +1,112 @@
+[
+    {
+        "id": 1,
+        "question": "Quelle est la triade classique du syndrome de Sjögren ?",
+        "options": [
+            "Douleurs articulaires, éruption cutanée, fièvre",
+            "Xérostomie, xérophtalmie, arthralgies",
+            "Anémie, hématurie, toux",
+            "Dyspnée, tachycardie, oedème"
+        ],
+        "answer": "Xérostomie, xérophtalmie, arthralgies"
+    },
+    {
+        "id": 2,
+        "question": "Quel anticorps est typiquement associé au lupus érythémateux disséminé ?",
+        "options": [
+            "Anti-CCP",
+            "Anti-DNA natif",
+            "Anti-dsDNA",
+            "Anti-centromère"
+        ],
+        "answer": "Anti-dsDNA"
+    },
+    {
+        "id": 3,
+        "question": "Une cause fréquente de vascularite à ANCA est :",
+        "options": [
+            "Sarcoïdose",
+            "Sclérodermie",
+            "Granulomatose avec polyangéite (Wegener)",
+            "Syndrome de Marfan"
+        ],
+        "answer": "Granulomatose avec polyangéite (Wegener)"
+    },
+    {
+        "id": 4,
+        "question": "Le syndrome néphrotique est caractérisé par :",
+        "options": [
+            "Hématurie et HTA",
+            "Protéinurie >3 g/j, hypoalbuminémie, œdèmes",
+            "Polyurie et perte de poids",
+            "Glycosurie et acidose"
+        ],
+        "answer": "Protéinurie >3 g/j, hypoalbuminémie, œdèmes"
+    },
+    {
+        "id": 5,
+        "question": "Quel est le traitement de première intention de la polyarthrite rhumatoïde ?",
+        "options": [
+            "Corticoïdes",
+            "Méthotrexate",
+            "Anti-TNF en monothérapie",
+            "Paracétamol"
+        ],
+        "answer": "Méthotrexate"
+    },
+    {
+        "id": 6,
+        "question": "L’atteinte pulmonaire la plus fréquente dans la sclérodermie diffuse est :",
+        "options": [
+            "Embolie pulmonaire",
+            "Pneumothorax",
+            "Fibrose pulmonaire interstitielle",
+            "Tuberculose"
+        ],
+        "answer": "Fibrose pulmonaire interstitielle"
+    },
+    {
+        "id": 7,
+        "question": "Quelle anomalie biologique évoque un syndrome des antiphospholipides ?",
+        "options": [
+            "Thrombocytose",
+            "Allongement du TCA isolé",
+            "Hypokaliémie",
+            "Hypoglycémie"
+        ],
+        "answer": "Allongement du TCA isolé"
+    },
+    {
+        "id": 8,
+        "question": "Quel signe est spécifique du syndrome de Raynaud ?",
+        "options": [
+            "Cyanose persistante des extrémités",
+            "Triphasie : blancheur, cyanose, rougeur",
+            "Oedème de Quincke",
+            "Hyperthermie digitale"
+        ],
+        "answer": "Triphasie : blancheur, cyanose, rougeur"
+    },
+    {
+        "id": 9,
+        "question": "Quelle est la principale complication de la maladie de Behçet ?",
+        "options": [
+            "Arthrose",
+            "Thrombose veineuse profonde et anévrisme",
+            "Kératite sèche",
+            "Psoriasis"
+        ],
+        "answer": "Thrombose veineuse profonde et anévrisme"
+    },
+    {
+        "id": 10,
+        "question": "Le lupus peut toucher tous les organes, mais l’atteinte la plus grave est :",
+        "options": [
+            "Articulaire",
+            "Rénale (lupus néphrite)",
+            "Cutanée",
+            "ORL"
+        ],
+        "answer": "Rénale (lupus néphrite)"
+    }
+]
