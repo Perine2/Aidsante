@@ -1,112 +1,548 @@
 [
     {
-        "numero": 1,
-        "question": "Quel test est indispensable pour diagnostiquer une BPCO ?",
-        "options": [
-            "Radiographie thoracique",
-            "Scanner thoracique",
-            "Gaz du sang",
-            "Spirométrie"
-        ],
-        "reponse": "D"
-    },
-    {
-        "numero": 2,
-        "question": "Quelle est la principale cause de l’asthme allergique ?",
-        "options": [
-            "Pollution",
-            "Acariens",
-            "Infection bactérienne",
-            "Tabac"
-        ],
-        "reponse": "B"
-    },
-    {
-        "numero": 3,
-        "question": "Quel signe radiologique est typique d’un pneumothorax ?",
-        "options": [
-            "Opacité hiliaire",
-            "Déviation médiastinale",
-            "Hyperclarté apicale sans trame vasculaire",
-            "Lignes de Kerley"
-        ],
-        "reponse": "C"
-    },
-    {
-        "numero": 4,
-        "question": "Quelle est la durée minimale du traitement d’une tuberculose pulmonaire sensible ?",
-        "options": [
-            "2 mois",
-            "4 mois",
-            "6 mois",
-            "9 mois"
-        ],
-        "reponse": "C"
-    },
-    {
-        "numero": 5,
-        "question": "Quelle est la principale complication de l’embolie pulmonaire ?",
-        "options": [
-            "Hémoptysie",
-            "Pneumothorax",
-            "Infarctus pulmonaire",
-            "Œdème aigu du poumon"
-        ],
-        "reponse": "C"
-    },
-    {
-        "numero": 6,
-        "question": "Quelle bactérie est la plus souvent impliquée dans les pneumonies communautaires ?",
-        "options": [
-            "Klebsiella pneumoniae",
-            "Haemophilus influenzae",
-            "Streptococcus pneumoniae",
-            "Mycobacterium tuberculosis"
-        ],
-        "reponse": "C"
-    },
-    {
-        "numero": 7,
-        "question": "Dans l’asthme, quel médicament est utilisé en traitement de fond ?",
-        "options": [
-            "Salbutamol",
-            "Béclométhasone",
-            "Ipratropium",
-            "Montélukast"
-        ],
-        "reponse": "B"
-    },
-    {
-        "numero": 8,
-        "question": "Quel est l’effet indésirable principal des corticoïdes inhalés ?",
-        "options": [
-            "Œdème de Quincke",
-            "Dysphonie et candidose buccale",
-            "Hyperkaliémie",
-            "Hypotension"
-        ],
-        "reponse": "B"
-    },
-    {
-        "numero": 9,
-        "question": "Quelle est la définition de l’hypoxémie ?",
-        "options": [
-            "PaCO₂ > 45 mmHg",
-            "PaO₂ < 80 mmHg",
-            "pH < 7,35",
-            "SaO₂ > 95 %"
-        ],
-        "reponse": "B"
-    },
-    {
-        "numero": 10,
-        "question": "Quelle anomalie est retrouvée dans la fibrose pulmonaire idiopathique ?",
-        "options": [
-            "Obstruction bronchique",
-            "Hyperinflation",
-            "Syndrome restrictif",
-            "Syndrome pleural"
-        ],
-        "reponse": "C"
-    }
+    "id": 1,
+    "question": "Quel test est indispensable pour diagnostiquer une BPCO ?",
+    "options": [
+      "Radiographie thoracique",
+      "Scanner thoracique",
+      "Gaz du sang",
+      "Spirométrie"
+    ],
+    "answer": "Spirométrie"
+  },
+  {
+    "id": 2,
+    "question": "Quelle est la principale cause de l’asthme allergique ?",
+    "options": [
+      "Pollution",
+      "Acariens",
+      "Infection bactérienne",
+      "Tabac"
+    ],
+    "answer": "Acariens"
+  },
+  {
+    "id": 3,
+    "question": "Quel signe radiologique est typique d’un pneumothorax ?",
+    "options": [
+      "Opacité hiliaire",
+      "Déviation médiastinale",
+      "Hyperclarté apicale sans trame vasculaire",
+      "Lignes de Kerley"
+    ],
+    "answer": "Hyperclarté apicale sans trame vasculaire"
+  },
+  {
+    "id": 4,
+    "question": "Quelle est la durée minimale du traitement d’une tuberculose pulmonaire sensible ?",
+    "options": [
+      "2 mois",
+      "4 mois",
+      "6 mois",
+      "9 mois"
+    ],
+    "answer": "6 mois"
+  },
+  {
+    "id": 5,
+    "question": "Quelle est la principale complication de l’embolie pulmonaire ?",
+    "options": [
+      "Hémoptysie",
+      "Pneumothorax",
+      "Infarctus pulmonaire",
+      "Œdème aigu du poumon"
+    ],
+    "answer": "Infarctus pulmonaire"
+  },
+  {
+    "id": 6,
+    "question": "Quelle bactérie est la plus souvent impliquée dans les pneumonies communautaires ?",
+    "options": [
+      "Klebsiella pneumoniae",
+      "Haemophilus influenzae",
+      "Streptococcus pneumoniae",
+      "Mycobacterium tuberculosis"
+    ],
+    "answer": "Streptococcus pneumoniae"
+  },
+  {
+    "id": 7,
+    "question": "Dans l’asthme, quel médicament est utilisé en traitement de fond ?",
+    "options": [
+      "Salbutamol",
+      "Béclométhasone",
+      "Ipratropium",
+      "Montélukast"
+    ],
+    "answer": "Béclométhasone"
+  },
+  {
+    "id": 8,
+    "question": "Quel est l’effet indésirable principal des corticoïdes inhalés ?",
+    "options": [
+      "Œdème de Quincke",
+      "Dysphonie et candidose buccale",
+      "Hyperkaliémie",
+      "Hypotension"
+    ],
+    "answer": "Dysphonie et candidose buccale"
+  },
+  {
+    "id": 9,
+    "question": "Quelle est la définition de l’hypoxémie ?",
+    "options": [
+      "PaCO₂ > 45 mmHg",
+      "PaO₂ < 80 mmHg",
+      "pH < 7,35",
+      "SaO₂ > 95 %"
+    ],
+    "answer": "PaO₂ < 80 mmHg"
+  },
+  {
+    "id": 10,
+    "question": "Quelle anomalie est retrouvée dans la fibrose pulmonaire idiopathique ?",
+    "options": [
+      "Obstruction bronchique",
+      "Hyperinflation",
+      "Syndrome restrictif",
+      "Syndrome pleural"
+    ],
+    "answer": "Syndrome restrictif"
+  },{
+    "id": 11,
+    "question": "Quel est le rôle de la VNI (ventilation non invasive) ?",
+    "options": [
+      "Supprimer le besoin en oxygène",
+      "Prévenir les infections",
+      "Améliorer les échanges gazeux sans intubation",
+      "Réduire la température corporelle"
+    ],
+    "answer": "Améliorer les échanges gazeux sans intubation"
+  },
+  {
+    "id": 12,
+    "question": "Quelle est la cause la plus fréquente d’exacerbation de BPCO ?",
+    "options": [
+      "Thrombose veineuse profonde",
+      "Reflux gastro-œsophagien",
+      "Infection respiratoire",
+      "Prise d’anticoagulants"
+    ],
+    "answer": "Infection respiratoire"
+  },
+  {
+    "id": 13,
+    "question": "Quelle spirométrie confirme un syndrome obstructif ?",
+    "options": [
+      "VEMS/CVF > 0,8",
+      "VEMS/CVF < 0,7",
+      "VEMS normal",
+      "CVF > 100 %"
+    ],
+    "answer": "VEMS/CVF < 0,7"
+  },
+  {
+    "id": 14,
+    "question": "Quelle est la mesure initiale en cas d’asthme aigu sévère ?",
+    "options": [
+      "Antibiotiques",
+      "Ventoline (salbutamol) en aérosol répété",
+      "Diurétiques",
+      "Morphine"
+    ],
+    "answer": "Ventoline (salbutamol) en aérosol répété"
+  },
+  {
+    "id": 15,
+    "question": "Une toux chronique > 8 semaines, sans anomalie à la radio, évoque souvent :",
+    "options": [
+      "Fibrose",
+      "Cancer",
+      "Reflux gastro-œsophagien",
+      "Tuberculose"
+    ],
+    "answer": "Reflux gastro-œsophagien"
+  },
+  {
+    "id": 16,
+    "question": "Quelle est l'indication principale du test de marche de 6 minutes ?",
+    "options": [
+      "Diagnostiquer l’asthme",
+      "Évaluer l'endurance cardiovasculaire",
+      "Mesurer la désaturation à l'effort",
+      "Détecter une embolie"
+    ],
+    "answer": "Mesurer la désaturation à l'effort"
+  },
+  {
+    "id": 17,
+    "question": "Le syndrome d’apnées du sommeil est confirmé par :",
+    "options": [
+      "Scanner thoracique",
+      "Capnographie",
+      "Polysomnographie",
+      "Spirométrie"
+    ],
+    "answer": "Polysomnographie"
+  },
+  {
+    "id": 18,
+    "question": "Quel signe clinique est évocateur d’emphysème pulmonaire ?",
+    "options": [
+      "Thorax en tonneau",
+      "Toux productive",
+      "Râles crépitants",
+      "Hippocratisme digital"
+    ],
+    "answer": "Thorax en tonneau"
+  },
+  {
+    "id": 19,
+    "question": "Quelle pathologie donne classiquement une hémoptysie ?",
+    "options": [
+      "Asthme",
+      "BPCO",
+      "Tuberculose",
+      "Pneumothorax"
+    ],
+    "answer": "Tuberculose"
+  },
+  {
+    "id": 20,
+    "question": "Une hypercapnie est définie par :",
+    "options": [
+      "PaCO₂ < 35 mmHg",
+      "PaCO₂ > 45 mmHg",
+      "PaO₂ < 60 mmHg",
+      "pH > 7,45"
+    ],
+    "answer": "PaCO₂ > 45 mmHg"
+  },{
+    "id": 21,
+    "question": "Quel est le rôle des bronchodilatateurs bêta-2 agonistes ?",
+    "options": [
+      "Augmenter la fréquence cardiaque",
+      "Diminuer les sécrétions bronchiques",
+      "Relaxer les muscles lisses des bronches",
+      "Réduire la perméabilité capillaire"
+    ],
+    "answer": "Relaxer les muscles lisses des bronches"
+  },
+  {
+    "id": 22,
+    "question": "Quelle est la cause principale de la fibrose pulmonaire dans les pays développés ?",
+    "options": [
+      "Asbestose",
+      "Sarcoïdose",
+      "Fibrose pulmonaire idiopathique",
+      "Tuberculose"
+    ],
+    "answer": "Fibrose pulmonaire idiopathique"
+  },
+  {
+    "id": 23,
+    "question": "Quel est le rôle du surfactant pulmonaire ?",
+    "options": [
+      "Augmenter la compliance thoracique",
+      "Réduire la tension superficielle alvéolaire",
+      "Favoriser les échanges gazeux",
+      "Améliorer le transport du dioxyde de carbone"
+    ],
+    "answer": "Réduire la tension superficielle alvéolaire"
+  },
+  {
+    "id": 24,
+    "question": "Le score de Wells est utilisé pour :",
+    "options": [
+      "Diagnostiquer l’asthme",
+      "Évaluer le risque d’embolie pulmonaire",
+      "Dépister la tuberculose",
+      "Classer la BPCO"
+    ],
+    "answer": "Évaluer le risque d’embolie pulmonaire"
+  },
+  {
+    "id": 25,
+    "question": "La dyspnée de décubitus est typique de :",
+    "options": [
+      "Asthme",
+      "Pneumonie",
+      "Insuffisance cardiaque",
+      "Embolie pulmonaire"
+    ],
+    "answer": "Insuffisance cardiaque"
+  },
+  {
+    "id": 26,
+    "question": "Quel examen est le plus sensible pour détecter une embolie pulmonaire ?",
+    "options": [
+      "Radiographie thoracique",
+      "Échodoppler veineux",
+      "Angioscanner thoracique",
+      "ECG"
+    ],
+    "answer": "Angioscanner thoracique"
+  },
+  {
+    "id": 27,
+    "question": "Quel gaz est principalement responsable de l’effet Bohr ?",
+    "options": [
+      "CO₂",
+      "N₂",
+      "H₂",
+      "O₂"
+    ],
+    "answer": "CO₂"
+  },
+  {
+    "id": 28,
+    "question": "Le syndrome de Löffler est lié à :",
+    "options": [
+      "Parasitoses pulmonaires",
+      "Infections bactériennes",
+      "Fumeurs chroniques",
+      "Asbestose"
+    ],
+    "answer": "Parasitoses pulmonaires"
+  },
+  {
+    "id": 29,
+    "question": "Quelle est la cause la plus fréquente d’hypoxémie aiguë ?",
+    "options": [
+      "Syndrome restrictif",
+      "Hyperventilation",
+      "Trouble de la diffusion",
+      "Trouble de la ventilation-perfusion"
+    ],
+    "answer": "Trouble de la ventilation-perfusion"
+  },
+  {
+    "id": 30,
+    "question": "Une bronchiolite est le plus souvent causée par :",
+    "options": [
+      "Streptocoque",
+      "Virus respiratoire syncytial",
+      "Pneumocoque",
+      "Chlamydia"
+    ],
+    "answer": "Virus respiratoire syncytial"
+  },{
+    "id": 31,
+    "question": "Quel traitement est utilisé en cas de pneumonie à pneumocoque sans facteur de risque ?",
+    "options": [
+      "Pénicilline",
+      "Amoxicilline",
+      "Ciprofloxacine",
+      "Gentamicine"
+    ],
+    "answer": "Amoxicilline"
+  },
+  {
+    "id": 32,
+    "question": "La principale contre-indication à la VNI est :",
+    "options": [
+      "Acidose respiratoire",
+      "État de conscience altéré",
+      "Hypercapnie",
+      "Hypoxémie modérée"
+    ],
+    "answer": "État de conscience altéré"
+  },
+  {
+    "id": 33,
+    "question": "Quelle est la conséquence physiologique de l’hyperventilation ?",
+    "options": [
+      "Hypoxie",
+      "Hypocapnie",
+      "Acidose métabolique",
+      "Hyperkaliémie"
+    ],
+    "answer": "Hypocapnie"
+  },
+  {
+    "id": 34,
+    "question": "Quelle est la particularité de la sarcoïdose pulmonaire ?",
+    "options": [
+      "Infection fongique",
+      "Nodules cancéreux",
+      "Granulomes non caséeux",
+      "Fibrose apicale"
+    ],
+    "answer": "Granulomes non caséeux"
+  },
+  {
+    "id": 35,
+    "question": "Quel est le principal facteur de risque du cancer bronchopulmonaire ?",
+    "options": [
+      "Pollution",
+      "Tabac",
+      "Inhalation de silice",
+      "Génétique"
+    ],
+    "answer": "Tabac"
+  },
+  {
+    "id": 36,
+    "question": "Quelle anomalie de l’hémogramme est fréquente dans les infections respiratoires aiguës ?",
+    "options": [
+      "Lymphopénie",
+      "Anémie ferriprive",
+      "Hyperéosinophilie",
+      "Hyperleucocytose neutrophile"
+    ],
+    "answer": "Hyperleucocytose neutrophile"
+  },
+  {
+    "id": 37,
+    "question": "La mesure du NO exhalé est utile dans :",
+    "options": [
+      "BPCO",
+      "Fibrose",
+      "Embolie pulmonaire",
+      "Asthme"
+    ],
+    "answer": "Asthme"
+  },
+  {
+    "id": 38,
+    "question": "Le syndrome restrictif est caractérisé par :",
+    "options": [
+      "VEMS diminué, CVF augmentée",
+      "VEMS et CVF diminués, rapport normal",
+      "Rapport VEMS/CVF diminué",
+      "Résistance augmentée"
+    ],
+    "answer": "VEMS et CVF diminués, rapport normal"
+  },
+  {
+    "id": 39,
+    "question": "L’hémoptysie massive se définit par un volume supérieur à :",
+    "options": [
+      "100 ml/j",
+      "200 ml/j",
+      "500 ml/j",
+      "1000 ml/j"
+    ],
+    "answer": "500 ml/j"
+  },
+  {
+    "id": 40,
+    "question": "La silice est impliquée dans :",
+    "options": [
+      "La sarcoïdose",
+      "La silicose",
+      "L’emphysème",
+      "La tuberculose miliaire"
+    ],
+    "answer": "La silicose"
+  },{
+    "id": 41,
+    "question": "Quel signe n’est pas typique de l’asthme ?",
+    "options": [
+      "Sifflements expiratoires",
+      "Toux nocturne",
+      "Crépitants",
+      "Dyspnée réversible"
+    ],
+    "answer": "Crépitants"
+  },
+  {
+    "id": 42,
+    "question": "La physiopathologie de l’asthme repose sur :",
+    "options": [
+      "Destruction des alvéoles",
+      "Bronchospasme, inflammation et hypersécrétion",
+      "Fibrose interstitielle",
+      "Vasoconstriction artérielle pulmonaire"
+    ],
+    "answer": "Bronchospasme, inflammation et hypersécrétion"
+  },
+  {
+    "id": 43,
+    "question": "Une BPCO sévère se définit par un VEMS :",
+    "options": [
+      "> 80 %",
+      "60–80 %",
+      "30–50 %",
+      "< 30 %"
+    ],
+    "answer": "30–50 %"
+  },
+  {
+    "id": 44,
+    "question": "Un pneumothorax sous tension peut entraîner :",
+    "options": [
+      "Bradycardie",
+      "Œdème pulmonaire",
+      "Choc obstructif",
+      "Choc anaphylactique"
+    ],
+    "answer": "Choc obstructif"
+  },
+  {
+    "id": 45,
+    "question": "Le test tuberculinique est positif si l’induration est :",
+    "options": [
+      "> 2 mm",
+      "> 5 mm",
+      "> 10 mm",
+      "> 15 mm"
+    ],
+    "answer": "> 10 mm"
+  },
+  {
+    "id": 46,
+    "question": "L’atélectasie correspond à :",
+    "options": [
+      "Hyperinflation d’un lobe",
+      "Infection lobaire",
+      "Affaissement d’un territoire pulmonaire",
+      "Obstruction de l’œsophage"
+    ],
+    "answer": "Affaissement d’un territoire pulmonaire"
+  },
+  {
+    "id": 47,
+    "question": "Quelle maladie donne typiquement des râles crépitants secs bilatéraux ?",
+    "options": [
+      "Pneumonie lobaire",
+      "Fibrose pulmonaire",
+      "Asthme",
+      "Bronchiectasie"
+    ],
+    "answer": "Fibrose pulmonaire"
+  },
+  {
+    "id": 48,
+    "question": "Le tabagisme passif augmente le risque de :",
+    "options": [
+      "BPCO",
+      "Asthme",
+      "Cancer pulmonaire",
+      "Toutes les réponses"
+    ],
+    "answer": "Toutes les réponses"
+  },
+  {
+    "id": 49,
+    "question": "L’index de Tiffeneau correspond à :",
+    "options": [
+      "VEMS/VEM1",
+      "VEMS/CVF",
+      "CVF/VR",
+      "VR/CPT"
+    ],
+    "answer": "VEMS/CVF"
+  },
+  {
+    "id": 50,
+    "question": "L’oxygénothérapie au long cours est indiquée si :",
+    "options": [
+      "PaO₂ < 65 mmHg",
+      "PaO₂ < 60 mmHg",
+      "PaO₂ < 55 mmHg",
+      "PaO₂ > 75 mmHg"
+    ],
+    "answer": "PaO₂ < 55 mmHg"
+  }
 ]
