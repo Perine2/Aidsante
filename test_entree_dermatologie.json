@@ -1,0 +1,112 @@
+[
+    {
+        "numero": 1,
+        "question": "Quelle est la cause la plus fréquente d’acné chez l’adulte ?",
+        "options": [
+            "Staphylococcus aureus",
+            "Candida albicans",
+            "Hyperandrogénie",
+            "Hypothyroïdie"
+        ],
+        "reponse": "C"
+    },
+    {
+        "numero": 2,
+        "question": "Quel est le traitement de première intention du psoriasis léger à modéré ?",
+        "options": [
+            "Rétinoïdes systémiques",
+            "Photothérapie",
+            "Corticoïdes topiques",
+            "Méthotrexate"
+        ],
+        "reponse": "C"
+    },
+    {
+        "numero": 3,
+        "question": "Quel germe est responsable de l’impétigo ?",
+        "options": [
+            "Pseudomonas aeruginosa",
+            "Streptococcus pyogenes",
+            "Escherichia coli",
+            "Candida tropicalis"
+        ],
+        "reponse": "B"
+    },
+    {
+        "numero": 4,
+        "question": "Quelle lésion est typiquement présente dans l’eczéma ?",
+        "options": [
+            "Papule kératosique",
+            "Vésicule prurigineuse",
+            "Pustule purulente",
+            "Ulcère nécrosé"
+        ],
+        "reponse": "B"
+    },
+    {
+        "numero": 5,
+        "question": "Quel type de cancer cutané est le plus fréquent ?",
+        "options": [
+            "Mélanome",
+            "Carcinome basocellulaire",
+            "Carcinome spinocellulaire",
+            "Lymphome cutané"
+        ],
+        "reponse": "B"
+    },
+    {
+        "numero": 6,
+        "question": "Quelle est la principale cause de perte de cheveux diffuse chez la femme ?",
+        "options": [
+            "Pelade",
+            "Effluvium télogène",
+            "Teigne inflammatoire",
+            "Alopécie androgénétique"
+        ],
+        "reponse": "B"
+    },
+    {
+        "numero": 7,
+        "question": "Quelle substance provoque le plus souvent une dermatite de contact allergique ?",
+        "options": [
+            "Nickel",
+            "Acide salicylique",
+            "Vaseline",
+            "Talc"
+        ],
+        "reponse": "A"
+    },
+    {
+        "numero": 8,
+        "question": "La teigne du cuir chevelu est causée par :",
+        "options": [
+            "Des bactéries anaérobies",
+            "Des virus",
+            "Des dermatophytes",
+            "Des parasites"
+        ],
+        "reponse": "C"
+    },
+    {
+        "numero": 9,
+        "question": "Quel examen confirme une infection fongique des ongles ?",
+        "options": [
+            "Dermatoscopie",
+            "Culture bactérienne",
+            "Grattage + examen direct + culture fongique",
+            "Prise de sang"
+        ],
+        "reponse": "C"
+    },
+    {
+        "numero": 10,
+        "question": "Une plaque érythémato-squameuse en anneau évoque :",
+        "options": [
+            "Psoriasis",
+            "Lupus discoïde",
+            "Teigne corporelle",
+            "Urticaire"
+        ],
+        "reponse": "C"
+    }
+]
