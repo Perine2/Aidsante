@@ -1,0 +1,112 @@
+[
+  {
+    "numero": 1,
+    "question": "Quelle est la cause la plus fréquente d'otite externe ?",
+    "options": [
+      "Virus",
+      "Bactéries (Pseudomonas aeruginosa)",
+      "Champignons",
+      "Corps étranger"
+    ],
+    "reponse": "Bactéries (Pseudomonas aeruginosa)"
+  },
+  {
+    "numero": 2,
+    "question": "Quel nerf est principalement responsable de l’audition ?",
+    "options": [
+      "Vague (X)",
+      "Facial (VII)",
+      "Vestibulocochléaire (VIII)",
+      "Trijumeau (V)"
+    ],
+    "reponse": "Vestibulocochléaire (VIII)"
+  },
+  {
+    "numero": 3,
+    "question": "Quelle structure sépare l’oreille externe de l’oreille moyenne ?",
+    "options": [
+      "Os temporal",
+      "Trompe d’Eustache",
+      "Tympan",
+      "Fenêtre ronde"
+    ],
+    "reponse": "Tympan"
+  },
+  {
+    "numero": 4,
+    "question": "Quelle est la cause la plus fréquente de surdité de transmission chez l’enfant ?",
+    "options": [
+      "Traumatisme crânien",
+      "Otite séreuse chronique",
+      "Otosclérose",
+      "Infection virale"
+    ],
+    "reponse": "Otite séreuse chronique"
+  },
+  {
+    "numero": 5,
+    "question": "Quel est le traitement initial d’une épistaxis antérieure bénigne ?",
+    "options": [
+      "Ligature artérielle",
+      "Compression digitale et glaçage",
+      "Antibiotiques",
+      "Corticoïdes nasaux"
+    ],
+    "reponse": "Compression digitale et glaçage"
+  },
+  {
+    "numero": 6,
+    "question": "Une perte brutale de l’audition unilatérale évoque :",
+    "options": [
+      "Otite externe",
+      "Surdité brusque neurosensorielle",
+      "Rhinite allergique",
+      "Adénopathie"
+    ],
+    "reponse": "Surdité brusque neurosensorielle"
+  },
+  {
+    "numero": 7,
+    "question": "La maladie de Ménière associe :",
+    "options": [
+      "Vertiges, acouphènes, surdité fluctuante",
+      "Acouphènes, paralysie faciale, fièvre",
+      "Otalgie, toux, fièvre",
+      "Rhinorrhée, congestion nasale, éternuements"
+    ],
+    "reponse": "Vertiges, acouphènes, surdité fluctuante"
+  },
+  {
+    "numero": 8,
+    "question": "Quel examen confirme une perforation tympanique ?",
+    "options": [
+      "Scanner des sinus",
+      "Otoscopie",
+      "Audiométrie",
+      "Tympanométrie"
+    ],
+    "reponse": "Otoscopie"
+  },
+  {
+    "numero": 9,
+    "question": "Le nerf facial traverse :",
+    "options": [
+      "Le nasopharynx",
+      "L’oreille moyenne",
+      "Les fosses nasales",
+      "Le larynx"
+    ],
+    "reponse": "L’oreille moyenne"
+  },
+  {
+    "numero": 10,
+    "question": "Quel germe est le plus souvent responsable d’angine bactérienne ?",
+    "options": [
+      "Streptococcus pneumoniae",
+      "Streptococcus pyogenes (GAS)",
+      "Haemophilus influenzae",
+      "Staphylococcus aureus"
+    ],
+    "reponse": "Streptococcus pyogenes (GAS)"
+  }
+]
