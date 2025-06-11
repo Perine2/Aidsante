@@ -1,0 +1,112 @@
+[
+    {
+        "numero": 1,
+        "question": "Quel est le premier geste à réaliser en cas de suspicion d’arrêt cardiaque ?",
+        "options": [
+            "Donner des médicaments",
+            "Vérifier la conscience et la respiration, puis appeler les secours",
+            "Mettre en position latérale de sécurité",
+            "Prendre la tension artérielle"
+        ],
+        "reponse": "Vérifier la conscience et la respiration, puis appeler les secours"
+    },
+    {
+        "numero": 2,
+        "question": "Quelle est la fréquence recommandée des compressions thoraciques chez l’adulte ?",
+        "options": [
+            "60 par minute",
+            "100 à 120 par minute",
+            "140 par minute",
+            "80 à 100 par minute"
+        ],
+        "reponse": "100 à 120 par minute"
+    },
+    {
+        "numero": 3,
+        "question": "Quelle est la dose initiale d’adrénaline lors d’un arrêt cardiaque chez l’adulte ?",
+        "options": [
+            "0,1 mg",
+            "1 mg en IV/IO toutes les 3-5 min",
+            "10 mg",
+            "5 mg en IM"
+        ],
+        "reponse": "1 mg en IV/IO toutes les 3-5 min"
+    },
+    {
+        "numero": 4,
+        "question": "Quelle est la première étape du triage en situation de catastrophe ?",
+        "options": [
+            "Chirurgie immédiate",
+            "Évaluation rapide de l’état vital",
+            "Transport à l’hôpital",
+            "ECG systématique"
+        ],
+        "reponse": "Évaluation rapide de l’état vital"
+    },
+    {
+        "numero": 5,
+        "question": "Quel est le traitement d’un choc anaphylactique ?",
+        "options": [
+            "Antihistaminiques oraux",
+            "Adrénaline IM en urgence",
+            "Corticoïdes seuls",
+            "Oxygène seulement"
+        ],
+        "reponse": "Adrénaline IM en urgence"
+    },
+    {
+        "numero": 6,
+        "question": "En cas de suspicion d’AVC aigu, quel examen faut-il réaliser en premier ?",
+        "options": [
+            "Électroencéphalogramme",
+            "Scanner cérébral sans injection",
+            "IRM avec injection",
+            "Échographie carotidienne"
+        ],
+        "reponse": "Scanner cérébral sans injection"
+    },
+    {
+        "numero": 7,
+        "question": "Un patient polytraumatisé avec hypotension doit recevoir :",
+        "options": [
+            "Repos",
+            "Diurétiques",
+            "Remplissage vasculaire + recherche d’un saignement actif",
+            "Antibiotiques"
+        ],
+        "reponse": "Remplissage vasculaire + recherche d’un saignement actif"
+    },
+    {
+        "numero": 8,
+        "question": "Quel est le score utilisé pour évaluer la gravité d’un traumatisme crânien ?",
+        "options": [
+            "Échelle de Glasgow",
+            "Score CHADS",
+            "Score de Wells",
+            "Score d’Apgar"
+        ],
+        "reponse": "Échelle de Glasgow"
+    },
+    {
+        "numero": 9,
+        "question": "Quelle est la valeur normale de la saturation en oxygène (SpO2) chez un adulte sain ?",
+        "options": [
+            "70 à 80 %",
+            "85 à 90 %",
+            "95 à 100 %",
+            "60 à 70 %"
+        ],
+        "reponse": "95 à 100 %"
+    },
+    {
+        "numero": 10,
+        "question": "En cas de crise d’asthme sévère, quel médicament est administré en premier ?",
+        "options": [
+            "Antihistaminiques",
+            "Salbutamol en aérosol ou nébulisation",
+            "Antibiotiques",
+            "Furosémide"
+        ],
+        "reponse": "Salbutamol en aérosol ou nébulisation"
+    }
+]
