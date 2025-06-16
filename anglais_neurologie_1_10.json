@@ -1,0 +1,314 @@
+[
+  {
+    "question": "1. Quelle est la principale cause d’AVC ischémique ?",
+    "options": [
+      "Tumeur cérébrale",
+      "Hémorragie méningée",
+      "Thrombose artérielle ou embolie",
+      "Hypoglycémie"
+    ],
+    "answer": "Thrombose artérielle ou embolie"
+  },
+  {
+    "question": "2. Une hémiplégie droite avec aphasie évoque une lésion dans :",
+    "options": [
+      "Hémisphère droit",
+      "Hémisphère gauche (aire de Broca)",
+      "Tronc cérébral",
+      "Cervelet"
+    ],
+    "answer": "Hémisphère gauche (aire de Broca)"
+  },
+  {
+    "question": "3. Quelle est la triade classique de la maladie de Parkinson ?",
+    "options": [
+      "Amnésie, apathie, hallucinations",
+      "Tremblement de repos, akinésie, rigidité",
+      "Hémiplégie, paralysie faciale, aphasie",
+      "Vertige, céphalée, diplopie"
+    ],
+    "answer": "Tremblement de repos, akinésie, rigidité"
+  },
+  {
+    "question": "4. Le traitement de référence de la maladie de Parkinson est :",
+    "options": [
+      "Corticoïdes",
+      "Lévodopa (L-DOPA)",
+      "Diazépam",
+      "Bêtabloquants"
+    ],
+    "answer": "Lévodopa (L-DOPA)"
+  },
+  {
+    "question": "5. Quel examen est le plus utile dans le diagnostic d’épilepsie ?",
+    "options": [
+      "Scanner",
+      "Électroencéphalogramme (EEG)",
+      "ECG",
+      "Ponction lombaire"
+    ],
+    "answer": "Électroencéphalogramme (EEG)"
+  },
+  {
+    "question": "6. L’aura dans l’épilepsie est :",
+    "options": [
+      "Un symptôme sensoriel annonciateur d’une crise",
+      "Une période post-critique",
+      "Un état de mal épileptique",
+      "Une hallucination"
+    ],
+    "answer": "Un symptôme sensoriel annonciateur d’une crise"
+  },
+  {
+    "question": "7. Une paralysie faciale périphérique se reconnaît par :",
+    "options": [
+      "Atteinte de toute l’hémiface, y compris le front",
+      "Atteinte uniquement de la bouche",
+      "Absence de troubles moteurs",
+      "Spasmes faciaux isolés"
+    ],
+    "answer": "Atteinte de toute l’hémiface, y compris le front"
+  },
+  {
+    "question": "8. La sclérose en plaques est une maladie :",
+    "options": [
+      "Génétique dominante",
+      "Auto-immune démyélinisante du SNC",
+      "Vasculaire",
+      "Infectieuse chronique"
+    ],
+    "answer": "Auto-immune démyélinisante du SNC"
+  },
+  {
+    "question": "9. La névralgie du trijumeau provoque :",
+    "options": [
+      "Paresthésies des 4 membres",
+      "Douleurs faciales unilatérales paroxystiques",
+      "Diplopie",
+      "Douleurs cervicales bilatérales"
+    ],
+    "answer": "Douleurs faciales unilatérales paroxystiques"
+  },
+  {
+    "question": "10. Une diplopie avec ptose palpébrale chez un jeune adulte évoque :",
+    "options": [
+      "AVC",
+      "Migraine",
+      "Myasthénie",
+      "SLA"
+    ],
+    "answer": "Myasthénie"
+  },{
+        "id": 11,
+        "question": "L’AVC hémorragique est souvent lié à :",
+        "options": ["Hypotension", "Hypertension artérielle", "Hypoglycémie", "Carence en fer"],
+        "answer": "Hypertension artérielle"
+    },
+    {
+        "id": 12,
+        "question": "L’aphasie de Broca est caractérisée par :",
+        "options": [
+            "Trouble de l’expression orale avec compréhension conservée",
+            "Trouble de compréhension uniquement",
+            "Mutisme complet",
+            "Paroles fluides mais incohérentes"
+        ],
+        "answer": "Trouble de l’expression orale avec compréhension conservée"
+    },
+    {
+        "id": 13,
+        "question": "Un syndrome cérébelleux entraîne typiquement :",
+        "options": ["Spasticité", "Paralysie", "Ataxie, dysarthrie, tremblements d’intention", "Perte de mémoire"],
+        "answer": "Ataxie, dysarthrie, tremblements d’intention"
+    },
+    {
+        "id": 14,
+        "question": "Quelle est la principale complication d’un status epilepticus ?",
+        "options": [
+            "Détresse respiratoire et séquelles neurologiques",
+            "Paralysie faciale",
+            "Fièvre",
+            "Hallucinations auditives"
+        ],
+        "answer": "Détresse respiratoire et séquelles neurologiques"
+    },
+    {
+        "id": 15,
+        "question": "Un test couramment utilisé pour la mémoire immédiate est :",
+        "options": [
+            "EEG",
+            "IRM",
+            "Test des 3 mots – 3 objets (Mini-Mental)",
+            "EMG"
+        ],
+        "answer": "Test des 3 mots – 3 objets (Mini-Mental)"
+    },
+    {
+        "id": 16,
+        "question": "Une méningite bactérienne aiguë peut provoquer :",
+        "options": [
+            "Dyspnée",
+            "Jaunisse",
+            "Raideur de nuque, fièvre, céphalées",
+            "Toux productive"
+        ],
+        "answer": "Raideur de nuque, fièvre, céphalées"
+    },
+    {
+        "id": 17,
+        "question": "Quel nerf crânien contrôle la vision ?",
+        "options": ["III", "II (nerf optique)", "V", "VII"],
+        "answer": "II (nerf optique)"
+    },
+    {
+        "id": 18,
+        "question": "Le syndrome de Guillain-Barré est une :",
+        "options": [
+            "Encéphalite virale",
+            "Polyradiculonévrite aiguë post-infectieuse",
+            "Tumeur du cervelet",
+            "Sclérose combinée de la moelle"
+        ],
+        "answer": "Polyradiculonévrite aiguë post-infectieuse"
+    },
+    {
+        "id": 19,
+        "question": "Le principal symptôme d’une hémorragie méningée est :",
+        "options": [
+            "Convulsion",
+            "Céphalée en coup de tonnerre",
+            "Paralysie d’un membre",
+            "Fièvre seule"
+        ],
+        "answer": "Céphalée en coup de tonnerre"
+    },
+    {
+        "id": 20,
+        "question": "Quel médicament est utilisé dans le traitement de la myasthénie grave ?",
+        "options": [
+            "Gabapentine",
+            "Pyridostigmine (anti-acétylcholinestérasique)",
+            "Propranolol",
+            "Diazépam"
+        ],
+        "answer": "Pyridostigmine (anti-acétylcholinestérasique)"
+    }, {
+        "question_num": 31,
+        "question": "La maladie de Huntington est :",
+        "options": ["Auto-immune", "Héréditaire autosomique dominante", "Infectieuse", "Mitochondriale"],
+        "answer": "Héréditaire autosomique dominante"
+    },
+    {
+        "question_num": 32,
+        "question": "Le test du doigt-nez évalue :",
+        "options": ["La mémoire", "La coordination cérébelleuse", "L’audition", "L’olfaction"],
+        "answer": "La coordination cérébelleuse"
+    },
+    {
+        "question_num": 33,
+        "question": "Le réflexe de Babinski est positif lorsque :",
+        "options": ["Extension du gros orteil à la stimulation plantaire", "Flexion du pied", "Contraction du mollet", "Aucun mouvement"],
+        "answer": "Extension du gros orteil à la stimulation plantaire"
+    },
+    {
+        "question_num": 34,
+        "question": "Le traitement initial d’un AVC ischémique aigu peut inclure :",
+        "options": ["Aspirine IV", "Thrombolyse par rt-PA si conditions remplies", "Bêtabloquant", "Lévétiracétam"],
+        "answer": "Thrombolyse par rt-PA si conditions remplies"
+    },
+    {
+        "question_num": 35,
+        "question": "Une agnosie est :",
+        "options": ["Un trouble moteur", "Une incapacité à reconnaître un objet malgré une fonction sensorielle intacte", "Une amnésie", "Une hallucination"],
+        "answer": "Une incapacité à reconnaître un objet malgré une fonction sensorielle intacte"
+    },
+    {
+        "question_num": 36,
+        "question": "Quelle est la principale cause de crise d’épilepsie chez le patient âgé ?",
+        "options": ["Traumatisme", "AVC", "Tumeur", "Hypocalcémie"],
+        "answer": "AVC"
+    },
+    {
+        "question_num": 37,
+        "question": "Le syndrome pyramidal se manifeste par :",
+        "options": ["Hypotonie", "Spasticité, hyperréflexie, signe de Babinski", "Myoclonie", "Hyporéflexie"],
+        "answer": "Spasticité, hyperréflexie, signe de Babinski"
+    },
+    {
+        "question_num": 38,
+        "question": "Le nerf crânien X est aussi appelé :",
+        "options": ["Trijumeau", "Facial", "Vague (vagus)", "Vestibulaire"],
+        "answer": "Vague (vagus)"
+    },
+    {
+        "question_num": 39,
+        "question": "Le traitement de la SEP en poussée est :",
+        "options": ["Antiviraux", "Corticothérapie IV (méthylprednisolone)", "Antiépileptiques", "Immunoglobulines"],
+        "answer": "Corticothérapie IV (méthylprednisolone)"
+    },
+    {
+        "question_num": 40,
+        "question": "L’encéphalopathie hépatique peut causer :",
+        "options": ["Sclérose", "Troubles de conscience et astérixis", "Épilepsie chronique", "AVC"],
+        "answer": "Troubles de conscience et astérixis"
+    }, {
+        "num": 41,
+        "question": "L’IRM de diffusion est utile pour diagnostiquer :",
+        "options": ["AVC ischémique très précoce", "SEP", "Méningite", "Maladie de Charcot"],
+        "answer": "AVC ischémique très précoce"
+    },
+    {
+        "num": 42,
+        "question": "Une mydriase unilatérale fixe peut indiquer :",
+        "options": ["AVC bulbaire", "Hypotension", "Engagement cérébral (hernie tentorielle)", "Trouble psychiatrique"],
+        "answer": "Engagement cérébral (hernie tentorielle)"
+    },
+    {
+        "num": 43,
+        "question": "Le syndrome de la queue de cheval nécessite :",
+        "options": ["Urgence chirurgicale (décompression)", "Rééducation", "Scanner abdominal", "Antibiotiques IV"],
+        "answer": "Urgence chirurgicale (décompression)"
+    },
+    {
+        "num": 44,
+        "question": "Le traitement de la névralgie du trijumeau est souvent :",
+        "options": ["AINS", "Carbamazépine", "Antidépresseurs", "Propranolol"],
+        "answer": "Carbamazépine"
+    },
+    {
+        "num": 45,
+        "question": "Une atrophie hippocampique bilatérale est typique de :",
+        "options": ["SLA", "Alzheimer", "SEP", "Encéphalite herpétique"],
+        "answer": "Alzheimer"
+    },
+    {
+        "num": 46,
+        "question": "La diplégie spastique est fréquente dans :",
+        "options": ["AVC", "Paralysie cérébrale infantile", "Guillain-Barré", "SEP"],
+        "answer": "Paralysie cérébrale infantile"
+    },
+    {
+        "num": 47,
+        "question": "Le LCR clair avec hyperprotéinorachie sans pleiocytose évoque :",
+        "options": ["Méningite virale", "SEP", "Guillain-Barré", "Hémorragie sous-arachnoïdienne"],
+        "answer": "Guillain-Barré"
+    },
+    {
+        "num": 48,
+        "question": "L’encéphalite herpétique touche préférentiellement :",
+        "options": ["Lobes temporaux", "Moelle épinière", "Cervelet", "Tronc cérébral"],
+        "answer": "Lobes temporaux"
+    },
+    {
+        "num": 49,
+        "question": "La dystonie est :",
+        "options": ["Une crise d’épilepsie partielle", "Contraction musculaire involontaire soutenue", "Un trouble du langage", "Une perte d’équilibre"],
+        "answer": "Contraction musculaire involontaire soutenue"
+    },
+    {
+        "num": 50,
+        "question": "Le principal signe précoce de tumeur cérébrale est :",
+        "options": ["Fièvre", "Céphalées progressives matinales avec vomissements", "Dysurie", "Diplopie bilatérale"],
+        "answer": "Céphalées progressives matinales avec vomissements"
+    }
+]
