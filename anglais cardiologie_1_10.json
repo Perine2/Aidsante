@@ -1,0 +1,398 @@
+[
+  {
+    "id": 1,
+    "question": "Quelle est la valeur seuil définissant l’hypertension artérielle chez l’adulte ?",
+    "options": [
+      "120/70 mmHg",
+      "130/80 mmHg",
+      "140/90 mmHg",
+      "150/95 mmHg"
+    ],
+    "answer": "140/90 mmHg"
+  },
+  {
+    "id": 2,
+    "question": "Quelle est la cause la plus fréquente d'infarctus du myocarde ?",
+    "options": [
+      "Spasme coronarien",
+      "Thrombose sur plaque d’athérome",
+      "Embolie pulmonaire",
+      "Dissection aortique"
+    ],
+    "answer": "Thrombose sur plaque d’athérome"
+  },
+  {
+    "id": 3,
+    "question": "Quel est le traitement de première intention de l'hypertension essentielle ?",
+    "options": [
+      "Digitaliques",
+      "Diurétiques ou IEC/ARA2",
+      "Statines",
+      "Bêta-bloquants seuls"
+    ],
+    "answer": "Diurétiques ou IEC/ARA2"
+  },
+  {
+    "id": 4,
+    "question": "Quelle anomalie est typiquement observée à l’ECG lors d’un infarctus aigu du myocarde ?",
+    "options": [
+      "Onde P élargie",
+      "Bloc AV",
+      "Sus-décalage du segment ST",
+      "Bradycardie sinusale"
+    ],
+    "answer": "Sus-décalage du segment ST"
+  },
+  {
+    "id": 5,
+    "question": "Le souffle systolique du rétrécissement aortique est :",
+    "options": [
+      "Diastolique, apexien",
+      "Systolique, irradiant vers le dos",
+      "Systolique, irradiant vers les carotides",
+      "Systolique, non irradié"
+    ],
+    "answer": "Systolique, irradiant vers les carotides"
+  },
+  {
+    "id": 6,
+    "question": "Le principal facteur de risque cardiovasculaire modifiable est :",
+    "options": [
+      "Sexe masculin",
+      "Tabagisme",
+      "Antécédents familiaux",
+      "Âge"
+    ],
+    "answer": "Tabagisme"
+  },
+  {
+    "id": 7,
+    "question": "La fibrillation auriculaire se caractérise par :",
+    "options": [
+      "Bradycardie régulière",
+      "Onde P bien visible",
+      "Rythme irrégulier sans onde P visible",
+      "Rythme sinusal lent"
+    ],
+    "answer": "Rythme irrégulier sans onde P visible"
+  },
+  {
+    "id": 8,
+    "question": "Le score CHA2DS2-VASc évalue :",
+    "options": [
+      "Risque hémorragique",
+      "Risque thromboembolique chez les patients en FA",
+      "Risque d’infarctus",
+      "Risque de dissection aortique"
+    ],
+    "answer": "Risque thromboembolique chez les patients en FA"
+  },
+  {
+    "id": 9,
+    "question": "Quel examen est le plus utilisé pour confirmer une embolie pulmonaire ?",
+    "options": [
+      "Radiographie thoracique",
+      "ECG",
+      "Angio-scanner thoracique",
+      "Échodoppler des jambes"
+    ],
+    "answer": "Angio-scanner thoracique"
+  },
+  {
+    "id": 10,
+    "question": "Quel est l’effet secondaire classique des IEC ?",
+    "options": [
+      "Bradycardie",
+      "Hypokaliémie",
+      "Toux sèche",
+      "Hyperglycémie"
+    ],
+    "answer": "Toux sèche"
+  },{
+        "id": 11,
+        "question": "L’insuffisance cardiaque à fraction d’éjection préservée (IC-FEP) correspond à :",
+        "options": ["Fraction d’éjection < 40%", "Cardiomégalie", "Fraction d’éjection ≥ 50% avec signes d’IC", "Valvulopathie sévère"],
+        "answer": "Fraction d’éjection ≥ 50% avec signes d’IC"
+    },
+    {
+        "id": 12,
+        "question": "L'angine de poitrine stable est généralement déclenchée par :",
+        "options": ["Repos", "Effort physique", "Sommeil", "Boissons froides"],
+        "answer": "Effort physique"
+    },
+    {
+        "id": 13,
+        "question": "L’enzyme cardiaque la plus spécifique pour le diagnostic d’IDM est :",
+        "options": ["LDH", "CK-MB", "Troponine T/I", "Myoglobine"],
+        "answer": "Troponine T/I"
+    },
+    {
+        "id": 14,
+        "question": "Une élévation du BNP indique :",
+        "options": ["Un infarctus", "Une insuffisance cardiaque", "Une embolie pulmonaire", "Une endocardite"],
+        "answer": "Une insuffisance cardiaque"
+    },
+    {
+        "id": 15,
+        "question": "Quel est le traitement de l’angor stable ?",
+        "options": ["Fibrinolyse", "Bêtabloquants + nitrés + anti-agrégants", "Diurétiques", "Antibiotiques"],
+        "answer": "Bêtabloquants + nitrés + anti-agrégants"
+    },
+    {
+        "id": 16,
+        "question": "La bradycardie sinusale se définit par une fréquence :",
+        "options": ["<100 bpm", "<60 bpm", "<80 bpm", "<50 bpm"],
+        "answer": "<60 bpm"
+    },
+    {
+        "id": 17,
+        "question": "Le syndrome coronarien aigu sans sus-décalage ST (NSTEMI) se traite en urgence avec :",
+        "options": ["Nitrés seuls", "Anti-agrégants + anticoagulants + cathétérisme", "Corticoïdes", "Digitaliques"],
+        "answer": "Anti-agrégants + anticoagulants + cathétérisme"
+    },
+    {
+        "id": 18,
+        "question": "Le souffle d’insuffisance mitrale est :",
+        "options": ["Diastolique rude", "Systolique doux", "Holosystolique irradiant vers l’aisselle", "Télédiastolique apexien"],
+        "answer": "Holosystolique irradiant vers l’aisselle"
+    },
+    {
+        "id": 19,
+        "question": "Quel examen est essentiel dans le suivi d’une valvulopathie ?",
+        "options": ["Échocardiographie transthoracique", "Coronarographie", "Scanner", "ECG"],
+        "answer": "Échocardiographie transthoracique"
+    },
+    {
+        "id": 20,
+        "question": "Le traitement de l’hypercholestérolémie repose principalement sur :",
+        "options": ["Diurétiques", "Statines", "Nitrés", "Anticoagulants"],
+        "answer": "Statines"
+    },{
+        "id": 21,
+        "question": "Le QT long peut entraîner :",
+        "options": ["Infarctus", "Péricardite", "Torsades de pointes", "Flutter auriculaire"],
+        "answer": "Torsades de pointes"
+    },
+    {
+        "id": 22,
+        "question": "Quelle est la principale cause de mort subite chez le jeune sportif ?",
+        "options": ["Athérosclérose", "Cardiomyopathie hypertrophique", "Infarctus du myocarde", "Valvulopathie aortique"],
+        "answer": "Cardiomyopathie hypertrophique"
+    },
+    {
+        "id": 23,
+        "question": "Le traitement d’un flutter auriculaire est :",
+        "options": ["Cardioversion + anticoagulation", "Statines", "Béta-bloquants seuls", "Pose de stent"],
+        "answer": "Cardioversion + anticoagulation"
+    },
+    {
+        "id": 24,
+        "question": "Le péricardite aiguë se manifeste typiquement par :",
+        "options": ["Douleur à l’effort", "Douleur thoracique soulagée par l’antéflexion", "Douleur irradiant au bras gauche", "Palpitations"],
+        "answer": "Douleur thoracique soulagée par l’antéflexion"
+    },
+    {
+        "id": 25,
+        "question": "Un souffle en \"claquement protosystolique\" évoque :",
+        "options": ["Rétrécissement mitral", "Prolapsus mitral", "Insuffisance aortique", "Péricardite"],
+        "answer": "Prolapsus mitral"
+    },
+    {
+        "id": 26,
+        "question": "Une dissection aortique est évoquée devant :",
+        "options": ["Douleur abdominale isolée", "Douleur thoracique transfixiante irradiant dans le dos", "Palpitations", "Œdèmes des membres inférieurs"],
+        "answer": "Douleur thoracique transfixiante irradiant dans le dos"
+    },
+    {
+        "id": 27,
+        "question": "Quelle est la principale complication d’un infarctus du myocarde transmural ?",
+        "options": ["Fibrillation auriculaire", "Rupture de paroi ou choc cardiogénique", "Hyperthyroïdie", "Péricardite sèche"],
+        "answer": "Rupture de paroi ou choc cardiogénique"
+    },
+    {
+        "id": 28,
+        "question": "L’endocardite infectieuse touche préférentiellement :",
+        "options": ["Le myocarde", "Les valves cardiaques", "Les artères coronaires", "Le péricarde"],
+        "answer": "Les valves cardiaques"
+    },
+    {
+        "id": 29,
+        "question": "La cardiomyopathie dilatée se caractérise par :",
+        "options": ["Dilatation et hypokinésie ventriculaire gauche", "Hypertrophie septale", "Valvulopathie mitrale", "Bradycardie sinusale"],
+        "answer": "Dilatation et hypokinésie ventriculaire gauche"
+    },
+    {
+        "id": 30,
+        "question": "Quelle est la complication la plus fréquente de l’hypertension non contrôlée ?",
+        "options": ["AVC", "Hypoglycémie", "Maladie de Basedow", "Arthrite"],
+        "answer": "AVC"
+    },{
+        "numero": 31,
+        "question": "Quelle est la cible tensionnelle recommandée chez un patient hypertendu <65 ans sans comorbidité ?",
+        "options": ["<150/90 mmHg", "<130/100 mmHg", "<130/80 mmHg", "<120/70 mmHg"],
+        "reponse": "<130/80 mmHg"
+    },
+    {
+        "numero": 32,
+        "question": "L’athérosclérose débute :",
+        "options": ["Très tôt dès l’enfance", "À l’adolescence", "Après 50 ans", "Après la ménopause uniquement"],
+        "reponse": "Très tôt dès l’enfance"
+    },
+    {
+        "numero": 33,
+        "question": "La claudication intermittente est un signe de :",
+        "options": ["Valvulopathie", "Hypertension", "Artériopathie oblitérante des membres inférieurs (AOMI)", "Péricardite chronique"],
+        "reponse": "Artériopathie oblitérante des membres inférieurs (AOMI)"
+    },
+    {
+        "numero": 34,
+        "question": "Quel médicament est contre-indiqué dans la sténose aortique serrée ?",
+        "options": ["Diurétiques", "Vasodilatateurs (ex. : nitrés)", "Digitaliques", "Statines"],
+        "reponse": "Vasodilatateurs (ex. : nitrés)"
+    },
+    {
+        "numero": 35,
+        "question": "La réadaptation cardiaque post-infarctus vise à :",
+        "options": ["Guérir la coronaropathie", "Prévenir les récidives et améliorer le pronostic", "Éviter la chirurgie", "Réduire la consommation d’oxygène"],
+        "reponse": "Prévenir les récidives et améliorer le pronostic"
+    },
+    {
+        "numero": 36,
+        "question": "Une syncope d’effort chez un adolescent évoque :",
+        "options": ["Cardiomyopathie hypertrophique", "Bloc AV de premier degré", "Péricardite virale", "Syndrome de WPW"],
+        "reponse": "Cardiomyopathie hypertrophique"
+    },
+    {
+        "numero": 37,
+        "question": "Le syndrome de Wolff-Parkinson-White se caractérise par :",
+        "options": ["Bloc AV complet", "Onde delta et PR court à l’ECG", "Tachycardie sinusale", "QT court"],
+        "reponse": "Onde delta et PR court à l’ECG"
+    },
+    {
+        "numero": 38,
+        "question": "En cas de sténose mitrale, l’auscultation révèle :",
+        "options": ["Souffle systolique irradiant aux carotides", "Roulement diastolique au foyer mitral", "Claquement d’éjection", "Frottement péricardique"],
+        "reponse": "Roulement diastolique au foyer mitral"
+    },
+    {
+        "numero": 39,
+        "question": "Le traitement du QT long congénital repose sur :",
+        "options": ["Statines", "Bêta-bloquants", "Anticoagulants", "Nitrés"],
+        "reponse": "Bêta-bloquants"
+    },
+    {
+        "numero": 40,
+        "question": "L’indication d’un pacemaker est formelle en cas de :",
+        "options": ["Fibrillation auriculaire", "Bloc de branche droit", "Bloc AV complet symptomatique", "QT long"],
+        "reponse": "Bloc AV complet symptomatique"
+    }, {
+        "id": 41,
+        "question": "Quel examen permet de détecter une ischémie myocardique silencieuse ?",
+        "options": [
+            "Radiographie thoracique",
+            "Échocardiographie au repos",
+            "Épreuve d’effort (test d’effort ECG)",
+            "Scanner abdominal"
+        ],
+        "answer": "Épreuve d’effort (test d’effort ECG)"
+    },
+    {
+        "id": 42,
+        "question": "L’anticoagulant oral le plus utilisé aujourd’hui est :",
+        "options": [
+            "Héparine",
+            "Warfarine",
+            "Apixaban ou Rivaroxaban",
+            "Clopidogrel"
+        ],
+        "answer": "Apixaban ou Rivaroxaban"
+    },
+    {
+        "id": 43,
+        "question": "Le signe auscultatoire d’un frottement péricardique est typique de :",
+        "options": [
+            "Endocardite",
+            "Péricardite aiguë",
+            "Sténose mitrale",
+            "Insuffisance tricuspide"
+        ],
+        "answer": "Péricardite aiguë"
+    },
+    {
+        "id": 44,
+        "question": "Quel est le rôle du Clopidogrel ?",
+        "options": [
+            "Diurétique",
+            "Anticoagulant",
+            "Anti-agrégant plaquettaire",
+            "Hypolipémiant"
+        ],
+        "answer": "Anti-agrégant plaquettaire"
+    },
+    {
+        "id": 45,
+        "question": "Quelle est l’action des statines ?",
+        "options": [
+            "Anticoagulant",
+            "Baisse de la glycémie",
+            "Réduction du LDL-cholestérol",
+            "Augmentation du HDL"
+        ],
+        "answer": "Réduction du LDL-cholestérol"
+    },
+    {
+        "id": 46,
+        "question": "Une embolie pulmonaire massive provoque typiquement :",
+        "options": [
+            "Douleur thoracique lente",
+            "Toux chronique",
+            "Dyspnée brutale + tachycardie",
+            "Expectoration purulente"
+        ],
+        "answer": "Dyspnée brutale + tachycardie"
+    },
+    {
+        "id": 47,
+        "question": "Une douleur thoracique aggravée par l’inspiration profonde est évocatrice de :",
+        "options": [
+            "Infarctus",
+            "Angine de poitrine",
+            "Péricardite ou embolie pulmonaire",
+            "Anévrisme aortique"
+        ],
+        "answer": "Péricardite ou embolie pulmonaire"
+    },
+    {
+        "id": 48,
+        "question": "Le score de Wells est utilisé pour :",
+        "options": [
+            "Evaluer la gravité de l’infarctus",
+            "Diagnostiquer l’HTA",
+            "Evaluer la probabilité d’embolie pulmonaire",
+            "Estimer le risque hémorragique"
+        ],
+        "answer": "Evaluer la probabilité d’embolie pulmonaire"
+    },
+    {
+        "id": 49,
+        "question": "L’angioplastie coronaire est indiquée en urgence lors de :",
+        "options": [
+            "Bradycardie sévère",
+            "Angor stable",
+            "Infarctus du myocarde avec sus-décalage ST (STEMI)",
+            "Endocardite bactérienne"
+        ],
+        "answer": "Infarctus du myocarde avec sus-décalage ST (STEMI)"
+    },
+    {
+        "id": 50,
+        "question": "Une insuffisance cardiaque droite isolée entraîne typiquement :",
+        "options": [
+            "Œdèmes des membres inférieurs, turgescence jugulaire, hépatomégalie",
+            "Dyspnée au repos",
+            "OAP",
+            "Épanchement pleural bilatéral"
+        ],
+        "answer": "Œdèmes des membres inférieurs, turgescence jugulaire, hépatomégalie"
+    }
+]
