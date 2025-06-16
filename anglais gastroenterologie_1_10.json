@@ -1,388 +1,490 @@
 [
   {
-    "numero": 1,
-    "question": "Quel est le principal facteur de risque du cancer bronchique ?",
-    "options": [
-      "Pollution",
-      "Tabagisme",
-      "Alcool",
-      "Antécédents familiaux"
-    ],
-    "reponse_correcte": "Tabagisme"
-  },
-  {
-    "numero": 2,
-    "question": "L’asthme est une maladie caractérisée par :",
-    "options": [
-      "Une infection bactérienne chronique",
-      "Une inflammation des voies respiratoires avec bronchoconstriction réversible",
-      "Une fibrose pulmonaire irréversible",
-      "Un collapsus alvéolaire permanent"
-    ],
-    "reponse_correcte": "Une inflammation des voies respiratoires avec bronchoconstriction réversible"
-  },
-  {
-    "numero": 3,
-    "question": "Le traitement de fond de l’asthme repose sur :",
-    "options": [
-      "Antibiotiques",
-      "Corticoïdes inhalés",
-      "Antihistaminiques",
-      "Nitrés"
-    ],
-    "reponse_correcte": "Corticoïdes inhalés"
-  },
-  {
-    "numero": 4,
-    "question": "Quelle est la triade classique de la BPCO ?",
-    "options": [
-      "Fièvre, toux, douleurs thoraciques",
-      "Toux chronique, expectorations, dyspnée progressive",
-      "Toux sèche, hémoptysie, sueurs",
-      "Douleur pleurale, crépitants, cyanose"
-    ],
-    "reponse_correcte": "Toux chronique, expectorations, dyspnée progressive"
-  },
-  {
-    "numero": 5,
-    "question": "Le diagnostic positif de la BPCO repose sur :",
-    "options": [
-      "Radiographie thoracique",
-      "Spirométrie montrant un VEMS/CVF < 70 % post-bronchodilatateur",
-      "ECG",
-      "Scanner thoracique"
-    ],
-    "reponse_correcte": "Spirométrie montrant un VEMS/CVF < 70 % post-bronchodilatateur"
-  },
-  {
-    "numero": 6,
-    "question": "Le traitement de première intention dans l'exacerbation aiguë de BPCO est :",
-    "options": [
-      "Antibiotiques seuls",
-      "Bronchodilatateurs + corticoïdes + oxygène si nécessaire",
-      "Statines",
-      "Anticoagulants"
-    ],
-    "reponse_correcte": "Bronchodilatateurs + corticoïdes + oxygène si nécessaire"
-  },
-  {
-    "numero": 7,
-    "question": "Quelle est la cause principale de l’embolie pulmonaire ?",
-    "options": [
-      "Infection virale",
-      "Thrombose veineuse profonde (TVP)",
-      "Asthme",
-      "Tumeur"
-    ],
-    "reponse_correcte": "Thrombose veineuse profonde (TVP)"
-  },
-  {
-    "numero": 8,
-    "question": "Le signe le plus fréquent d’une embolie pulmonaire est :",
-    "options": [
-      "Hémoptysie",
-      "Toux productive",
-      "Dyspnée brutale",
-      "Cyanose"
-    ],
-    "reponse_correcte": "Dyspnée brutale"
-  },
-  {
-    "numero": 9,
-    "question": "Le test de diagnostic initial recommandé en cas de suspicion d’embolie pulmonaire est :",
-    "options": [
-      "Radiographie",
-      "D-dimères + score de Wells",
-      "ECG",
-      "Épreuve fonctionnelle respiratoire"
-    ],
-    "reponse_correcte": "D-dimères + score de Wells"
-  },
-  {
-    "numero": 10,
-    "question": "Le diagnostic de certitude d'une embolie pulmonaire repose sur :",
-    "options": [
-      "Échographie cardiaque",
-      "Angio-scanner thoracique",
-      "Test à la sueur",
-      "GDS"
-    ],
-    "reponse_correcte": "Angio-scanner thoracique"
-  },{
-        "number": 11,
-        "question": "Quelle est la définition de l’hypoxémie ?",
-        "options": ["PaO₂ > 80 mmHg", "SaO₂ > 95 %", "PaO₂ < 60 mmHg", "PaCO₂ > 45 mmHg"],
-        "answer": "PaO₂ < 60 mmHg"
-    },
-    {
-        "number": 12,
-        "question": "Un syndrome interstitiel à la radio est typique de :",
-        "options": ["Pneumothorax", "Fibrose pulmonaire", "Bronchite aiguë", "Emphysème"],
-        "answer": "Fibrose pulmonaire"
-    },
-    {
-        "number": 13,
-        "question": "La toux sèche chronique sans fièvre chez un non-fumeur évoque :",
-        "options": ["Cancer bronchique", "Asthme ou reflux gastro-œsophagien", "Tuberculose", "Pneumonie bactérienne"],
-        "answer": "Asthme ou reflux gastro-œsophagien"
-    },
-    {
-        "number": 14,
-        "question": "Quelle bactérie est souvent en cause dans les pneumonies communautaires ?",
-        "options": ["Escherichia coli", "Streptococcus pneumoniae", "Klebsiella", "Clostridium difficile"],
-        "answer": "Streptococcus pneumoniae"
-    },
-    {
-        "number": 15,
-        "question": "Un pneumothorax spontané touche le plus souvent :",
-        "options": ["Personnes âgées", "Fumeurs âgés", "Hommes jeunes et minces", "Femmes enceintes"],
-        "answer": "Hommes jeunes et minces"
-    },
-    {
-        "number": 16,
-        "question": "L’examen à réaliser pour confirmer un pneumothorax est :",
-        "options": ["Scanner", "Radiographie thoracique", "Épreuve d’effort", "Gaz du sang"],
-        "answer": "Radiographie thoracique"
-    },
-    {
-        "number": 17,
-        "question": "Quelle est la cause principale de la tuberculose ?",
-        "options": ["Virus de la grippe", "Staphylocoque doré", "Mycobacterium tuberculosis", "Candida albicans"],
-        "answer": "Mycobacterium tuberculosis"
-    },
-    {
-        "number": 18,
-        "question": "Le test de Mantoux est utilisé pour :",
-        "options": ["Diagnostiquer l’asthme", "Dépister la tuberculose latente", "Évaluer une embolie", "Tester la fonction respiratoire"],
-        "answer": "Dépister la tuberculose latente"
-    },
-    {
-        "number": 19,
-        "question": "Le traitement de la tuberculose active inclut :",
-        "options": ["Amoxicilline seule", "Isoniazide + Rifampicine + Ethambutol + Pyrazinamide", "Antifongiques", "Bêta-2 mimétiques"],
-        "answer": "Isoniazide + Rifampicine + Ethambutol + Pyrazinamide"
-    },
-    {
-        "number": 20,
-        "question": "Un syndrome obstructif à la spirométrie montre :",
-        "options": ["VEMS augmenté", "CVF augmentée", "VEMS/CVF diminué", "Aucun changement"],
-        "answer": "VEMS/CVF diminué"
-    },{
-        "numero": 21,
-        "question": "Un patient BPCO ne doit pas recevoir en monothérapie :",
-        "options": ["A) Corticoïdes inhalés seuls", "B) Bêta-2 mimétiques", "C) Anticholinergiques", "D) Bronchodilatateurs de longue durée"],
-        "reponse": "A"
-    },
-    {
-        "numero": 22,
-        "question": "Un nodule pulmonaire isolé chez un fumeur doit faire évoquer :",
-        "options": ["A) Cancer bronchique", "B) Sarcoïdose", "C) Pneumonie", "D) Emphysème"],
-        "reponse": "A"
-    },
-    {
-        "numero": 23,
-        "question": "L’hémoptysie massive est définie par :",
-        "options": ["A) 50 mL/24h", "B) >200-600 mL en 24h", "C) Toute trace de sang", "D) Saignement digestif associé"],
-        "reponse": "B"
-    },
-    {
-        "numero": 24,
-        "question": "L’asbestose est une pathologie liée à :",
-        "options": ["A) L’aluminium", "B) L’amiante", "C) Le sable", "D) La silice"],
-        "reponse": "B"
-    },
-    {
-        "numero": 25,
-        "question": "Le syndrome d’apnées du sommeil est diagnostiqué par :",
-        "options": ["A) Scanner thoracique", "B) Polysomnographie", "C) Spirométrie", "D) Radiographie"],
-        "reponse": "B"
-    },
-    {
-        "numero": 26,
-        "question": "L’index d’apnée-hypopnée (IAH) pathologique est :",
-        "options": ["A) IAH > 3", "B) IAH > 5", "C) IAH > 15", "D) IAH > 20"],
-        "reponse": "B"
-    },
-    {
-        "numero": 27,
-        "question": "Le traitement de référence du SAOS est :",
-        "options": ["A) Corticoïdes", "B) Pression positive continue (PPC ou CPAP)", "C) Chirurgie", "D) Antibiotiques"],
-        "reponse": "B"
-    },
-    {
-        "numero": 28,
-        "question": "L'oxygénothérapie au long cours est indiquée si :",
-        "options": ["A) PaO₂ < 55 mmHg au repos", "B) Saturation > 94 %", "C) Dyspnée d’effort seule", "D) Toux chronique"],
-        "reponse": "A"
-    },
-    {
-        "numero": 29,
-        "question": "Une sarcoïdose pulmonaire présente souvent :",
-        "options": ["A) Pneumothorax", "B) Adénopathies hilaires bilatérales", "C) Hyperinflation", "D) Douleurs thoraciques aiguës"],
-        "reponse": "B"
-    },
-    {
-        "numero": 30,
-        "question": "L’inhalation de corps étranger est plus fréquente chez :",
-        "options": ["A) Les enfants", "B) Les sportifs", "C) Les asthmatiques", "D) Les personnes âgées"],
-        "reponse": "A"
-    },{
-        "number": 31,
-        "question": "L’emphysème est caractérisé par :",
-        "options": ["Fibrose alvéolaire", "Destruction des parois alvéolaires", "Infection bronchique", "Œdème interstitiel"],
-        "answer": "Destruction des parois alvéolaires"
-    },
-    {
-        "number": 32,
-        "question": "Le test de la fonction respiratoire ne comprend pas :",
-        "options": ["VEMS", "Hémoculture", "CVF", "Capacité pulmonaire totale"],
-        "answer": "Hémoculture"
-    },
-    {
-        "number": 33,
-        "question": "Quelle pathologie est associée au déficit en alpha-1-antitrypsine ?",
-        "options": ["Fibrose kystique", "Emphysème panlobulaire", "Asthme", "Tuberculose"],
-        "answer": "Emphysème panlobulaire"
-    },
-    {
-        "number": 34,
-        "question": "Le syndrome de Kartagener associe :",
-        "options": ["Asthme, allergies, éosinophilie", "Situs inversus, sinusite, bronchectasies", "Fibrose, cyanose, hypercapnie", "Hémoptysie, épanchement, pneumothorax"],
-        "answer": "Situs inversus, sinusite, bronchectasies"
-    },
-    {
-        "number": 35,
-        "question": "Le principal effet secondaire de la Rifampicine est :",
-        "options": ["Surdité", "Coloration orange des urines et toxicité hépatique", "Myopathie", "Photosensibilité"],
-        "answer": "Coloration orange des urines et toxicité hépatique"
-    },
-    {
-        "number": 36,
-        "question": "Quelle maladie est considérée comme une pneumopathie d’hypersensibilité ?",
-        "options": ["BPCO", "Tuberculose", "Poumon du fermier", "Cancer pulmonaire"],
-        "answer": "Poumon du fermier"
-    },
-    {
-        "number": 37,
-        "question": "Le test de la sueur est utilisé pour diagnostiquer :",
-        "options": ["Mucoviscidose (fibrose kystique)", "Asthme", "Bronchite chronique", "Sarcoïdose"],
-        "answer": "Mucoviscidose (fibrose kystique)"
-    },
-    {
-        "number": 38,
-        "question": "Un élargissement du médiastin à la radio peut évoquer :",
-        "options": ["Pneumonie", "Adénopathies ou dissection aortique", "BPCO", "Pneumothorax"],
-        "answer": "Adénopathies ou dissection aortique"
-    },
-    {
-        "number": 39,
-        "question": "L'hypercapnie correspond à une PaCO₂ :",
-        "options": ["< 35 mmHg", "< 40 mmHg", "> 45 mmHg", "> 100 mmHg"],
-        "answer": "> 45 mmHg"
-    },
-    {
-        "number": 40,
-        "question": "La cyanose centrale s’observe dans :",
-        "options": ["L’urticaire", "Hypoxémie sévère (SaO₂ < 85%)", "Hyperventilation", "Infection urinaire"],
-        "answer": "Hypoxémie sévère (SaO₂ < 85%)"
-    },{
-        "question": "Quel examen permet d’évaluer la diffusion de l’oxygène dans les poumons ?",
-        "options": [
-            "DLCO (diffusing capacity of the lungs for carbon monoxide)",
-            "GDS",
-            "Épreuve d’effort",
-            "Angio-scanner"
-        ],
-        "answer": "DLCO (diffusing capacity of the lungs for carbon monoxide)"
-    },
-    {
-        "question": "Quel vaccin est recommandé chez les BPCO ?",
-        "options": [
-            "ROR",
-            "Pneumocoque + grippe annuelle",
-            "Méningocoque",
-            "Tétanos uniquement"
-        ],
-        "answer": "Pneumocoque + grippe annuelle"
-    },
-    {
-        "question": "Le signe du double contour à la radio suggère :",
-        "options": [
-            "Pneumothorax bilatéral",
-            "Pleurésie massive",
-            "Fibrose",
-            "OAP"
-        ],
-        "answer": "Pleurésie massive"
-    },
-    {
-        "question": "Une hémoptysie avec fièvre, amaigrissement et sueurs nocturnes évoque :",
-        "options": [
-            "Asthme",
-            "Tuberculose pulmonaire",
-            "Embolie pulmonaire",
-            "BPCO"
-        ],
-        "answer": "Tuberculose pulmonaire"
-    },
-    {
-        "question": "Les crépitants en fin d’inspiration sont typiques de :",
-        "options": [
-            "Pneumothorax",
-            "Fibrose pulmonaire",
-            "Asthme",
-            "Apnée du sommeil"
-        ],
-        "answer": "Fibrose pulmonaire"
-    },
-    {
-        "question": "Une respiration rapide, superficielle et inefficace est appelée :",
-        "options": [
-            "Apnée",
-            "Tachycardie",
-            "Polypnée",
-            "Bradyphnée"
-        ],
-        "answer": "Polypnée"
-    },
-    {
-        "question": "Le syndrome obstructif se distingue d’un syndrome restrictif par :",
-        "options": [
-            "Une CVF plus basse",
-            "Une VEMS élevée",
-            "Un VEMS/CVF < 70 %",
-            "Une saturation normale"
-        ],
-        "answer": "Un VEMS/CVF < 70 %"
-    },
-    {
-        "question": "Une alvéolite allergique extrinsèque est causée par :",
-        "options": [
-            "Inhalation répétée d’antigènes organiques (champignons, moisissures)",
-            "Tabac",
-            "Infections bactériennes",
-            "Médicaments"
-        ],
-        "answer": "Inhalation répétée d’antigènes organiques (champignons, moisissures)"
-    },
-    {
-        "question": "Le test de marche de 6 minutes évalue :",
-        "options": [
-            "Saturation au repos",
-            "Capacité fonctionnelle d’effort en pathologie respiratoire",
-            "Rythme cardiaque",
-            "Présence de pneumothorax"
-        ],
-        "answer": "Capacité fonctionnelle d’effort en pathologie respiratoire"
-    },
-    {
-        "question": "Un traitement par CPAP est indiqué surtout pour :",
-        "options": [
-            "Bronchite chronique",
-            "Syndrome d’apnées du sommeil",
-            "Tuberculose",
-            "Cancer bronchique"
-        ],
-        "answer": "Syndrome d’apnées du sommeil"
-    }
+  "numero": 1,
+  "question": "What is the main risk factor for bronchial cancer?",
+  "options": [
+    "Pollution",
+    "Smoking",
+    "Alcohol",
+    "Family history"
+  ],
+  "reponse_correcte": "Smoking"
+},
+{
+  "numero": 2,
+  "question": "Asthma is a disease characterized by:",
+  "options": [
+    "A chronic bacterial infection",
+    "Inflammation of the airways with reversible bronchoconstriction",
+    "Irreversible pulmonary fibrosis",
+    "Permanent alveolar collapse"
+  ],
+  "reponse_correcte": "Inflammation of the airways with reversible bronchoconstriction"
+},
+{
+  "numero": 3,
+  "question": "The long-term treatment of asthma is based on:",
+  "options": [
+    "Antibiotics",
+    "Inhaled corticosteroids",
+    "Antihistamines",
+    "Nitrates"
+  ],
+  "reponse_correcte": "Inhaled corticosteroids"
+},
+{
+  "numero": 4,
+  "question": "What is the classic triad of COPD?",
+  "options": [
+    "Fever, cough, chest pain",
+    "Chronic cough, sputum production, progressive dyspnea",
+    "Dry cough, hemoptysis, sweating",
+    "Pleuritic pain, crackles, cyanosis"
+  ],
+  "reponse_correcte": "Chronic cough, sputum production, progressive dyspnea"
+},
+{
+  "numero": 5,
+  "question": "The definitive diagnosis of COPD is based on:",
+  "options": [
+    "Chest X-ray",
+    "Spirometry showing FEV1/FVC < 70% post-bronchodilator",
+    "ECG",
+    "Chest CT scan"
+  ],
+  "reponse_correcte": "Spirometry showing FEV1/FVC < 70% post-bronchodilator"
+},
+{
+  "numero": 6,
+  "question": "The first-line treatment for acute exacerbation of COPD is:",
+  "options": [
+    "Antibiotics alone",
+    "Bronchodilators + corticosteroids + oxygen if needed",
+    "Statins",
+    "Anticoagulants"
+  ],
+  "reponse_correcte": "Bronchodilators + corticosteroids + oxygen if needed"
+},
+{
+  "numero": 7,
+  "question": "What is the main cause of pulmonary embolism?",
+  "options": [
+    "Viral infection",
+    "Deep vein thrombosis (DVT)",
+    "Asthma",
+    "Tumor"
+  ],
+  "reponse_correcte": "Deep vein thrombosis (DVT)"
+},
+{
+  "numero": 8,
+  "question": "The most frequent sign of pulmonary embolism is:",
+  "options": [
+    "Hemoptysis",
+    "Productive cough",
+    "Sudden dyspnea",
+    "Cyanosis"
+  ],
+  "reponse_correcte": "Sudden dyspnea"
+},
+{
+  "numero": 9,
+  "question": "The recommended initial diagnostic test in suspected pulmonary embolism is:",
+  "options": [
+    "X-ray",
+    "D-dimers + Wells score",
+    "ECG",
+    "Pulmonary function test"
+  ],
+  "reponse_correcte": "D-dimers + Wells score"
+},
+{
+  "numero": 10,
+  "question": "The definitive diagnosis of pulmonary embolism is based on:",
+  "options": [
+    "Cardiac ultrasound",
+    "Chest CT angiography",
+    "Sweat test",
+    "Blood gas analysis"
+  ],
+  "reponse_correcte": "Chest CT angiography"
+},
+{
+  "number": 11,
+  "question": "What is the definition of hypoxemia?",
+  "options": [
+    "PaO₂ > 80 mmHg",
+    "SaO₂ > 95%",
+    "PaO₂ < 60 mmHg",
+    "PaCO₂ > 45 mmHg"
+  ],
+  "answer": "PaO₂ < 60 mmHg"
+},
+{
+  "number": 12,
+  "question": "An interstitial syndrome on chest X-ray is typical of:",
+  "options": [
+    "Pneumothorax",
+    "Pulmonary fibrosis",
+    "Acute bronchitis",
+    "Emphysema"
+  ],
+  "answer": "Pulmonary fibrosis"
+},
+{
+  "number": 13,
+  "question": "Chronic dry cough without fever in a non-smoker suggests:",
+  "options": [
+    "Bronchial cancer",
+    "Asthma or gastroesophageal reflux",
+    "Tuberculosis",
+    "Bacterial pneumonia"
+  ],
+  "answer": "Asthma or gastroesophageal reflux"
+},
+{
+  "number": 14,
+  "question": "Which bacteria is often responsible for community-acquired pneumonia?",
+  "options": [
+    "Escherichia coli",
+    "Streptococcus pneumoniae",
+    "Klebsiella",
+    "Clostridium difficile"
+  ],
+  "answer": "Streptococcus pneumoniae"
+},
+{
+  "number": 15,
+  "question": "Spontaneous pneumothorax most often affects:",
+  "options": [
+    "Elderly people",
+    "Older smokers",
+    "Young, thin men",
+    "Pregnant women"
+  ],
+  "answer": "Young, thin men"
+},
+{
+  "number": 16,
+  "question": "The test to confirm pneumothorax is:",
+  "options": [
+    "CT scan",
+    "Chest X-ray",
+    "Exercise test",
+    "Blood gas analysis"
+  ],
+  "answer": "Chest X-ray"
+},
+{
+  "number": 17,
+  "question": "What is the main cause of tuberculosis?",
+  "options": [
+    "Influenza virus",
+    "Staphylococcus aureus",
+    "Mycobacterium tuberculosis",
+    "Candida albicans"
+  ],
+  "answer": "Mycobacterium tuberculosis"
+},
+{
+  "number": 18,
+  "question": "The Mantoux test is used to:",
+  "options": [
+    "Diagnose asthma",
+    "Screen latent tuberculosis",
+    "Evaluate an embolism",
+    "Test respiratory function"
+  ],
+  "answer": "Screen latent tuberculosis"
+},
+{
+  "number": 19,
+  "question": "The treatment of active tuberculosis includes:",
+  "options": [
+    "Amoxicillin alone",
+    "Isoniazid + Rifampicin + Ethambutol + Pyrazinamide",
+    "Antifungals",
+    "Beta-2 agonists"
+  ],
+  "answer": "Isoniazid + Rifampicin + Ethambutol + Pyrazinamide"
+},
+{
+  "number": 20,
+  "question": "An obstructive syndrome on spirometry shows:",
+  "options": [
+    "Increased FEV1",
+    "Increased FVC",
+    "Decreased FEV1/FVC ratio",
+    "No change"
+  ],
+  "answer": "Decreased FEV1/FVC ratio"
+},{
+    "number": 21,
+    "question": "A COPD patient should not receive as monotherapy:",
+    "options": ["A) Inhaled corticosteroids alone", "B) Beta-2 agonists", "C) Anticholinergics", "D) Long-acting bronchodilators"],
+    "answer": "A"
+},
+{
+    "number": 22,
+    "question": "A solitary pulmonary nodule in a smoker should raise suspicion for:",
+    "options": ["A) Lung cancer", "B) Sarcoidosis", "C) Pneumonia", "D) Emphysema"],
+    "answer": "A"
+},
+{
+    "number": 23,
+    "question": "Massive hemoptysis is defined as:",
+    "options": ["A) 50 mL/24h", "B) >200–600 mL in 24h", "C) Any trace of blood", "D) Associated gastrointestinal bleeding"],
+    "answer": "B"
+},
+{
+    "number": 24,
+    "question": "Asbestosis is a disease related to exposure to:",
+    "options": ["A) Aluminum", "B) Asbestos", "C) Sand", "D) Silica"],
+    "answer": "B"
+},
+{
+    "number": 25,
+    "question": "Sleep apnea syndrome is diagnosed by:",
+    "options": ["A) Chest CT scan", "B) Polysomnography", "C) Spirometry", "D) X-ray"],
+    "answer": "B"
+},
+{
+    "number": 26,
+    "question": "A pathological apnea-hypopnea index (AHI) is:",
+    "options": ["A) AHI > 3", "B) AHI > 5", "C) AHI > 15", "D) AHI > 20"],
+    "answer": "B"
+},
+{
+    "number": 27,
+    "question": "The gold standard treatment for OSA (obstructive sleep apnea) is:",
+    "options": ["A) Corticosteroids", "B) Continuous positive airway pressure (CPAP)", "C) Surgery", "D) Antibiotics"],
+    "answer": "B"
+},
+{
+    "number": 28,
+    "question": "Long-term oxygen therapy is indicated if:",
+    "options": ["A) PaO₂ < 55 mmHg at rest", "B) Oxygen saturation > 94%", "C) Effort dyspnea alone", "D) Chronic cough"],
+    "answer": "A"
+},
+{
+    "number": 29,
+    "question": "Pulmonary sarcoidosis often presents with:",
+    "options": ["A) Pneumothorax", "B) Bilateral hilar lymphadenopathy", "C) Hyperinflation", "D) Acute chest pain"],
+    "answer": "B"
+},
+{
+    "number": 30,
+    "question": "Foreign body inhalation is more common in:",
+    "options": ["A) Children", "B) Athletes", "C) Asthmatics", "D) Elderly people"],
+    "answer": "A"
+},{
+  "number": 31,
+  "question": "Emphysema is characterized by:",
+  "options": [
+    "Alveolar fibrosis",
+    "Destruction of the alveolar walls",
+    "Bronchial infection",
+    "Interstitial edema"
+  ],
+  "answer": "Destruction of the alveolar walls"
+},
+{
+  "number": 32,
+  "question": "The respiratory function test does not include:",
+  "options": [
+    "FEV1",
+    "Blood culture",
+    "FVC",
+    "Total lung capacity"
+  ],
+  "answer": "Blood culture"
+},
+{
+  "number": 33,
+  "question": "Which disease is associated with alpha-1-antitrypsin deficiency?",
+  "options": [
+    "Cystic fibrosis",
+    "Panlobular emphysema",
+    "Asthma",
+    "Tuberculosis"
+  ],
+  "answer": "Panlobular emphysema"
+},
+{
+  "number": 34,
+  "question": "Kartagener syndrome includes:",
+  "options": [
+    "Asthma, allergies, eosinophilia",
+    "Situs inversus, sinusitis, bronchiectasis",
+    "Fibrosis, cyanosis, hypercapnia",
+    "Hemoptysis, effusion, pneumothorax"
+  ],
+  "answer": "Situs inversus, sinusitis, bronchiectasis"
+},
+{
+  "number": 35,
+  "question": "The main side effect of Rifampicin is:",
+  "options": [
+    "Deafness",
+    "Orange discoloration of urine and liver toxicity",
+    "Myopathy",
+    "Photosensitivity"
+  ],
+  "answer": "Orange discoloration of urine and liver toxicity"
+},
+{
+  "number": 36,
+  "question": "Which disease is considered a hypersensitivity pneumonitis?",
+  "options": [
+    "COPD",
+    "Tuberculosis",
+    "Farmer’s lung",
+    "Lung cancer"
+  ],
+  "answer": "Farmer’s lung"
+},
+{
+  "number": 37,
+  "question": "The sweat test is used to diagnose:",
+  "options": [
+    "Cystic fibrosis",
+    "Asthma",
+    "Chronic bronchitis",
+    "Sarcoidosis"
+  ],
+  "answer": "Cystic fibrosis"
+},
+{
+  "number": 38,
+  "question": "A widened mediastinum on X-ray may suggest:",
+  "options": [
+    "Pneumonia",
+    "Lymphadenopathy or aortic dissection",
+    "COPD",
+    "Pneumothorax"
+  ],
+  "answer": "Lymphadenopathy or aortic dissection"
+},
+{
+  "number": 39,
+  "question": "Hypercapnia corresponds to a PaCO₂ of:",
+  "options": [
+    "< 35 mmHg",
+    "< 40 mmHg",
+    "> 45 mmHg",
+    "> 100 mmHg"
+  ],
+  "answer": "> 45 mmHg"
+},
+{
+  "number": 40,
+  "question": "Central cyanosis is observed in:",
+  "options": [
+    "Urticaria",
+    "Severe hypoxemia (SaO₂ < 85%)",
+    "Hyperventilation",
+    "Urinary tract infection"
+  ],
+  "answer": "Severe hypoxemia (SaO₂ < 85%)"
+},
+{
+  "question": "Which test evaluates oxygen diffusion in the lungs?",
+  "options": [
+    "DLCO (diffusing capacity of the lungs for carbon monoxide)",
+    "Blood gas analysis",
+    "Exercise test",
+    "CT angiography"
+  ],
+  "answer": "DLCO (diffusing capacity of the lungs for carbon monoxide)"
+},
+{
+  "question": "Which vaccine is recommended for COPD patients?",
+  "options": [
+    "MMR",
+    "Pneumococcal + annual flu",
+    "Meningococcal",
+    "Tetanus only"
+  ],
+  "answer": "Pneumococcal + annual flu"
+},
+{
+  "question": "The double contour sign on X-ray suggests:",
+  "options": [
+    "Bilateral pneumothorax",
+    "Massive pleural effusion",
+    "Fibrosis",
+    "Pulmonary edema"
+  ],
+  "answer": "Massive pleural effusion"
+},
+{
+  "question": "Hemoptysis with fever, weight loss, and night sweats suggests:",
+  "options": [
+    "Asthma",
+    "Pulmonary tuberculosis",
+    "Pulmonary embolism",
+    "COPD"
+  ],
+  "answer": "Pulmonary tuberculosis"
+},
+{
+  "question": "Crackles at the end of inspiration are typical of:",
+  "options": [
+    "Pneumothorax",
+    "Pulmonary fibrosis",
+    "Asthma",
+    "Sleep apnea"
+  ],
+  "answer": "Pulmonary fibrosis"
+},
+{
+  "question": "Rapid, shallow, and ineffective breathing is called:",
+  "options": [
+    "Apnea",
+    "Tachycardia",
+    "Polypnea",
+    "Bradypnea"
+  ],
+  "answer": "Polypnea"
+},
+{
+  "question": "Obstructive syndrome is distinguished from restrictive syndrome by:",
+  "options": [
+    "Lower FVC",
+    "Increased FEV1",
+    "FEV1/FVC < 70%",
+    "Normal saturation"
+  ],
+  "answer": "FEV1/FVC < 70%"
+},
+{
+  "question": "Extrinsic allergic alveolitis is caused by:",
+  "options": [
+    "Repeated inhalation of organic antigens (fungi, molds)",
+    "Smoking",
+    "Bacterial infections",
+    "Medications"
+  ],
+  "answer": "Repeated inhalation of organic antigens (fungi, molds)"
+},
+{
+  "question": "The 6-minute walk test evaluates:",
+  "options": [
+    "Resting saturation",
+    "Functional exercise capacity in respiratory disease",
+    "Heart rate",
+    "Presence of pneumothorax"
+  ],
+  "answer": "Functional exercise capacity in respiratory disease"
+},
+{
+  "question": "CPAP treatment is mainly indicated for:",
+  "options": [
+    "Chronic bronchitis",
+    "Sleep apnea syndrome",
+    "Tuberculosis",
+    "Bronchial cancer"
+  ],
+  "answer": "Sleep apnea syndrome"
+}
 ]
