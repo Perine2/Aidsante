@@ -1,0 +1,498 @@
+[
+    {
+        "id": 1,
+        "question": "Quel est le premier geste à réaliser en cas de suspicion d’arrêt cardiaque ?",
+        "options": [
+            "Donner des médicaments",
+            "Vérifier la conscience et la respiration, puis appeler les secours",
+            "Mettre en position latérale de sécurité",
+            "Prendre la tension artérielle"
+        ],
+        "answer": "Vérifier la conscience et la respiration, puis appeler les secours"
+    },
+    {
+        "id": 2,
+        "question": "Quelle est la fréquence recommandée des compressions thoraciques chez l’adulte ?",
+        "options": [
+            "60 par minute",
+            "100 à 120 par minute",
+            "140 par minute",
+            "80 à 100 par minute"
+        ],
+        "answer": "100 à 120 par minute"
+    },
+    {
+        "id": 3,
+        "question": "Quelle est la dose initiale d’adrénaline lors d’un arrêt cardiaque chez l’adulte ?",
+        "options": [
+            "0,1 mg",
+            "1 mg en IV/IO toutes les 3-5 min",
+            "10 mg",
+            "5 mg en IM"
+        ],
+        "answer": "1 mg en IV/IO toutes les 3-5 min"
+    },
+    {
+        "id": 4,
+        "question": "Quelle est la première étape du triage en situation de catastrophe ?",
+        "options": [
+            "Chirurgie immédiate",
+            "Évaluation rapide de l’état vital",
+            "Transport à l’hôpital",
+            "ECG systématique"
+        ],
+        "answer": "Évaluation rapide de l’état vital"
+    },
+    {
+        "id": 5,
+        "question": "Quel est le traitement d’un choc anaphylactique ?",
+        "options": [
+            "Antihistaminiques oraux",
+            "Adrénaline IM en urgence",
+            "Corticoïdes seuls",
+            "Oxygène seulement"
+        ],
+        "answer": "Adrénaline IM en urgence"
+    },
+    {
+        "id": 6,
+        "question": "En cas de suspicion d’AVC aigu, quel examen faut-il réaliser en premier ?",
+        "options": [
+            "Électroencéphalogramme",
+            "Scanner cérébral sans injection",
+            "IRM avec injection",
+            "Échographie carotidienne"
+        ],
+        "answer": "Scanner cérébral sans injection"
+    },
+    {
+        "id": 7,
+        "question": "Un patient polytraumatisé avec hypotension doit recevoir :",
+        "options": [
+            "Repos",
+            "Diurétiques",
+            "Remplissage vasculaire + recherche d’un saignement actif",
+            "Antibiotiques"
+        ],
+        "answer": "Remplissage vasculaire + recherche d’un saignement actif"
+    },
+    {
+        "id": 8,
+        "question": "Quel est le score utilisé pour évaluer la gravité d’un traumatisme crânien ?",
+        "options": [
+            "Échelle de Glasgow",
+            "Score CHADS",
+            "Score de Wells",
+            "Score d’Apgar"
+        ],
+        "answer": "Échelle de Glasgow"
+    },
+    {
+        "id": 9,
+        "question": "Quelle est la valeur normale de la saturation en oxygène (SpO2) chez un adulte sain ?",
+        "options": [
+            "70 à 80 %",
+            "85 à 90 %",
+            "95 à 100 %",
+            "60 à 70 %"
+        ],
+        "answer": "95 à 100 %"
+    },
+    {
+        "id": 10,
+        "question": "En cas de crise d’asthme sévère, quel médicament est administré en premier ?",
+        "options": [
+            "Antihistaminiques",
+            "Salbutamol en aérosol ou nébulisation",
+            "Antibiotiques",
+            "Furosémide"
+        ],
+        "answer": "Salbutamol en aérosol ou nébulisation"
+    },{
+        "id": 11,
+        "question": "Quel score est utilisé pour évaluer le risque d’embolie pulmonaire ?",
+        "options": [
+            "Score de Glasgow",
+            "Score de Wells",
+            "Score d’Apgar",
+            "Score SOFA"
+        ],
+        "answer": "Score de Wells"
+    },
+    {
+        "id": 12,
+        "question": "Une bradycardie sévère (< 40 bpm) avec signes de choc impose :",
+        "options": [
+            "Repos au lit",
+            "Administration d’atropine IV",
+            "Diurétiques",
+            "Aspirine"
+        ],
+        "answer": "Administration d’atropine IV"
+    },
+    {
+        "id": 13,
+        "question": "Quelle est la conduite à tenir devant une hypoglycémie sévère avec perte de connaissance ?",
+        "options": [
+            "Injection de glucagon ou de glucose IV",
+            "Insuline rapide",
+            "Surveillance uniquement",
+            "Diurétiques"
+        ],
+        "answer": "Injection de glucagon ou de glucose IV"
+    },
+    {
+        "id": 14,
+        "question": "Que signifie le \"ABCDE\" en médecine d’urgence ?",
+        "options": [
+            "Airway, Breathing, Circulation, Disability, Exposure",
+            "Arrêt, Bouche, Compressions, Détresse, Évaluation",
+            "Articulation, Bronches, Cellules, Drainage, Électrolytes",
+            "Aucun des choix"
+        ],
+        "answer": "Airway, Breathing, Circulation, Disability, Exposure"
+    },
+    {
+        "id": 15,
+        "question": "En cas de douleur thoracique aiguë avec sus-décalage du segment ST, il faut :",
+        "options": [
+            "Administrer des diurétiques",
+            "Initier la prise en charge d’un infarctus (SCA ST+)",
+            "Retirer les anticoagulants",
+            "Faire une spirométrie"
+        ],
+        "answer": "Initier la prise en charge d’un infarctus (SCA ST+)"
+    },
+    {
+        "id": 16,
+        "question": "Quelle est la première action en cas de brûlure étendue récente ?",
+        "options": [
+            "Appliquer de l’huile",
+            "Refroidir avec de l’eau à 15-20 °C pendant 10-15 min",
+            "Donner des antibiotiques",
+            "Masser la zone"
+        ],
+        "answer": "Refroidir avec de l’eau à 15-20 °C pendant 10-15 min"
+    },
+    {
+        "id": 17,
+        "question": "Une hyperkaliémie sévère (> 6,5 mmol/L) peut entraîner :",
+        "options": [
+            "Fièvre",
+            "Douleur abdominale",
+            "Troubles du rythme cardiaque graves",
+            "Polyglobulie"
+        ],
+        "answer": "Troubles du rythme cardiaque graves"
+    },
+    {
+        "id": 18,
+        "question": "Quelle est la conduite à tenir en cas d’intoxication au paracétamol ?",
+        "options": [
+            "Lavage gastrique",
+            "Dialyse immédiate",
+            "Administration de N-acétylcystéine",
+            "Charbon actif seulement"
+        ],
+        "answer": "Administration de N-acétylcystéine"
+    },
+    {
+        "id": 19,
+        "question": "Quelle est la dose habituelle de morphine en bolus IV pour douleur aiguë ?",
+        "options": [
+            "1 mg",
+            "2 à 3 mg IV lente toutes les 5-10 minutes si besoin",
+            "10 mg d’un coup",
+            "0,1 mg"
+        ],
+        "answer": "2 à 3 mg IV lente toutes les 5-10 minutes si besoin"
+    },
+    {
+        "id": 20,
+        "question": "Quelle est la durée du massage cardiaque avant évaluation chez l’adulte ?",
+        "options": [
+            "15 secondes",
+            "2 minutes",
+            "10 minutes",
+            "5 minutes"
+        ],
+        "answer": "2 minutes"
+    },{
+        "id": 21,
+        "question": "Quelle est la pression artérielle systolique minimale pour maintenir une perfusion cérébrale correcte chez l’adulte traumatisé crânien ?",
+        "options": [
+            "60 mmHg",
+            "90 mmHg",
+            "100 mmHg",
+            "120 mmHg"
+        ],
+        "answer": "90 mmHg"
+    },
+    {
+        "id": 22,
+        "question": "Quelle est la principale priorité chez un polytraumatisé instable ?",
+        "options": [
+            "Radiographie",
+            "Contrôle des voies aériennes et arrêt des hémorragies",
+            "Évaluation psychologique",
+            "Vaccination"
+        ],
+        "answer": "Contrôle des voies aériennes et arrêt des hémorragies"
+    },
+    {
+        "id": 23,
+        "question": "En cas de pneumothorax compressif, le geste en urgence est :",
+        "options": [
+            "Mise sous oxygène",
+            "Décompression immédiate à l’aiguille en 2e espace intercostal",
+            "Mise en position assise",
+            "Scanner thoracique"
+        ],
+        "answer": "Décompression immédiate à l’aiguille en 2e espace intercostal"
+    },
+    {
+        "id": 24,
+        "question": "Quelle est la principale indication du bicarbonate de sodium en urgence ?",
+        "options": [
+            "Hypocalcémie",
+            "Hypothermie",
+            "Acidose métabolique sévère ou intoxication aux tricycliques",
+            "Bradycardie"
+        ],
+        "answer": "Acidose métabolique sévère ou intoxication aux tricycliques"
+    },
+    {
+        "id": 25,
+        "question": "En cas de sepsis sévère, le traitement initial comprend :",
+        "options": [
+            "Antihistaminiques",
+            "Diurétiques",
+            "Antibiothérapie IV rapide et remplissage vasculaire",
+            "Héparine"
+        ],
+        "answer": "Antibiothérapie IV rapide et remplissage vasculaire"
+    },
+    {
+        "id": 26,
+        "question": "Quelle est la principale complication d’une fracture ouverte ?",
+        "options": [
+            "Oedème",
+            "Infection",
+            "Allergie",
+            "Paralysie faciale"
+        ],
+        "answer": "Infection"
+    },
+    {
+        "id": 27,
+        "question": "Quelle est la meilleure réponse à une crise d’épilepsie persistante (>5 min) ?",
+        "options": [
+            "Antipsychotiques",
+            "Benzodiazépines IV (ex: diazépam, midazolam)",
+            "Corticoïdes",
+            "Glucose"
+        ],
+        "answer": "Benzodiazépines IV (ex: diazépam, midazolam)"
+    },
+    {
+        "id": 28,
+        "question": "Quelle est la conduite à tenir face à une hypothermie sévère (< 30°C) ?",
+        "options": [
+            "Bain tiède",
+            "Réchauffement actif externe + mesures vitales",
+            "Antalgiques",
+            "Diurétiques"
+        ],
+        "answer": "Réchauffement actif externe + mesures vitales"
+    },
+    {
+        "id": 29,
+        "question": "Quelle est la définition du choc hémorragique ?",
+        "options": [
+            "Fièvre avec hypotension",
+            "Bradycardie avec pâleur",
+            "Perte de sang entraînant une hypoperfusion des organes",
+            "Thrombose veineuse profonde"
+        ],
+        "answer": "Perte de sang entraînant une hypoperfusion des organes"
+    },
+    {
+        "id": 30,
+        "question": "Quel est le traitement de première intention en cas d’AVC ischémique dans les 4h30 ?",
+        "options": [
+            "Aspirine",
+            "Clopidogrel",
+            "Thrombolyse IV (alteplase)",
+            "Héparine à dose curative"
+        ],
+        "answer": "Thrombolyse IV (alteplase)"
+    },{
+        "id": 31,
+        "question": "Dans l’urgence, une hyperthermie maligne est traitée avec :",
+        "options": ["Paracétamol", "Dantrolène", "Glucocorticoïdes", "Adrénaline"],
+        "answer": "Dantrolène"
+    },
+    {
+        "id": 32,
+        "question": "Quel ECG évoque une hyperkaliémie sévère ?",
+        "options": ["QT allongé", "Ondes P proéminentes", "Ondes T pointues, QRS élargis", "Bradycardie sinusale"],
+        "answer": "Ondes T pointues, QRS élargis"
+    },
+    {
+        "id": 33,
+        "question": "Quel examen faut-il faire devant une douleur thoracique brutale, irradiation dos, hypotension ?",
+        "options": ["Échographie abdominale", "Scanner cérébral", "Angioscanner thoracique pour dissection aortique", "Épreuve d’effort"],
+        "answer": "Angioscanner thoracique pour dissection aortique"
+    },
+    {
+        "id": 34,
+        "question": "En cas d’intoxication au monoxyde de carbone, le traitement est :",
+        "options": ["Diurétiques", "Charbon actif", "Oxygénothérapie à haut débit ou caisson hyperbare", "Adrénaline"],
+        "answer": "Oxygénothérapie à haut débit ou caisson hyperbare"
+    },
+    {
+        "id": 35,
+        "question": "Une hypovolémie sévère nécessite :",
+        "options": ["Furosémide IV", "Remplissage vasculaire rapide avec solutés isotoniques", "Administration de morphine", "Transfusion de plaquettes"],
+        "answer": "Remplissage vasculaire rapide avec solutés isotoniques"
+    },
+    {
+        "id": 36,
+        "question": "Le syndrome de compartiment aigu impose :",
+        "options": ["Mise au repos", "Fasciotomie urgente", "Immobilisation prolongée", "Antibiotiques"],
+        "answer": "Fasciotomie urgente"
+    },
+    {
+        "id": 37,
+        "question": "Devant un traumatisme cervical, la règle est :",
+        "options": ["Manipulation rapide", "Mobilisation douce", "Immobilisation stricte du rachis cervical jusqu’à bilan complet", "Massage cervical"],
+        "answer": "Immobilisation stricte du rachis cervical jusqu’à bilan complet"
+    },
+    {
+        "id": 38,
+        "question": "En cas de torsion testiculaire, quel est le délai maximal pour préserver la fonction ?",
+        "options": ["12 heures", "10 heures", "6 heures", "24 heures"],
+        "answer": "6 heures"
+    },
+    {
+        "id": 39,
+        "question": "En cas de pneumonie grave, le score utilisé pour décider l’hospitalisation est :",
+        "options": ["CHADS2", "Score CURB-65", "Score de Wells", "Score SOFA"],
+        "answer": "Score CURB-65"
+    },
+    {
+        "id": 40,
+        "question": "En cas de détresse respiratoire néonatale, le traitement initial comprend :",
+        "options": ["Antibiotiques", "Assistance respiratoire + surfactant si besoin", "Adrénaline", "Antiviraux"],
+        "answer": "Assistance respiratoire + surfactant si besoin"
+    },{
+    "id": 41,
+    "question": "Une hémorragie digestive haute se manifeste typiquement par :",
+    "options": [
+      "Rectorragie",
+      "Hématémèse et/ou méléna",
+      "Polyurie",
+      "Hémoptysie"
+    ],
+    "answer": "Hématémèse et/ou méléna"
+  },
+  {
+    "id": 42,
+    "question": "Quel est le traitement initial d’une crise hypertensive avec atteinte d’organes ?",
+    "options": [
+      "Furosémide",
+      "Anti-hypertenseur IV à action rapide (nicardipine, labétalol)",
+      "Paracétamol",
+      "Diurétique thiazidique"
+    ],
+    "answer": "Anti-hypertenseur IV à action rapide (nicardipine, labétalol)"
+  },
+  {
+    "id": 43,
+    "question": "Quelle est la meilleure conduite face à une fracture suspectée du bassin avec instabilité ?",
+    "options": [
+      "Immobilisation + stabilisation hémodynamique urgente",
+      "Diurèse forcée",
+      "Massage",
+      "Scanner cérébral"
+    ],
+    "answer": "Immobilisation + stabilisation hémodynamique urgente"
+  },
+  {
+    "id": 44,
+    "question": "Le syndrome coronarien aigu sans sus-décalage se traite par :",
+    "options": [
+      "Oxygène seul",
+      "Antiagrégants + anticoagulants + surveillance ECG",
+      "Bétabloquants seulement",
+      "Diurétiques"
+    ],
+    "answer": "Antiagrégants + anticoagulants + surveillance ECG"
+  },
+  {
+    "id": 45,
+    "question": "Que faut-il suspecter en cas de douleur abdominale aiguë + rigidité + absence de bruits ?",
+    "options": [
+      "Gastrite",
+      "Appendicite simple",
+      "Péritonite",
+      "Colique néphrétique"
+    ],
+    "answer": "Péritonite"
+  },
+  {
+    "id": 46,
+    "question": "En cas d’état de mal asthmatique, le traitement comprend :",
+    "options": [
+      "Antibiotiques",
+      "Salbutamol en nébulisation + corticoïdes systémiques",
+      "Antihistaminiques",
+      "Codéine"
+    ],
+    "answer": "Salbutamol en nébulisation + corticoïdes systémiques"
+  },
+  {
+    "id": 47,
+    "question": "Quelle est la priorité en cas de saignement massif post-partum ?",
+    "options": [
+      "Attendre",
+      "Antibiothérapie",
+      "Massage utérin + ocytocine + remplissage vasculaire",
+      "Diurétiques"
+    ],
+    "answer": "Massage utérin + ocytocine + remplissage vasculaire"
+  },
+  {
+    "id": 48,
+    "question": "En cas de plaie par arme blanche thoracique, la première mesure est :",
+    "options": [
+      "Retirer l’objet",
+      "Stabiliser la lame sans l’enlever",
+      "Scanner",
+      "Suture immédiate"
+    ],
+    "answer": "Stabiliser la lame sans l’enlever"
+  },
+  {
+    "id": 49,
+    "question": "En cas de noyade, la priorité est :",
+    "options": [
+      "Libération des voies aériennes + réanimation si besoin",
+      "Antibiotiques",
+      "Corticoïdes",
+      "Intubation systématique"
+    ],
+    "answer": "Libération des voies aériennes + réanimation si besoin"
+  },
+  {
+    "id": 50,
+    "question": "Quelle est la meilleure conduite face à une intoxication médicamenteuse polycomprimée ?",
+    "options": [
+      "Attendre",
+      "Appeler le centre antipoison + monitorage + lavage ou charbon selon cas",
+      "Antibiotiques",
+      "Glucose IV"
+    ],
+    "answer": "Appeler le centre antipoison + monitorage + lavage ou charbon selon cas"
+  }
+]
