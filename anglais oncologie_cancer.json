@@ -1,348 +1,541 @@
 [
     {
-        "numero": 1,
-        "question": "Quel est le principal mécanisme de formation d’un cancer ?",
-        "options": [
-            "Infection bactérienne",
-            "Inflammation chronique",
-            "Mutation génétique des cellules",
-            "Carence vitaminique"
-        ],
-        "answer": "Mutation génétique des cellules"
-    },
-    {
-        "numero": 2,
-        "question": "Quel terme désigne la capacité d’une tumeur à se propager à distance ?",
-        "options": [
-            "Invasion locale",
-            "Métastase",
-            "Nécrose",
-            "Métastase"
-        ],
-        "answer": "Métastase"
-    },
-    {
-        "numero": 3,
-        "question": "Quelle est la méthode la plus utilisée pour diagnostiquer un cancer ?",
-        "options": [
-            "Examen clinique seul",
-            "Radiographie simple",
-            "Biopsie et examen histologique",
-            "Échographie"
-        ],
-        "answer": "Biopsie et examen histologique"
-    },
-    {
-        "numero": 4,
-        "question": "Quel type de cancer est le plus fréquent chez l’homme dans le monde ?",
-        "options": [
-            "Cancer du sein",
-            "Cancer du poumon",
-            "Cancer colorectal",
-            "Cancer du poumon"
-        ],
-        "answer": "Cancer du poumon"
-    },
-    {
-        "numero": 5,
-        "question": "Quel est le rôle principal de la chimiothérapie ?",
-        "options": [
-            "Renforcer le système immunitaire",
-            "Retirer chirurgicalement la tumeur",
-            "Détruire les cellules cancéreuses",
-            "Soulager la douleur uniquement"
-        ],
-        "answer": "Détruire les cellules cancéreuses"
-    },
-    {
-        "numero": 6,
-        "question": "Quel traitement est généralement le plus efficace pour les cancers localisés ?",
-        "options": [
-            "Radiothérapie",
-            "Chirurgie",
-            "Immunothérapie",
-            "Hormonothérapie"
-        ],
-        "answer": "Chirurgie"
-    },
-    {
-        "numero": 7,
-        "question": "Quel est le principal facteur de risque du cancer du col de l’utérus ?",
-        "options": [
-            "Tabac",
-            "Infection par le HPV (Papillomavirus humain)",
-            "Alcool",
-            "Exposition aux UV"
-        ],
-        "answer": "Infection par le HPV (Papillomavirus humain)"
-    },
-    {
-        "numero": 8,
-        "question": "Quel biomarqueur est souvent utilisé pour dépister le cancer de la prostate ?",
-        "options": [
-            "CA 125",
-            "CEA",
-            "PSA (antigène spécifique de la prostate)",
-            "AFP"
-        ],
-        "answer": "PSA (antigène spécifique de la prostate)"
-    },
-    {
-        "numero": 9,
-        "question": "Quel type de cancer se développe à partir des cellules épithéliales ?",
-        "options": [
-            "Sarcome",
-            "Carcinome",
-            "Lymphome",
-            "Gliome"
-        ],
-        "answer": "Carcinome"
-    },
-    {
-        "numero": 10,
-        "question": "Quel est l’effet secondaire fréquent de la radiothérapie ?",
-        "options": [
-            "Insomnie",
-            "Infection",
-            "Brûlures cutanées locales",
-            "Hypoglycémie"
-        ],
-        "answer": "Brûlures cutanées locales"
-    },{
-    "numero": 11,
-    "question": "Quel examen d’imagerie est le plus utilisé pour le bilan d’extension d’un cancer ?",
-    "options": ["Radiographie pulmonaire", "Échographie abdominale", "Scanner (CT-scan)", "IRM cardiaque"],
-    "answer": "Scanner (CT-scan)"
-  },
-  {
-    "numero": 12,
-    "question": "Quel est le mécanisme d’action des inhibiteurs de tyrosine kinase ?",
-    "options": ["Bloquer la synthèse de l’ADN", "Inhiber la signalisation cellulaire favorisant la croissance tumorale", "Stimuler la réponse immunitaire", "Détruire directement les cellules cancéreuses"],
-    "answer": "Inhiber la signalisation cellulaire favorisant la croissance tumorale"
-  },
-  {
-    "numero": 13,
-    "question": "Quel est le stade cancer correspondant à une tumeur localisée sans métastase ?",
-    "options": ["Stade IV", "Stade I ou II", "Stade III", "Stade métastatique"],
-    "answer": "Stade I ou II"
-  },
-  {
-    "numero": 14,
-    "question": "Quel traitement est utilisé pour les cancers hormono-dépendants (sein, prostate) ?",
-    "options": ["Chimiothérapie uniquement", "Hormonothérapie", "Radiothérapie uniquement", "Antibiothérapie"],
-    "answer": "Hormonothérapie"
-  },
-  {
-    "numero": 15,
-    "question": "Quel est le principal signe clinique d’un cancer colorectal avancé ?",
-    "options": ["Toux", "Douleur thoracique", "Rectorragie (sang dans les selles)", "Maux de tête"],
-    "answer": "Rectorragie (sang dans les selles)"
-  },
-  {
-    "numero": 16,
-    "question": "Quel est le rôle de l’immunothérapie dans le cancer ?",
-    "options": ["Détruire chimiquement les cellules cancéreuses", "Apporter des anticorps exogènes", "Stimuler le système immunitaire pour reconnaître et éliminer les cellules tumorales", "Réduire la taille de la tumeur par radiations"],
-    "answer": "Stimuler le système immunitaire pour reconnaître et éliminer les cellules tumorales"
-  },
-  {
-    "numero": 17,
-    "question": "Quel est le facteur de risque majeur du mélanome ?",
-    "options": ["Tabac", "Exposition aux rayons UV", "Infection virale", "Carence en fer"],
-    "answer": "Exposition aux rayons UV"
-  },
-  {
-    "numero": 18,
-    "question": "Quel est le rôle de la protéine p53 ?",
-    "options": ["Stimuler la croissance cellulaire", "Transporter l’oxygène", "Suppresseur de tumeur, régulateur du cycle cellulaire", "Coagulation"],
-    "answer": "Suppresseur de tumeur, régulateur du cycle cellulaire"
-  },
-  {
-    "numero": 19,
-    "question": "Quel est le traitement standard du cancer du sein HER2 positif ?",
-    "options": ["Antibiotiques", "Chirurgie uniquement", "Trastuzumab (anticorps monoclonal)", "Radiothérapie uniquement"],
-    "answer": "Trastuzumab (anticorps monoclonal)"
-  },
-  {
-    "numero": 20,
-    "question": "Quel marqueur tumoral est associé au cancer de l’ovaire ?",
-    "options": ["PSA", "CEA", "CA 125", "AFP"],
-    "answer": "CA 125"
-  },{
-    "numero": 21,
-    "question": "Quel est le rôle de la biopsie liquide ?",
-    "options": ["Diagnostiquer une infection", "Détecter l’ADN tumoral circulant dans le sang", "Évaluer la coagulation", "Mesurer la fonction rénale"],
-    "answer": "Détecter l’ADN tumoral circulant dans le sang"
-  },
-  {
-    "numero": 22,
-    "question": "Quel type de cancer touche principalement les cellules sanguines et la moelle osseuse ?",
-    "options": ["Carcinome", "Sarcome", "Leucémie", "Mélanome"],
-    "answer": "Leucémie"
-  },
-  {
-    "numero": 23,
-    "question": "Quel est le principal symptôme d’un cancer du poumon avancé ?",
-    "options": ["Diarrhée", "Fièvre", "Toux persistante et hémoptysie", "Douleur abdominale"],
-    "answer": "Toux persistante et hémoptysie"
-  },
-  {
-    "numero": 24,
-    "question": "Quel est le but principal de la radiothérapie ?",
-    "options": ["Nettoyer les plaies", "Détruire localement les cellules cancéreuses", "Stimuler le système immunitaire", "Traiter les infections"],
-    "answer": "Détruire localement les cellules cancéreuses"
-  },
-  {
-    "numero": 25,
-    "question": "Quel est l’effet secondaire fréquent de la chimiothérapie ?",
-    "options": ["Hypoglycémie", "Alopécie (perte des cheveux)", "Douleur articulaire", "Hypertension"],
-    "answer": "Alopécie (perte des cheveux)"
-  },
-  {
-    "numero": 26,
-    "question": "Quel est le facteur génétique souvent impliqué dans le cancer du sein familial ?",
-    "options": ["BRCA1 et BRCA2", "p53", "HER2", "EGFR"],
-    "answer": "BRCA1 et BRCA2"
-  },
-  {
-    "numero": 27,
-    "question": "Quel examen permet de dépister précocement le cancer du col de l’utérus ?",
-    "options": ["Mammographie", "Frottis cervico-utérin (test Pap)", "Coloscopie", "Test PSA"],
-    "answer": "Frottis cervico-utérin (test Pap)"
-  },
-  {
-    "numero": 28,
-    "question": "Quel est le rôle des angiogenèses dans le cancer ?",
-    "options": ["Apporter des cellules immunitaires", "Formation de nouveaux vaisseaux sanguins favorisant la croissance tumorale", "Provoquer la nécrose tumorale", "Réguler la coagulation"],
-    "answer": "Formation de nouveaux vaisseaux sanguins favorisant la croissance tumorale"
-  },
-  {
-    "numero": 29,
-    "question": "Quel est le type de cancer le plus fréquent chez la femme ?",
-    "options": ["Cancer colorectal", "Cancer du sein", "Cancer du poumon", "Cancer du foie"],
-    "answer": "Cancer du sein"
-  },
-  {
-    "numero": 30,
-    "question": "Quel est l’examen clé pour surveiller la récidive tumorale ?",
-    "options": ["Test sanguin basique", "Radiographie thoracique", "Imagerie régulière (scanner, IRM)", "Electrocardiogramme"],
-    "answer": "Imagerie régulière (scanner, IRM)"
-  },{
-    "numero": 31,
-    "question": "Quel est le rôle de la chirurgie dans la prise en charge du cancer ?",
-    "options": ["Traiter les métastases uniquement", "Traiter les infections secondaires", "Excision de la tumeur primaire", "Réduire la douleur uniquement"],
-    "answer": "Excision de la tumeur primaire"
-  },
-  {
-    "numero": 32,
-    "question": "Quel est l’objectif de la chimioprévention ?",
-    "options": ["Traiter les cancers avancés", "Prévenir le développement du cancer", "Traiter les infections", "Stimuler le système immunitaire"],
-    "answer": "Prévenir le développement du cancer"
-  },
-  {
-    "numero": 33,
-    "question": "Quel est le principal facteur de risque du cancer du foie ?",
-    "options": ["Tabac", "Alcool", "Infection par le virus de l’hépatite B ou C", "Obésité"],
-    "answer": "Infection par le virus de l’hépatite B ou C"
-  },
-  {
-    "numero": 34,
-    "question": "Quel est le principal organe touché par les métastases du cancer colorectal ?",
-    "options": ["Poumons", "Cerveau", "Foie", "Os"],
-    "answer": "Foie"
-  },
-  {
-    "numero": 35,
-    "question": "Quel type de cancer est associé à une exposition prolongée à l’amiante ?",
-    "options": ["Cancer du sein", "Cancer du foie", "Mésothéliome pleural", "Leucémie"],
-    "answer": "Mésothéliome pleural"
-  },
-  {
-    "numero": 36,
-    "question": "Quel est le rôle des cellules T dans l’immunothérapie ?",
-    "options": ["Produire des anticorps", "Attaquer directement les cellules tumorales", "Coaguler le sang", "Transporter l’oxygène"],
-    "answer": "Attaquer directement les cellules tumorales"
-  },
-  {
-    "numero": 37,
-    "question": "Quel est le traitement principal du cancer de la thyroïde ?",
-    "options": ["Antibiotiques", "Chirurgie et traitement à l’iode radioactif", "Radiothérapie seule", "Immunothérapie uniquement"],
-    "answer": "Chirurgie et traitement à l’iode radioactif"
-  },
-  {
-    "numero": 38,
-    "question": "Quel est le type de cancer de la peau le plus agressif ?",
-    "options": ["Carcinome basocellulaire", "Carcinome spinocellulaire", "Mélanome", "Kératose actinique"],
-    "answer": "Mélanome"
-  },
-  {
-    "numero": 39,
-    "question": "Quel est le rôle des oncogènes ?",
-    "options": ["Inhiber la division cellulaire", "Réparer l’ADN", "Favoriser la croissance cellulaire tumorale", "Coaguler le sang"],
-    "answer": "Favoriser la croissance cellulaire tumorale"
-  },
-  {
-    "numero": 40,
-    "question": "Quel est l’effet des inhibiteurs de checkpoint immunitaire ?",
-    "options": ["Augmenter la coagulation", "Détruire chimiquement la tumeur", "Bloquer les mécanismes d’évasion tumorale du système immunitaire", "Stimuler la croissance tumorale"],
-    "answer": "Bloquer les mécanismes d’évasion tumorale du système immunitaire"
-  },{
-    "numero": 41,
-    "question": "Quel est le rôle de la tomographie par émission de positons (TEP) en oncologie ?",
-    "options": ["Mesurer la tension artérielle", "Visualiser l’activité métabolique des cellules tumorales", "Faire un bilan cardiaque", "Diagnostiquer les infections"],
-    "answer": "Visualiser l’activité métabolique des cellules tumorales"
-  },
-  {
-    "numero": 42,
-    "question": "Quel est le principal symptôme du cancer du pancréas ?",
-    "options": ["Diarrhée", "Douleur abdominale et jaunisse", "Toux sèche", "Fièvre"],
-    "answer": "Douleur abdominale et jaunisse"
-  },
-  {
-    "numero": 43,
-    "question": "Quel est le mécanisme d’action des alkylants en chimiothérapie ?",
-    "options": ["Inhiber la synthèse protéique", "Bloquer la division cellulaire", "Modifier l’ADN des cellules cancéreuses", "Stimuler le système immunitaire"],
-    "answer": "Modifier l’ADN des cellules cancéreuses"
-  },
-  {
-    "numero": 44,
-    "question": "Quel est le rôle du facteur de croissance VEGF dans le cancer ?",
-    "options": ["Coagulation", "Immunité", "Angiogenèse (formation de vaisseaux sanguins)", "Apoptose"],
-    "answer": "Angiogenèse (formation de vaisseaux sanguins)"
-  },
-  {
-    "numero": 45,
-    "question": "Quel est le principal facteur de risque du cancer du poumon chez les non-fumeurs ?",
-    "options": ["Exposition aux rayons UV", "Infection virale", "Exposition au radon ou fumée secondaire", "Carence en vitamine D"],
-    "answer": "Exposition au radon ou fumée secondaire"
-  },
-  {
-    "numero": 46,
-    "question": "Quel type de cancer est associé à la mutation du gène TP53 ?",
-    "options": ["Cancer colorectal uniquement", "Cancer de la prostate", "Plusieurs types de cancers (p53 est un suppresseur de tumeur)", "Cancer du foie uniquement"],
-    "answer": "Plusieurs types de cancers (p53 est un suppresseur de tumeur)"
-  },
-  {
-    "numero": 47,
-    "question": "Quel est l’effet principal des inhibiteurs de la PARP en oncologie ?",
-    "options": ["Favoriser la croissance tumorale", "Bloquer la réparation de l’ADN dans les cellules cancéreuses", "Stimuler la coagulation", "Augmenter la production d’hémoglobine"],
-    "answer": "Bloquer la réparation de l’ADN dans les cellules cancéreuses"
-  },
-  {
-    "numero": 48,
-    "question": "Quel est le rôle principal de la surveillance après traitement du cancer ?",
-    "options": ["Prévenir les infections", "Traiter les effets secondaires uniquement", "Détecter précocement une récidive", "Réduire la douleur uniquement"],
-    "answer": "Détecter précocement une récidive"
-  },
-  {
-    "numero": 49,
-    "question": "Quel est le mécanisme principal des cancers résistants à la chimiothérapie ?",
-    "options": ["Mutation des gènes impliqués dans la mort cellulaire", "Augmentation du flux sanguin", "Efflux accru des médicaments par les pompes à efflux", "Production excessive d’anticorps"],
-    "answer": "Efflux accru des médicaments par les pompes à efflux"
-  },
-  {
-    "numero": 50,
-    "question": "Quel est le principal objectif de la médecine personnalisée en oncologie ?",
-    "options": ["Traiter tous les patients de la même façon", "Réduire les coûts de traitement", "Adapter le traitement à la signature moléculaire de la tumeur", "Éviter la chirurgie"],
-    "answer": "Adapter le traitement à la signature moléculaire de la tumeur"
-  }
+  "numero": 1,
+  "question": "What is the main mechanism of cancer formation?",
+  "options": [
+    "Bacterial infection",
+    "Chronic inflammation",
+    "Genetic mutation of cells",
+    "Vitamin deficiency"
+  ],
+  "answer": "Genetic mutation of cells"
+},
+{
+  "numero": 2,
+  "question": "What term describes the ability of a tumor to spread to distant sites?",
+  "options": [
+    "Local invasion",
+    "Metastasis",
+    "Necrosis",
+    "Metastasis"
+  ],
+  "answer": "Metastasis"
+},
+{
+  "numero": 3,
+  "question": "What is the most commonly used method to diagnose cancer?",
+  "options": [
+    "Clinical examination alone",
+    "Plain radiography",
+    "Biopsy and histological examination",
+    "Ultrasound"
+  ],
+  "answer": "Biopsy and histological examination"
+},
+{
+  "numero": 4,
+  "question": "What is the most common type of cancer in men worldwide?",
+  "options": [
+    "Breast cancer",
+    "Lung cancer",
+    "Colorectal cancer",
+    "Lung cancer"
+  ],
+  "answer": "Lung cancer"
+},
+{
+  "numero": 5,
+  "question": "What is the main role of chemotherapy?",
+  "options": [
+    "Strengthen the immune system",
+    "Surgically remove the tumor",
+    "Destroy cancer cells",
+    "Only relieve pain"
+  ],
+  "answer": "Destroy cancer cells"
+},
+{
+  "numero": 6,
+  "question": "Which treatment is generally the most effective for localized cancers?",
+  "options": [
+    "Radiotherapy",
+    "Surgery",
+    "Immunotherapy",
+    "Hormone therapy"
+  ],
+  "answer": "Surgery"
+},
+{
+  "numero": 7,
+  "question": "What is the main risk factor for cervical cancer?",
+  "options": [
+    "Smoking",
+    "Infection by HPV (Human Papillomavirus)",
+    "Alcohol",
+    "UV exposure"
+  ],
+  "answer": "Infection by HPV (Human Papillomavirus)"
+},
+{
+  "numero": 8,
+  "question": "Which biomarker is often used to screen for prostate cancer?",
+  "options": [
+    "CA 125",
+    "CEA",
+    "PSA (prostate-specific antigen)",
+    "AFP"
+  ],
+  "answer": "PSA (prostate-specific antigen)"
+},
+{
+  "numero": 9,
+  "question": "Which type of cancer develops from epithelial cells?",
+  "options": [
+    "Sarcoma",
+    "Carcinoma",
+    "Lymphoma",
+    "Glioma"
+  ],
+  "answer": "Carcinoma"
+},
+{
+  "numero": 10,
+  "question": "What is a common side effect of radiotherapy?",
+  "options": [
+    "Insomnia",
+    "Infection",
+    "Local skin burns",
+    "Hypoglycemia"
+  ],
+  "answer": "Local skin burns"
+},
+{
+  "numero": 11,
+  "question": "Which imaging test is most commonly used for cancer staging?",
+  "options": [
+    "Chest X-ray",
+    "Abdominal ultrasound",
+    "CT scan",
+    "Cardiac MRI"
+  ],
+  "answer": "CT scan"
+},
+{
+  "numero": 12,
+  "question": "What is the mechanism of action of tyrosine kinase inhibitors?",
+  "options": [
+    "Block DNA synthesis",
+    "Inhibit cellular signaling that promotes tumor growth",
+    "Stimulate immune response",
+    "Directly destroy cancer cells"
+  ],
+  "answer": "Inhibit cellular signaling that promotes tumor growth"
+},
+{
+  "numero": 13,
+  "question": "Which cancer stage corresponds to a localized tumor without metastasis?",
+  "options": [
+    "Stage IV",
+    "Stage I or II",
+    "Stage III",
+    "Metastatic stage"
+  ],
+  "answer": "Stage I or II"
+},
+{
+  "numero": 14,
+  "question": "Which treatment is used for hormone-dependent cancers (breast, prostate)?",
+  "options": [
+    "Chemotherapy only",
+    "Hormone therapy",
+    "Radiotherapy only",
+    "Antibiotic therapy"
+  ],
+  "answer": "Hormone therapy"
+},
+{
+  "numero": 15,
+  "question": "What is the main clinical sign of advanced colorectal cancer?",
+  "options": [
+    "Cough",
+    "Chest pain",
+    "Rectal bleeding (blood in stool)",
+    "Headache"
+  ],
+  "answer": "Rectal bleeding (blood in stool)"
+},
+{
+  "numero": 16,
+  "question": "What is the role of immunotherapy in cancer?",
+  "options": [
+    "Chemically destroy cancer cells",
+    "Provide exogenous antibodies",
+    "Stimulate the immune system to recognize and eliminate tumor cells",
+    "Reduce tumor size by radiation"
+  ],
+  "answer": "Stimulate the immune system to recognize and eliminate tumor cells"
+},
+{
+  "numero": 17,
+  "question": "What is the major risk factor for melanoma?",
+  "options": [
+    "Smoking",
+    "UV ray exposure",
+    "Viral infection",
+    "Iron deficiency"
+  ],
+  "answer": "UV ray exposure"
+},
+{
+  "numero": 18,
+  "question": "What is the role of the p53 protein?",
+  "options": [
+    "Stimulate cell growth",
+    "Transport oxygen",
+    "Tumor suppressor, cell cycle regulator",
+    "Coagulation"
+  ],
+  "answer": "Tumor suppressor, cell cycle regulator"
+},
+{
+  "numero": 19,
+  "question": "What is the standard treatment for HER2-positive breast cancer?",
+  "options": [
+    "Antibiotics",
+    "Surgery only",
+    "Trastuzumab (monoclonal antibody)",
+    "Radiotherapy only"
+  ],
+  "answer": "Trastuzumab (monoclonal antibody)"
+},
+{
+  "numero": 20,
+  "question": "Which tumor marker is associated with ovarian cancer?",
+  "options": [
+    "PSA",
+    "CEA",
+    "CA 125",
+    "AFP"
+  ],
+  "answer": "CA 125"
+}
+,{
+  "numero": 21,
+  "question": "What is the role of liquid biopsy?",
+  "options": [
+    "Diagnose an infection",
+    "Detect circulating tumor DNA in the blood",
+    "Evaluate blood clotting",
+    "Measure kidney function"
+  ],
+  "answer": "Detect circulating tumor DNA in the blood"
+},
+{
+  "numero": 22,
+  "question": "Which type of cancer primarily affects blood cells and bone marrow?",
+  "options": ["Carcinoma", "Sarcoma", "Leukemia", "Melanoma"],
+  "answer": "Leukemia"
+},
+{
+  "numero": 23,
+  "question": "What is the main symptom of advanced lung cancer?",
+  "options": [
+    "Diarrhea",
+    "Fever",
+    "Persistent cough and hemoptysis",
+    "Abdominal pain"
+  ],
+  "answer": "Persistent cough and hemoptysis"
+},
+{
+  "numero": 24,
+  "question": "What is the primary goal of radiotherapy?",
+  "options": [
+    "Clean wounds",
+    "Locally destroy cancer cells",
+    "Stimulate the immune system",
+    "Treat infections"
+  ],
+  "answer": "Locally destroy cancer cells"
+},
+{
+  "numero": 25,
+  "question": "What is a common side effect of chemotherapy?",
+  "options": [
+    "Hypoglycemia",
+    "Alopecia (hair loss)",
+    "Joint pain",
+    "High blood pressure"
+  ],
+  "answer": "Alopecia (hair loss)"
+},
+{
+  "numero": 26,
+  "question": "Which genetic factor is often involved in familial breast cancer?",
+  "options": ["BRCA1 and BRCA2", "p53", "HER2", "EGFR"],
+  "answer": "BRCA1 and BRCA2"
+},
+{
+  "numero": 27,
+  "question": "Which test is used for early detection of cervical cancer?",
+  "options": [
+    "Mammogram",
+    "Pap smear (cervical cytology)",
+    "Colonoscopy",
+    "PSA test"
+  ],
+  "answer": "Pap smear (cervical cytology)"
+},
+{
+  "numero": 28,
+  "question": "What is the role of angiogenesis in cancer?",
+  "options": [
+    "Bring immune cells",
+    "Formation of new blood vessels supporting tumor growth",
+    "Cause tumor necrosis",
+    "Regulate blood clotting"
+  ],
+  "answer": "Formation of new blood vessels supporting tumor growth"
+},
+{
+  "numero": 29,
+  "question": "What is the most common type of cancer in women?",
+  "options": [
+    "Colorectal cancer",
+    "Breast cancer",
+    "Lung cancer",
+    "Liver cancer"
+  ],
+  "answer": "Breast cancer"
+},
+{
+  "numero": 30,
+  "question": "What is the key test for monitoring tumor recurrence?",
+  "options": [
+    "Basic blood test",
+    "Chest X-ray",
+    "Regular imaging (CT scan, MRI)",
+    "Electrocardiogram"
+  ],
+  "answer": "Regular imaging (CT scan, MRI)"
+},{
+  "numero": 31,
+  "question": "What is the role of surgery in cancer management?",
+  "options": [
+    "Treat metastases only",
+    "Treat secondary infections",
+    "Excision of the primary tumor",
+    "Only reduce pain"
+  ],
+  "answer": "Excision of the primary tumor"
+},
+{
+  "numero": 32,
+  "question": "What is the goal of chemoprevention?",
+  "options": [
+    "Treat advanced cancers",
+    "Prevent the development of cancer",
+    "Treat infections",
+    "Stimulate the immune system"
+  ],
+  "answer": "Prevent the development of cancer"
+},
+{
+  "numero": 33,
+  "question": "What is the main risk factor for liver cancer?",
+  "options": [
+    "Smoking",
+    "Alcohol",
+    "Infection with hepatitis B or C virus",
+    "Obesity"
+  ],
+  "answer": "Infection with hepatitis B or C virus"
+},
+{
+  "numero": 34,
+  "question": "What is the main organ affected by metastases from colorectal cancer?",
+  "options": [
+    "Lungs",
+    "Brain",
+    "Liver",
+    "Bones"
+  ],
+  "answer": "Liver"
+},
+{
+  "numero": 35,
+  "question": "Which type of cancer is associated with prolonged asbestos exposure?",
+  "options": [
+    "Breast cancer",
+    "Liver cancer",
+    "Pleural mesothelioma",
+    "Leukemia"
+  ],
+  "answer": "Pleural mesothelioma"
+},
+{
+  "numero": 36,
+  "question": "What is the role of T cells in immunotherapy?",
+  "options": [
+    "Produce antibodies",
+    "Directly attack tumor cells",
+    "Coagulate blood",
+    "Transport oxygen"
+  ],
+  "answer": "Directly attack tumor cells"
+},
+{
+  "numero": 37,
+  "question": "What is the main treatment for thyroid cancer?",
+  "options": [
+    "Antibiotics",
+    "Surgery and radioactive iodine treatment",
+    "Radiotherapy alone",
+    "Immunotherapy only"
+  ],
+  "answer": "Surgery and radioactive iodine treatment"
+},
+{
+  "numero": 38,
+  "question": "What is the most aggressive type of skin cancer?",
+  "options": [
+    "Basal cell carcinoma",
+    "Squamous cell carcinoma",
+    "Melanoma",
+    "Actinic keratosis"
+  ],
+  "answer": "Melanoma"
+},
+{
+  "numero": 39,
+  "question": "What is the role of oncogenes?",
+  "options": [
+    "Inhibit cell division",
+    "Repair DNA",
+    "Promote tumor cell growth",
+    "Coagulate blood"
+  ],
+  "answer": "Promote tumor cell growth"
+},
+{
+  "numero": 40,
+  "question": "What is the effect of immune checkpoint inhibitors?",
+  "options": [
+    "Increase coagulation",
+    "Chemically destroy the tumor",
+    "Block tumor immune evasion mechanisms",
+    "Stimulate tumor growth"
+  ],
+  "answer": "Block tumor immune evasion mechanisms"
+},
+{
+  "numero": 41,
+  "question": "What is the role of positron emission tomography (PET) in oncology?",
+  "options": [
+    "Measure blood pressure",
+    "Visualize metabolic activity of tumor cells",
+    "Perform cardiac evaluation",
+    "Diagnose infections"
+  ],
+  "answer": "Visualize metabolic activity of tumor cells"
+},
+{
+  "numero": 42,
+  "question": "What is the main symptom of pancreatic cancer?",
+  "options": [
+    "Diarrhea",
+    "Abdominal pain and jaundice",
+    "Dry cough",
+    "Fever"
+  ],
+  "answer": "Abdominal pain and jaundice"
+},
+{
+  "numero": 43,
+  "question": "What is the mechanism of action of alkylating agents in chemotherapy?",
+  "options": [
+    "Inhibit protein synthesis",
+    "Block cell division",
+    "Modify the DNA of cancer cells",
+    "Stimulate the immune system"
+  ],
+  "answer": "Modify the DNA of cancer cells"
+},
+{
+  "numero": 44,
+  "question": "What is the role of VEGF growth factor in cancer?",
+  "options": [
+    "Coagulation",
+    "Immunity",
+    "Angiogenesis (formation of blood vessels)",
+    "Apoptosis"
+  ],
+  "answer": "Angiogenesis (formation of blood vessels)"
+},
+{
+  "numero": 45,
+  "question": "What is the main risk factor for lung cancer in non-smokers?",
+  "options": [
+    "UV ray exposure",
+    "Viral infection",
+    "Exposure to radon or secondhand smoke",
+    "Vitamin D deficiency"
+  ],
+  "answer": "Exposure to radon or secondhand smoke"
+},
+{
+  "numero": 46,
+  "question": "Which type of cancer is associated with mutation of the TP53 gene?",
+  "options": [
+    "Colorectal cancer only",
+    "Prostate cancer",
+    "Multiple cancer types (p53 is a tumor suppressor)",
+    "Liver cancer only"
+  ],
+  "answer": "Multiple cancer types (p53 is a tumor suppressor)"
+},
+{
+  "numero": 47,
+  "question": "What is the main effect of PARP inhibitors in oncology?",
+  "options": [
+    "Promote tumor growth",
+    "Block DNA repair in cancer cells",
+    "Stimulate coagulation",
+    "Increase hemoglobin production"
+  ],
+  "answer": "Block DNA repair in cancer cells"
+},
+{
+  "numero": 48,
+  "question": "What is the main role of surveillance after cancer treatment?",
+  "options": [
+    "Prevent infections",
+    "Treat side effects only",
+    "Early detection of recurrence",
+    "Only reduce pain"
+  ],
+  "answer": "Early detection of recurrence"
+},
+{
+  "numero": 49,
+  "question": "What is the main mechanism of chemotherapy-resistant cancers?",
+  "options": [
+    "Mutation of genes involved in cell death",
+    "Increased blood flow",
+    "Increased drug efflux by efflux pumps",
+    "Excessive antibody production"
+  ],
+  "answer": "Increased drug efflux by efflux pumps"
+},
+{
+  "numero": 50,
+  "question": "What is the main goal of personalized medicine in oncology?",
+  "options": [
+    "Treat all patients the same way",
+    "Reduce treatment costs",
+    "Adapt treatment to the tumor's molecular signature",
+    "Avoid surgery"
+  ],
+  "answer": "Adapt treatment to the tumor's molecular signature"
+}
 ]
