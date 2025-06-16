@@ -1,348 +1,410 @@
 [
     {
-        "numero": 1,
-        "question": "Quelle bactérie est responsable de la tuberculose ?",
-        "options": [
-            "Streptococcus pneumoniae",
-            "Staphylococcus aureus",
-            "Mycobacterium tuberculosis",
-            "Escherichia coli"
-        ],
-        "answer": "Mycobacterium tuberculosis"
-    },
-    {
-        "numero": 2,
-        "question": "Quel est le vecteur principal du paludisme ?",
-        "options": [
-            "Moustique Culex",
-            "Moustique Anopheles",
-            "Tique",
-            "Mouche tsé-tsé"
-        ],
-        "answer": "Moustique Anopheles"
-    },
-    {
-        "numero": 3,
-        "question": "Quelle maladie est causée par le virus VIH ?",
-        "options": [
-            "Hépatite B",
-            "Grippe",
-            "Sida",
-            "Tuberculose"
-        ],
-        "answer": "Sida"
-    },
-    {
-        "numero": 4,
-        "question": "Quel examen est le plus utilisé pour diagnostiquer une infection bactérienne ?",
-        "options": [
-            "Sérologie",
-            "Culture bactérienne",
-            "PCR virale",
-            "Radiographie"
-        ],
-        "answer": "Culture bactérienne"
-    },
-    {
-        "numero": 5,
-        "question": "Quel antibiotique est efficace contre les infections à streptocoques ?",
-        "options": [
-            "Pénicilline",
-            "Amphotéricine B",
-            "Aciclovir",
-            "Ciprofloxacine"
-        ],
-        "answer": "Pénicilline"
-    },
-    {
-        "numero": 6,
-        "question": "Quelle maladie infectieuse est caractérisée par une fièvre élevée et des ganglions enflés, souvent chez les enfants ?",
-        "options": [
-            "Rougeole",
-            "Scarlatine",
-            "Rubéole",
-            "Varicelle"
-        ],
-        "answer": "Scarlatine"
-    },
-    {
-        "numero": 7,
-        "question": "Quel virus est responsable de l’hépatite C ?",
-        "options": [
-            "Virus de l’herpès",
-            "Virus de la rougeole",
-            "Virus de l’hépatite C (VHC)",
-            "Virus VIH"
-        ],
-        "answer": "Virus de l’hépatite C (VHC)"
-    },
-    {
-        "numero": 8,
-        "question": "Quel traitement est le plus efficace contre les infections à champignons ?",
-        "options": [
-            "Antibiotiques",
-            "Antiviraux",
-            "Antifongiques",
-            "Corticoïdes"
-        ],
-        "answer": "Antifongiques"
-    },
-    {
-        "numero": 9,
-        "question": "Quel test permet de dépister l’infection à VIH ?",
-        "options": [
-            "Test PCR bactérien",
-            "Test sérologique ELISA",
-            "Culture virale",
-            "Biopsie"
-        ],
-        "answer": "Test sérologique ELISA"
-    },
-    {
-        "numero": 10,
-        "question": "Quel est le principal mode de transmission du virus Ebola ?",
-        "options": [
-            "Aérien",
-            "Eau contaminée",
-            "Contact direct avec fluides corporels infectés",
-            "Piqûre de moustique"
-        ],
-        "answer": "Contact direct avec fluides corporels infectés"
-    },{
-      "number": 11,
-      "question": "Quel est le traitement de première intention contre la malaria ?",
-      "options": ["Amoxicilline", "Azithromycine", "Artémisinine et dérivés", "Chloroquine uniquement"],
-      "answer": "Artémisinine et dérivés"
-    },
-    {
-      "number": 12,
-      "question": "Quelle maladie est caractérisée par une éruption cutanée en plaques rouges avec des squames ?",
-      "options": ["Scarlatine", "Psoriasis", "Rougeole", "Varicelle"],
-      "answer": "Psoriasis"
-    },
-    {
-      "number": 13,
-      "question": "Quel virus cause la rougeole ?",
-      "options": ["Virus de la rubéole", "Virus de la rougeole", "Virus de l’herpès", "Virus Ebola"],
-      "answer": "Virus de la rougeole"
-    },
-    {
-      "number": 14,
-      "question": "Quel agent pathogène provoque la syphilis ?",
-      "options": ["Neisseria gonorrhoeae", "Treponema pallidum", "Chlamydia trachomatis", "Candida albicans"],
-      "answer": "Treponema pallidum"
-    },
-    {
-      "number": 15,
-      "question": "Quelle maladie est transmise par la tique Ixodes et provoque une éruption en forme de cible ?",
-      "options": ["Paludisme", "Maladie de Lyme", "Fièvre jaune", "Hépatite B"],
-      "answer": "Maladie de Lyme"
-    },
-    {
-      "number": 16,
-      "question": "Quel est le traitement principal de la tuberculose ?",
-      "options": ["Ciprofloxacine seule", "Association de rifampicine, isoniazide, pyrazinamide et éthambutol", "Antifongiques", "Corticoïdes"],
-      "answer": "Association de rifampicine, isoniazide, pyrazinamide et éthambutol"
-    },
-    {
-      "number": 17,
-      "question": "Quel virus est responsable de la varicelle ?",
-      "options": ["Virus Epstein-Barr", "Virus varicelle-zona (VZV)", "Virus de l’hépatite A", "Virus VIH"],
-      "answer": "Virus varicelle-zona (VZV)"
-    },
-    {
-      "number": 18,
-      "question": "Quel antibiotique est utilisé en première intention contre les infections urinaires ?",
-      "options": ["Amphotéricine B", "Aciclovir", "Nitrofurantoïne", "Métronidazole"],
-      "answer": "Nitrofurantoïne"
-    },
-    {
-      "number": 19,
-      "question": "Quel examen est utilisé pour détecter la bactérie Helicobacter pylori ?",
-      "options": ["Prise de sang uniquement", "Radiographie abdominale", "Test respiratoire à l’urée", "Biopsie pulmonaire"],
-      "answer": "Test respiratoire à l’urée"
-    },
-    {
-      "number": 20,
-      "question": "Quel est le traitement antiviral du zona ?",
-      "options": ["Antibiotiques", "Aciclovir ou valaciclovir", "Corticoïdes uniquement", "Antifongiques"],
-      "answer": "Aciclovir ou valaciclovir"
-    },{
-      "number": 21,
-      "question": "Quel est le vecteur de la maladie du sommeil (trypanosomiase africaine) ?",
-      "options": ["Moustique Anopheles", "Moustique Aedes", "Mouche tsé-tsé", "Tique"],
-      "answer": "Mouche tsé-tsé"
-    },
-    {
-      "number": 22,
-      "question": "Quel est le principal symptôme de la méningite bactérienne ?",
-      "options": ["Toux sèche", "Raideur de la nuque et fièvre", "Diarrhée", "Douleur abdominale"],
-      "answer": "Raideur de la nuque et fièvre"
-    },
-    {
-      "number": 23,
-      "question": "Quel est le traitement standard de la méningite à méningocoques ?",
-      "options": ["Aciclovir", "Ceftriaxone", "Amoxicilline seule", "Rifampicine"],
-      "answer": "Ceftriaxone"
-    },
-    {
-      "number": 24,
-      "question": "Quel virus est responsable de la grippe saisonnière ?",
-      "options": ["Virus VIH", "Virus de l’hépatite C", "Virus Influenza A et B", "Virus Ebola"],
-      "answer": "Virus Influenza A et B"
-    },
-    {
-      "number": 25,
-      "question": "Quel agent pathogène est responsable de la candidose ?",
-      "options": ["Virus", "Bactérie", "Champignon Candida albicans", "Parasite"],
-      "answer": "Champignon Candida albicans"
-    },
-    {
-      "number": 26,
-      "question": "Quel est le principal mode de transmission de la légionellose ?",
-      "options": ["Contact direct", "Inhalation d’aérosols contaminés", "Piqûre de tique", "Transmission sexuelle"],
-      "answer": "Inhalation d’aérosols contaminés"
-    },
-    {
-      "number": 27,
-      "question": "Quelle maladie est caractérisée par une toux prolongée avec des quintes et un bruit inspiratoire (chant du coq) ?",
-      "options": ["Bronchite", "Coqueluche", "Asthme", "Tuberculose"],
-      "answer": "Coqueluche"
-    },
-    {
-      "number": 28,
-      "question": "Quel est l’antibiotique de choix pour traiter la pneumonie à Streptococcus pneumoniae ?",
-      "options": ["Aciclovir", "Amoxicilline", "Métronidazole", "Fluconazole"],
-      "answer": "Amoxicilline"
-    },
-    {
-      "number": 29,
-      "question": "Quel test est utilisé pour diagnostiquer rapidement une infection à streptocoque A dans la pharyngite ?",
-      "options": ["Culture sanguine", "PCR virale", "Test rapide antigénique", "Sérologie"],
-      "answer": "Test rapide antigénique"
-    },
-    {
-      "number": 30,
-      "question": "Quelle maladie parasitaire est due à un protozoaire transmis par les moustiques ?",
-      "options": ["Leishmaniose", "Paludisme", "Trypanosomiase", "Filariose"],
-      "answer": "Paludisme"
-    },{
-      "number": 31,
-      "question": "Quel traitement est recommandé en cas d’infection à Clostridium difficile ?",
-      "options": ["Fluoroquinolones", "Amoxicilline", "Métronidazole ou vancomycine orale", "Aciclovir"],
-      "answer": "Métronidazole ou vancomycine orale"
-    },
-    {
-      "number": 32,
-      "question": "Quelle est la principale voie de transmission de l’hépatite B ?",
-      "options": ["Aérienne", "Transmission sexuelle et sanguine", "Eau contaminée", "Piqûre de moustique"],
-      "answer": "Transmission sexuelle et sanguine"
-    },
-    {
-      "number": 33,
-      "question": "Quelle maladie infectieuse est associée à une éruption en \"cocardes\" rouges sur la peau ?",
-      "options": ["Rubéole", "Scarlatine", "Varicelle", "Syphilis"],
-      "answer": "Scarlatine"
-    },
-    {
-      "number": 34,
-      "question": "Quel virus provoque la rougeole ?",
-      "options": ["Virus de la rubéole", "Virus de la rougeole", "Virus Epstein-Barr", "VIH"],
-      "answer": "Virus de la rougeole"
-    },
-    {
-      "number": 35,
-      "question": "Quel examen est utilisé pour confirmer une infection tuberculeuse latente ?",
-      "options": ["Biopsie pulmonaire", "Radiographie thoracique", "Test à la tuberculine (Mantoux) ou test IGRA", "Sérologie VIH"],
-      "answer": "Test à la tuberculine (Mantoux) ou test IGRA"
-    },
-    {
-      "number": 36,
-      "question": "Quel agent pathogène est responsable de la maladie de Lyme ?",
-      "options": ["Virus", "Bactérie Borrelia burgdorferi", "Champignon", "Parasite"],
-      "answer": "Bactérie Borrelia burgdorferi"
-    },
-    {
-      "number": 37,
-      "question": "Quel est le traitement antiviral du VIH ?",
-      "options": ["Antibiotiques", "Association antirétrovirale (ARV)", "Corticoïdes", "Antifongiques"],
-      "answer": "Association antirétrovirale (ARV)"
-    },
-    {
-      "number": 38,
-      "question": "Quelle maladie est transmise par les moustiques Aedes et provoque une fièvre hémorragique ?",
-      "options": ["Paludisme", "Dengue", "Zika", "Chikungunya"],
-      "answer": "Dengue"
-    },
-    {
-      "number": 39,
-      "question": "Quel examen permet le diagnostic rapide d’une infection bactérienne systémique ?",
-      "options": ["Culture virale", "PCR virale", "Hémoculture", "Radiographie"],
-      "answer": "Hémoculture"
-    },
-    {
-      "number": 40,
-      "question": "Quel est le traitement de choix en cas de leptospirose ?",
-      "options": ["Antiviraux", "Antibiotiques (doxycycline ou pénicilline)", "Antifongiques", "Corticoïdes"],
-      "answer": "Antibiotiques (doxycycline ou pénicilline)"
-    },{
-      "number": 41,
-      "question": "Quel est le principal signe clinique de la méningite virale ?",
-      "options": ["Éruption cutanée", "Diarrhée", "Céphalées et raideur de la nuque", "Toux sèche"],
-      "answer": "Céphalées et raideur de la nuque"
-    },
-    {
-      "number": 42,
-      "question": "Quel virus est responsable de la mononucléose infectieuse ?",
-      "options": ["VIH", "Virus de la rougeole", "Virus Epstein-Barr", "Virus varicelle-zona"],
-      "answer": "Virus Epstein-Barr"
-    },
-    {
-      "number": 43,
-      "question": "Quel est le principal traitement de la giardiase ?",
-      "options": ["Antibiotiques beta-lactamines", "Antiviraux", "Métronidazole", "Corticoïdes"],
-      "answer": "Métronidazole"
-    },
-    {
-      "number": 44,
-      "question": "Quel est le principal signe de la maladie du sommeil ?",
-      "options": ["Diarrhée chronique", "Troubles du sommeil et confusion mentale", "Douleur thoracique", "Toux sèche"],
-      "answer": "Troubles du sommeil et confusion mentale"
-    },
-    {
-      "number": 45,
-      "question": "Quel est le principal agent responsable des infections urinaires ?",
-      "options": ["Staphylococcus aureus", "Escherichia coli", "Mycobacterium tuberculosis", "Candida albicans"],
-      "answer": "Escherichia coli"
-    },
-    {
-      "number": 46,
-      "question": "Quel est le vecteur principal de la fièvre jaune ?",
-      "options": ["Moustique Anopheles", "Moustique Aedes aegypti", "Mouche tsé-tsé", "Tique"],
-      "answer": "Moustique Aedes aegypti"
-    },
-    {
-      "number": 47,
-      "question": "Quel est le test de référence pour diagnostiquer la COVID-19 ?",
-      "options": ["Test sérologique", "Radiographie thoracique", "PCR SARS-CoV-2 nasopharyngée", "Hémoculture"],
-      "answer": "PCR SARS-CoV-2 nasopharyngée"
-    },
-    {
-      "number": 48,
-      "question": "Quel antibiotique est contre-indiqué chez les enfants de moins de 8 ans ?",
-      "options": ["Pénicilline", "Tétracycline", "Macrolides", "Ceftriaxone"],
-      "answer": "Tétracycline"
-    },
-    {
-      "number": 49,
-      "question": "Quel agent pathogène est responsable de la diphtérie ?",
-      "options": ["Virus", "Corynebacterium diphtheriae", "Streptococcus pyogenes", "Haemophilus influenzae"],
-      "answer": "Corynebacterium diphtheriae"
-    },
-    {
-      "number": 50,
-      "question": "Quel traitement est recommandé pour la leptospirose sévère ?",
-      "options": ["Aciclovir", "Pénicilline G injectable", "Antifongiques", "Corticoïdes"],
-      "answer": "Pénicilline G injectable"
-    }
+  "numero": 1,
+  "question": "Which bacterium is responsible for tuberculosis?",
+  "options": [
+    "Streptococcus pneumoniae",
+    "Staphylococcus aureus",
+    "Mycobacterium tuberculosis",
+    "Escherichia coli"
+  ],
+  "answer": "Mycobacterium tuberculosis"
+},
+{
+  "numero": 2,
+  "question": "What is the main vector of malaria?",
+  "options": [
+    "Culex mosquito",
+    "Anopheles mosquito",
+    "Tick",
+    "Tsetse fly"
+  ],
+  "answer": "Anopheles mosquito"
+},
+{
+  "numero": 3,
+  "question": "Which disease is caused by the HIV virus?",
+  "options": [
+    "Hepatitis B",
+    "Flu",
+    "AIDS",
+    "Tuberculosis"
+  ],
+  "answer": "AIDS"
+},
+{
+  "numero": 4,
+  "question": "Which test is most commonly used to diagnose a bacterial infection?",
+  "options": [
+    "Serology",
+    "Bacterial culture",
+    "Viral PCR",
+    "X-ray"
+  ],
+  "answer": "Bacterial culture"
+},
+{
+  "numero": 5,
+  "question": "Which antibiotic is effective against streptococcal infections?",
+  "options": [
+    "Penicillin",
+    "Amphotericin B",
+    "Acyclovir",
+    "Ciprofloxacin"
+  ],
+  "answer": "Penicillin"
+},
+{
+  "numero": 6,
+  "question": "Which infectious disease is characterized by high fever and swollen lymph nodes, often in children?",
+  "options": [
+    "Measles",
+    "Scarlet fever",
+    "Rubella",
+    "Chickenpox"
+  ],
+  "answer": "Scarlet fever"
+},
+{
+  "numero": 7,
+  "question": "Which virus causes hepatitis C?",
+  "options": [
+    "Herpes virus",
+    "Measles virus",
+    "Hepatitis C virus (HCV)",
+    "HIV virus"
+  ],
+  "answer": "Hepatitis C virus (HCV)"
+},
+{
+  "numero": 8,
+  "question": "Which treatment is most effective against fungal infections?",
+  "options": [
+    "Antibiotics",
+    "Antivirals",
+    "Antifungals",
+    "Corticosteroids"
+  ],
+  "answer": "Antifungals"
+},
+{
+  "numero": 9,
+  "question": "Which test detects HIV infection?",
+  "options": [
+    "Bacterial PCR test",
+    "ELISA serological test",
+    "Viral culture",
+    "Biopsy"
+  ],
+  "answer": "ELISA serological test"
+},
+{
+  "numero": 10,
+  "question": "What is the main mode of transmission of the Ebola virus?",
+  "options": [
+    "Airborne",
+    "Contaminated water",
+    "Direct contact with infected bodily fluids",
+    "Mosquito bite"
+  ],
+  "answer": "Direct contact with infected bodily fluids"
+},
+{
+  "number": 11,
+  "question": "What is the first-line treatment for malaria?",
+  "options": [
+    "Amoxicillin",
+    "Azithromycin",
+    "Artemisinin and derivatives",
+    "Chloroquine only"
+  ],
+  "answer": "Artemisinin and derivatives"
+},
+{
+  "number": 12,
+  "question": "Which disease is characterized by red scaly plaques on the skin?",
+  "options": [
+    "Scarlet fever",
+    "Psoriasis",
+    "Measles",
+    "Chickenpox"
+  ],
+  "answer": "Psoriasis"
+},
+{
+  "number": 13,
+  "question": "Which virus causes measles?",
+  "options": [
+    "Rubella virus",
+    "Measles virus",
+    "Herpes virus",
+    "Ebola virus"
+  ],
+  "answer": "Measles virus"
+},
+{
+  "number": 14,
+  "question": "Which pathogen causes syphilis?",
+  "options": [
+    "Neisseria gonorrhoeae",
+    "Treponema pallidum",
+    "Chlamydia trachomatis",
+    "Candida albicans"
+  ],
+  "answer": "Treponema pallidum"
+},
+{
+  "number": 15,
+  "question": "Which disease is transmitted by the Ixodes tick and causes a target-shaped rash?",
+  "options": [
+    "Malaria",
+    "Lyme disease",
+    "Yellow fever",
+    "Hepatitis B"
+  ],
+  "answer": "Lyme disease"
+},
+{
+  "number": 16,
+  "question": "What is the main treatment for tuberculosis?",
+  "options": [
+    "Ciprofloxacin alone",
+    "Combination of rifampicin, isoniazid, pyrazinamide, and ethambutol",
+    "Antifungals",
+    "Corticosteroids"
+  ],
+  "answer": "Combination of rifampicin, isoniazid, pyrazinamide, and ethambutol"
+},
+{
+  "number": 17,
+  "question": "Which virus causes chickenpox?",
+  "options": [
+    "Epstein-Barr virus",
+    "Varicella-zoster virus (VZV)",
+    "Hepatitis A virus",
+    "HIV virus"
+  ],
+  "answer": "Varicella-zoster virus (VZV)"
+},
+{
+  "number": 18,
+  "question": "Which antibiotic is used as first-line treatment for urinary tract infections?",
+  "options": [
+    "Amphotericin B",
+    "Acyclovir",
+    "Nitrofurantoin",
+    "Metronidazole"
+  ],
+  "answer": "Nitrofurantoin"
+},
+{
+  "number": 19,
+  "question": "Which test is used to detect Helicobacter pylori bacteria?",
+  "options": [
+    "Blood test only",
+    "Abdominal X-ray",
+    "Urea breath test",
+    "Lung biopsy"
+  ],
+  "answer": "Urea breath test"
+},
+{
+  "number": 20,
+  "question": "What is the antiviral treatment for shingles?",
+  "options": [
+    "Antibiotics",
+    "Acyclovir or valacyclovir",
+    "Corticosteroids only",
+    "Antifungals"
+  ],
+  "answer": "Acyclovir or valacyclovir"
+},{
+  "number": 21,
+  "question": "What is the vector of sleeping sickness (African trypanosomiasis)?",
+  "options": ["Anopheles mosquito", "Aedes mosquito", "Tsetse fly", "Tick"],
+  "answer": "Tsetse fly"
+},
+{
+  "number": 22,
+  "question": "What is the main symptom of bacterial meningitis?",
+  "options": ["Dry cough", "Neck stiffness and fever", "Diarrhea", "Abdominal pain"],
+  "answer": "Neck stiffness and fever"
+},
+{
+  "number": 23,
+  "question": "What is the standard treatment for meningococcal meningitis?",
+  "options": ["Acyclovir", "Ceftriaxone", "Amoxicillin alone", "Rifampicin"],
+  "answer": "Ceftriaxone"
+},
+{
+  "number": 24,
+  "question": "Which virus causes seasonal flu?",
+  "options": ["HIV", "Hepatitis C virus", "Influenza A and B viruses", "Ebola virus"],
+  "answer": "Influenza A and B viruses"
+},
+{
+  "number": 25,
+  "question": "What type of pathogen causes candidiasis?",
+  "options": ["Virus", "Bacterium", "Fungus Candida albicans", "Parasite"],
+  "answer": "Fungus Candida albicans"
+},
+{
+  "number": 26,
+  "question": "What is the main mode of transmission of Legionnaires' disease?",
+  "options": [
+    "Direct contact",
+    "Inhalation of contaminated aerosols",
+    "Tick bite",
+    "Sexual transmission"
+  ],
+  "answer": "Inhalation of contaminated aerosols"
+},
+{
+  "number": 27,
+  "question": "Which disease is characterized by prolonged coughing fits with whooping inspiration?",
+  "options": ["Bronchitis", "Whooping cough (pertussis)", "Asthma", "Tuberculosis"],
+  "answer": "Whooping cough (pertussis)"
+},
+{
+  "number": 28,
+  "question": "What is the antibiotic of choice for treating pneumonia caused by Streptococcus pneumoniae?",
+  "options": ["Acyclovir", "Amoxicillin", "Metronidazole", "Fluconazole"],
+  "answer": "Amoxicillin"
+},
+{
+  "number": 29,
+  "question": "Which test is used to rapidly diagnose a group A streptococcal infection in pharyngitis?",
+  "options": [
+    "Blood culture",
+    "Viral PCR",
+    "Rapid antigen test",
+    "Serology"
+  ],
+  "answer": "Rapid antigen test"
+},
+{
+  "number": 30,
+  "question": "Which parasitic disease is caused by a protozoan transmitted by mosquitoes?",
+  "options": ["Leishmaniasis", "Malaria", "Trypanosomiasis", "Filariasis"],
+  "answer": "Malaria"
+},{
+  "number": 31,
+  "question": "What treatment is recommended for Clostridium difficile infection?",
+  "options": ["Fluoroquinolones", "Amoxicillin", "Metronidazole or oral vancomycin", "Acyclovir"],
+  "answer": "Metronidazole or oral vancomycin"
+},
+{
+  "number": 32,
+  "question": "What is the main route of transmission of hepatitis B?",
+  "options": ["Airborne", "Sexual and blood transmission", "Contaminated water", "Mosquito bite"],
+  "answer": "Sexual and blood transmission"
+},
+{
+  "number": 33,
+  "question": "Which infectious disease is associated with red 'target-shaped' rashes on the skin?",
+  "options": ["Rubella", "Scarlet fever", "Chickenpox", "Syphilis"],
+  "answer": "Scarlet fever"
+},
+{
+  "number": 34,
+  "question": "Which virus causes measles?",
+  "options": ["Rubella virus", "Measles virus", "Epstein-Barr virus", "HIV"],
+  "answer": "Measles virus"
+},
+{
+  "number": 35,
+  "question": "Which test is used to confirm latent tuberculosis infection?",
+  "options": ["Lung biopsy", "Chest X-ray", "Tuberculin skin test (Mantoux) or IGRA test", "HIV serology"],
+  "answer": "Tuberculin skin test (Mantoux) or IGRA test"
+},
+{
+  "number": 36,
+  "question": "Which pathogen is responsible for Lyme disease?",
+  "options": ["Virus", "Bacteria Borrelia burgdorferi", "Fungus", "Parasite"],
+  "answer": "Bacteria Borrelia burgdorferi"
+},
+{
+  "number": 37,
+  "question": "What is the antiviral treatment for HIV?",
+  "options": ["Antibiotics", "Antiretroviral therapy (ART)", "Corticosteroids", "Antifungals"],
+  "answer": "Antiretroviral therapy (ART)"
+},
+{
+  "number": 38,
+  "question": "Which disease is transmitted by Aedes mosquitoes and causes hemorrhagic fever?",
+  "options": ["Malaria", "Dengue", "Zika", "Chikungunya"],
+  "answer": "Dengue"
+},
+{
+  "number": 39,
+  "question": "Which test allows rapid diagnosis of systemic bacterial infection?",
+  "options": ["Viral culture", "Viral PCR", "Blood culture", "X-ray"],
+  "answer": "Blood culture"
+},
+{
+  "number": 40,
+  "question": "What is the treatment of choice for leptospirosis?",
+  "options": ["Antivirals", "Antibiotics (doxycycline or penicillin)", "Antifungals", "Corticosteroids"],
+  "answer": "Antibiotics (doxycycline or penicillin)"
+},
+{
+  "number": 41,
+  "question": "What is the main clinical sign of viral meningitis?",
+  "options": ["Skin rash", "Diarrhea", "Headache and neck stiffness", "Dry cough"],
+  "answer": "Headache and neck stiffness"
+},
+{
+  "number": 42,
+  "question": "Which virus causes infectious mononucleosis?",
+  "options": ["HIV", "Measles virus", "Epstein-Barr virus", "Varicella-zoster virus"],
+  "answer": "Epstein-Barr virus"
+},
+{
+  "number": 43,
+  "question": "What is the main treatment for giardiasis?",
+  "options": ["Beta-lactam antibiotics", "Antivirals", "Metronidazole", "Corticosteroids"],
+  "answer": "Metronidazole"
+},
+{
+  "number": 44,
+  "question": "What is the main symptom of sleeping sickness?",
+  "options": ["Chronic diarrhea", "Sleep disturbances and mental confusion", "Chest pain", "Dry cough"],
+  "answer": "Sleep disturbances and mental confusion"
+},
+{
+  "number": 45,
+  "question": "What is the main causative agent of urinary tract infections?",
+  "options": ["Staphylococcus aureus", "Escherichia coli", "Mycobacterium tuberculosis", "Candida albicans"],
+  "answer": "Escherichia coli"
+},
+{
+  "number": 46,
+  "question": "What is the main vector of yellow fever?",
+  "options": ["Anopheles mosquito", "Aedes aegypti mosquito", "Tsetse fly", "Tick"],
+  "answer": "Aedes aegypti mosquito"
+},
+{
+  "number": 47,
+  "question": "What is the reference test to diagnose COVID-19?",
+  "options": ["Serological test", "Chest X-ray", "Nasopharyngeal SARS-CoV-2 PCR", "Blood culture"],
+  "answer": "Nasopharyngeal SARS-CoV-2 PCR"
+},
+{
+  "number": 48,
+  "question": "Which antibiotic is contraindicated in children under 8 years old?",
+  "options": ["Penicillin", "Tetracycline", "Macrolides", "Ceftriaxone"],
+  "answer": "Tetracycline"
+},
+{
+  "number": 49,
+  "question": "Which pathogen is responsible for diphtheria?",
+  "options": ["Virus", "Corynebacterium diphtheriae", "Streptococcus pyogenes", "Haemophilus influenzae"],
+  "answer": "Corynebacterium diphtheriae"
+},
+{
+  "number": 50,
+  "question": "What treatment is recommended for severe leptospirosis?",
+  "options": ["Acyclovir", "Injectable penicillin G", "Antifungals", "Corticosteroids"],
+  "answer": "Injectable penicillin G"
+}
 ]
