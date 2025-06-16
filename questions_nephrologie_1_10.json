@@ -1,388 +1,440 @@
 [
   {
-    "question": "1. Quelle est la principale cause de l’insuffisance rénale chronique dans le monde ?",
+  "question": "1. What is the main cause of chronic kidney disease worldwide?",
+  "options": [
+    "Urinary infection",
+    "Diabetes",
+    "Glomerulonephritis",
+    "Kidney stones"
+  ],
+  "answer": "Diabetes"
+},
+{
+  "question": "2. What is the primary role of the renal glomerulus?",
+  "options": [
+    "Water reabsorption",
+    "Hormone secretion",
+    "Filtration of blood plasma",
+    "Production of concentrated urine"
+  ],
+  "answer": "Filtration of blood plasma"
+},
+{
+  "question": "3. Proteinuria is defined as:",
+  "options": [
+    "Presence of red blood cells in the urine",
+    "Presence of bacteria",
+    "Abnormal presence of proteins in the urine",
+    "Total absence of urine"
+  ],
+  "answer": "Abnormal presence of proteins in the urine"
+},
+{
+  "question": "4. What is the main symptom of acute kidney failure?",
+  "options": [
+    "Abdominal pain",
+    "Oliguria or anuria",
+    "Hyperglycemia",
+    "Fever"
+  ],
+  "answer": "Oliguria or anuria"
+},
+{
+  "question": "5. The nephrotic syndrome is characterized by:",
+  "options": [
+    "Macroscopic hematuria",
+    "Arterial hypertension",
+    "Massive proteinuria, hypoalbuminemia, edema",
+    "Lower back pain"
+  ],
+  "answer": "Massive proteinuria, hypoalbuminemia, edema"
+},
+{
+  "question": "6. What is the most common cause of post-infectious acute glomerulonephritis?",
+  "options": [
+    "Hepatitis B virus",
+    "HIV",
+    "Streptococcal infection",
+    "Parasite"
+  ],
+  "answer": "Streptococcal infection"
+},
+{
+  "question": "7. Peritoneal dialysis uses:",
+  "options": [
+    "Blood",
+    "The peritoneum as a dialysis membrane",
+    "The liver",
+    "The lungs"
+  ],
+  "answer": "The peritoneum as a dialysis membrane"
+},
+{
+  "question": "8. Which ion is mainly responsible for acid-base balance regulated by the kidneys?",
+  "options": [
+    "Calcium",
+    "Potassium",
+    "Bicarbonate",
+    "Sodium"
+  ],
+  "answer": "Bicarbonate"
+},
+{
+  "question": "9. Hyperkalemia is a serious complication of kidney failure because it can cause:",
+  "options": [
+    "Hypertension",
+    "Pulmonary edema",
+    "Cardiac arrhythmias",
+    "Hypoglycemia"
+  ],
+  "answer": "Cardiac arrhythmias"
+},
+{
+  "question": "10. Diabetic nephropathy mainly manifests as:",
+  "options": [
+    "Macroscopic hematuria",
+    "Heart failure episodes",
+    "Proteinuria and progressive decline of kidney function",
+    "Acute kidney pain"
+  ],
+  "answer": "Proteinuria and progressive decline of kidney function"
+},
+{
+  "id": 11,
+  "question": "What is the reference test to assess kidney function?",
+  "options": [
+    "Abdominal CT scan",
+    "Kidney ultrasound",
+    "Creatinine clearance or estimated GFR",
+    "Kidney biopsy"
+  ],
+  "answer": "Creatinine clearance or estimated GFR"
+},
+{
+  "id": 12,
+  "question": "Microscopic hematuria can suggest:",
+  "options": [
+    "Cystitis",
+    "Glomerulonephritis",
+    "Acute pyelonephritis",
+    "Diabetes"
+  ],
+  "answer": "Glomerulonephritis"
+},
+{
+  "id": 13,
+  "question": "Initial management of hypertension related to kidney disease includes:",
+  "options": [
+    "Corticosteroids",
+    "ACE inhibitors or ARBs",
+    "Thiazide diuretics only",
+    "Antibiotics"
+  ],
+  "answer": "ACE inhibitors or ARBs"
+},
+{
+  "id": 14,
+  "question": "What is the most frequent complication of kidney stones?",
+  "options": [
+    "Lung infection",
+    "Renal colic",
+    "Stroke",
+    "Diabetes"
+  ],
+  "answer": "Renal colic"
+},
+{
+  "id": 15,
+  "question": "Angiotensin II causes:",
+  "options": [
+    "Decrease in blood pressure",
+    "Increase in insulin secretion",
+    "Vasoconstriction and increase in blood pressure",
+    "Decrease in sodium reabsorption"
+  ],
+  "answer": "Vasoconstriction and increase in blood pressure"
+},
+{
+  "id": 16,
+  "question": "Polyuria can be a sign of:",
+  "options": [
+    "Acute kidney failure",
+    "Hypoglycemia",
+    "Diabetes insipidus",
+    "Hyperkalemia"
+  ],
+  "answer": "Diabetes insipidus"
+},
+{
+  "id": 17,
+  "question": "Edema in nephrology is mainly caused by:",
+  "options": [
+    "Infection",
+    "Hyperglycemia",
+    "Hypoalbuminemia and salt-water retention",
+    "Hypercalcemia"
+  ],
+  "answer": "Hypoalbuminemia and salt-water retention"
+},
+{
+  "id": 18,
+  "question": "Which hormone is produced by the kidney and stimulates red blood cell production?",
+  "options": [
+    "Insulin",
+    "Adrenaline",
+    "Erythropoietin",
+    "Cortisol"
+  ],
+  "answer": "Erythropoietin"
+},
+{
+  "id": 19,
+  "question": "Hemodialysis requires:",
+  "options": [
+    "Central venous catheter only",
+    "Continuous infusion",
+    "Vascular access (arteriovenous fistula)",
+    "General anesthesia"
+  ],
+  "answer": "Vascular access (arteriovenous fistula)"
+},
+{
+  "id": 20,
+  "question": "Hemolytic-uremic syndrome mainly affects:",
+  "options": [
+    "Elderly adults",
+    "Diabetics",
+    "Children",
+    "Hypertensive people"
+  ],
+  "answer": "Children"
+},{
+    "id": 21,
+    "question": "IgA nephropathy typically presents with:",
     "options": [
-      "Infection urinaire",
-      "Diabète",
-      "Glomérulonéphrite",
-      "Lithiase rénale"
+        "Chronic kidney failure",
+        "Recurrent gross hematuria after upper respiratory tract infection",
+        "Polyuria",
+        "Massive proteinuria"
     ],
-    "answer": "Diabète"
-  },
-  {
-    "question": "2. Quel est le rôle principal du glomérule rénal ?",
+    "answer": "Recurrent gross hematuria after upper respiratory tract infection"
+},
+{
+    "id": 22,
+    "question": "What is the most specific test to confirm glomerulonephritis?",
     "options": [
-      "Réabsorption d’eau",
-      "Sécrétion d’hormones",
-      "Filtration du plasma sanguin",
-      "Production d’urine concentrée"
+        "Ultrasound",
+        "CT scan",
+        "Kidney biopsy",
+        "Urine test"
     ],
-    "answer": "Filtration du plasma sanguin"
-  },
-  {
-    "question": "3. La protéinurie est définie par :",
+    "answer": "Kidney biopsy"
+},
+{
+    "id": 23,
+    "question": "Proteinuria greater than 3.5 g/24h is characteristic of:",
     "options": [
-      "Présence de globules rouges dans les urines",
-      "Présence de bactéries",
-      "Présence anormale de protéines dans les urines",
-      "Absence totale d’urine"
+        "Acute kidney injury",
+        "Nephrotic syndrome",
+        "Urinary tract infection",
+        "Diabetes"
     ],
-    "answer": "Présence anormale de protéines dans les urines"
-  },
-  {
-    "question": "4. Quel est le principal symptôme de l’insuffisance rénale aiguë ?",
+    "answer": "Nephrotic syndrome"
+},
+{
+    "id": 24,
+    "question": "Calcemia is often altered in:",
     "options": [
-      "Douleur abdominale",
-      "Oligurie ou anurie",
-      "Hyperglycémie",
-      "Fièvre"
+        "Chronic kidney disease",
+        "Acute glomerulonephritis",
+        "Advanced chronic kidney disease",
+        "Acute pyelonephritis"
     ],
-    "answer": "Oligurie ou anurie"
-  },
-  {
-    "question": "5. Le syndrome néphrotique est caractérisé par :",
+    "answer": "Advanced chronic kidney disease"
+},
+{
+    "id": 25,
+    "question": "Which ion is primarily excreted by the kidneys?",
     "options": [
-      "Hématurie macroscopique",
-      "Hypertension artérielle",
-      "Protéinurie massive, hypoalbuminémie, œdèmes",
-      "Douleurs lombaires"
+        "Calcium",
+        "Magnesium",
+        "Potassium",
+        "Phosphorus"
     ],
-    "answer": "Protéinurie massive, hypoalbuminémie, œdèmes"
-  },
-  {
-    "question": "6. Quelle est la cause la plus fréquente de glomérulonéphrite aiguë post-infectieuse ?",
+    "answer": "Potassium"
+},
+{
+    "id": 26,
+    "question": "The management of acute urinary stones includes:",
     "options": [
-      "Virus hépatite B",
-      "VIH",
-      "Infection streptococcique",
-      "Parasite"
+        "Antibiotics only",
+        "Painkillers and hydration",
+        "Immediate surgery",
+        "Corticosteroids"
     ],
-    "answer": "Infection streptococcique"
-  },
-  {
-    "question": "7. La dialyse péritonéale utilise :",
+    "answer": "Painkillers and hydration"
+},
+{
+    "id": 27,
+    "question": "The main risk factor for chronic kidney disease is:",
     "options": [
-      "Le sang",
-      "Le péritoine comme membrane de dialyse",
-      "Le foie",
-      "Les poumons"
+        "Hypotension",
+        "Diabetes",
+        "Urinary tract infection",
+        "Smoking"
     ],
-    "answer": "Le péritoine comme membrane de dialyse"
-  },
-  {
-    "question": "8. Quel ion est le principal responsable de l’équilibre acido-basique régulé par les reins ?",
+    "answer": "Diabetes"
+},
+{
+    "id": 28,
+    "question": "Microalbuminuria is an early marker of:",
     "options": [
-      "Calcium",
-      "Potassium",
-      "Bicarbonate",
-      "Sodium"
+        "Glomerulonephritis",
+        "Urinary tract infection",
+        "Diabetic nephropathy",
+        "Pyelonephritis"
     ],
-    "answer": "Bicarbonate"
-  },
-  {
-    "question": "9. L’hyperkaliémie est une complication grave de l’insuffisance rénale car elle peut provoquer :",
+    "answer": "Diabetic nephropathy"
+},
+{
+    "id": 29,
+    "question": "Blood urea is a marker of:",
     "options": [
-      "Hypertension",
-      "Œdème pulmonaire",
-      "Troubles du rythme cardiaque",
-      "Hypoglycémie"
+        "Liver function",
+        "Kidney function",
+        "Coagulation",
+        "Blood glucose"
     ],
-    "answer": "Troubles du rythme cardiaque"
-  },
-  {
-    "question": "10. La néphropathie diabétique se manifeste principalement par :",
+    "answer": "Kidney function"
+},
+{
+    "id": 30,
+    "question": "What is the first-line test when suspecting renal colic?",
     "options": [
-      "Hématurie macroscopique",
-      "Crises d’insuffisance cardiaque",
-      "Protéinurie et déclin progressif de la fonction rénale",
-      "Douleur rénale aiguë"
+        "MRI",
+        "Ultrasound or non-contrast CT scan",
+        "Kidney biopsy",
+        "ECG"
     ],
-    "answer": "Protéinurie et déclin progressif de la fonction rénale"
-  }, {
-        "id": 11,
-        "question": "Quel est l’examen de référence pour évaluer la fonction rénale ?",
-        "options": ["Scanner abdominal", "Échographie rénale", "Clairance de la créatinine ou estimation du DFG", "Biopsie rénale"],
-        "answer": "Clairance de la créatinine ou estimation du DFG"
-    },
-    {
-        "id": 12,
-        "question": "L’hématurie microscopique peut évoquer :",
-        "options": ["Cystite", "Glomérulonéphrite", "Pyélonéphrite aiguë", "Diabète"],
-        "answer": "Glomérulonéphrite"
-    },
-    {
-        "id": 13,
-        "question": "La prise en charge initiale de l’hypertension liée à une maladie rénale comprend :",
-        "options": ["Corticoïdes", "Inhibiteurs de l’enzyme de conversion (IEC) ou ARA II", "Diurétiques thiazidiques uniquement", "Antibiotiques"],
-        "answer": "Inhibiteurs de l’enzyme de conversion (IEC) ou ARA II"
-    },
-    {
-        "id": 14,
-        "question": "Quelle est la complication la plus fréquente de la lithiases rénale ?",
-        "options": ["Infection pulmonaire", "Colique néphrétique", "AVC", "Diabète"],
-        "answer": "Colique néphrétique"
-    },
-    {
-        "id": 15,
-        "question": "L’angiotensine II a pour effet :",
-        "options": ["Diminuer la pression artérielle", "Augmenter la sécrétion d’insuline", "Vasoconstriction et augmentation de la pression artérielle", "Diminuer la réabsorption du sodium"],
-        "answer": "Vasoconstriction et augmentation de la pression artérielle"
-    },
-    {
-        "id": 16,
-        "question": "La polyurie peut être un signe de :",
-        "options": ["Insuffisance rénale aiguë", "Hypoglycémie", "Diabète insipide", "Hyperkaliémie"],
-        "answer": "Diabète insipide"
-    },
-    {
-        "id": 17,
-        "question": "L’œdème en néphrologie est principalement causé par :",
-        "options": ["Infection", "Hyperglycémie", "Hypoalbuminémie et rétention hydrosodée", "Hypercalcémie"],
-        "answer": "Hypoalbuminémie et rétention hydrosodée"
-    },
-    {
-        "id": 18,
-        "question": "Quelle hormone est produite par le rein et stimule la production de globules rouges ?",
-        "options": ["Insuline", "Adrénaline", "Érythropoïétine", "Cortisol"],
-        "answer": "Érythropoïétine"
-    },
-    {
-        "id": 19,
-        "question": "La dialyse hémodialyse nécessite :",
-        "options": ["Un cathéter veineux central uniquement", "Une perfusion continue", "Un accès vasculaire (fistule artério-veineuse)", "Une anesthésie générale"],
-        "answer": "Un accès vasculaire (fistule artério-veineuse)"
-    },
-    {
-        "id": 20,
-        "question": "Le syndrome hémolytique et urémique touche principalement :",
-        "options": ["Les adultes âgés", "Les diabétiques", "Les enfants", "Les personnes hypertendues"],
-        "answer": "Les enfants"
-    },{
-        "id": 21,
-        "question": "La néphropathie à IgA se manifeste typiquement par :",
-        "options": [
-            "Insuffisance rénale chronique",
-            "Hématurie macroscopique récidivante après infection ORL",
-            "Polyurie",
-            "Protéinurie massive"
-        ],
-        "answer": "Hématurie macroscopique récidivante après infection ORL"
-    },
-    {
-        "id": 22,
-        "question": "Quel est l’examen le plus spécifique pour confirmer une glomérulonéphrite ?",
-        "options": [
-            "Échographie",
-            "Scanner",
-            "Biopsie rénale",
-            "Test urinaire"
-        ],
-        "answer": "Biopsie rénale"
-    },
-    {
-        "id": 23,
-        "question": "Une protéinurie de plus de 3,5 g/24h est caractéristique de :",
-        "options": [
-            "Insuffisance rénale aiguë",
-            "Syndrome néphrotique",
-            "Infection urinaire",
-            "Diabète"
-        ],
-        "answer": "Syndrome néphrotique"
-    },
-    {
-        "id": 24,
-        "question": "La calcémie est souvent perturbée dans :",
-        "options": [
-            "Insuffisance rénale chronique",
-            "Glomérulonéphrite aiguë",
-            "Insuffisance rénale chronique avancée",
-            "Pyélonéphrite aiguë"
-        ],
-        "answer": "Insuffisance rénale chronique avancée"
-    },
-    {
-        "id": 25,
-        "question": "Quel ion est principalement éliminé par les reins ?",
-        "options": [
-            "Calcium",
-            "Magnésium",
-            "Potassium",
-            "Phosphore"
-        ],
-        "answer": "Potassium"
-    },
-    {
-        "id": 26,
-        "question": "La prise en charge de la lithiase urinaire aiguë est :",
-        "options": [
-            "Antibiotiques uniquement",
-            "Antalgiques et hydratation",
-            "Chirurgie immédiate",
-            "Corticothérapie"
-        ],
-        "answer": "Antalgiques et hydratation"
-    },
-    {
-        "id": 27,
-        "question": "Le principal facteur de risque de la maladie rénale chronique est :",
-        "options": [
-            "Hypotension",
-            "Diabète",
-            "Infection urinaire",
-            "Tabagisme"
-        ],
-        "answer": "Diabète"
-    },
-    {
-        "id": 28,
-        "question": "La microalbuminurie est un marqueur précoce de :",
-        "options": [
-            "Glomérulonéphrite",
-            "Infection urinaire",
-            "Néphropathie diabétique",
-            "Pyélonéphrite"
-        ],
-        "answer": "Néphropathie diabétique"
-    },
-    {
-        "id": 29,
-        "question": "L’urée sanguine est un marqueur de :",
-        "options": [
-            "Fonction hépatique",
-            "Fonction rénale",
-            "Coagulation",
-            "Glycémie"
-        ],
-        "answer": "Fonction rénale"
-    },
-    {
-        "id": 30,
-        "question": "Quel est l’examen de première intention devant une suspicion de colique néphrétique ?",
-        "options": [
-            "IRM",
-            "Échographie ou scanner sans injection",
-            "Biopsie rénale",
-            "ECG"
-        ],
-        "answer": "Échographie ou scanner sans injection"
-    },{
-        "id": 31,
-        "question": "Quel médicament est néphrotoxique ?",
-        "options": ["Paracétamol", "AINS (anti-inflammatoires non stéroïdiens)", "Aspirine", "Metformine"],
-        "answer": "AINS (anti-inflammatoires non stéroïdiens)"
-    },
-    {
-        "id": 32,
-        "question": "Quel signe clinique est évocateur d’une pyélonéphrite ?",
-        "options": ["Anurie", "Fièvre, douleur lombaire, signes urinaires", "Hématurie macroscopique", "Hypotension"],
-        "answer": "Fièvre, douleur lombaire, signes urinaires"
-    },
-    {
-        "id": 33,
-        "question": "Quel est le traitement de l’hyperkaliémie sévère ?",
-        "options": ["Insuline, bicarbonates, gluconate de calcium", "Bêtabloquants", "Diurétiques thiazidiques", "Corticoïdes"],
-        "answer": "Insuline, bicarbonates, gluconate de calcium"
-    },
-    {
-        "id": 34,
-        "question": "Le syndrome de Fanconi est caractérisé par :",
-        "options": ["Insuffisance rénale aiguë", "Proximal tubulopathy avec perte d’électrolytes", "Glomérulonéphrite", "Hypertension"],
-        "answer": "Proximal tubulopathy avec perte d’électrolytes"
-    },
-    {
-        "id": 35,
-        "question": "Le potassium sérique normal est :",
-        "options": ["1-2 mmol/L", "10-12 mmol/L", "3,5-5 mmol/L", "6-8 mmol/L"],
-        "answer": "3,5-5 mmol/L"
-    },
-    {
-        "id": 36,
-        "question": "Quel test urinaire est utile pour diagnostiquer une infection urinaire ?",
-        "options": ["Recherche de cristaux", "Mesure du pH", "Bandelette urinaire (nitrites, leucocytes)", "Cytologie"],
-        "answer": "Bandelette urinaire (nitrites, leucocytes)"
-    },
-    {
-        "id": 37,
-        "question": "La polykystose rénale autosomique dominante est :",
-        "options": ["Infectieuse", "Auto-immune", "Héréditaire", "Tumorale"],
-        "answer": "Héréditaire"
-    },
-    {
-        "id": 38,
-        "question": "L’œdème pulmonaire peut être une complication de :",
-        "options": ["Pyélonéphrite", "Syndrome néphrotique", "Insuffisance rénale aiguë ou chronique avancée", "Lithiase urinaire"],
-        "answer": "Insuffisance rénale aiguë ou chronique avancée"
-    },
-    {
-        "id": 39,
-        "question": "La prise de sang montre une anémie normocytaire normochrome dans :",
-        "options": ["Infection urinaire", "Syndrome néphrotique", "Insuffisance rénale chronique", "Lithiase"],
-        "answer": "Insuffisance rénale chronique"
-    },
-    {
-        "id": 40,
-        "question": "Quelle est la cause principale d’hyperaldostéronisme secondaire en néphrologie ?",
-        "options": ["Insuffisance cardiaque", "Insuffisance rénale chronique", "Hypotension", "Diabète"],
-        "answer": "Insuffisance rénale chronique"
-    },{
-        "id": 41,
-        "question": "Quel test est indispensable avant une biopsie rénale ?",
-        "options": ["Radiographie pulmonaire", "Échographie abdominale", "Bilan de coagulation", "ECG"],
-        "answer": "Bilan de coagulation"
-    },
-    {
-        "id": 42,
-        "question": "Quel médicament est utilisé pour ralentir la progression de la néphropathie diabétique ?",
-        "options": ["Diurétiques", "IEC ou ARA II", "Corticoïdes", "Antibiotiques"],
-        "answer": "IEC ou ARA II"
-    },
-    {
-        "id": 43,
-        "question": "La présence de cylindres hématiques dans les urines évoque :",
-        "options": ["Infection urinaire", "Pyélonéphrite", "Atteinte glomérulaire", "Lithiase"],
-        "answer": "Atteinte glomérulaire"
-    },
-    {
-        "id": 44,
-        "question": "Quel est le rôle de la vitamine D en néphrologie ?",
-        "options": ["Diminuer la glycémie", "Faciliter l’absorption intestinale du calcium", "Augmenter la production d’urine", "Inhiber l’aldostérone"],
-        "answer": "Faciliter l’absorption intestinale du calcium"
-    },
-    {
-        "id": 45,
-        "question": "La polyurie nocturne (nycturie) peut être un signe de :",
-        "options": ["Infection urinaire", "Insuffisance rénale chronique", "Glomérulonéphrite", "Pyélonéphrite"],
-        "answer": "Insuffisance rénale chronique"
-    },
-    {
-        "id": 46,
-        "question": "L’azotémie est définie par :",
-        "options": ["Taux élevé de glucose", "Taux bas d’urée", "Taux élevé d’azote uréique sanguin", "Taux bas de potassium"],
-        "answer": "Taux élevé d’azote uréique sanguin"
-    },
-    {
-        "id": 47,
-        "question": "La cystite est une infection :",
-        "options": ["Rénale", "De la vessie", "Prostatique", "Urethrale"],
-        "answer": "De la vessie"
-    },
-    {
-        "id": 48,
-        "question": "Quel ion est majoritairement responsable de l’hypertension dans l’insuffisance rénale ?",
-        "options": ["Calcium", "Sodium", "Potassium", "Magnésium"],
-        "answer": "Sodium"
-    },
-    {
-        "id": 49,
-        "question": "La dialyse est indiquée en cas de :",
-        "options": ["Hyperkaliémie légère", "Insuffisance rénale terminale", "Infection urinaire", "Lithiase urinaire"],
-        "answer": "Insuffisance rénale terminale"
-    },
-    {
-        "id": 50,
-        "question": "Quel est le principal facteur de risque pour le cancer du rein ?",
-        "options": ["Diabète", "Infection urinaire", "Tabagisme", "Hyperkaliémie"],
-        "answer": "Tabagisme"
-    }
+    "answer": "Ultrasound or non-contrast CT scan"
+},{
+  "id": 31,
+  "question": "Which medication is nephrotoxic?",
+  "options": ["Paracetamol", "NSAIDs (non-steroidal anti-inflammatory drugs)", "Aspirin", "Metformin"],
+  "answer": "NSAIDs (non-steroidal anti-inflammatory drugs)"
+},
+{
+  "id": 32,
+  "question": "Which clinical sign is suggestive of pyelonephritis?",
+  "options": ["Anuria", "Fever, lumbar pain, urinary symptoms", "Macroscopic hematuria", "Hypotension"],
+  "answer": "Fever, lumbar pain, urinary symptoms"
+},
+{
+  "id": 33,
+  "question": "What is the treatment for severe hyperkalemia?",
+  "options": ["Insulin, bicarbonates, calcium gluconate", "Beta-blockers", "Thiazide diuretics", "Corticosteroids"],
+  "answer": "Insulin, bicarbonates, calcium gluconate"
+},
+{
+  "id": 34,
+  "question": "Fanconi syndrome is characterized by:",
+  "options": ["Acute kidney failure", "Proximal tubulopathy with electrolyte loss", "Glomerulonephritis", "Hypertension"],
+  "answer": "Proximal tubulopathy with electrolyte loss"
+},
+{
+  "id": 35,
+  "question": "Normal serum potassium level is:",
+  "options": ["1-2 mmol/L", "10-12 mmol/L", "3.5-5 mmol/L", "6-8 mmol/L"],
+  "answer": "3.5-5 mmol/L"
+},
+{
+  "id": 36,
+  "question": "Which urine test is useful to diagnose a urinary tract infection?",
+  "options": ["Search for crystals", "pH measurement", "Urine dipstick (nitrites, leukocytes)", "Cytology"],
+  "answer": "Urine dipstick (nitrites, leukocytes)"
+},
+{
+  "id": 37,
+  "question": "Autosomal dominant polycystic kidney disease is:",
+  "options": ["Infectious", "Autoimmune", "Hereditary", "Tumoral"],
+  "answer": "Hereditary"
+},
+{
+  "id": 38,
+  "question": "Pulmonary edema can be a complication of:",
+  "options": ["Pyelonephritis", "Nephrotic syndrome", "Acute or advanced chronic kidney failure", "Urinary stones"],
+  "answer": "Acute or advanced chronic kidney failure"
+},
+{
+  "id": 39,
+  "question": "Blood tests show normocytic normochromic anemia in:",
+  "options": ["Urinary infection", "Nephrotic syndrome", "Chronic kidney disease", "Kidney stones"],
+  "answer": "Chronic kidney disease"
+},
+{
+  "id": 40,
+  "question": "What is the main cause of secondary hyperaldosteronism in nephrology?",
+  "options": ["Heart failure", "Chronic kidney disease", "Hypotension", "Diabetes"],
+  "answer": "Chronic kidney disease"
+},
+{
+  "id": 41,
+  "question": "Which test is essential before a kidney biopsy?",
+  "options": ["Chest X-ray", "Abdominal ultrasound", "Coagulation panel", "ECG"],
+  "answer": "Coagulation panel"
+},
+{
+  "id": 42,
+  "question": "Which medication is used to slow the progression of diabetic nephropathy?",
+  "options": ["Diuretics", "ACE inhibitors or ARBs", "Corticosteroids", "Antibiotics"],
+  "answer": "ACE inhibitors or ARBs"
+},
+{
+  "id": 43,
+  "question": "The presence of red blood cell casts in urine suggests:",
+  "options": ["Urinary infection", "Pyelonephritis", "Glomerular injury", "Kidney stones"],
+  "answer": "Glomerular injury"
+},
+{
+  "id": 44,
+  "question": "What is the role of vitamin D in nephrology?",
+  "options": ["Lower blood sugar", "Facilitate intestinal calcium absorption", "Increase urine production", "Inhibit aldosterone"],
+  "answer": "Facilitate intestinal calcium absorption"
+},
+{
+  "id": 45,
+  "question": "Nocturnal polyuria (nocturia) can be a sign of:",
+  "options": ["Urinary infection", "Chronic kidney disease", "Glomerulonephritis", "Pyelonephritis"],
+  "answer": "Chronic kidney disease"
+},
+{
+  "id": 46,
+  "question": "Azotemia is defined as:",
+  "options": ["High glucose level", "Low urea level", "High blood urea nitrogen level", "Low potassium level"],
+  "answer": "High blood urea nitrogen level"
+},
+{
+  "id": 47,
+  "question": "Cystitis is an infection of the:",
+  "options": ["Kidney", "Bladder", "Prostate", "Urethra"],
+  "answer": "Bladder"
+},
+{
+  "id": 48,
+  "question": "Which ion is mainly responsible for hypertension in kidney failure?",
+  "options": ["Calcium", "Sodium", "Potassium", "Magnesium"],
+  "answer": "Sodium"
+},
+{
+  "id": 49,
+  "question": "Dialysis is indicated in case of:",
+  "options": ["Mild hyperkalemia", "End-stage renal disease", "Urinary infection", "Urinary stones"],
+  "answer": "End-stage renal disease"
+},
+{
+  "id": 50,
+  "question": "What is the main risk factor for kidney cancer?",
+  "options": ["Diabetes", "Urinary infection", "Smoking", "Hyperkalemia"],
+  "answer": "Smoking"
+}
 ]
