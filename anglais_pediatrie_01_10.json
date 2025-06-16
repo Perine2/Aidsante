@@ -1,348 +1,372 @@
 [
   {
-    "id": 1,
-    "question": "Quelle est la principale cause de mortalité néonatale dans les pays à faibles revenus ?",
-    "options": [
-      "Malaria",
-      "Asphyxie périnatale",
-      "Rougeole",
-      "Diabète congénital"
-    ],
-    "answer": "Asphyxie périnatale"
-  },
-  {
-    "id": 2,
-    "question": "Quel est l'âge recommandé pour la première dose du vaccin ROR (Rougeole-Oreillons-Rubéole) ?",
-    "options": [
-      "À la naissance",
-      "6 mois",
-      "9 mois",
-      "12 mois"
-    ],
-    "answer": "12 mois"
-  },
-  {
-    "id": 3,
-    "question": "Un nourrisson présente des vomissements en jet après les repas. Quel diagnostic suspecter ?",
-    "options": [
-      "Reflux gastro-œsophagien",
-      "Sténose hypertrophique du pylore",
-      "Gastroentérite virale",
-      "Intolérance au lactose"
-    ],
-    "answer": "Sténose hypertrophique du pylore"
-  },
-  {
-    "id": 4,
-    "question": "Quel est le signe clinique le plus fréquent d’une bronchiolite ?",
-    "options": [
-      "Fièvre élevée",
-      "Toux sèche",
-      "Gêne respiratoire avec sibilances",
-      "Éruption cutanée"
-    ],
-    "answer": "Gêne respiratoire avec sibilances"
-  },
-  {
-    "id": 5,
-    "question": "Quel antibiotique est recommandé pour une otite moyenne aiguë chez un enfant de 3 ans ?",
-    "options": [
-      "Azithromycine",
-      "Amoxicilline",
-      "Ciprofloxacine",
-      "Gentamicine"
-    ],
-    "answer": "Amoxicilline"
-  },
-  {
-    "id": 6,
-    "question": "Une fièvre prolongée avec langue framboisée et conjonctivite évoque :",
-    "options": [
-      "Scarlatine",
-      "Rougeole",
-      "Maladie de Kawasaki",
-      "Varicelle"
-    ],
-    "answer": "Maladie de Kawasaki"
-  },
-  {
-    "id": 7,
-    "question": "Le poids d’un nourrisson à 5 mois est généralement :",
-    "options": [
-      "Inchangé",
-      "×1,5",
-      "Double",
-      "Triple"
-    ],
-    "answer": "Double"
-  },
-  {
-    "id": 8,
-    "question": "Quel score est utilisé à la naissance pour évaluer le nouveau-né ?",
-    "options": [
-      "Glasgow",
-      "Silverman",
-      "APGAR",
-      "Ballard"
-    ],
-    "answer": "APGAR"
-  },
-  {
-    "id": 9,
-    "question": "Quel examen est prioritaire devant une boiterie fébrile chez l’enfant ?",
-    "options": [
-      "IRM",
-      "Radio du bassin",
-      "Échographie de hanche",
-      "Scanner lombaire"
-    ],
-    "answer": "Échographie de hanche"
-  },
-  {
-    "id": 10,
-    "question": "Le principal facteur de risque du rachitisme carentiel est :",
-    "options": [
-      "Allergie au lait",
-      "Manque d’exposition solaire",
-      "Protéines excessives",
-      "Fibres alimentaires"
-    ],
-    "answer": "Manque d’exposition solaire"
-  }, {
-        "id": 11,
-        "question": "Âge de fermeture de la fontanelle antérieure ?",
-        "options": ["2 mois", "6 mois", "12 mois", "12–18 mois"],
-        "answer": "12–18 mois"
-    },
+  "id": 1,
+  "question": "What is the main cause of neonatal mortality in low-income countries?",
+  "options": [
+    "Malaria",
+    "Perinatal asphyxia",
+    "Measles",
+    "Congenital diabetes"
+  ],
+  "answer": "Perinatal asphyxia"
+},
+{
+  "id": 2,
+  "question": "What is the recommended age for the first dose of the MMR vaccine (Measles-Mumps-Rubella)?",
+  "options": [
+    "At birth",
+    "6 months",
+    "9 months",
+    "12 months"
+  ],
+  "answer": "12 months"
+},
+{
+  "id": 3,
+  "question": "An infant presents with projectile vomiting after meals. What diagnosis should be suspected?",
+  "options": [
+    "Gastroesophageal reflux",
+    "Hypertrophic pyloric stenosis",
+    "Viral gastroenteritis",
+    "Lactose intolerance"
+  ],
+  "answer": "Hypertrophic pyloric stenosis"
+},
+{
+  "id": 4,
+  "question": "What is the most frequent clinical sign of bronchiolitis?",
+  "options": [
+    "High fever",
+    "Dry cough",
+    "Respiratory distress with wheezing",
+    "Skin rash"
+  ],
+  "answer": "Respiratory distress with wheezing"
+},
+{
+  "id": 5,
+  "question": "Which antibiotic is recommended for acute otitis media in a 3-year-old child?",
+  "options": [
+    "Azithromycin",
+    "Amoxicillin",
+    "Ciprofloxacin",
+    "Gentamicin"
+  ],
+  "answer": "Amoxicillin"
+},
+{
+  "id": 6,
+  "question": "Prolonged fever with strawberry tongue and conjunctivitis suggests:",
+  "options": [
+    "Scarlet fever",
+    "Measles",
+    "Kawasaki disease",
+    "Chickenpox"
+  ],
+  "answer": "Kawasaki disease"
+},
+{
+  "id": 7,
+  "question": "The typical weight of a 5-month-old infant is usually:",
+  "options": [
+    "Unchanged",
+    "×1.5",
+    "Double",
+    "Triple"
+  ],
+  "answer": "Double"
+},
+{
+  "id": 8,
+  "question": "Which score is used at birth to assess the newborn?",
+  "options": [
+    "Glasgow",
+    "Silverman",
+    "APGAR",
+    "Ballard"
+  ],
+  "answer": "APGAR"
+},
+{
+  "id": 9,
+  "question": "What is the priority exam for a febrile limp in a child?",
+  "options": [
+    "MRI",
+    "Pelvic X-ray",
+    "Hip ultrasound",
+    "Lumbar CT scan"
+  ],
+  "answer": "Hip ultrasound"
+},
+{
+  "id": 10,
+  "question": "The main risk factor for nutritional rickets is:",
+  "options": [
+    "Milk allergy",
+    "Lack of sun exposure",
+    "Excessive proteins",
+    "Dietary fibers"
+  ],
+  "answer": "Lack of sun exposure"
+},
+{
+  "id": 11,
+  "question": "Age of closure of the anterior fontanelle?",
+  "options": ["2 months", "6 months", "12 months", "12–18 months"],
+  "answer": "12–18 months"
+},
+{
+  "id": 12,
+  "question": "Encopresis means:",
+  "options": [
+    "Enuresis",
+    "Refusal to eat",
+    "Involuntary stool passage",
+    "Diarrhea"
+  ],
+  "answer": "Involuntary stool passage"
+},
+{
+  "id": 13,
+  "question": "Most frequent cause of surgical acute abdomen:",
+  "options": [
+    "Strangulated hernia",
+    "Intussusception",
+    "Appendicitis",
+    "Constipation"
+  ],
+  "answer": "Appendicitis"
+},
+{
+  "id": 14,
+  "question": "Exclusive breastfeeding is recommended for:",
+  "options": [
+    "1 month",
+    "3 months",
+    "6 months",
+    "9 months"
+  ],
+  "answer": "6 months"
+},
+{
+  "id": 15,
+  "question": "Febrile seizures are often caused by:",
+  "options": [
+    "Meningitis",
+    "Hypoglycemia",
+    "Rapid viral fever",
+    "Epilepsy"
+  ],
+  "answer": "Rapid viral fever"
+},
     {
-        "id": 12,
-        "question": "L’encoprésie désigne :",
-        "options": ["L’énurésie", "Le refus de manger", "L’émission involontaire de selles", "La diarrhée"],
-        "answer": "L’émission involontaire de selles"
-    },
-    {
-        "id": 13,
-        "question": "Cause la plus fréquente d’abdomen aigu chirurgical :",
-        "options": ["Hernie étranglée", "Intussusception", "Appendicite", "Constipation"],
-        "answer": "Appendicite"
-    },
-    {
-        "id": 14,
-        "question": "Allaitement exclusif recommandé pendant :",
-        "options": ["1 mois", "3 mois", "6 mois", "9 mois"],
-        "answer": "6 mois"
-    },
-    {
-        "id": 15,
-        "question": "Les convulsions fébriles sont souvent causées par :",
-        "options": ["Méningite", "Hypoglycémie", "Fièvre virale rapide", "Épilepsie"],
-        "answer": "Fièvre virale rapide"
-    },
-    {
-        "id": 16,
-        "question": "Une cyanose centrale persistante évoque :",
-        "options": ["Infection cutanée", "Infection urinaire", "Cardiopathie congénitale", "Jaunisse"],
-        "answer": "Cardiopathie congénitale"
-    },
-    {
-        "id": 17,
-        "question": "Dépistage de l’hypothyroïdie congénitale ?",
-        "options": ["Glycémie", "TSH", "Calcium", "Protéinurie"],
-        "answer": "TSH"
-    },
-    {
-        "id": 18,
-        "question": "À quel âge un enfant dit deux mots ensemble ?",
-        "options": ["12 mois", "18 mois", "24 mois", "36 mois"],
-        "answer": "24 mois"
-    },
-    {
-        "id": 19,
-        "question": "Le score de Silverman évalue :",
-        "options": ["Déshydratation", "Détresse respiratoire néonatale", "Douleur", "Constipation"],
-        "answer": "Détresse respiratoire néonatale"
-    },
-    {
-        "id": 20,
-        "question": "Un bébé de 3 mois ne fixe pas le regard. Il faut :",
-        "options": ["Rien faire", "Évaluer sa vision", "Hospitaliser", "Traiter une infection"],
-        "answer": "Évaluer sa vision"
-    },{
+  "id": 16,
+  "question": "Persistent central cyanosis suggests:",
+  "options": ["Skin infection", "Urinary infection", "Congenital heart disease", "Jaundice"],
+  "answer": "Congenital heart disease"
+},
+{
+  "id": 17,
+  "question": "Screening for congenital hypothyroidism?",
+  "options": ["Blood glucose", "TSH", "Calcium", "Proteinuria"],
+  "answer": "TSH"
+},
+{
+  "id": 18,
+  "question": "At what age does a child say two words together?",
+  "options": ["12 months", "18 months", "24 months", "36 months"],
+  "answer": "24 months"
+},
+{
+  "id": 19,
+  "question": "The Silverman score assesses:",
+  "options": ["Dehydration", "Neonatal respiratory distress", "Pain", "Constipation"],
+  "answer": "Neonatal respiratory distress"
+},
+{
+  "id": 20,
+  "question": "A 3-month-old baby does not fix their gaze. What should be done?",
+  "options": ["Do nothing", "Assess vision", "Hospitalize", "Treat an infection"],
+  "answer": "Assess vision"
+},
+{
   "id": 21,
-  "question": "Cause fréquente de diarrhée aiguë chez l’enfant ?",
-  "options": ["Bactérienne", "Virale (rotavirus)", "Parasitaire", "Fongique"],
-  "answer": "Virale (rotavirus)"
+  "question": "Common cause of acute diarrhea in children?",
+  "options": ["Bacterial", "Viral (rotavirus)", "Parasitic", "Fungal"],
+  "answer": "Viral (rotavirus)"
 },
 {
   "id": 22,
-  "question": "Traitement initial d’une déshydratation modérée ?",
-  "options": ["Réhydratation orale", "Réhydratation IV", "Diurétiques", "Antibiotiques"],
-  "answer": "Réhydratation orale"
+  "question": "Initial treatment for moderate dehydration?",
+  "options": ["Oral rehydration", "IV rehydration", "Diuretics", "Antibiotics"],
+  "answer": "Oral rehydration"
 },
 {
   "id": 23,
-  "question": "Test de dépistage néonatal pour la phénylcétonurie ?",
-  "options": ["Test de Guthrie", "Test d’Apgar", "Bilan hépatique", "Électrophorèse"],
-  "answer": "Test de Guthrie"
+  "question": "Neonatal screening test for phenylketonuria?",
+  "options": ["Guthrie test", "APGAR test", "Liver function tests", "Electrophoresis"],
+  "answer": "Guthrie test"
 },
 {
   "id": 24,
-  "question": "Dose initiale d’adrénaline en cas d’anaphylaxie chez l’enfant ?",
-  "options": ["0,01 mg/kg", "0,01 mL/kg (1:1000)", "0,1 mL/kg (1:10 000)", "1 mL/kg"],
-  "answer": "0,01 mL/kg (1:1000)"
+  "question": "Initial dose of adrenaline in case of anaphylaxis in children?",
+  "options": ["0.01 mg/kg", "0.01 mL/kg (1:1000)", "0.1 mL/kg (1:10,000)", "1 mL/kg"],
+  "answer": "0.01 mL/kg (1:1000)"
 },
 {
   "id": 25,
-  "question": "Meilleur examen pour la tuberculose chez un enfant vacciné BCG ?",
-  "options": ["Test IGRA (Quantiferon)", "IDR", "Culture de crachats", "PCR urinaire"],
-  "answer": "Test IGRA (Quantiferon)"
+  "question": "Best test for tuberculosis in a BCG-vaccinated child?",
+  "options": ["IGRA test (Quantiferon)", "Tuberculin skin test (TST)", "Sputum culture", "Urinary PCR"],
+  "answer": "IGRA test (Quantiferon)"
 },
 {
   "id": 26,
-  "question": "Un souffle systolique bénin chez un enfant est :",
-  "options": ["Toujours pathologique", "Fréquent et bénin", "Nécessite chirurgie", "Incompatible avec l’école"],
-  "answer": "Fréquent et bénin"
+  "question": "A benign systolic murmur in a child is:",
+  "options": ["Always pathological", "Common and benign", "Requires surgery", "Incompatible with school attendance"],
+  "answer": "Common and benign"
 },
 {
   "id": 27,
-  "question": "Traitement de la gale chez un enfant >2 ans ?",
-  "options": ["Perméthrine 5%", "Ivermectine par voie orale", "Bétadine", "Crème à l’aloé"],
-  "answer": "Perméthrine 5%"
+  "question": "Treatment for scabies in a child over 2 years old?",
+  "options": ["Permethrin 5%", "Oral ivermectin", "Betadine", "Aloe vera cream"],
+  "answer": "Permethrin 5%"
 },
 {
   "id": 28,
-  "question": "Manifestation typique d’une rougeole ?",
-  "options": ["Prurit uniquement", "Vésicules", "Taches de Koplik", "Nodules"],
-  "answer": "Taches de Koplik"
+  "question": "Typical manifestation of measles?",
+  "options": ["Itching only", "Vesicles", "Koplik spots", "Nodules"],
+  "answer": "Koplik spots"
 },
 {
   "id": 29,
-  "question": "Signe d’alerte en cas de fièvre chez le nourrisson ?",
-  "options": ["Toux sèche", "Diarrhée", "Lenteur ou hypotonie", "Larmes"],
-  "answer": "Lenteur ou hypotonie"
+  "question": "Warning sign in case of fever in an infant?",
+  "options": ["Dry cough", "Diarrhea", "Lethargy or hypotonia", "Tears"],
+  "answer": "Lethargy or hypotonia"
 },
 {
   "id": 30,
-  "question": "Quelle est la formule de calcul de la fréquence cardiaque maximale théorique chez l’enfant ?",
-  "options": ["220 – âge", "200 – âge", "180 – âge", "150 – âge"],
-  "answer": "200 – âge"
-},{
+  "question": "What is the formula to calculate the theoretical maximum heart rate in children?",
+  "options": ["220 – age", "200 – age", "180 – age", "150 – age"],
+  "answer": "200 – age"
+},
+{
   "id": 31,
-  "question": "L’hémangiome infantile est souvent :",
-  "options": ["Cancéreux", "Bénin et régressif", "Systémique", "Infectieux"],
-  "answer": "Bénin et régressif"
+  "question": "Infantile hemangioma is often:",
+  "options": ["Cancerous", "Benign and regressive", "Systemic", "Infectious"],
+  "answer": "Benign and regressive"
 },
 {
   "id": 32,
-  "question": "Principal symptôme d’une otite moyenne aiguë ?",
-  "options": ["Douleur auriculaire", "Éternuements", "Dysphagie", "Fatigue"],
-  "answer": "Douleur auriculaire"
+  "question": "Main symptom of acute otitis media?",
+  "options": ["Ear pain", "Sneezing", "Dysphagia", "Fatigue"],
+  "answer": "Ear pain"
 },
 {
   "id": 33,
-  "question": "Cause de stridor congénital ?",
-  "options": ["Laryngomalacie", "Sténose trachéale", "Tumeur", "Croup"],
-  "answer": "Laryngomalacie"
+  "question": "Cause of congenital stridor?",
+  "options": ["Laryngomalacia", "Tracheal stenosis", "Tumor", "Croup"],
+  "answer": "Laryngomalacia"
 },
 {
   "id": 34,
-  "question": "Signe clinique de coqueluche chez le nourrisson ?",
-  "options": ["Quintes de toux avec reprise inspiratoire", "Fièvre élevée", "Éruption cutanée", "Vomissements"],
-  "answer": "Quintes de toux avec reprise inspiratoire"
+  "question": "Clinical sign of whooping cough in infants?",
+  "options": ["Paroxysms of coughing with inspiratory whoop", "High fever", "Skin rash", "Vomiting"],
+  "answer": "Paroxysms of coughing with inspiratory whoop"
 },
 {
   "id": 35,
-  "question": "Risque principal de bronchiolite sévère ?",
-  "options": ["Otite", "Détresse respiratoire aiguë", "Saignement nasal", "Convulsion"],
-  "answer": "Détresse respiratoire aiguë"
+  "question": "Main risk of severe bronchiolitis?",
+  "options": ["Otitis", "Acute respiratory distress", "Nosebleed", "Seizure"],
+  "answer": "Acute respiratory distress"
 },
 {
   "id": 36,
-  "question": "Le poids triple en moyenne à :",
-  "options": ["6 mois", "12 mois", "18 mois", "24 mois"],
-  "answer": "12 mois"
+  "question": "The weight on average triples at:",
+  "options": ["6 months", "12 months", "18 months", "24 months"],
+  "answer": "12 months"
 },
 {
   "id": 37,
-  "question": "Quelle formule utilise-t-on pour estimer la pression artérielle normale chez l’enfant ?",
-  "options": ["70 + (2 × âge en années)", "80 + (3 × âge)", "50 + âge", "100 – âge"],
-  "answer": "70 + (2 × âge en années)"
+  "question": "Which formula is used to estimate normal blood pressure in children?",
+  "options": ["70 + (2 × age in years)", "80 + (3 × age)", "50 + age", "100 – age"],
+  "answer": "70 + (2 × age in years)"
 },
 {
   "id": 38,
-  "question": "Le périmètre crânien augmente rapidement jusqu’à :",
-  "options": ["1 mois", "3 mois", "1 an", "2 ans"],
-  "answer": "1 an"
+  "question": "Head circumference increases rapidly until:",
+  "options": ["1 month", "3 months", "1 year", "2 years"],
+  "answer": "1 year"
 },
 {
   "id": 39,
-  "question": "Quel type de vaccin est le BCG ?",
-  "options": ["Inactivé", "Vivant atténué", "Toxine purifiée", "Recombinant"],
-  "answer": "Vivant atténué"
+  "question": "What type of vaccine is BCG?",
+  "options": ["Inactivated", "Live attenuated", "Purified toxin", "Recombinant"],
+  "answer": "Live attenuated"
 },
 {
   "id": 40,
-  "question": "Quel score est utilisé pour évaluer la douleur chez le nourrisson ?",
+  "question": "Which score is used to assess pain in infants?",
   "options": ["EDIN", "APGAR", "Ballard", "Dubowitz"],
   "answer": "EDIN"
-},{
+},
+{
   "id": 41,
-  "question": "Quelle est la première dent à apparaître ?",
-  "options": ["Canine", "Incisive centrale inférieure", "Molaire", "Incisive latérale"],
-  "answer": "Incisive centrale inférieure"
+  "question": "Which is the first tooth to appear?",
+  "options": ["Canine", "Lower central incisor", "Molar", "Lateral incisor"],
+  "answer": "Lower central incisor"
 },
 {
   "id": 42,
-  "question": "Cause principale de retard staturo-pondéral en Afrique ?",
-  "options": ["Génétique", "Malnutrition", "Hyperthyroïdie", "Dysplasie osseuse"],
+  "question": "Main cause of growth retardation in Africa?",
+  "options": ["Genetic", "Malnutrition", "Hyperthyroidism", "Bone dysplasia"],
   "answer": "Malnutrition"
 },
 {
   "id": 43,
-  "question": "L’âge de marche autonome est généralement atteint à :",
-  "options": ["9 mois", "12–15 mois", "18 mois", "24 mois"],
-  "answer": "12–15 mois"
+  "question": "The age of independent walking is generally reached at:",
+  "options": ["9 months", "12–15 months", "18 months", "24 months"],
+  "answer": "12–15 months"
 },
 {
   "id": 44,
-  "question": "Quel est le risque principal d’une méningite bactérienne chez l’enfant ?",
-  "options": ["Diabète", "Séquelles neurologiques", "Obésité", "Insuffisance hépatique"],
-  "answer": "Séquelles neurologiques"
+  "question": "Main risk of bacterial meningitis in children?",
+  "options": ["Diabetes", "Neurological sequelae", "Obesity", "Liver failure"],
+  "answer": "Neurological sequelae"
 },
 {
   "id": 45,
-  "question": "Traitement de première intention de l’asthme aigu léger ?",
-  "options": ["Corticoïde oral", "Salbutamol en aérosol", "Antibiotique", "Adrénaline"],
-  "answer": "Salbutamol en aérosol"
+  "question": "First-line treatment for mild acute asthma?",
+  "options": ["Oral corticosteroid", "Salbutamol aerosol", "Antibiotic", "Adrenaline"],
+  "answer": "Salbutamol aerosol"
 },
 {
   "id": 46,
-  "question": "Quelle est la première étape de la réanimation néonatale ?",
-  "options": ["Séchage et stimulation", "Intubation", "Injection", "Massage"],
-  "answer": "Séchage et stimulation"
+  "question": "What is the first step in neonatal resuscitation?",
+  "options": ["Drying and stimulation", "Intubation", "Injection", "Massage"],
+  "answer": "Drying and stimulation"
 },
 {
   "id": 47,
-  "question": "Les nourrissons prématurés ont besoin de supplémentation en :",
-  "options": ["Calcium", "Fer", "Vitamine K", "Iode"],
-  "answer": "Fer"
+  "question": "Premature infants need supplementation with:",
+  "options": ["Calcium", "Iron", "Vitamin K", "Iodine"],
+  "answer": "Iron"
 },
 {
   "id": 48,
-  "question": "Signe typique de la varicelle :",
-  "options": ["Plaques sèches", "Vésicules en goutte de rosée", "Papules scarlatineuses", "Nodules"],
-  "answer": "Vésicules en goutte de rosée"
+  "question": "Typical sign of chickenpox:",
+  "options": ["Dry plaques", "Dew-drop vesicles", "Scarlet fever-like papules", "Nodules"],
+  "answer": "Dew-drop vesicles"
 },
 {
   "id": 49,
-  "question": "L’âge de début du sevrage alimentaire est :",
-  "options": ["2 mois", "4 mois", "6 mois", "8 mois"],
-  "answer": "6 mois"
+  "question": "Age at the start of weaning is:",
+  "options": ["2 months", "4 months", "6 months", "8 months"],
+  "answer": "6 months"
 },
 {
   "id": 50,
-  "question": "Quel est le principal symptôme d’une anémie ferriprive chez l’enfant ?",
-  "options": ["Fièvre", "Fatigue, pâleur", "Saignement nasal", "Hyperactivité"],
-  "answer": "Fatigue, pâleur"
+  "question": "Main symptom of iron deficiency anemia in children?",
+  "options": ["Fever", "Fatigue, pallor", "Nosebleed", "Hyperactivity"],
+  "answer": "Fatigue, pallor"
 }
 ]
