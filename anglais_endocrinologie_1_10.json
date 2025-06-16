@@ -1,482 +1,517 @@
 [
   {
-    "numero": 1,
-    "question": "Quelle hormone est sécrétée par les cellules bêta des îlots de Langerhans ?",
-    "options": [
-      "Glucagon",
-      "Adrénaline",
-      "Insuline",
-      "Cortisol"
-    ],
-    "reponse": "Insuline"
-  },
+  "numero": 1,
+  "question": "Which hormone is secreted by the beta cells of the islets of Langerhans?",
+  "options": [
+    "Glucagon",
+    "Adrenaline",
+    "Insulin",
+    "Cortisol"
+  ],
+  "reponse": "Insulin"
+},
+{
+  "numero": 2,
+  "question": "Type 1 diabetes is mainly caused by:",
+  "options": [
+    "Insulin resistance",
+    "Obesity",
+    "Autoimmune destruction of beta cells",
+    "Alcoholism"
+  ],
+  "reponse": "Autoimmune destruction of beta cells"
+},
+{
+  "numero": 3,
+  "question": "What is the main effect of insulin?",
+  "options": [
+    "Increased glycogenolysis",
+    "Increased lipolysis",
+    "Increased glucose uptake by cells",
+    "Decreased glucose storage"
+  ],
+  "reponse": "Increased glucose uptake by cells"
+},
+{
+  "numero": 4,
+  "question": "Which hormone is secreted by the thyroid gland?",
+  "options": [
+    "Cortisol",
+    "Thyroxine (T4)",
+    "Parathormone",
+    "Insulin"
+  ],
+  "reponse": "Thyroxine (T4)"
+},
+{
+  "numero": 5,
+  "question": "Which test is used to diagnose diabetes mellitus?",
+  "options": [
+    "Pregnancy test",
+    "Fasting blood glucose or HbA1c measurement",
+    "ECG",
+    "X-ray"
+  ],
+  "reponse": "Fasting blood glucose or HbA1c measurement"
+},
+{
+  "numero": 6,
+  "question": "Cushing's syndrome is caused by:",
+  "options": [
+    "Insulin deficiency",
+    "Excess cortisol",
+    "Hypothyroidism",
+    "Hyperparathyroidism"
+  ],
+  "reponse": "Excess cortisol"
+},
+{
+  "numero": 7,
+  "question": "What is the classic symptom of hypothyroidism?",
+  "options": [
+    "Tachycardia",
+    "Fatigue, weight gain, sensitivity to cold",
+    "Hyperactivity",
+    "Weight loss"
+  ],
+  "reponse": "Fatigue, weight gain, sensitivity to cold"
+},
+{
+  "numero": 8,
+  "question": "The main cause of hyperthyroidism is:",
+  "options": [
+    "Thyroiditis",
+    "Iodine deficiency",
+    "Graves’ disease",
+    "Thyroid cancer"
+  ],
+  "reponse": "Graves’ disease"
+},
+{
+  "numero": 9,
+  "question": "What is the effect of parathormone (PTH)?",
+  "options": [
+    "Increases blood calcium by mobilizing bone calcium",
+    "Decreases blood calcium",
+    "Increases insulin production",
+    "Inhibits adrenaline production"
+  ],
+  "reponse": "Increases blood calcium by mobilizing bone calcium"
+},
+{
+  "numero": 10,
+  "question": "The glucose tolerance test is used to:",
+  "options": [
+    "Measure fasting blood glucose",
+    "Screen for hypoglycemia",
+    "Diagnose gestational diabetes mellitus",
+    "Evaluate kidney function"
+  ],
+  "reponse": "Diagnose gestational diabetes mellitus"
+},
+{
+  "numero": 11,
+  "question": "Which hormone is produced by the adrenal medulla?",
+  "options": [
+    "Cortisol",
+    "Adrenaline and noradrenaline",
+    "Aldosterone",
+    "Insulin"
+  ],
+  "answer": "Adrenaline and noradrenaline"
+},
+{
+  "numero": 12,
+  "question": "Acromegaly is due to overproduction of:",
+  "options": [
+    "Prolactin",
+    "Cortisol",
+    "Growth hormone (GH)",
+    "Thyroxine"
+  ],
+  "answer": "Growth hormone (GH)"
+},
+{
+  "numero": 13,
+  "question": "What is the main clinical sign of diabetes insipidus?",
+  "options": [
+    "Hyperglycemia",
+    "Large polyuria with intense thirst",
+    "Oliguria",
+    "Fatigue"
+  ],
+  "answer": "Large polyuria with intense thirst"
+},
+{
+  "numero": 14,
+  "question": "Hypoglycemia is defined by a blood glucose level below:",
+  "options": [
+    "1.5 g/L",
+    "0.8 g/L",
+    "0.6 g/L (60 mg/dL)",
+    "2.0 g/L"
+  ],
+  "answer": "0.6 g/L (60 mg/dL)"
+},
+{
+  "numero": 15,
+  "question": "The main role of aldosterone is to:",
+  "options": [
+    "Increase blood glucose",
+    "Decrease blood pressure",
+    "Promote sodium reabsorption and potassium secretion in the kidney",
+    "Stimulate insulin secretion"
+  ],
+  "answer": "Promote sodium reabsorption and potassium secretion in the kidney"
+},
+{
+  "numero": 16,
+  "question": "TSH (thyroid stimulating hormone) is secreted by:",
+  "options": [
+    "Thyroid",
+    "Hypothalamus",
+    "Pituitary gland (adenohypophysis)",
+    "Adrenal gland"
+  ],
+  "answer": "Pituitary gland (adenohypophysis)"
+},
+{
+  "numero": 17,
+  "question": "What is the first-line treatment for type 2 diabetes?",
+  "options": [
+    "Insulin",
+    "Metformin",
+    "Sulfonylureas",
+    "Corticosteroids"
+  ],
+  "answer": "Metformin"
+},
+{
+  "numero": 18,
+  "question": "Goiter is:",
+  "options": [
+    "A malignant thyroid tumor",
+    "A diffuse or nodular enlargement of the thyroid",
+    "An adrenal inflammation",
+    "A thyroid cyst"
+  ],
+  "answer": "A diffuse or nodular enlargement of the thyroid"
+},
+{
+  "numero": 19,
+  "question": "The main microvascular complication of diabetes is:",
+  "options": [
+    "Myocardial infarction",
+    "Diabetic retinopathy",
+    "Stroke",
+    "Hypertension"
+  ],
+  "answer": "Diabetic retinopathy"
+},
+{
+  "numero": 20,
+  "question": "Which test evaluates adrenal function?",
+  "options": [
+    "Glucose test",
+    "Insulin stimulation test",
+    "Synacthen test (ACTH)",
+    "TSH measurement"
+  ],
+  "answer": "Synacthen test (ACTH)"
+},
+ {
+  "numero": 21,
+  "question": "Which hormone is responsible for the development of male secondary sexual characteristics?",
+  "options": ["Estrogens", "Testosterone", "Progesterone", "LH"],
+  "answer": "Testosterone"
+},
+{
+  "numero": 22,
+  "question": "Graves' disease manifests as:",
+  "options": ["Hypothyroidism", "Simple goiter", "Hyperthyroidism with exophthalmos", "Thyroid cancer"],
+  "answer": "Hyperthyroidism with exophthalmos"
+},
+{
+  "numero": 23,
+  "question": "The main cause of hypoparathyroidism is:",
+  "options": ["Calcium deficiency", "Surgical removal of the thyroid", "Hypercalcemia", "Diabetes"],
+  "answer": "Surgical removal of the thyroid"
+},
+{
+  "numero": 24,
+  "question": "Which drug is a somatostatin analogue used in acromegaly?",
+  "options": ["Metformin", "Corticosteroids", "Octreotide", "Insulin"],
+  "answer": "Octreotide"
+},
+{
+  "numero": 25,
+  "question": "What is the main risk factor for type 2 diabetes?",
+  "options": ["Smoking", "Alcohol consumption", "Abdominal obesity", "Physical exercise"],
+  "answer": "Abdominal obesity"
+},
+{
+  "numero": 26,
+  "question": "Hyperprolactinemia can cause:",
+  "options": ["Hyperthyroidism", "Amenorrhea and galactorrhea", "Hypoglycemia", "Polyuria"],
+  "answer": "Amenorrhea and galactorrhea"
+},
+{
+  "numero": 27,
+  "question": "The salivary cortisol test is used to:",
+  "options": [
+    "Diagnose hypothyroidism",
+    "Evaluate hypercortisolism (Cushing’s syndrome)",
+    "Assess kidney function",
+    "Diagnose diabetes"
+  ],
+  "answer": "Evaluate hypercortisolism (Cushing’s syndrome)"
+},
+{
+  "numero": 28,
+  "question": "Hyperthyroidism can cause:",
+  "options": ["Bradycardia", "Tachycardia and weight loss", "Weight gain", "Hypotension"],
+  "answer": "Tachycardia and weight loss"
+},
+{
+  "numero": 29,
+  "question": "What is the role of leptin?",
+  "options": [
+    "Regulate blood glucose",
+    "Regulate satiety and body weight",
+    "Increase insulin secretion",
+    "Stimulate cortisol production"
+  ],
+  "answer": "Regulate satiety and body weight"
+},
+{
+  "numero": 30,
+  "question": "The initial phase of type 1 diabetes is characterized by:",
+  "options": [
+    "Insulin resistance",
+    "Hyperinsulinemia",
+    "Progressive destruction of beta cells",
+    "Excess glucagon secretion"
+  ],
+  "answer": "Progressive destruction of beta cells"
+},
   {
-    "numero": 2,
-    "question": "Le diabète de type 1 est principalement causé par :",
-    "options": [
-      "Résistance à l’insuline",
-      "Obésité",
-      "Destruction auto-immune des cellules bêta",
-      "Alcoolisme"
-    ],
-    "reponse": "Destruction auto-immune des cellules bêta"
-  },
-  {
-    "numero": 3,
-    "question": "Quel est le principal effet de l’insuline ?",
-    "options": [
-      "Augmentation de la glycogénolyse",
-      "Augmentation de la lipolyse",
-      "Augmentation de la captation du glucose par les cellules",
-      "Diminution du stockage du glucose"
-    ],
-    "reponse": "Augmentation de la captation du glucose par les cellules"
-  },
-  {
-    "numero": 4,
-    "question": "Quelle hormone est sécrétée par la glande thyroïde ?",
-    "options": [
-      "Cortisol",
-      "Thyroxine (T4)",
-      "Parathormone",
-      "Insuline"
-    ],
-    "reponse": "Thyroxine (T4)"
-  },
-  {
-    "numero": 5,
-    "question": "Quel test est utilisé pour diagnostiquer un diabète sucré ?",
-    "options": [
-      "Test de grossesse",
-      "Dosage de la glycémie à jeun ou HbA1c",
-      "ECG",
-      "Radiographie"
-    ],
-    "reponse": "Dosage de la glycémie à jeun ou HbA1c"
-  },
-  {
-    "numero": 6,
-    "question": "Le syndrome de Cushing est causé par :",
-    "options": [
-      "Carence en insuline",
-      "Excès de cortisol",
-      "Hypothyroïdie",
-      "Hyperparathyroïdie"
-    ],
-    "reponse": "Excès de cortisol"
-  },
-  {
-    "numero": 7,
-    "question": "Quel est le symptôme classique d’une hypothyroïdie ?",
-    "options": [
-      "Tachycardie",
-      "Fatigue, prise de poids, frilosité",
-      "Hyperactivité",
-      "Perte de poids"
-    ],
-    "reponse": "Fatigue, prise de poids, frilosité"
-  },
-  {
-    "numero": 8,
-    "question": "La principale cause d’hyperthyroïdie est :",
-    "options": [
-      "Thyroïdite",
-      "Carence iodée",
-      "Maladie de Basedow (Graves)",
-      "Cancer thyroïdien"
-    ],
-    "reponse": "Maladie de Basedow (Graves)"
-  },
-  {
-    "numero": 9,
-    "question": "Quel est l’effet de la parathormone (PTH) ?",
-    "options": [
-      "Augmente la calcémie en mobilisant le calcium osseux",
-      "Diminue la calcémie",
-      "Augmente la production d’insuline",
-      "Inhibe la production d’adrénaline"
-    ],
-    "reponse": "Augmente la calcémie en mobilisant le calcium osseux"
-  },
-  {
-    "numero": 10,
-    "question": "Le test de tolérance au glucose sert à :",
-    "options": [
-      "Mesurer la glycémie à jeun",
-      "Dépister l’hypoglycémie",
-      "Diagnostiquer un diabète sucré gestationnel",
-      "Évaluer la fonction rénale"
-    ],
-    "reponse": "Diagnostiquer un diabète sucré gestationnel"
-  },
-    {
-      "numero": 11,
-      "question": "Quelle hormone est produite par la médullosurrénale ?",
-      "options": ["Cortisol", "Adrénaline et noradrénaline", "Aldostérone", "Insuline"],
-      "answer": "Adrénaline et noradrénaline"
-    },
-    {
-      "numero": 12,
-      "question": "L’acromégalie est due à une hyperproduction de :",
-      "options": ["Prolactine", "Cortisol", "Hormone de croissance (GH)", "Thyroxine"],
-      "answer": "Hormone de croissance (GH)"
-    },
-    {
-      "numero": 13,
-      "question": "Quel est le signe clinique principal du diabète insipide ?",
-      "options": ["Hyperglycémie", "Polyurie importante avec soif intense", "Oligurie", "Fatigue"],
-      "answer": "Polyurie importante avec soif intense"
-    },
-    {
-      "numero": 14,
-      "question": "L’hypoglycémie est définie par une glycémie inférieure à :",
-      "options": ["1,5 g/L", "0,8 g/L", "0,6 g/L (60 mg/dL)", "2,0 g/L"],
-      "answer": "0,6 g/L (60 mg/dL)"
-    },
-    {
-      "numero": 15,
-      "question": "Le rôle principal de l’aldostérone est :",
-      "options": [
-        "Augmenter la glycémie",
-        "Diminuer la pression artérielle",
-        "Favoriser la réabsorption du sodium et la sécrétion du potassium au niveau rénal",
-        "Stimuler la sécrétion d’insuline"
-      ],
-      "answer": "Favoriser la réabsorption du sodium et la sécrétion du potassium au niveau rénal"
-    },
-    {
-      "numero": 16,
-      "question": "La TSH (thyroid stimulating hormone) est sécrétée par :",
-      "options": ["Thyroïde", "Hypothalamus", "Hypophyse (adénohypophyse)", "Surrénale"],
-      "answer": "Hypophyse (adénohypophyse)"
-    },
-    {
-      "numero": 17,
-      "question": "Quel est le traitement de première intention du diabète de type 2 ?",
-      "options": ["Insuline", "Metformine", "Sulfonylurées", "Corticoïdes"],
-      "answer": "Metformine"
-    },
-    {
-      "numero": 18,
-      "question": "Le goitre est :",
-      "options": [
-        "Une tumeur thyroïdienne maligne",
-        "Une hypertrophie diffuse ou nodulaire de la thyroïde",
-        "Une inflammation surrénalienne",
-        "Un kyste thyroïdien"
-      ],
-      "answer": "Une hypertrophie diffuse ou nodulaire de la thyroïde"
-    },
-    {
-      "numero": 19,
-      "question": "La principale complication microvasculaire du diabète est :",
-      "options": ["Infarctus du myocarde", "Rétinopathie diabétique", "AVC", "Hypertension"],
-      "answer": "Rétinopathie diabétique"
-    },
-    {
-      "numero": 20,
-      "question": "Quel test permet d’évaluer la fonction surrénalienne ?",
-      "options": [
-        "Test au glucose",
-        "Test de stimulation à l’insuline",
-        "Test au Synacthène (ACTH)",
-        "Dosage de la TSH"
-      ],
-      "answer": "Test au Synacthène (ACTH)"
-    },
-    {
-      "numero": 21,
-      "question": "Quelle hormone est responsable du développement des caractères sexuels secondaires masculins ?",
-      "options": ["Œstrogènes", "Testostérone", "Progestérone", "LH"],
-      "answer": "Testostérone"
-    },
-    {
-      "numero": 22,
-      "question": "La maladie de Basedow se manifeste par :",
-      "options": ["Hypothyroïdie", "Goitre simple", "Hyperthyroïdie avec exophtalmie", "Cancer thyroïdien"],
-      "answer": "Hyperthyroïdie avec exophtalmie"
-    },
-    {
-      "numero": 23,
-      "question": "La principale cause d’hypoparathyroïdie est :",
-      "options": ["Carence en calcium", "Ablation chirurgicale de la thyroïde", "Hypercalcémie", "Diabète"],
-      "answer": "Ablation chirurgicale de la thyroïde"
-    },
-    {
-      "numero": 24,
-      "question": "Quel médicament est un analogue de la somatostatine utilisé dans l’acromégalie ?",
-      "options": ["Metformine", "Corticostéroïdes", "Octréotide", "Insuline"],
-      "answer": "Octréotide"
-    },
-    {
-      "numero": 25,
-      "question": "Quel est le principal facteur de risque du diabète de type 2 ?",
-      "options": ["Tabagisme", "Consommation d’alcool", "Obésité abdominale", "Exercice physique"],
-      "answer": "Obésité abdominale"
-    },
-    {
-      "numero": 26,
-      "question": "L’hyperprolactinémie peut entraîner :",
-      "options": ["Hyperthyroïdie", "Aménorrhée et galactorrhée", "Hypoglycémie", "Polyurie"],
-      "answer": "Aménorrhée et galactorrhée"
-    },
-    {
-      "numero": 27,
-      "question": "Le test du cortisol salivaire est utilisé pour :",
-      "options": [
-        "Diagnostiquer l’hypothyroïdie",
-        "Évaluer l’hypercortisolisme (syndrome de Cushing)",
-        "Mesurer la fonction rénale",
-        "Diagnostiquer le diabète"
-      ],
-      "answer": "Évaluer l’hypercortisolisme (syndrome de Cushing)"
-    },
-    {
-      "numero": 28,
-      "question": "L’hyperthyroïdie peut provoquer :",
-      "options": ["Bradycardie", "Tachycardie et perte de poids", "Gain de poids", "Hypotension"],
-      "answer": "Tachycardie et perte de poids"
-    },
-    {
-      "numero": 29,
-      "question": "Quel est le rôle de la leptine ?",
-      "options": [
-        "Réguler la glycémie",
-        "Réguler la sensation de satiété et le poids corporel",
-        "Augmenter la sécrétion d’insuline",
-        "Stimuler la production de cortisol"
-      ],
-      "answer": "Réguler la sensation de satiété et le poids corporel"
-    },
-    {
-      "numero": 30,
-      "question": "La phase initiale du diabète de type 1 se caractérise par :",
-      "options": [
-        "Une résistance à l’insuline",
-        "Une hyperinsulinémie",
-        "Une destruction progressive des cellules bêta",
-        "Une hypersécrétion de glucagon"
-      ],
-      "answer": "Une destruction progressive des cellules bêta"
-    },
-    {
-      "numero": 31,
-      "question": "Quelle est la conséquence principale d’une hypothyroïdie chez l’enfant ?",
-      "options": [
-        "Hypotension",
-        "Retard mental et physique (crétinisme)",
-        "Hyperactivité",
-        "Hypoglycémie"
-      ],
-      "answer": "Retard mental et physique (crétinisme)"
-    },
-    {
-      "numero": 32,
-      "question": "L’hormone antidiurétique (ADH) agit principalement sur :",
-      "options": [
-        "Les reins pour réabsorber l’eau",
-        "Le foie",
-        "Le pancréas",
-        "Les poumons"
-      ],
-      "answer": "Les reins pour réabsorber l’eau"
-    },
-    {
-      "numero": 33,
-      "question": "Quelle hormone est sécrétée par l’adénohypophyse ?",
-      "options": [
-        "Adrénaline",
-        "Insuline",
-        "Prolactine",
-        "Calcitonine"
-      ],
-      "answer": "Prolactine"
-    },
-    {
-      "numero": 34,
-      "question": "La prise de corticostéroïdes peut entraîner :",
-      "options": [
-        "Hypoglycémie",
-        "Hyperglycémie et syndrome de Cushing iatrogène",
-        "Hypotension",
-        "Perte de poids"
-      ],
-      "answer": "Hyperglycémie et syndrome de Cushing iatrogène"
-    },
-    {
-      "numero": 35,
-      "question": "Quel test est utilisé pour diagnostiquer une hypothyroïdie primaire ?",
-      "options": [
-        "Dosage de la T3 uniquement",
-        "Dosage élevé de TSH avec T4 basse",
-        "Dosage de cortisol",
-        "Glycémie"
-      ],
-      "answer": "Dosage élevé de TSH avec T4 basse"
-    },
-    {
-      "numero": 36,
-      "question": "Quelle est la cause la plus fréquente d’hyperaldostéronisme primaire ?",
-      "options": [
-        "Carence en sodium",
-        "Adénome surrénalien",
-        "Hyperplasie hypophysaire",
-        "Infection rénale"
-      ],
-      "answer": "Adénome surrénalien"
-    },
-    {
-      "numero": 37,
-      "question": "Quel est le rôle principal du glucagon ?",
-      "options": [
-        "Diminuer la glycémie",
-        "Augmenter la glycémie par glycogénolyse",
-        "Stimuler la sécrétion d’insuline",
-        "Inhiber la lipolyse"
-      ],
-      "answer": "Augmenter la glycémie par glycogénolyse"
-    },
-    {
-      "numero": 38,
-      "question": "Le traitement de première intention de la maladie de Basedow est :",
-      "options": [
-        "Chirurgie",
-        "Antithyroïdiens de synthèse (ex: carbimazole)",
-        "Corticostéroïdes",
-        "Radiothérapie"
-      ],
-      "answer": "Antithyroïdiens de synthèse (ex: carbimazole)"
-    },
-    {
-      "numero": 39,
-      "question": "Quel est le principal effet de l’hormone parathyroïdienne sur les reins ?",
-      "options": [
-        "Diminution de la réabsorption du calcium",
-        "Augmentation de la réabsorption du calcium et excrétion du phosphate",
-        "Sécrétion de glucagon",
-        "Augmentation de la sécrétion d’aldostérone"
-      ],
-      "answer": "Augmentation de la réabsorption du calcium et excrétion du phosphate"
-    },
-    {
-      "numero": 40,
-      "question": "La galactorrhée peut être causée par :",
-      "options": [
-        "Hyperthyroïdie",
-        "Hyperprolactinémie",
-        "Insuffisance surrénalienne",
-        "Hypoglycémie"
-      ],
-      "answer": "Hyperprolactinémie"
-    },
-    {
-      "numero": 41,
-      "question": "Quel est le principal effet du cortisol sur le métabolisme ?",
-      "options": [
-        "Hypoglycémie",
-        "Hyperglycémie par gluconéogenèse",
-        "Augmentation de la synthèse protéique",
-        "Augmentation de la sécrétion d’insuline"
-      ],
-      "answer": "Hyperglycémie par gluconéogenèse"
-    },
-    {
-      "numero": 42,
-      "question": "La résistance à l’insuline est associée à :",
-      "options": [
-        "Diabète de type 1",
-        "Diabète de type 2",
-        "Hyperthyroïdie",
-        "Hypothyroïdie"
-      ],
-      "answer": "Diabète de type 2"
-    },
-    {
-      "numero": 43,
-      "question": "La principale hormone régulant le calcium sanguin est :",
-      "options": [
-        "Insuline",
-        "Calcitonine",
-        "Parathormone (PTH)",
-        "Cortisol"
-      ],
-      "answer": "Parathormone (PTH)"
-    },
-    {
-      "numero": 44,
-      "question": "Quel examen est utile pour évaluer une masse thyroïdienne ?",
-      "options": [
-        "Radiographie pulmonaire",
-        "Échographie thyroïdienne",
-        "IRM cérébrale",
-        "ECG"
-      ],
-      "answer": "Échographie thyroïdienne"
-    },
-    {
-      "numero": 45,
-      "question": "Quel est le traitement principal du diabète insipide central ?",
-      "options": [
-        "Insuline",
-        "Desmopressine (analogues de l’ADH)",
-        "Corticostéroïdes",
-        "Diurétiques"
-      ],
-      "answer": "Desmopressine (analogues de l’ADH)"
-    },
-    {
-      "numero": 46,
-      "question": "La sécrétion d’hormones hypophysaires est régulée par :",
-      "options": [
-        "La thyroïde",
-        "La glande surrénale",
-        "L’hypothalamus",
-        "Le pancréas"
-      ],
-      "answer": "L’hypothalamus"
-    },
-    {
-      "numero": 47,
-      "question": "Quel est le rôle de la calcitonine ?",
-      "options": [
-        "Augmenter la calcémie",
-        "Diminuer la calcémie en inhibant la résorption osseuse",
-        "Stimuler la production d’insuline",
-        "Augmenter la pression artérielle"
-      ],
-      "answer": "Diminuer la calcémie en inhibant la résorption osseuse"
-    },
-    {
-      "numero": 48,
-      "question": "L’hyperthyroïdie peut entraîner :",
-      "options": [
-        "Constipation",
-        "Bradycardie",
-        "Diarrhée et tachycardie",
-        "Prise de poids"
-      ],
-      "answer": "Diarrhée et tachycardie"
-    },
-    {
-      "numero": 49,
-      "question": "Quelle hormone est sécrétée par l’ovaire ?",
-      "options": [
-        "Testostérone",
-        "Cortisol",
-        "Œstrogènes et progestérone",
-        "Insuline"
-      ],
-      "answer": "Œstrogènes et progestérone"
-    },
-    {
-      "numero": 50,
-      "question": "Quelle est la complication la plus fréquente du diabète sucré ?",
-      "options": [
-        "Hypertension",
-        "Neuropathie périphérique",
-        "AVC",
-        "Asthme"
-      ],
-      "answer": "Neuropathie périphérique"
-    }
+  "numero": 31,
+  "question": "What is the main consequence of hypothyroidism in children?",
+  "options": [
+    "Hypotension",
+    "Mental and physical retardation (cretinism)",
+    "Hyperactivity",
+    "Hypoglycemia"
+  ],
+  "answer": "Mental and physical retardation (cretinism)"
+},
+{
+  "numero": 32,
+  "question": "The antidiuretic hormone (ADH) mainly acts on:",
+  "options": [
+    "The kidneys to reabsorb water",
+    "The liver",
+    "The pancreas",
+    "The lungs"
+  ],
+  "answer": "The kidneys to reabsorb water"
+},
+{
+  "numero": 33,
+  "question": "Which hormone is secreted by the anterior pituitary (adenohypophysis)?",
+  "options": [
+    "Adrenaline",
+    "Insulin",
+    "Prolactin",
+    "Calcitonin"
+  ],
+  "answer": "Prolactin"
+},
+{
+  "numero": 34,
+  "question": "Taking corticosteroids can cause:",
+  "options": [
+    "Hypoglycemia",
+    "Hyperglycemia and iatrogenic Cushing's syndrome",
+    "Hypotension",
+    "Weight loss"
+  ],
+  "answer": "Hyperglycemia and iatrogenic Cushing's syndrome"
+},
+{
+  "numero": 35,
+  "question": "Which test is used to diagnose primary hypothyroidism?",
+  "options": [
+    "T3 measurement only",
+    "Elevated TSH with low T4",
+    "Cortisol measurement",
+    "Blood glucose"
+  ],
+  "answer": "Elevated TSH with low T4"
+},
+{
+  "numero": 36,
+  "question": "What is the most common cause of primary hyperaldosteronism?",
+  "options": [
+    "Sodium deficiency",
+    "Adrenal adenoma",
+    "Pituitary hyperplasia",
+    "Kidney infection"
+  ],
+  "answer": "Adrenal adenoma"
+},
+{
+  "numero": 37,
+  "question": "What is the main role of glucagon?",
+  "options": [
+    "Decrease blood glucose",
+    "Increase blood glucose by glycogenolysis",
+    "Stimulate insulin secretion",
+    "Inhibit lipolysis"
+  ],
+  "answer": "Increase blood glucose by glycogenolysis"
+},
+{
+  "numero": 38,
+  "question": "The first-line treatment for Graves’ disease is:",
+  "options": [
+    "Surgery",
+    "Synthetic antithyroid drugs (e.g., carbimazole)",
+    "Corticosteroids",
+    "Radiotherapy"
+  ],
+  "answer": "Synthetic antithyroid drugs (e.g., carbimazole)"
+},
+{
+  "numero": 39,
+  "question": "What is the main effect of parathyroid hormone on the kidneys?",
+  "options": [
+    "Decrease calcium reabsorption",
+    "Increase calcium reabsorption and phosphate excretion",
+    "Glucagon secretion",
+    "Increase aldosterone secretion"
+  ],
+  "answer": "Increase calcium reabsorption and phosphate excretion"
+},
+{
+  "numero": 40,
+  "question": "Galactorrhea can be caused by:",
+  "options": [
+    "Hyperthyroidism",
+    "Hyperprolactinemia",
+    "Adrenal insufficiency",
+    "Hypoglycemia"
+  ],
+  "answer": "Hyperprolactinemia"
+},
+{
+  "numero": 41,
+  "question": "What is the main effect of cortisol on metabolism?",
+  "options": [
+    "Hypoglycemia",
+    "Hyperglycemia by gluconeogenesis",
+    "Increased protein synthesis",
+    "Increased insulin secretion"
+  ],
+  "answer": "Hyperglycemia by gluconeogenesis"
+},
+{
+  "numero": 42,
+  "question": "Insulin resistance is associated with:",
+  "options": [
+    "Type 1 diabetes",
+    "Type 2 diabetes",
+    "Hyperthyroidism",
+    "Hypothyroidism"
+  ],
+  "answer": "Type 2 diabetes"
+},
+{
+  "numero": 43,
+  "question": "The main hormone regulating blood calcium is:",
+  "options": [
+    "Insulin",
+    "Calcitonin",
+    "Parathyroid hormone (PTH)",
+    "Cortisol"
+  ],
+  "answer": "Parathyroid hormone (PTH)"
+},
+{
+  "numero": 44,
+  "question": "Which examination is useful to evaluate a thyroid mass?",
+  "options": [
+    "Chest X-ray",
+    "Thyroid ultrasound",
+    "Brain MRI",
+    "ECG"
+  ],
+  "answer": "Thyroid ultrasound"
+},
+{
+  "numero": 45,
+  "question": "What is the main treatment for central diabetes insipidus?",
+  "options": [
+    "Insulin",
+    "Desmopressin (ADH analogues)",
+    "Corticosteroids",
+    "Diuretics"
+  ],
+  "answer": "Desmopressin (ADH analogues)"
+},
+{
+  "numero": 46,
+  "question": "The secretion of pituitary hormones is regulated by:",
+  "options": [
+    "The thyroid",
+    "The adrenal gland",
+    "The hypothalamus",
+    "The pancreas"
+  ],
+  "answer": "The hypothalamus"
+},
+{
+  "numero": 47,
+  "question": "What is the role of calcitonin?",
+  "options": [
+    "Increase blood calcium",
+    "Decrease blood calcium by inhibiting bone resorption",
+    "Stimulate insulin production",
+    "Increase blood pressure"
+  ],
+  "answer": "Decrease blood calcium by inhibiting bone resorption"
+},
+{
+  "numero": 48,
+  "question": "Hyperthyroidism can cause:",
+  "options": [
+    "Constipation",
+    "Bradycardia",
+    "Diarrhea and tachycardia",
+    "Weight gain"
+  ],
+  "answer": "Diarrhea and tachycardia"
+},
+{
+  "numero": 49,
+  "question": "Which hormone is secreted by the ovary?",
+  "options": [
+    "Testosterone",
+    "Cortisol",
+    "Estrogens and progesterone",
+    "Insulin"
+  ],
+  "answer": "Estrogens and progesterone"
+},
+{
+  "numero": 50,
+  "question": "What is the most common complication of diabetes mellitus?",
+  "options": [
+    "Hypertension",
+    "Peripheral neuropathy",
+    "Stroke",
+    "Asthma"
+  ],
+  "answer": "Peripheral neuropathy"
+}
 ]
