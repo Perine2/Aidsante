@@ -1,0 +1,548 @@
+[
+    {
+    "id": 1,
+    "question": "Quelle est la triade classique du syndrome de Sjögren ?",
+    "options": [
+      "Douleurs articulaires, éruption cutanée, fièvre",
+      "Xérostomie, xérophtalmie, arthralgies",
+      "Anémie, hématurie, toux",
+      "Dyspnée, tachycardie, oedème"
+    ],
+    "answer": "Xérostomie, xérophtalmie, arthralgies"
+  },
+  {
+    "id": 2,
+    "question": "Quel anticorps est typiquement associé au lupus érythémateux disséminé ?",
+    "options": [
+      "Anti-CCP",
+      "Anti-DNA natif",
+      "Anti-dsDNA",
+      "Anti-centromère"
+    ],
+    "answer": "Anti-dsDNA"
+  },
+  {
+    "id": 3,
+    "question": "Une cause fréquente de vascularite à ANCA est :",
+    "options": [
+      "Sarcoïdose",
+      "Sclérodermie",
+      "Granulomatose avec polyangéite (Wegener)",
+      "Syndrome de Marfan"
+    ],
+    "answer": "Granulomatose avec polyangéite (Wegener)"
+  },
+  {
+    "id": 4,
+    "question": "Le syndrome néphrotique est caractérisé par :",
+    "options": [
+      "Hématurie et HTA",
+      "Protéinurie >3 g/j, hypoalbuminémie, œdèmes",
+      "Polyurie et perte de poids",
+      "Glycosurie et acidose"
+    ],
+    "answer": "Protéinurie >3 g/j, hypoalbuminémie, œdèmes"
+  },
+  {
+    "id": 5,
+    "question": "Quel est le traitement de première intention de la polyarthrite rhumatoïde ?",
+    "options": [
+      "Corticoïdes",
+      "Méthotrexate",
+      "Anti-TNF en monothérapie",
+      "Paracétamol"
+    ],
+    "answer": "Méthotrexate"
+  },
+  {
+    "id": 6,
+    "question": "L’atteinte pulmonaire la plus fréquente dans la sclérodermie diffuse est :",
+    "options": [
+      "Embolie pulmonaire",
+      "Pneumothorax",
+      "Fibrose pulmonaire interstitielle",
+      "Tuberculose"
+    ],
+    "answer": "Fibrose pulmonaire interstitielle"
+  },
+  {
+    "id": 7,
+    "question": "Quelle anomalie biologique évoque un syndrome des antiphospholipides ?",
+    "options": [
+      "Thrombocytose",
+      "Allongement du TCA isolé",
+      "Hypokaliémie",
+      "Hypoglycémie"
+    ],
+    "answer": "Allongement du TCA isolé"
+  },
+  {
+    "id": 8,
+    "question": "Quel signe est spécifique du syndrome de Raynaud ?",
+    "options": [
+      "Cyanose persistante des extrémités",
+      "Triphasie : blancheur, cyanose, rougeur",
+      "Oedème de Quincke",
+      "Hyperthermie digitale"
+    ],
+    "answer": "Triphasie : blancheur, cyanose, rougeur"
+  },
+  {
+    "id": 9,
+    "question": "Quelle est la principale complication de la maladie de Behçet ?",
+    "options": [
+      "Arthrose",
+      "Thrombose veineuse profonde et anévrisme",
+      "Kératite sèche",
+      "Psoriasis"
+    ],
+    "answer": "Thrombose veineuse profonde et anévrisme"
+  },
+  {
+    "id": 10,
+    "question": "Le lupus peut toucher tous les organes, mais l’atteinte la plus grave est :",
+    "options": [
+      "Articulaire",
+      "Rénale (lupus néphrite)",
+      "Cutanée",
+      "ORL"
+    ],
+    "answer": "Rénale (lupus néphrite)"
+  },{
+    "id": 11,
+    "question": "Quel est l'examen de choix pour évaluer une fibrose pulmonaire interstitielle ?",
+    "options": [
+      "Radiographie",
+      "Scanner thoracique haute résolution",
+      "Échographie",
+      "Bilan biologique"
+    ],
+    "answer": "Scanner thoracique haute résolution"
+  },
+  {
+    "id": 12,
+    "question": "Dans la polyangéite microscopique, on recherche typiquement :",
+    "options": [
+      "IgE spécifiques",
+      "ANCA p-ANCA (MPO)",
+      "IgM anti-HBc",
+      "Cryoglobulines"
+    ],
+    "answer": "ANCA p-ANCA (MPO)"
+  },
+  {
+    "id": 13,
+    "question": "Quel est un signe clinique du scorbut (carence en vitamine C) ?",
+    "options": [
+      "Xérophtalmie",
+      "Diarrhée",
+      "Gingivorragies et hématomes spontanés",
+      "Fièvre élevée"
+    ],
+    "answer": "Gingivorragies et hématomes spontanés"
+  },
+  {
+    "id": 14,
+    "question": "La maladie de Still de l’adulte est caractérisée par :",
+    "options": [
+      "Sécheresse buccale",
+      "Fièvre, éruption, arthrite, hyperferritinémie",
+      "Atteinte pulmonaire isolée",
+      "Hypocalcémie"
+    ],
+    "answer": "Fièvre, éruption, arthrite, hyperferritinémie"
+  },
+  {
+    "id": 15,
+    "question": "Quel marqueur biologique est utilisé dans la surveillance de la sarcoïdose ?",
+    "options": [
+      "Enzyme de conversion de l’angiotensine (ECA)",
+      "CRP",
+      "LDH",
+      "TSH"
+    ],
+    "answer": "Enzyme de conversion de l’angiotensine (ECA)"
+  },
+  {
+    "id": 16,
+    "question": "La maladie de Horton (artérite à cellules géantes) peut entraîner :",
+    "options": [
+      "Insuffisance hépatique",
+      "Cécité brutale",
+      "Dysphagie",
+      "Surdité"
+    ],
+    "answer": "Cécité brutale"
+  },
+  {
+    "id": 17,
+    "question": "Quelle est la particularité de la polyarthrite rhumatoïde séronégative ?",
+    "options": [
+      "Absence de facteur rhumatoïde mais signes cliniques typiques",
+      "Absence d'atteinte articulaire",
+      "Liée uniquement à l'âge",
+      "Se voit exclusivement chez l’homme"
+    ],
+    "answer": "Absence de facteur rhumatoïde mais signes cliniques typiques"
+  },
+  {
+    "id": 18,
+    "question": "Quelle maladie auto-immune s’accompagne souvent d’hyperthyroïdie ?",
+    "options": [
+      "Lupus",
+      "Maladie de Basedow (Graves)",
+      "Syndrome de Cushing",
+      "Sclérose en plaques"
+    ],
+    "answer": "Maladie de Basedow (Graves)"
+  },
+  {
+    "id": 19,
+    "question": "Quelle est la conduite en cas de fièvre chez un patient immunodéprimé ?",
+    "options": [
+      "Surveillance",
+      "Antibiotiques oraux",
+      "Antibiothérapie IV empirique large",
+      "Repos au lit"
+    ],
+    "answer": "Antibiothérapie IV empirique large"
+  },
+  {
+    "id": 20,
+    "question": "Quel signe biologique évoque une hémophagocytose ?",
+    "options": [
+      "Leucocytose",
+      "Cytopénies, hyperferritinémie, élévation des triglycérides",
+      "Anémie ferriprive isolée",
+      "Hypercalcémie"
+    ],
+    "answer": "Cytopénies, hyperferritinémie, élévation des triglycérides"
+  },{
+    "id": 21,
+    "question": "Quelle pathologie donne typiquement des ulcères orogénitaux récidivants ?",
+    "options": [
+      "Lupus",
+      "VIH",
+      "Maladie de Behçet",
+      "Mononucléose"
+    ],
+    "answer": "Maladie de Behçet"
+  },
+  {
+    "id": 22,
+    "question": "Le syndrome de Goodpasture associe :",
+    "options": [
+      "Hypertension et œdème",
+      "Hémorragies pulmonaires + glomérulonéphrite",
+      "Arthralgies et diarrhée",
+      "Rhinorrhée et céphalée"
+    ],
+    "answer": "Hémorragies pulmonaires + glomérulonéphrite"
+  },
+  {
+    "id": 23,
+    "question": "Dans une maladie de Kawasaki atypique, on peut observer :",
+    "options": [
+      "Fièvre prolongée + conjonctivite + éruption + atteinte coronarienne",
+      "Arthrite + céphalées",
+      "Dyspnée + hépatomégalie",
+      "Toux chronique isolée"
+    ],
+    "answer": "Fièvre prolongée + conjonctivite + éruption + atteinte coronarienne"
+  },
+  {
+    "id": 24,
+    "question": "Une anémie inflammatoire présente :",
+    "options": [
+      "Ferritine basse",
+      "Ferritine normale ou élevée, fer sérique bas",
+      "TSH élevée",
+      "Hyperkaliémie"
+    ],
+    "answer": "Ferritine normale ou élevée, fer sérique bas"
+  },
+  {
+    "id": 25,
+    "question": "Le traitement de fond du lupus repose sur :",
+    "options": [
+      "Paracétamol",
+      "Bétabloquants",
+      "Hydroxychloroquine",
+      "Salbutamol"
+    ],
+    "answer": "Hydroxychloroquine"
+  },
+  {
+    "id": 26,
+    "question": "Quelle est la principale cause de pancréatite auto-immune ?",
+    "options": [
+      "Hypothyroïdie",
+      "Maladie IgG4",
+      "Diabète de type 2",
+      "VIH"
+    ],
+    "answer": "Maladie IgG4"
+  },
+  {
+    "id": 27,
+    "question": "Quelle est l’atteinte articulaire caractéristique du lupus ?",
+    "options": [
+      "Arthrite non érosive",
+      "Polyarthrite déformante",
+      "Arthrose",
+      "Arthrite purulente"
+    ],
+    "answer": "Arthrite non érosive"
+  },
+  {
+    "id": 28,
+    "question": "La cryoglobulinémie mixte est souvent liée à :",
+    "options": [
+      "La grippe",
+      "L’hépatite C chronique",
+      "Une intoxication médicamenteuse",
+      "Le diabète"
+    ],
+    "answer": "L’hépatite C chronique"
+  },
+  {
+    "id": 29,
+    "question": "Quel est un effet secondaire fréquent de la corticothérapie prolongée ?",
+    "options": [
+      "Ostéoporose",
+      "Hypothyroïdie",
+      "Hypotension",
+      "Anémie falciforme"
+    ],
+    "answer": "Ostéoporose"
+  },
+  {
+    "id": 30,
+    "question": "Dans les vascularites, un élément clinique important est :",
+    "options": [
+      "Purpura vasculaire palpable",
+      "Érythème facial",
+      "Myopie",
+      "Atrophie musculaire"
+    ],
+    "answer": "Purpura vasculaire palpable"
+  }, {
+    "id": 31,
+    "question": "Quelle est la manifestation neurologique fréquente du lupus ?",
+    "options": [
+      "Myasthénie",
+      "Convulsions et psychose",
+      "Tremblements essentiels",
+      "Sclérose latérale"
+    ],
+    "answer": "Convulsions et psychose"
+  },
+  {
+    "id": 32,
+    "question": "Quel anticorps est très spécifique de la sclérodermie limitée ?",
+    "options": [
+      "Anti-dsDNA",
+      "Anti-centromère",
+      "Anti-SSA",
+      "Anti-MPO"
+    ],
+    "answer": "Anti-centromère"
+  },
+  {
+    "id": 33,
+    "question": "Quelle complication redoute-t-on dans le syndrome de Churg-Strauss (EGPA) ?",
+    "options": [
+      "Diabète",
+      "Atteinte cardiaque sévère",
+      "Tuberculose",
+      "Ulcère gastrique"
+    ],
+    "answer": "Atteinte cardiaque sévère"
+  },
+  {
+    "id": 34,
+    "question": "Une asthénie chronique, arthralgies, éruption malaire chez une femme jeune évoquent :",
+    "options": [
+      "Psoriasis",
+      "Lupus érythémateux disséminé",
+      "Dépression sévère",
+      "Maladie de Lyme"
+    ],
+    "answer": "Lupus érythémateux disséminé"
+  },
+  {
+    "id": 35,
+    "question": "Quelle est la particularité des douleurs de la polymyalgie rhumatismale ?",
+    "options": [
+      "Liées au froid",
+      "Aggravées à l’effort",
+      "Douleurs matinales bilatérales ceintures scapulaire/pelvienne, répondant aux corticoïdes",
+      "Provoquées par le stress"
+    ],
+    "answer": "Douleurs matinales bilatérales ceintures scapulaire/pelvienne, répondant aux corticoïdes"
+  },
+  {
+    "id": 36,
+    "question": "Une hématurie + protéinurie + HTA chez un patient jeune évoque :",
+    "options": [
+      "Diabète",
+      "Glomérulonéphrite aiguë",
+      "Cystite",
+      "Calcul rénal isolé"
+    ],
+    "answer": "Glomérulonéphrite aiguë"
+  },
+  {
+    "id": 37,
+    "question": "La sarcoïdose peut provoquer :",
+    "options": [
+      "Rétention urinaire",
+      "Adénopathies hilaires bilatérales + uvéite",
+      "Acromégalie",
+      "Hyponatrémie"
+    ],
+    "answer": "Adénopathies hilaires bilatérales + uvéite"
+  },
+  {
+    "id": 38,
+    "question": "Une maladie auto-immune peut se compliquer de :",
+    "options": [
+      "Syndrome myélodysplasique",
+      "Thalassémie",
+      "Maladie de Crohn",
+      "Tétanie"
+    ],
+    "answer": "Syndrome myélodysplasique"
+  },
+  {
+    "id": 39,
+    "question": "Le test de Schirmer est utilisé pour :",
+    "options": [
+      "Mesurer la capacité pulmonaire",
+      "Rechercher une neuropathie",
+      "Évaluer la sécrétion lacrymale (syndrome sec)",
+      "Diagnostiquer la migraine"
+    ],
+    "answer": "Évaluer la sécrétion lacrymale (syndrome sec)"
+  },
+  {
+    "id": 40,
+    "question": "L’amylose AL est associée à :",
+    "options": [
+      "Infection virale",
+      "Tuberculose",
+      "Gammapathie monoclonale",
+      "Hyperthyroïdie"
+    ],
+    "answer": "Gammapathie monoclonale"
+  },{
+    "id": 41,
+    "question": "Une éosinophilie marquée dans un contexte de polyneuropathie évoque :",
+    "options": [
+      "Syndrome de Churg-Strauss (EGPA)",
+      "SEP",
+      "Sarcoïdose",
+      "Myasthénie"
+    ],
+    "answer": "Syndrome de Churg-Strauss (EGPA)"
+  },
+  {
+    "id": 42,
+    "question": "Le syndrome paranéoplasique peut inclure :",
+    "options": [
+      "Hyponatrémie, fièvre, neuropathie",
+      "Leucocytose isolée",
+      "Bradycardie",
+      "Myopie brutale"
+    ],
+    "answer": "Hyponatrémie, fièvre, neuropathie"
+  },
+  {
+    "id": 43,
+    "question": "Le bilan de thrombophilie est utile en cas de :",
+    "options": [
+      "Fièvre",
+      "Thrombose veineuse chez sujet jeune sans facteur de risque",
+      "Angine",
+      "Rhinite"
+    ],
+    "answer": "Thrombose veineuse chez sujet jeune sans facteur de risque"
+  },
+  {
+    "id": 44,
+    "question": "Une maladie de Still adulte débute souvent par :",
+    "options": [
+      "Hémoptysie",
+      "Fièvre hectique, arthrite, éruption, hyperferritinémie",
+      "Céphalées isolées",
+      "Ataxie"
+    ],
+    "answer": "Fièvre hectique, arthrite, éruption, hyperferritinémie"
+  },
+  {
+    "id": 45,
+    "question": "Le syndrome d’activation macrophagique peut apparaître dans :",
+    "options": [
+      "Hypothyroïdie",
+      "Lupus sévère, Still, infections graves",
+      "Grippe simple",
+      "Rhumatisme chronique"
+    ],
+    "answer": "Lupus sévère, Still, infections graves"
+  },
+  {
+    "id": 46,
+    "question": "L'anémie de maladie chronique est typiquement :",
+    "options": [
+      "Normocytaire normochrome, ferritine normale/élevée",
+      "Macrocytaire",
+      "Hypochrome",
+      "Sidéroblastique"
+    ],
+    "answer": "Normocytaire normochrome, ferritine normale/élevée"
+  },
+  {
+    "id": 47,
+    "question": "Les corticoïdes peuvent masquer :",
+    "options": [
+      "Une infection virale",
+      "Des signes d’infection bactérienne sévère (fièvre, CRP)",
+      "L’anémie falciforme",
+      "L’urticaire"
+    ],
+    "answer": "Des signes d’infection bactérienne sévère (fièvre, CRP)"
+  },
+  {
+    "id": 48,
+    "question": "Dans le syndrome néphritique, on trouve :",
+    "options": [
+      "Glycosurie isolée",
+      "Hématurie, protéinurie, HTA",
+      "Céphalées",
+      "Polyglobulie"
+    ],
+    "answer": "Hématurie, protéinurie, HTA"
+  },
+  {
+    "id": 49,
+    "question": "Le syndrome de Felty associe :",
+    "options": [
+      "Asthénie, fièvre, rhume",
+      "Polyarthrite rhumatoïde + neutropénie + splénomégalie",
+      "Myalgie + polyneuropathie",
+      "Uvéite + arthrite"
+    ],
+    "answer": "Polyarthrite rhumatoïde + neutropénie + splénomégalie"
+  },
+  {
+    "id": 50,
+    "question": "Un patient traité au long cours par immunosuppresseurs nécessite :",
+    "options": [
+      "Aucune mesure particulière",
+      "Vitamines",
+      "Surveillance régulière (bilan biologique, prévention infections, cancers)",
+      "Sevrage tabagique seul"
+    ],
+    "answer": "Surveillance régulière (bilan biologique, prévention infections, cancers)"
+  }
+]
