@@ -1,363 +1,366 @@
  [ 
     {
-    "id": 1,
-    "question": "Quel est le traitement de première intention de l'hypertension artérielle essentielle chez l'adulte sans comorbidité ?",
-    "options": ["Furosémide", "Inhibiteur de l’enzyme de conversion (IEC)", "Bêta-bloquant", "Anticoagulant"],
-    "answer": "Inhibiteur de l’enzyme de conversion (IEC)"
-  },
+  "id": 1,
+  "question": "What is the first-line treatment for essential hypertension in adults without comorbidities?",
+  "options": ["Furosemide", "Angiotensin-converting enzyme inhibitor (ACE inhibitor)", "Beta-blocker", "Anticoagulant"],
+  "answer": "Angiotensin-converting enzyme inhibitor (ACE inhibitor)"
+},
+{
+  "id": 2,
+  "question": "Group A streptococcal pharyngitis is primarily treated with:",
+  "options": ["Amoxicillin", "Azithromycin", "Ciprofloxacin", "Doxycycline"],
+  "answer": "Amoxicillin"
+},
+{
+  "id": 3,
+  "question": "In a 65-year-old patient with stable COPD, the recommended vaccine is:",
+  "options": ["Tetanus", "BCG", "Influenza + pneumococcal", "Antimalarial"],
+  "answer": "Influenza + pneumococcal"
+},
+{
+  "id": 4,
+  "question": "The CHADS2-VASc score is used to assess the risk of:",
+  "options": ["Depressive relapse", "Stroke in a patient with atrial fibrillation", "Colorectal cancer", "Acute respiratory distress"],
+  "answer": "Stroke in a patient with atrial fibrillation"
+},
+{
+  "id": 5,
+  "question": "A common symptom of undiagnosed type 2 diabetes is:",
+  "options": ["Hypothermia", "Polyuria and polydipsia", "Hearing loss", "Hemoptysis"],
+  "answer": "Polyuria and polydipsia"
+},
+{
+  "id": 6,
+  "question": "Which antibiotic is contraindicated in pregnant women?",
+  "options": ["Amoxicillin", "Erythromycin", "Tetracycline", "Ceftriaxone"],
+  "answer": "Tetracycline"
+},
+{
+  "id": 7,
+  "question": "The classic triad of bacterial meningitis is:",
+  "options": ["Fever, cough, vomiting", "Photophobia, confusion, nausea", "Fever, neck stiffness, altered consciousness", "Vomiting, cough, chest pain"],
+  "answer": "Fever, neck stiffness, altered consciousness"
+},
+{
+  "id": 8,
+  "question": "In children, inspiratory stridor suggests:",
+  "options": ["Asthma", "Bronchiolitis", "Laryngitis", "Pneumonia"],
+  "answer": "Laryngitis"
+},
+{
+  "id": 9,
+  "question": "Which test is used for colorectal cancer screening starting at age 50?",
+  "options": ["Fecal occult blood test", "PSA", "Fibroscan", "Mantoux test"],
+  "answer": "Fecal occult blood test"
+},
   {
-    "id": 2,
-    "question": "Une angine à streptocoque du groupe A se traite prioritairement avec :",
-    "options": ["Amoxicilline", "Azithromycine", "Ciprofloxacine", "Doxycycline"],
-    "answer": "Amoxicilline"
-  },
+  "id": 10,
+  "question": "An ECG showing a negative T wave in leads II, III, aVF suggests:",
+  "options": ["Inferior subendocardial ischemia", "Anterior infarction", "Right bundle branch block", "Pericarditis"],
+  "answer": "Inferior subendocardial ischemia"
+},
+{
+  "id": 11,
+  "question": "What is the most common clinical sign of a lower urinary tract infection?",
+  "options": ["Pollakiuria", "Lumbar pain", "Gross hematuria", "Dysphagia"],
+  "answer": "Pollakiuria"
+},
+{
+  "id": 12,
+  "question": "In Parkinson's disease, what is the cardinal motor symptom?",
+  "options": ["Resting tremors", "Muscle weakness", "Limb stiffness", "Ataxia"],
+  "answer": "Resting tremors"
+},
+{
+  "id": 13,
+  "question": "What is the specific antidote in case of heparin overdose?",
+  "options": ["Protamine", "N-acetylcysteine", "Flumazenil", "Naloxone"],
+  "answer": "Protamine"
+},
+{
+  "id": 14,
+  "question": "Which of these conditions is a common cause of hypothyroidism?",
+  "options": ["Hashimoto's thyroiditis", "Graves' disease", "Toxic multinodular goiter", "Thyroid cancer"],
+  "answer": "Hashimoto's thyroiditis"
+},
+{
+  "id": 15,
+  "question": "What is the most common cause of upper gastrointestinal bleeding?",
+  "options": ["Gastric ulcer", "Esophageal cancer", "Diverticulosis", "Ulcerative colitis"],
+  "answer": "Gastric ulcer"
+},
+{
+  "id": 16,
+  "question": "Which examination is most useful for diagnosing pulmonary embolism?",
+  "options": ["Chest CT angiography", "Chest X-ray", "ECG", "Echocardiography"],
+  "answer": "Chest CT angiography"
+},
+{
+  "id": 17,
+  "question": "What is the most common cause of hyperthyroidism?",
+  "options": ["Graves' disease", "De Quervain's thyroiditis", "Thyroid cancer", "Multinodular goiter"],
+  "answer": "Graves' disease"
+},
+{
+  "id": 18,
+  "question": "Which vitamin is essential for blood coagulation?",
+  "options": ["Vitamin K", "Vitamin D", "Vitamin C", "Vitamin A"],
+  "answer": "Vitamin K"
+},
+{
+  "id": 19,
+  "question": "What is the main symptom of acute appendicitis?",
+  "options": ["Localized abdominal pain in the right iliac fossa", "Isolated nausea", "Chronic diarrhea", "Constipation"],
+  "answer": "Localized abdominal pain in the right iliac fossa"
+},
+{
+  "id": 20,
+  "question": "What is the first-line treatment in managing mild intermittent asthma?",
+  "options": ["Short-acting bronchodilators (salbutamol)", "Oral corticosteroids", "Antibiotics", "Oxygen therapy"],
+  "answer": "Short-acting bronchodilators (salbutamol)"
+},{
+  "id": 21,
+  "question": "What is the main risk factor for lung cancer?",
+  "options": ["Smoking", "Air pollution", "Viral infection", "Alcoholism"],
+  "answer": "Smoking"
+},
+{
+  "id": 22,
+  "question": "What is the main clinical sign of Crohn's disease?",
+  "options": ["Abdominal pain and chronic diarrhea", "Chronic constipation", "Hematuria", "Dyspnea"],
+  "answer": "Abdominal pain and chronic diarrhea"
+},
+{
+  "id": 23,
+  "question": "What treatment is indicated in case of myocardial infarction with ST-segment elevation?",
+  "options": ["Urgent coronary angioplasty", "Antibiotic therapy", "Anticoagulation alone", "Dialysis"],
+  "answer": "Urgent coronary angioplasty"
+},
+{
+  "id": 24,
+  "question": "What is the most common cause of hyponatremia?",
+  "options": ["Syndrome of inappropriate antidiuretic hormone secretion (SIADH)", "Hyperaldosteronism", "Diabetes insipidus", "Congestive heart failure"],
+  "answer": "Syndrome of inappropriate antidiuretic hormone secretion (SIADH)"
+},
+{
+  "id": 25,
+  "question": "What is the most common cause of prerenal acute kidney injury?",
+  "options": ["Hypovolemia", "Glomerulonephritis", "Diabetic nephropathy", "Urinary tract infection"],
+  "answer": "Hypovolemia"
+},
+{
+  "id": 26,
+  "question": "What is the examination of choice to diagnose pneumonia?",
+  "options": ["Chest X-ray", "Abdominal CT scan", "ECG", "Brain MRI"],
+  "answer": "Chest X-ray"
+},
+{
+  "id": 27,
+  "question": "What is the typical clinical sign of multiple sclerosis?",
+  "options": ["Multifocal and recurrent sensory disturbances", "Unilateral headache", "Prolonged fever", "Weight loss"],
+  "answer": "Multifocal and recurrent sensory disturbances"
+},
+{
+  "id": 28,
+  "question": "What is the main risk factor for ischemic stroke?",
+  "options": ["Hypertension", "Hyperthyroidism", "Asthma", "Gastritis"],
+  "answer": "Hypertension"
+},
+{
+  "id": 29,
+  "question": "What is the most common cause of anemia worldwide?",
+  "options": ["Iron deficiency", "Vitamin B12 deficiency", "Digestive hemorrhage", "Thalassemia"],
+  "answer": "Iron deficiency"
+},
+{
+  "id": 30,
+  "question": "What is the first-line treatment for major depression?",
+  "options": ["SSRIs and psychotherapy", "Antipsychotics", "Benzodiazepines", "Antibiotics"],
+  "answer": "SSRIs and psychotherapy"
+},
+{
+  "id": 31,
+  "question": "What is the recommended screening method for diabetes?",
+  "options": ["Fasting blood glucose measurement", "Blood pressure measurement", "Breath test", "Electrocardiogram"],
+  "answer": "Fasting blood glucose measurement"
+},
   {
-    "id": 3,
-    "question": "Chez un patient de 65 ans avec BPCO stable, le vaccin recommandé est :",
-    "options": ["Antitétanique", "BCG", "Antigrippal + antipneumococcique", "Antipaludique"],
-    "answer": "Antigrippal + antipneumococcique"
-  },
+  "id": 32,
+  "question": "Which biological test is the most sensitive to diagnose hypothyroidism?",
+  "options": ["TSH (Thyroid Stimulating Hormone)", "T3", "T4", "Calcitonin"],
+  "answer": "TSH (Thyroid Stimulating Hormone)"
+},
+{
+  "id": 33,
+  "question": "What is the characteristic clinical sign of pneumonia?",
+  "options": ["Fever, productive cough, chest pain", "Dyspnea without fever", "Isolated hemoptysis", "Abdominal pain"],
+  "answer": "Fever, productive cough, chest pain"
+},
+{
+  "id": 34,
+  "question": "What is the main complication of untreated hypertension?",
+  "options": ["Stroke", "Lung infection", "Diabetes", "Arthritis"],
+  "answer": "Stroke"
+},
+{
+  "id": 35,
+  "question": "What is the reference exam to diagnose a bone fracture?",
+  "options": ["X-ray", "Brain CT scan", "Abdominal ultrasound", "Muscle MRI"],
+  "answer": "X-ray"
+},
+{
+  "id": 36,
+  "question": "What is the main cause of acute infectious diarrhea?",
+  "options": ["Bacterial or viral infection", "Food allergy", "Colon cancer", "Chronic constipation"],
+  "answer": "Bacterial or viral infection"
+},
+{
+  "id": 37,
+  "question": "Which drug is a direct oral anticoagulant?",
+  "options": ["Rivaroxaban", "Aspirin", "Paracetamol", "Amoxicillin"],
+  "answer": "Rivaroxaban"
+},
+{
+  "id": 38,
+  "question": "What is the treatment of choice for hypercholesterolemia?",
+  "options": ["Statins", "Beta-blockers", "Calcium channel blockers", "Diuretics"],
+  "answer": "Statins"
+},
+{
+  "id": 39,
+  "question": "What is the most common cause of heart failure in adults?",
+  "options": ["Ischemic heart disease", "Dilated cardiomyopathy", "Hypertension", "Valvular disease"],
+  "answer": "Ischemic heart disease"
+},
   {
-    "id": 4,
-    "question": "Le score CHADS2-VASc sert à évaluer le risque de :",
-    "options": ["Rechute dépressive", "AVC chez un patient en fibrillation auriculaire", "Cancer colorectal", "Détresse respiratoire aiguë"],
-    "answer": "AVC chez un patient en fibrillation auriculaire"
-  },
-  {
-    "id": 5,
-    "question": "Le symptôme d’un diabète de type 2 non diagnostiqué est souvent :",
-    "options": ["Hypothermie", "Polyurie et polydipsie", "Perte d’audition", "Hémoptysie"],
-    "answer": "Polyurie et polydipsie"
-  },
-  {
-    "id": 6,
-    "question": "Quel antibiotique est contre-indiqué chez la femme enceinte ?",
-    "options": ["Amoxicilline", "Érythromycine", "Tétracycline", "Ceftriaxone"],
-    "answer": "Tétracycline"
-  },
-  {
-    "id": 7,
-    "question": "La triade classique de la méningite bactérienne est :",
-    "options": ["Fièvre, toux, vomissements", "Photophobie, confusion, nausées", "Fièvre, raideur de nuque, altération de la conscience", "Vomissements, toux, douleur thoracique"],
-    "answer": "Fièvre, raideur de nuque, altération de la conscience"
-  },
-  {
-    "id": 8,
-    "question": "Chez l’enfant, un stridor inspiratoire évoque :",
-    "options": ["Asthme", "Bronchiolite", "Laryngite", "Pneumonie"],
-    "answer": "Laryngite"
-  },
-  {
-    "id": 9,
-    "question": "Quel test est utilisé pour le dépistage du cancer colorectal à partir de 50 ans ?",
-    "options": ["Hémoccult", "PSA", "Fibroscan", "Test de Mantoux"],
-    "answer": "Hémoccult"
-  },
-  {
-    "id": 10,
-    "question": "Un ECG montrant une onde T négative en DII, DIII, aVF évoque :",
-    "options": ["Ischémie sous-endocardique inférieure", "Infarctus antérieur", "Bloc de branche droit", "Péricardite"],
-    "answer": "Ischémie sous-endocardique inférieure"
-  },
-   {
-    "id": 11,
-    "question": "Quel est le signe clinique le plus fréquent d’une infection urinaire basse ?",
-    "options": ["Pollakiurie", "Douleur lombaire", "Hématurie macroscopique", "Dysphagie"],
-    "answer": "Pollakiurie"
-  },
-  {
-    "id": 12,
-    "question": "Dans la maladie de Parkinson, quel est le symptôme moteur cardinal ?",
-    "options": ["Tremblements au repos", "Faiblesse musculaire", "Raideur des membres", "Ataxie"],
-    "answer": "Tremblements au repos"
-  },
-  {
-    "id": 13,
-    "question": "Quel est l’antidote spécifique en cas de surdosage en héparine ?",
-    "options": ["Protamine", "N-acétylcystéine", "Flumazénil", "Naloxone"],
-    "answer": "Protamine"
-  },
-  {
-    "id": 14,
-    "question": "Laquelle de ces affections est une cause fréquente d’hypothyroïdie ?",
-    "options": ["Thyroïdite de Hashimoto", "Maladie de Graves", "Goitre multinodulaire toxique", "Cancer de la thyroïde"],
-    "answer": "Thyroïdite de Hashimoto"
-  },
-  {
-    "id": 15,
-    "question": "Quelle est la cause la plus fréquente d’hémorragie digestive haute ?",
-    "options": ["Ulcère gastrique", "Cancer de l’œsophage", "Diverticulose", "Colite ulcéreuse"],
-    "answer": "Ulcère gastrique"
-  },
-  {
-    "id": 16,
-    "question": "Quel examen est le plus utile pour diagnostiquer une embolie pulmonaire ?",
-    "options": ["Angioscanner thoracique", "Radiographie thorax", "ECG", "Échographie cardiaque"],
-    "answer": "Angioscanner thoracique"
-  },
-  {
-    "id": 17,
-    "question": "Quelle est la cause la plus fréquente d’hyperthyroïdie ?",
-    "options": ["Maladie de Graves", "Thyroïdite de De Quervain", "Cancer de la thyroïde", "Goitre multinodulaire"],
-    "answer": "Maladie de Graves"
-  },
-  {
-    "id": 18,
-    "question": "Quelle vitamine est essentielle pour la coagulation sanguine ?",
-    "options": ["Vitamine K", "Vitamine D", "Vitamine C", "Vitamine A"],
-    "answer": "Vitamine K"
-  },
-  {
-    "id": 19,
-    "question": "Quel est le principal symptôme d’une appendicite aiguë ?",
-    "options": ["Douleur abdominale localisée en fosse iliaque droite", "Nausées isolées", "Diarrhée chronique", "Constipation"],
-    "answer": "Douleur abdominale localisée en fosse iliaque droite"
-  },
-  {
-    "id": 20,
-    "question": "Quel est le traitement de première ligne dans la prise en charge de l’asthme léger intermittent ?",
-    "options": ["Bronchodilatateurs de courte durée d’action (salbutamol)", "Corticostéroïdes oraux", "Antibiotiques", "Oxygénothérapie"],
-    "answer": "Bronchodilatateurs de courte durée d’action (salbutamol)"
-  },{
-    "id": 21,
-    "question": "Quel est le principal facteur de risque du cancer du poumon ?",
-    "options": ["Tabagisme", "Pollution atmosphérique", "Infection virale", "Alcoolisme"],
-    "answer": "Tabagisme"
-  },
-  {
-    "id": 22,
-    "question": "Quel est le principal signe clinique de la maladie de Crohn ?",
-    "options": ["Douleurs abdominales et diarrhée chronique", "Constipation chronique", "Hématurie", "Dyspnée"],
-    "answer": "Douleurs abdominales et diarrhée chronique"
-  },
-  {
-    "id": 23,
-    "question": "Quel traitement est indiqué en cas d’infarctus du myocarde avec sus-décalage du segment ST ?",
-    "options": ["Angioplastie coronaire urgente", "Antibiothérapie", "Anticoagulation seule", "Dialyse"],
-    "answer": "Angioplastie coronaire urgente"
-  },
-  {
-    "id": 24,
-    "question": "Quelle est la cause la plus fréquente d’hyponatrémie ?",
-    "options": ["Syndrome de sécrétion inappropriée d’ADH (SIADH)", "Hyperaldostéronisme", "Diabète insipide", "Insuffisance cardiaque congestive"],
-    "answer": "Syndrome de sécrétion inappropriée d’ADH (SIADH)"
-  },
-  {
-    "id": 25,
-    "question": "Quelle est la cause la plus fréquente d’insuffisance rénale aiguë pré-rénale ?",
-    "options": ["Hypovolémie", "Glomérulonéphrite", "Néphropathie diabétique", "Infection urinaire"],
-    "answer": "Hypovolémie"
-  },
-  {
-    "id": 26,
-    "question": "Quel est l’examen de choix pour diagnostiquer une pneumonie ?",
-    "options": ["Radiographie thorax", "Scanner abdominal", "ECG", "IRM cérébrale"],
-    "answer": "Radiographie thorax"
-  },
-  {
-    "id": 27,
-    "question": "Quel est le signe clinique typique de la sclérose en plaques ?",
-    "options": ["Troubles sensitifs multifocaux et récidivants", "Céphalée unilatérale", "Fièvre prolongée", "Perte de poids"],
-    "answer": "Troubles sensitifs multifocaux et récidivants"
-  },
-  {
-    "id": 28,
-    "question": "Quel est le principal facteur de risque d’AVC ischémique ?",
-    "options": ["Hypertension artérielle", "Hyperthyroïdie", "Asthme", "Gastrite"],
-    "answer": "Hypertension artérielle"
-  },
-  {
-    "id": 29,
-    "question": "Quelle est la cause la plus fréquente d’anémie dans le monde ?",
-    "options": ["Carence en fer", "Déficit en vitamine B12", "Hémorragie digestive", "Thalassémie"],
-    "answer": "Carence en fer"
-  },
-  {
-    "id": 30,
-    "question": "Quel est le traitement de première intention de la dépression majeure ?",
-    "options": ["Antidépresseurs ISRS et psychothérapie", "Antipsychotiques", "Benzodiazépines", "Antibiotiques"],
-    "answer": "Antidépresseurs ISRS et psychothérapie"
-  },{
-    "id": 31,
-    "question": "Quelle est la méthode de dépistage du diabète recommandée ?",
-    "options": ["Dosage de la glycémie à jeun", "Mesure de la pression artérielle", "Test respiratoire", "Électrocardiogramme"],
-    "answer": "Dosage de la glycémie à jeun"
-  },
-  {
-    "id": 32,
-    "question": "Quel examen biologique est le plus sensible pour diagnostiquer une hypothyroïdie ?",
-    "options": ["TSH (Thyroid Stimulating Hormone)", "T3", "T4", "Calcitonine"],
-    "answer": "TSH (Thyroid Stimulating Hormone)"
-  },
-  {
-    "id": 33,
-    "question": "Quel est le signe clinique caractéristique de la pneumonie ?",
-    "options": ["Fièvre, toux productive, douleur thoracique", "Dyspnée sans fièvre", "Hémoptysie isolée", "Douleur abdominale"],
-    "answer": "Fièvre, toux productive, douleur thoracique"
-  },
-  {
-    "id": 34,
-    "question": "Quelle est la complication principale de l’hypertension non traitée ?",
-    "options": ["Accident vasculaire cérébral", "Infection pulmonaire", "Diabète", "Arthrite"],
-    "answer": "Accident vasculaire cérébral"
-  },
-  {
-    "id": 35,
-    "question": "Quel est l’examen de référence pour diagnostiquer une fracture osseuse ?",
-    "options": ["Radiographie", "Scanner cérébral", "Échographie abdominale", "IRM musculaire"],
-    "answer": "Radiographie"
-  },
-  {
-    "id": 36,
-    "question": "Quelle est la principale cause de diarrhée aiguë infectieuse ?",
-    "options": ["Infection bactérienne ou virale", "Allergie alimentaire", "Cancer du côlon", "Constipation chronique"],
-    "answer": "Infection bactérienne ou virale"
-  },
-  {
-    "id": 37,
-    "question": "Quel médicament est un anticoagulant oral direct ?",
-    "options": ["Rivaroxaban", "Aspirine", "Paracétamol", "Amoxicilline"],
-    "answer": "Rivaroxaban"
-  },
-  {
-    "id": 38,
-    "question": "Quel est le traitement de choix de l’hypercholestérolémie ?",
-    "options": ["Statines", "Beta-bloquants", "Inhibiteurs calciques", "Diurétiques"],
-    "answer": "Statines"
-  },
-  {
-    "id": 39,
-    "question": "Quelle est la cause la plus fréquente d’insuffisance cardiaque chez l’adulte ?",
-    "options": ["Cardiopathie ischémique", "Cardiomyopathie dilatée", "Hypertension artérielle", "Valvulopathie"],
-    "answer": "Cardiopathie ischémique"
-  },
-  {
-    "id": 40,
-    "question": "Quel est le symptôme le plus fréquent du reflux gastro-œsophagien ?",
-    "options": ["Brûlures rétrosternales", "Nausées", "Diarrhée", "Douleur abdominale basse"],
-    "answer": "Brûlures rétrosternales"
-  },{
-    "id": 31,
-    "question": "Quelle est la méthode de dépistage du diabète recommandée ?",
-    "options": ["Dosage de la glycémie à jeun", "Mesure de la pression artérielle", "Test respiratoire", "Électrocardiogramme"],
-    "answer": "Dosage de la glycémie à jeun"
-  },
-  {
-    "id": 32,
-    "question": "Quel examen biologique est le plus sensible pour diagnostiquer une hypothyroïdie ?",
-    "options": ["TSH (Thyroid Stimulating Hormone)", "T3", "T4", "Calcitonine"],
-    "answer": "TSH (Thyroid Stimulating Hormone)"
-  },
-  {
-    "id": 33,
-    "question": "Quel est le signe clinique caractéristique de la pneumonie ?",
-    "options": ["Douleur thoracique", "Fièvre, toux productive", "Dyspnée sans fièvre", "Hémoptysie isolée", "Douleur abdominale"],
-    "answer": "Fièvre, toux productive"
-  },
-  {
-    "id": 34,
-    "question": "Quelle est la complication principale de l’hypertension non traitée ?",
-    "options": ["Infection pulmonaire", "Diabète", "Arthrite", "Accident vasculaire cérébral"],
-    "answer": "Accident vasculaire cérébral"
-  },
-  {
-    "id": 35,
-    "question": "Quel est l’examen de référence pour diagnostiquer une fracture osseuse ?",
-    "options": ["Radiographie", "Scanner cérébral", "Échographie abdominale", "IRM musculaire"],
-    "answer": "Radiographie"
-  },
-  {
-    "id": 36,
-    "question": "Quelle est la principale cause de diarrhée aiguë infectieuse ?",
-    "options": ["Allergie alimentaire", "Infection bactérienne ou virale", "Cancer du côlon", "Constipation chronique"],
-    "answer": "Infection bactérienne ou virale"
-  },
-  {
-    "id": 37,
-    "question": "Quel médicament est un anticoagulant oral direct ?",
-    "options": ["Aspirine", "Paracétamol", "Rivaroxaban", "Amoxicilline"],
-    "answer": "Rivaroxaban"
-  },
-  {
-    "id": 38,
-    "question": "Quel est le traitement de choix de l’hypercholestérolémie ?",
-    "options": ["Statines", "Beta-bloquants", "Inhibiteurs calciques", "Diurétiques"],
-    "answer": "Statines"
-  },
-  {
-    "id": 39,
-    "question": "Quelle est la cause la plus fréquente d’insuffisance cardiaque chez l’adulte ?",
-    "options": ["Cardiomyopathie dilatée", "Cardiopathie ischémique", "Hypertension artérielle", "Valvulopathie"],
-    "answer": "Cardiopathie ischémique"
-  },
-  {
-    "id": 40,
-    "question": "Quel est le symptôme le plus fréquent du reflux gastro-œsophagien ?",
-    "options": ["Nausées", "Diarrhée", "Douleur abdominale basse", "Brûlures rétrosternales"],
-    "answer": "Brûlures rétrosternales"
-  },{
-    "id": 41,
-    "question": "Quelle est la principale cause de cirrhose du foie ?",
-    "options": ["Consommation excessive d’alcool", "Hépatite A", "Cancer du pancréas", "Insuffisance rénale"],
-    "answer": "Consommation excessive d’alcool"
-  },
-  {
-    "id": 42,
-    "question": "Quel est le traitement de première ligne dans la prise en charge du syndrome de l’intestin irritable ?",
-    "options": ["Modifications du régime alimentaire et gestion du stress", "Antibiotiques", "Corticostéroïdes", "Antispasmodiques"],
-    "answer": "Modifications du régime alimentaire et gestion du stress"
-  },
-  {
-    "id": 43,
-    "question": "Quelle est la vaccination recommandée pour les patients atteints de BPCO ?",
-    "options": ["Vaccin contre la rougeole", "Vaccin HPV", "Vaccin antigrippal annuel", "Vaccin polio"],
-    "answer": "Vaccin antigrippal annuel"
-  },
-  {
-    "id": 44,
-    "question": "Quel est le test diagnostique de choix pour une suspicion de diabète sucré ?",
-    "options": ["Numération formule sanguine", "Glycémie à jeun", "Ionogramme sanguin", "Bilan hépatique"],
-    "answer": "Glycémie à jeun"
-  },
-  {
-    "id": 45,
-    "question": "Quelle est la complication la plus fréquente de l’infarctus du myocarde ?",
-    "options": ["AVC hémorragique", "Insuffisance cardiaque", "Diabète", "Pneumonie"],
-    "answer": "Insuffisance cardiaque"
-  },
-  {
-    "id": 46,
-    "question": "Quel signe clinique est typique d’une fracture de la clavicule ?",
-    "options": ["Douleur abdominale", "Déformation avec attitude antalgique du membre supérieur", "Oedème de la cheville", "Hématome facial"],
-    "answer": "Déformation avec attitude antalgique du membre supérieur"
-  },
-  {
-    "id": 47,
-    "question": "Quelle est la cause la plus fréquente d’hyperthyroïdie ?",
-    "options": ["Maladie de Basedow (Graves)", "Cancer thyroïdien", "Goitre multinodulaire toxique", "Thyroïdite subaiguë"],
-    "answer": "Maladie de Basedow (Graves)"
-  },
-  {
-    "id": 48,
-    "question": "Quel est le traitement de première intention pour une crise d’asthme aiguë légère ?",
-    "options": [
-      "Bêta2 agoniste inhalé à courte durée d'action",
-      "Corticostéroïdes oraux",
-      "Antibiotiques",
-      "Oxygénothérapie uniquement"
-    ],
-    "answer": "Bêta2 agoniste inhalé à courte durée d'action"
-  },
-  {
-    "id": 49,
-    "question": "Quel est le test le plus spécifique pour le diagnostic de la tuberculose ?",
-    "options": ["Radiographie thoracique", "Hémoculture", "Test de Mantoux", "Culture de Mycobacterium tuberculosis"],
-    "answer": "Culture de Mycobacterium tuberculosis"
-  },
-  {
-    "id": 50,
-    "question": "Quel est le traitement de choix de la dépression majeure chez l’adulte ?",
-    "options": ["Inhibiteurs sélectifs de la recapture de la sérotonine (ISRS) + psychothérapie", "Antibiotiques", "Bêta-bloquants", "Diurétiques"],
-    "answer": "Inhibiteurs sélectifs de la recapture de la sérotonine (ISRS) + psychothérapie"
-  }
+  "id": 40,
+  "question": "What is the most frequent symptom of gastroesophageal reflux?",
+  "options": ["Retrosternal burning", "Nausea", "Diarrhea", "Lower abdominal pain"],
+  "answer": "Retrosternal burning"
+},
+{
+  "id": 31,
+  "question": "What is the recommended screening method for diabetes?",
+  "options": ["Fasting blood glucose measurement", "Blood pressure measurement", "Breath test", "Electrocardiogram"],
+  "answer": "Fasting blood glucose measurement"
+},
+{
+  "id": 32,
+  "question": "Which biological test is the most sensitive to diagnose hypothyroidism?",
+  "options": ["TSH (Thyroid Stimulating Hormone)", "T3", "T4", "Calcitonin"],
+  "answer": "TSH (Thyroid Stimulating Hormone)"
+},
+{
+  "id": 33,
+  "question": "What is the characteristic clinical sign of pneumonia?",
+  "options": ["Chest pain", "Fever, productive cough", "Dyspnea without fever", "Isolated hemoptysis", "Abdominal pain"],
+  "answer": "Fever, productive cough"
+},
+{
+  "id": 34,
+  "question": "What is the main complication of untreated hypertension?",
+  "options": ["Lung infection", "Diabetes", "Arthritis", "Stroke"],
+  "answer": "Stroke"
+},
+{
+  "id": 35,
+  "question": "What is the reference exam to diagnose a bone fracture?",
+  "options": ["X-ray", "Brain CT scan", "Abdominal ultrasound", "Muscle MRI"],
+  "answer": "X-ray"
+},
+{
+  "id": 36,
+  "question": "What is the main cause of acute infectious diarrhea?",
+  "options": ["Food allergy", "Bacterial or viral infection", "Colon cancer", "Chronic constipation"],
+  "answer": "Bacterial or viral infection"
+},
+{
+  "id": 37,
+  "question": "Which drug is a direct oral anticoagulant?",
+  "options": ["Aspirin", "Paracetamol", "Rivaroxaban", "Amoxicillin"],
+  "answer": "Rivaroxaban"
+},
+{
+  "id": 38,
+  "question": "What is the treatment of choice for hypercholesterolemia?",
+  "options": ["Statins", "Beta-blockers", "Calcium channel blockers", "Diuretics"],
+  "answer": "Statins"
+},
+{
+  "id": 39,
+  "question": "What is the most common cause of heart failure in adults?",
+  "options": ["Dilated cardiomyopathy", "Ischemic heart disease", "Hypertension", "Valvular disease"],
+  "answer": "Ischemic heart disease"
+},
+{
+  "id": 40,
+  "question": "What is the most frequent symptom of gastroesophageal reflux?",
+  "options": ["Nausea", "Diarrhea", "Lower abdominal pain", "Retrosternal burning"],
+  "answer": "Retrosternal burning"
+},
+{
+  "id": 41,
+  "question": "What is the main cause of liver cirrhosis?",
+  "options": ["Excessive alcohol consumption", "Hepatitis A", "Pancreatic cancer", "Kidney failure"],
+  "answer": "Excessive alcohol consumption"
+},
+{
+  "id": 42,
+  "question": "What is the first-line treatment in managing irritable bowel syndrome?",
+  "options": ["Dietary modifications and stress management", "Antibiotics", "Corticosteroids", "Antispasmodics"],
+  "answer": "Dietary modifications and stress management"
+},
+{
+  "id": 43,
+  "question": "Which vaccination is recommended for patients with COPD?",
+  "options": ["Measles vaccine", "HPV vaccine", "Annual flu vaccine", "Polio vaccine"],
+  "answer": "Annual flu vaccine"
+},
+{
+  "id": 44,
+  "question": "What is the diagnostic test of choice for suspected diabetes mellitus?",
+  "options": ["Complete blood count", "Fasting blood glucose", "Blood ionogram", "Liver function tests"],
+  "answer": "Fasting blood glucose"
+},
+{
+  "id": 45,
+  "question": "What is the most frequent complication of myocardial infarction?",
+  "options": ["Hemorrhagic stroke", "Heart failure", "Diabetes", "Pneumonia"],
+  "answer": "Heart failure"
+},
+{
+  "id": 46,
+  "question": "What clinical sign is typical of a clavicle fracture?",
+  "options": ["Abdominal pain", "Deformity with antalgic posture of the upper limb", "Ankle edema", "Facial hematoma"],
+  "answer": "Deformity with antalgic posture of the upper limb"
+},
+{
+  "id": 47,
+  "question": "What is the most common cause of hyperthyroidism?",
+  "options": ["Basedow’s disease (Graves)", "Thyroid cancer", "Toxic multinodular goiter", "Subacute thyroiditis"],
+  "answer": "Basedow’s disease (Graves)"
+},
+{
+  "id": 48,
+  "question": "What is the first-line treatment for a mild acute asthma attack?",
+  "options": [
+    "Short-acting inhaled beta2-agonist",
+    "Oral corticosteroids",
+    "Antibiotics",
+    "Oxygen therapy only"
+  ],
+  "answer": "Short-acting inhaled beta2-agonist"
+},
+{
+  "id": 49,
+  "question": "What is the most specific test for tuberculosis diagnosis?",
+  "options": ["Chest X-ray", "Blood culture", "Mantoux test", "Mycobacterium tuberculosis culture"],
+  "answer": "Mycobacterium tuberculosis culture"
+},
+{
+  "id": 50,
+  "question": "What is the treatment of choice for major depression in adults?",
+  "options": ["Selective serotonin reuptake inhibitors (SSRIs) + psychotherapy", "Antibiotics", "Beta-blockers", "Diuretics"],
+  "answer": "Selective serotonin reuptake inhibitors (SSRIs) + psychotherapy"
+}
 ]
