@@ -1,0 +1,348 @@
+[
+  {
+    "id": 1,
+    "question": "Quelle est la durée moyenne d’un cycle menstruel normal ?",
+    "options": [
+      "21 jours",
+      "26 jours",
+      "28 jours",
+      "35 jours"
+    ],
+    "answer": "28 jours"
+  },
+  {
+    "id": 2,
+    "question": "Quelle hormone est responsable du pic ovulatoire ?",
+    "options": [
+      "FSH",
+      "LH",
+      "Progestérone",
+      "Estradiol"
+    ],
+    "answer": "LH"
+  },
+  {
+    "id": 3,
+    "question": "Quel est le principal site de fécondation ?",
+    "options": [
+      "Vagin",
+      "Utérus",
+      "Trompe de Fallope (ampoule)",
+      "Ovaire"
+    ],
+    "answer": "Trompe de Fallope (ampoule)"
+  },
+  {
+    "id": 4,
+    "question": "Quelle est la durée normale d'une grossesse ?",
+    "options": [
+      "36 semaines",
+      "38 semaines",
+      "40 semaines (280 jours)",
+      "42 semaines"
+    ],
+    "answer": "40 semaines (280 jours)"
+  },
+  {
+    "id": 5,
+    "question": "À partir de quelle semaine parle-t-on de prématurité ?",
+    "options": [
+      "Avant 24 SA",
+      "Avant 37 SA",
+      "Avant 40 SA",
+      "Avant 38 SA"
+    ],
+    "answer": "Avant 37 SA"
+  },
+  {
+    "id": 6,
+    "question": "Le test de grossesse détecte principalement :",
+    "options": [
+      "LH",
+      "FSH",
+      "HCG",
+      "Progestérone"
+    ],
+    "answer": "HCG"
+  },
+  {
+    "id": 7,
+    "question": "La prééclampsie se manifeste par :",
+    "options": [
+      "Hyperglycémie et fatigue",
+      "HTA + protéinurie",
+      "Contractions utérines",
+      "Bradycardie fœtale"
+    ],
+    "answer": "HTA + protéinurie"
+  },
+  {
+    "id": 8,
+    "question": "Un utérus en position rétroversée est :",
+    "options": [
+      "Dirigé vers l’arrière",
+      "Pathologique",
+      "Témoin d’une grossesse",
+      "Toujours douloureux"
+    ],
+    "answer": "Dirigé vers l’arrière"
+  },
+  {
+    "id": 9,
+    "question": "La trisomie 21 est liée principalement à :",
+    "options": [
+      "Infections",
+      "Âge maternel élevé",
+      "Tabac",
+      "Alcoolisme"
+    ],
+    "answer": "Âge maternel élevé"
+  },
+  {
+    "id": 10,
+    "question": "Quel est le traitement de première intention d’un syndrome des ovaires polykystiques chez la femme obèse ?",
+    "options": [
+      "Pilule œstroprogestative",
+      "Perte de poids + Metformine",
+      "Clomifène seul",
+      "Chirurgie ovarienne"
+    ],
+    "answer": "Perte de poids + Metformine"
+  },{
+        "id": 11,
+        "question": "Quelle est la fréquence normale des mouvements actifs fœtaux après 28 SA ?",
+        "options": ["<2 par heure", "≥10 par 2 heures", "1 par 4 heures", "≥30 par jour"],
+        "answer": "≥10 par 2 heures"
+    },
+    {
+        "id": 12,
+        "question": "Le fibrome utérin est une tumeur :",
+        "options": ["Bénigne", "Maligne", "Ovarienne", "Endométriale"],
+        "answer": "Bénigne"
+    },
+    {
+        "id": 13,
+        "question": "Quelle est la définition d’un travail prématuré ?",
+        "options": ["Avant 20 SA", "Avant 24 SA", "Entre 22 et 37 SA avec contractions et modifications cervicales", "À terme avec col fermé"],
+        "answer": "Entre 22 et 37 SA avec contractions et modifications cervicales"
+    },
+    {
+        "id": 14,
+        "question": "L’utérus gravide devient palpable à l’ombilic vers :",
+        "options": ["8 SA", "10 SA", "14 SA", "20 SA"],
+        "answer": "20 SA"
+    },
+    {
+        "id": 15,
+        "question": "L’examen de choix pour l’étude de l’endomètre est :",
+        "options": ["Hystérosalpingographie", "Hystéroscopie", "IRM", "Biopsie cervicale"],
+        "answer": "Hystéroscopie"
+    },
+    {
+        "id": 16,
+        "question": "Quelle est la période recommandée pour le test de dépistage du diabète gestationnel ?",
+        "options": ["12 SA", "16 SA", "24–28 SA", "36 SA"],
+        "answer": "24–28 SA"
+    },
+    {
+        "id": 17,
+        "question": "L’hormone prédominante en phase lutéale est :",
+        "options": ["LH", "Estradiol", "Progestérone", "GnRH"],
+        "answer": "Progestérone"
+    },
+    {
+        "id": 18,
+        "question": "Le placenta prævia est :",
+        "options": ["Un placenta vieillissant", "Un placenta inséré sur le segment inférieur de l’utérus", "Placenta non fonctionnel", "Placenta qui a migré dans le vagin"],
+        "answer": "Un placenta inséré sur le segment inférieur de l’utérus"
+    },
+    {
+        "id": 19,
+        "question": "Une aménorrhée primaire se définit comme :",
+        "options": ["Absence de règles après 18 ans", "Absence de règles à 16 ans avec caractères sexuels secondaires", "Absence de règles pendant 6 mois", "Cycle de plus de 35 jours"],
+        "answer": "Absence de règles à 16 ans avec caractères sexuels secondaires"
+    },
+    {
+        "id": 20,
+        "question": "Le traitement médical de l’endométriose repose sur :",
+        "options": ["Antibiotiques", "Anticoagulants", "Progestatifs ou analogues de la GnRH", "Aspirine"],
+        "answer": "Progestatifs ou analogues de la GnRH"
+    },{
+    "id": 21,
+    "question": "Le dépistage du cancer du col débute à :",
+    "options": ["15 ans", "Premier rapport sexuel", "25 ans", "40 ans"],
+    "answer": "25 ans"
+  },
+  {
+    "id": 22,
+    "question": "Le score de Bishop évalue :",
+    "options": ["La contractilité utérine", "La maturité fœtale", "La maturité cervicale", "Le volume amniotique"],
+    "answer": "La maturité cervicale"
+  },
+  {
+    "id": 23,
+    "question": "Une grossesse extra-utérine est localisée le plus souvent :",
+    "options": ["Dans la trompe (ampoule)", "Dans l’ovaire", "Dans le col", "Dans le myomètre"],
+    "answer": "Dans la trompe (ampoule)"
+  },
+  {
+    "id": 24,
+    "question": "Signes cliniques d’une hémorragie du post-partum ?",
+    "options": ["Hypotension, pâleur, tachycardie", "Hypertension et fièvre", "Nausées et diarrhée", "Sueurs et mydriase"],
+    "answer": "Hypotension, pâleur, tachycardie"
+  },
+  {
+    "id": 25,
+    "question": "La méthode contraceptive d’urgence la plus efficace est :",
+    "options": ["Pilule du lendemain", "Préservatif", "Dispositif intra-utérin au cuivre (DIU)", "Spermicides"],
+    "answer": "Dispositif intra-utérin au cuivre (DIU)"
+  },
+  {
+    "id": 26,
+    "question": "En cas de menace d’accouchement prématuré, on administre :",
+    "options": ["Fer IV", "Corticoïdes + Tocolytiques", "Antibiotiques seuls", "Ocytociques"],
+    "answer": "Corticoïdes + Tocolytiques"
+  },
+  {
+    "id": 27,
+    "question": "Une métrorragie est :",
+    "options": ["Saignement pendant les règles", "Saignement en dehors des règles", "Anémie", "Infection urinaire"],
+    "answer": "Saignement en dehors des règles"
+  },
+  {
+    "id": 28,
+    "question": "L'examen indispensable en cas de saignements post-ménopausiques est :",
+    "options": ["Hémogramme", "Échographie pelvienne endovaginale", "Coelioscopie", "Frottis cervico-vaginal"],
+    "answer": "Échographie pelvienne endovaginale"
+  },
+  {
+    "id": 29,
+    "question": "La première échographie obligatoire en grossesse est prévue :",
+    "options": ["4 SA", "8 SA", "11–13 SA (1er trimestre)", "20 SA"],
+    "answer": "11–13 SA (1er trimestre)"
+  },
+  {
+    "id": 30,
+    "question": "L'hormone détectée dans les tests d’ovulation est :",
+    "options": ["Progesterone", "LH", "FSH", "HCG"],
+    "answer": "LH"
+  },{
+    "id": 31,
+    "question": "La dystocie des épaules se traite par :",
+    "options": ["Césarienne d'urgence", "Manœuvres obstétricales (McRoberts, Wood)", "Forceps", "Extraction par ventouse"],
+    "answer": "Manœuvres obstétricales (McRoberts, Wood)"
+  },
+  {
+    "id": 32,
+    "question": "Le colostrum contient :",
+    "options": ["Immunoglobulines (IgA)", "Globules rouges", "Acides biliaires", "Hémoglobine"],
+    "answer": "Immunoglobulines (IgA)"
+  },
+  {
+    "id": 33,
+    "question": "L'accouchement est dit \"à terme\" entre :",
+    "options": ["34–36 SA", "37–41 SA", "38–42 SA", "36–40 SA"],
+    "answer": "37–41 SA"
+  },
+  {
+    "id": 34,
+    "question": "Quel est le risque principal du diabète gestationnel non contrôlé ?",
+    "options": ["Macrosomie fœtale", "Infection urinaire", "Hypotrophie", "Prématurité"],
+    "answer": "Macrosomie fœtale"
+  },
+  {
+    "id": 35,
+    "question": "Le test de Spéculum permet d’évaluer :",
+    "options": ["L’utérus", "Le col et les pertes vaginales", "Les ovaires", "Les ligaments utérins"],
+    "answer": "Le col et les pertes vaginales"
+  },
+  {
+    "id": 36,
+    "question": "Les mycoses vaginales sont causées par :",
+    "options": ["Virus", "Candida albicans", "Trichomonas", "Bactéries anaérobies"],
+    "answer": "Candida albicans"
+  },
+  {
+    "id": 37,
+    "question": "Une patiente avec une aménorrhée secondaire, test de grossesse négatif, présente un syndrome galactorrhée-aménorrhée. Quelle est la cause probable ?",
+    "options": ["SOPK", "Hyperprolactinémie (adénome hypophysaire)", "Insuffisance ovarienne", "Ménopause précoce"],
+    "answer": "Hyperprolactinémie (adénome hypophysaire)"
+  },
+  {
+    "id": 38,
+    "question": "L'accouchement est considéré comme dystocique si :",
+    "options": ["L'évolution est anormalement lente ou bloquée", "La femme est primipare", "Il nécessite une péridurale", "Le liquide amniotique est clair"],
+    "answer": "L'évolution est anormalement lente ou bloquée"
+  },
+  {
+    "id": 39,
+    "question": "L’indice de Bishop >8 indique :",
+    "options": ["Risque de prématurité", "Col favorable à l’induction du travail", "Indication de césarienne", "Hémorragie"],
+    "answer": "Col favorable à l’induction du travail"
+  },
+  {
+    "id": 40,
+    "question": "Quelle contraception est la plus adaptée en post-partum immédiat ?",
+    "options": ["Progestatif seul", "Pilule combinée", "DIU hormonal", "Anneau vaginal"],
+    "answer": "Progestatif seul"
+  }, {
+    "id": 41,
+    "question": "Quelle est la principale étiologie des pertes vaginales malodorantes ?",
+    "options": ["Mycose", "Vaginose bactérienne (Gardnerella vaginalis)", "Virus", "Incontinence"],
+    "answer": "Vaginose bactérienne (Gardnerella vaginalis)"
+  },
+  {
+    "id": 42,
+    "question": "L’hormone qui déclenche l’ovulation est :",
+    "options": ["FSH", "LH", "Progestérone", "HCG"],
+    "answer": "LH"
+  },
+  {
+    "id": 43,
+    "question": "Quel est le rôle principal de la progestérone en grossesse ?",
+    "options": ["Maintien de l’endomètre", "Maturation folliculaire", "Ocytocine", "Thermorégulation"],
+    "answer": "Maintien de l’endomètre"
+  },
+  {
+    "id": 44,
+    "question": "Le test de Schiller permet de détecter :",
+    "options": ["Ménopause", "Fibrome", "Lésions cervicales", "Hypospadias"],
+    "answer": "Lésions cervicales"
+  },
+  {
+    "id": 45,
+    "question": "Quel est le mode de contraception à long terme le plus efficace ?",
+    "options": ["Préservatif", "Pilule", "Dispositif intra-utérin (DIU)", "Patch"],
+    "answer": "Dispositif intra-utérin (DIU)"
+  },
+  {
+    "id": 46,
+    "question": "À quel moment l’alpha-fœtoprotéine est-elle dosée pour le dépistage de spina bifida ?",
+    "options": ["8 SA", "16–18 SA", "26 SA", "32 SA"],
+    "answer": "16–18 SA"
+  },
+  {
+    "id": 47,
+    "question": "L'herpès génital est le plus souvent causé par :",
+    "options": ["HSV-1", "HSV-2", "HPV", "VIH"],
+    "answer": "HSV-2"
+  },
+  {
+    "id": 48,
+    "question": "Une grossesse gémellaire monozygote résulte de :",
+    "options": ["La division d’un seul œuf fécondé", "Deux ovocytes différents", "Fécondation par deux spermatozoïdes", "Anomalie utérine"],
+    "answer": "La division d’un seul œuf fécondé"
+  },
+  {
+    "id": 49,
+    "question": "Une patiente enceinte avec une tension à 150/95 mmHg à 36 SA doit :",
+    "options": ["Être rassurée", "Être surveillée de près pour prééclampsie", "Accoucher immédiatement", "Prendre du paracétamol"],
+    "answer": "Être surveillée de près pour prééclampsie"
+  },
+  {
+    "id": 50,
+    "question": "La principale indication de césarienne est :",
+    "options": ["Fièvre", "Disproportion fœto-pelvienne", "Infection urinaire", "Varices"],
+    "answer": "Disproportion fœto-pelvienne"
+  }
+]
