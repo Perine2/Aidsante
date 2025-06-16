@@ -1,348 +1,431 @@
 [
   {
-    "numero": 1,
-    "question": "Quel composant du sang est principalement responsable du transport de l’oxygène ?",
-    "options": [
-      "Plaquettes",
-      "Globules blancs",
-      "Globules rouges (érythrocytes)",
-      "Plasma"
-    ],
-    "answer": "Globules rouges (érythrocytes)"
-  },
-  {
-    "numero": 2,
-    "question": "Quel est le principal symptôme de l’anémie ?",
-    "options": [
-      "Fièvre",
-      "Fatigue et pâleur",
-      "Douleur thoracique",
-      "Gonflement des ganglions"
-    ],
-    "answer": "Fatigue et pâleur"
-  },
-  {
-    "numero": 3,
-    "question": "Quel test sanguin mesure le pourcentage de globules rouges dans le volume total de sang ?",
-    "options": [
-      "Numération leucocytaire",
-      "Hématocrite",
-      "Taux de plaquettes",
-      "Temps de saignement"
-    ],
-    "reponse": "Hématocrite"
-  },
-  {
-    "numero": 4,
-    "question": "La leucémie aiguë myéloïde (LAM) est une maladie caractérisée par :",
-    "options": [
-      "Une infection bactérienne du sang",
-      "Une prolifération rapide de cellules myéloïdes immatures",
-      "Une carence en vitamine B12",
-      "Une augmentation des plaquettes"
-    ],
-    "answer": "Une prolifération rapide de cellules myéloïdes immatures"
-  },
-  {
-    "numero": 5,
-    "question": "Quel facteur est essentiel à la coagulation sanguine ?",
-    "options": [
-      "Érythropoïétine",
-      "Fibrinogène",
-      "Hémoglobine",
-      "Globuline"
-    ],
-    "answer": "Fibrinogène"
-  },
-  {
-    "numero": 6,
-    "question": "Quelle est la cause la plus fréquente de l’anémie ferriprive ?",
-    "options": [
-      "Hémorragie chronique",
-      "Infection",
-      "Carence en fer",
-      "Maladie auto-immune"
-    ],
-    "answer": "Carence en fer"
-  },
-  {
-    "numero": 7,
-    "question": "Quel test permet de diagnostiquer une thrombocytopénie ?",
-    "options": [
-      "Numération des globules rouges",
-      "Numération plaquettaire",
-      "Hématocrite",
-      "Vitesse de sédimentation"
-    ],
-    "answer": "Numération plaquettaire"
-  },
-  {
-    "numero": 8,
-    "question": "La drépanocytose est due à :",
-    "options": [
-      "Une carence en fer",
-      "Une infection bactérienne",
-      "Une mutation génétique de l’hémoglobine",
-      "Un déficit en vitamine B12"
-    ],
-    "answer": "Une mutation génétique de l’hémoglobine"
-  },
-  {
-    "numero": 9,
-    "question": "Quel médicament est utilisé pour prévenir la formation de caillots sanguins ?",
-    "options": [
-      "Antibiotiques",
-      "Anticoagulants (héparine, warfarine)",
-      "Anti-inflammatoires",
-      "Corticostéroïdes"
-    ],
-    "answer": "Anticoagulants (héparine, warfarine)"
-  },
-  {
-    "numero": 10,
-    "question": "Quel est le rôle principal des plaquettes dans le sang ?",
-    "options": [
-      "Transporter l’oxygène",
-      "Combattre les infections",
-      "Participer à la coagulation",
-      "Réguler la pression sanguine"
-    ],
-    "answer": "Participer à la coagulation"
-  },{
-    "numero": 11,
-    "question": "Quel test est utilisé pour mesurer le temps de coagulation du sang ?",
-    "options": ["Numération leucocytaire", "Hémoglobine", "Temps de Quick (TP) et temps de céphaline (TCA)", "Glycémie"],
-    "answer": "Temps de Quick (TP) et temps de céphaline (TCA)"
-  },
-  {
-    "numero": 12,
-    "question": "La maladie de Hodgkin est un cancer :",
-    "options": ["Du foie", "Des poumons", "Du système lymphatique", "Des os"],
-    "answer": "Du système lymphatique"
-  },
-  {
-    "numero": 13,
-    "question": "Quel est le rôle de l’érythropoïétine ?",
-    "options": ["Coagulation", "Stimulation de la production des globules rouges", "Réponse immunitaire", "Transport des nutriments"],
-    "answer": "Stimulation de la production des globules rouges"
-  },
-  {
-    "numero": 14,
-    "question": "Quel type d’anémie est causé par une carence en vitamine B12 ?",
-    "options": ["Anémie ferriprive", "Anémie aplasique", "Anémie mégaloblastique", "Anémie hémolytique"],
-    "answer": "Anémie mégaloblastique"
-  },
-  {
-    "numero": 15,
-    "question": "Quel examen permet d’évaluer la fonction médullaire ?",
-    "options": ["Radiographie", "Myélogramme (ponction de moelle osseuse)", "Échographie abdominale", "Scanner cérébral"],
-    "answer": "Myélogramme (ponction de moelle osseuse)"
-  },
-  {
-    "numero": 16,
-    "question": "Quelle cellule est principalement affectée dans la leucémie lymphoblastique aiguë (LLA) ?",
-    "options": ["Globules rouges", "Plaquettes", "Lymphocytes immatures", "Neutrophiles"],
-    "answer": "Lymphocytes immatures"
-  },
-  {
-    "numero": 17,
-    "question": "Quel est le traitement principal de l’anémie ferriprive ?",
-    "options": ["Antibiotiques", "Supplémentation en fer", "Corticostéroïdes", "Anticoagulants"],
-    "answer": "Supplémentation en fer"
-  },
-  {
-    "numero": 18,
-    "question": "Quelle est la complication majeure d’une thrombocytopénie sévère ?",
-    "options": ["Infection", "Risque hémorragique important", "Douleur articulaire", "Fatigue"],
-    "answer": "Risque hémorragique important"
-  },
-  {
-    "numero": 19,
-    "question": "Quel est le signe caractéristique de la polyglobulie ?",
-    "options": ["Anémie", "Thrombocytopénie", "Augmentation anormale du nombre de globules rouges", "Leucopénie"],
-    "answer": "Augmentation anormale du nombre de globules rouges"
-  },
-  {
-    "numero": 20,
-    "question": "Quel examen sanguin permet d’évaluer la fonction rénale en lien avec l’hématologie ?",
-    "options": ["Hémoglobine", "Numération plaquettaire", "Dosage de la créatinine", "Vitesse de sédimentation"],
-    "answer": "Dosage de la créatinine"
-  },{
-    "numero": 21,
-    "question": "Quel type de globules blancs est principalement responsable de la défense contre les infections bactériennes ?",
-    "options": ["Lymphocytes", "Érythrocytes", "Neutrophiles", "Monocytes"],
-    "answer": "Neutrophiles"
-  },
-  {
-    "numero": 22,
-    "question": "Quel est le principal symptôme de la leucémie chronique myéloïde (LCM) ?",
-    "options": ["Fièvre élevée", "Douleur osseuse aiguë", "Fatigue, splénomégalie", "Gonflement des ganglions"],
-    "answer": "Fatigue, splénomégalie"
-  },
-  {
-    "numero": 23,
-    "question": "La drépanocytose provoque :",
-    "options": ["Hypercoagulation", "Infection bactérienne", "Anémie hémolytique due à la forme anormale des globules rouges", "Carence en fer"],
-    "answer": "Anémie hémolytique due à la forme anormale des globules rouges"
-  },
-  {
-    "numero": 24,
-    "question": "Quel est le rôle du plasma sanguin ?",
-    "options": ["Transporter les globules rouges uniquement", "Transporter les nutriments, hormones, déchets, et composants de la coagulation", "Produire les globules blancs", "Réguler la température corporelle"],
-    "answer": "Transporter les nutriments, hormones, déchets, et composants de la coagulation"
-  },
-  {
-    "numero": 25,
-    "question": "Quelle est la cause principale d’une anémie aplasique ?",
-    "options": ["Carence en fer", "Infection bactérienne", "Insuffisance médullaire (production réduite des cellules sanguines)", "Mutation génétique"],
-    "answer": "Insuffisance médullaire (production réduite des cellules sanguines)"
-  },
-  {
-    "numero": 26,
-    "question": "Quel examen sanguin permet de détecter une hémolyse ?",
-    "options": ["Numération leucocytaire", "Temps de coagulation", "Dosage de la bilirubine et lactate déshydrogénase (LDH)", "Glycémie"],
-    "answer": "Dosage de la bilirubine et lactate déshydrogénase (LDH)"
-  },
-  {
-    "numero": 27,
-    "question": "Quel traitement est utilisé dans la leucémie aiguë ?",
-    "options": ["Antibiotiques", "Chimiothérapie", "Corticostéroïdes uniquement", "Anticoagulants"],
-    "answer": "Chimiothérapie"
-  },
-  {
-    "numero": 28,
-    "question": "Quel facteur peut provoquer une thrombose veineuse profonde (TVP) ?",
-    "options": ["Hypotension", "Immobilisation prolongée", "Anémie ferriprive", "Infection virale"],
-    "answer": "Immobilisation prolongée"
-  },
-  {
-    "numero": 29,
-    "question": "Quel est le rôle des lymphocytes B ?",
-    "options": ["Phagocytose", "Production d’anticorps", "Coagulation", "Transport de l’oxygène"],
-    "answer": "Production d’anticorps"
-  },
-  {
-    "numero": 30,
-    "question": "Quel test est utilisé pour détecter une hémophilie ?",
-    "options": ["Numération plaquettaire", "Hématocrite", "Temps de coagulation prolongé (TP, TCA)", "Dosage de la créatinine"],
-    "answer": "Temps de coagulation prolongé (TP, TCA)"
-  },{
-    "numero": 31,
-    "question": "Quel est le principal symptôme d’une anémie hémolytique ?",
-    "options": ["Fièvre uniquement", "Douleur articulaire", "Jaunisse, fatigue, splénomégalie", "Gonflement des ganglions"],
-    "answer": "Jaunisse, fatigue, splénomégalie"
-  },
-  {
-    "numero": 32,
-    "question": "Quel est le traitement de première ligne de l’anémie mégaloblastique ?",
-    "options": ["Supplémentation en fer", "Vitamine B12 ou acide folique", "Antibiotiques", "Corticostéroïdes"],
-    "answer": "Vitamine B12 ou acide folique"
-  },
-  {
-    "numero": 33,
-    "question": "Quel est l’agent infectieux le plus fréquent responsable d’une anémie infectieuse ?",
-    "options": ["Virus de la grippe", "Plasmodium (paludisme)", "Bactéries à Gram négatif", "Champignons"],
-    "answer": "Plasmodium (paludisme)"
-  },
-  {
-    "numero": 34,
-    "question": "Quel est le rôle des plaquettes dans la réparation tissulaire ?",
-    "options": ["Transporter l’oxygène", "Produire des anticorps", "Former un clou plaquettaire pour arrêter le saignement", "Lutter contre l’infection"],
-    "answer": "Former un clou plaquettaire pour arrêter le saignement"
-  },
-  {
-    "numero": 35,
-    "question": "Quel examen permet de diagnostiquer une leucémie ?",
-    "options": ["Radiographie pulmonaire", "Myélogramme et hémogramme", "Scanner abdominal", "Échographie cardiaque"],
-    "answer": "Myélogramme et hémogramme"
-  },
-  {
-    "numero": 36,
-    "question": "Quel est le principal symptôme d’une thrombocytose ?",
-    "options": ["Fatigue", "Anémie", "Risque accru de thrombose", "Fièvre"],
-    "answer": "Risque accru de thrombose"
-  },
-  {
-    "numero": 37,
-    "question": "Quel est le principal facteur de risque de la thrombocytopénie ?",
-    "options": ["Hypercholestérolémie", "Hypotension", "Saignement et hémorragie", "Hyperglycémie"],
-    "answer": "Saignement et hémorragie"
-  },
-  {
-    "numero": 38,
-    "question": "Quel traitement est utilisé pour la drépanocytose ?",
-    "options": ["Antibiotiques uniquement", "Anticoagulants", "Hydroxyurée et transfusions sanguines", "Corticostéroïdes"],
-    "answer": "Hydroxyurée et transfusions sanguines"
-  },
-  {
-    "numero": 39,
-    "question": "Quel est le rôle de l’hémoglobine ?",
-    "options": ["Coagulation", "Immunité", "Transport de l’oxygène", "Transport des nutriments"],
-    "answer": "Transport de l’oxygène"
-  },
-  {
-    "numero": 40,
-    "question": "Quel est le signe clinique de l’anémie ?",
-    "options": ["Hyperpigmentation", "Pâleur cutanée et muqueuse", "Cyanose", "Œdème"],
-    "answer": "Pâleur cutanée et muqueuse"
-  },{
-    "numero": 41,
-    "question": "Quel type de globules blancs est principalement impliqué dans la réponse immunitaire humorale ?",
-    "options": ["Neutrophiles", "Lymphocytes B", "Monocytes", "Éosinophiles"],
-    "answer": "Lymphocytes B"
-  },
-  {
-    "numero": 42,
-    "question": "Quel est le rôle principal des neutrophiles ?",
-    "options": ["Transport de l’oxygène", "Production d’anticorps", "Phagocytose des bactéries", "Coagulation"],
-    "answer": "Phagocytose des bactéries"
-  },
-  {
-    "numero": 43,
-    "question": "Quel examen est utilisé pour dépister les troubles de la coagulation ?",
-    "options": ["Numération plaquettaire seule", "Hémoglobine", "Temps de prothrombine (TP) et temps de céphaline activée (TCA)", "Glycémie"],
-    "answer": "Temps de prothrombine (TP) et temps de céphaline activée (TCA)"
-  },
-  {
-    "numero": 44,
-    "question": "Quel est le traitement de l’hémophilie A ?",
-    "options": ["Antibiotiques", "Corticostéroïdes", "Injection de facteur VIII", "Anticoagulants"],
-    "answer": "Injection de facteur VIII"
-  },
-  {
-    "numero": 45,
-    "question": "Quel est le signe caractéristique de la leucémie ?",
-    "options": ["Douleur thoracique", "Pâleur uniquement", "Fatigue, infections fréquentes, saignements", "Douleur abdominale"],
-    "answer": "Fatigue, infections fréquentes, saignements"
-  },
-  {
-    "numero": 46,
-    "question": "Quelle cellule sanguine est responsable de la réaction allergique ?",
-    "options": ["Neutrophiles", "Éosinophiles", "Monocytes", "Lymphocytes"],
-    "answer": "Éosinophiles"
-  },
-  {
-    "numero": 47,
-    "question": "Quel est le rôle des monocytes ?",
-    "options": ["Production d’anticorps", "Transport d’oxygène", "Phagocytose et présentation antigénique", "Coagulation"],
-    "answer": "Phagocytose et présentation antigénique"
-  },
-  {
-    "numero": 48,
-    "question": "Quelle est la cause la plus fréquente d’hémorragie chez un patient avec thrombocytopénie ?",
-    "options": ["Infection", "Hypercoagulabilité", "Diminution du nombre de plaquettes", "Anémie ferriprive"],
-    "answer": "Diminution du nombre de plaquettes"
-  },
-  {
-    "numero": 49,
-    "question": "Quel est le rôle du facteur VIII ?",
-    "options": ["Transporter l’oxygène", "Production d’anticorps", "Coagulation sanguine (voie intrinsèque)", "Réponse immunitaire"],
-    "answer": "Coagulation sanguine (voie intrinsèque)"
-  },
-  {
-    "numero": 50,
-    "question": "Quel est le traitement principal de la leucémie lymphoblastique aiguë (LLA) ?",
-    "options": ["Antibiotiques", "Chimiothérapie intensive", "Supplémentation en fer", "Anticoagulants"],
-    "answer": "Chimiothérapie intensive"
-  }
+  "numero": 1,
+  "question": "Which blood component is primarily responsible for oxygen transport?",
+  "options": [
+    "Platelets",
+    "White blood cells",
+    "Red blood cells (erythrocytes)",
+    "Plasma"
+  ],
+  "answer": "Red blood cells (erythrocytes)"
+},
+{
+  "numero": 2,
+  "question": "What is the main symptom of anemia?",
+  "options": [
+    "Fever",
+    "Fatigue and pallor",
+    "Chest pain",
+    "Swollen lymph nodes"
+  ],
+  "answer": "Fatigue and pallor"
+},
+{
+  "numero": 3,
+  "question": "Which blood test measures the percentage of red blood cells in the total blood volume?",
+  "options": [
+    "White blood cell count",
+    "Hematocrit",
+    "Platelet count",
+    "Bleeding time"
+  ],
+  "answer": "Hematocrit"
+},
+{
+  "numero": 4,
+  "question": "Acute myeloid leukemia (AML) is a disease characterized by:",
+  "options": [
+    "A bacterial infection of the blood",
+    "Rapid proliferation of immature myeloid cells",
+    "Vitamin B12 deficiency",
+    "Increased platelets"
+  ],
+  "answer": "Rapid proliferation of immature myeloid cells"
+},
+{
+  "numero": 5,
+  "question": "Which factor is essential for blood clotting?",
+  "options": [
+    "Erythropoietin",
+    "Fibrinogen",
+    "Hemoglobin",
+    "Globulin"
+  ],
+  "answer": "Fibrinogen"
+},
+{
+  "numero": 6,
+  "question": "What is the most common cause of iron deficiency anemia?",
+  "options": [
+    "Chronic hemorrhage",
+    "Infection",
+    "Iron deficiency",
+    "Autoimmune disease"
+  ],
+  "answer": "Iron deficiency"
+},
+{
+  "numero": 7,
+  "question": "Which test is used to diagnose thrombocytopenia?",
+  "options": [
+    "Red blood cell count",
+    "Platelet count",
+    "Hematocrit",
+    "Erythrocyte sedimentation rate"
+  ],
+  "answer": "Platelet count"
+},
+{
+  "numero": 8,
+  "question": "Sickle cell disease is due to:",
+  "options": [
+    "Iron deficiency",
+    "Bacterial infection",
+    "A genetic mutation of hemoglobin",
+    "Vitamin B12 deficiency"
+  ],
+  "answer": "A genetic mutation of hemoglobin"
+},
+{
+  "numero": 9,
+  "question": "Which medication is used to prevent blood clot formation?",
+  "options": [
+    "Antibiotics",
+    "Anticoagulants (heparin, warfarin)",
+    "Anti-inflammatories",
+    "Corticosteroids"
+  ],
+  "answer": "Anticoagulants (heparin, warfarin)"
+},
+{
+  "numero": 10,
+  "question": "What is the main role of platelets in the blood?",
+  "options": [
+    "Transport oxygen",
+    "Fight infections",
+    "Participate in coagulation",
+    "Regulate blood pressure"
+  ],
+  "answer": "Participate in coagulation"
+},
+{
+  "numero": 11,
+  "question": "Which test is used to measure blood clotting time?",
+  "options": [
+    "White blood cell count",
+    "Hemoglobin",
+    "Prothrombin time (PT) and activated partial thromboplastin time (aPTT)",
+    "Blood glucose"
+  ],
+  "answer": "Prothrombin time (PT) and activated partial thromboplastin time (aPTT)"
+},
+{
+  "numero": 12,
+  "question": "Hodgkin's disease is a cancer of the:",
+  "options": [
+    "Liver",
+    "Lungs",
+    "Lymphatic system",
+    "Bones"
+  ],
+  "answer": "Lymphatic system"
+},
+{
+  "numero": 13,
+  "question": "What is the role of erythropoietin?",
+  "options": [
+    "Coagulation",
+    "Stimulation of red blood cell production",
+    "Immune response",
+    "Nutrient transport"
+  ],
+  "answer": "Stimulation of red blood cell production"
+},
+{
+  "numero": 14,
+  "question": "Which type of anemia is caused by vitamin B12 deficiency?",
+  "options": [
+    "Iron deficiency anemia",
+    "Aplastic anemia",
+    "Megaloblastic anemia",
+    "Hemolytic anemia"
+  ],
+  "answer": "Megaloblastic anemia"
+},
+{
+  "numero": 15,
+  "question": "Which test evaluates bone marrow function?",
+  "options": [
+    "X-ray",
+    "Myelogram (bone marrow aspiration)",
+    "Abdominal ultrasound",
+    "Brain CT scan"
+  ],
+  "answer": "Myelogram (bone marrow aspiration)"
+},
+{
+  "numero": 16,
+  "question": "Which cell is mainly affected in acute lymphoblastic leukemia (ALL)?",
+  "options": [
+    "Red blood cells",
+    "Platelets",
+    "Immature lymphocytes",
+    "Neutrophils"
+  ],
+  "answer": "Immature lymphocytes"
+},
+{
+  "numero": 17,
+  "question": "What is the main treatment for iron deficiency anemia?",
+  "options": [
+    "Antibiotics",
+    "Iron supplementation",
+    "Corticosteroids",
+    "Anticoagulants"
+  ],
+  "answer": "Iron supplementation"
+},
+{
+  "numero": 18,
+  "question": "What is the major complication of severe thrombocytopenia?",
+  "options": [
+    "Infection",
+    "High risk of bleeding",
+    "Joint pain",
+    "Fatigue"
+  ],
+  "answer": "High risk of bleeding"
+},
+{
+  "numero": 19,
+  "question": "What is the characteristic sign of polycythemia?",
+  "options": [
+    "Anemia",
+    "Thrombocytopenia",
+    "Abnormally increased number of red blood cells",
+    "Leukopenia"
+  ],
+  "answer": "Abnormally increased number of red blood cells"
+},
+{
+  "numero": 20,
+  "question": "Which blood test assesses kidney function related to hematology?",
+  "options": [
+    "Hemoglobin",
+    "Platelet count",
+    "Creatinine level",
+    "Erythrocyte sedimentation rate"
+  ],
+  "answer": "Creatinine level"
+}
+,{
+  "numero": 21,
+  "question": "Which type of white blood cell is primarily responsible for defending against bacterial infections?",
+  "options": ["Lymphocytes", "Erythrocytes", "Neutrophils", "Monocytes"],
+  "answer": "Neutrophils"
+},
+{
+  "numero": 22,
+  "question": "What is the main symptom of chronic myeloid leukemia (CML)?",
+  "options": ["High fever", "Acute bone pain", "Fatigue, splenomegaly", "Swollen lymph nodes"],
+  "answer": "Fatigue, splenomegaly"
+},
+{
+  "numero": 23,
+  "question": "Sickle cell disease causes:",
+  "options": ["Hypercoagulation", "Bacterial infection", "Hemolytic anemia due to abnormal red blood cell shape", "Iron deficiency"],
+  "answer": "Hemolytic anemia due to abnormal red blood cell shape"
+},
+{
+  "numero": 24,
+  "question": "What is the role of blood plasma?",
+  "options": [
+    "Transport only red blood cells",
+    "Transport nutrients, hormones, waste products, and clotting components",
+    "Produce white blood cells",
+    "Regulate body temperature"
+  ],
+  "answer": "Transport nutrients, hormones, waste products, and clotting components"
+},
+{
+  "numero": 25,
+  "question": "What is the main cause of aplastic anemia?",
+  "options": [
+    "Iron deficiency",
+    "Bacterial infection",
+    "Bone marrow failure (reduced production of blood cells)",
+    "Genetic mutation"
+  ],
+  "answer": "Bone marrow failure (reduced production of blood cells)"
+},
+{
+  "numero": 26,
+  "question": "Which blood test detects hemolysis?",
+  "options": [
+    "White blood cell count",
+    "Clotting time",
+    "Bilirubin and lactate dehydrogenase (LDH) levels",
+    "Blood glucose"
+  ],
+  "answer": "Bilirubin and lactate dehydrogenase (LDH) levels"
+},
+{
+  "numero": 27,
+  "question": "What treatment is used for acute leukemia?",
+  "options": ["Antibiotics", "Chemotherapy", "Corticosteroids only", "Anticoagulants"],
+  "answer": "Chemotherapy"
+},
+{
+  "numero": 28,
+  "question": "Which factor can cause deep vein thrombosis (DVT)?",
+  "options": [
+    "Low blood pressure",
+    "Prolonged immobilization",
+    "Iron deficiency anemia",
+    "Viral infection"
+  ],
+  "answer": "Prolonged immobilization"
+},
+{
+  "numero": 29,
+  "question": "What is the role of B lymphocytes?",
+  "options": [
+    "Phagocytosis",
+    "Antibody production",
+    "Blood clotting",
+    "Oxygen transport"
+  ],
+  "answer": "Antibody production"
+},
+{
+  "numero": 30,
+  "question": "Which test is used to detect hemophilia?",
+  "options": [
+    "Platelet count",
+    "Hematocrit",
+    "Prolonged clotting time (PT, aPTT)",
+    "Creatinine level"
+  ],
+  "answer": "Prolonged clotting time (PT, aPTT)"
+},{
+  "numero": 31,
+  "question": "What is the main symptom of hemolytic anemia?",
+  "options": ["Fever only", "Joint pain", "Jaundice, fatigue, splenomegaly", "Swollen lymph nodes"],
+  "answer": "Jaundice, fatigue, splenomegaly"
+},
+{
+  "numero": 32,
+  "question": "What is the first-line treatment for megaloblastic anemia?",
+  "options": ["Iron supplementation", "Vitamin B12 or folic acid", "Antibiotics", "Corticosteroids"],
+  "answer": "Vitamin B12 or folic acid"
+},
+{
+  "numero": 33,
+  "question": "What is the most common infectious agent responsible for infectious anemia?",
+  "options": ["Influenza virus", "Plasmodium (malaria)", "Gram-negative bacteria", "Fungi"],
+  "answer": "Plasmodium (malaria)"
+},
+{
+  "numero": 34,
+  "question": "What is the role of platelets in tissue repair?",
+  "options": ["Transport oxygen", "Produce antibodies", "Form a platelet plug to stop bleeding", "Fight infection"],
+  "answer": "Form a platelet plug to stop bleeding"
+},
+{
+  "numero": 35,
+  "question": "Which test is used to diagnose leukemia?",
+  "options": ["Chest X-ray", "Myelogram and blood count", "Abdominal CT scan", "Echocardiography"],
+  "answer": "Myelogram and blood count"
+},
+{
+  "numero": 36,
+  "question": "What is the main symptom of thrombocytosis?",
+  "options": ["Fatigue", "Anemia", "Increased risk of thrombosis", "Fever"],
+  "answer": "Increased risk of thrombosis"
+},
+{
+  "numero": 37,
+  "question": "What is the main risk factor for thrombocytopenia?",
+  "options": ["Hypercholesterolemia", "Hypotension", "Bleeding and hemorrhage", "Hyperglycemia"],
+  "answer": "Bleeding and hemorrhage"
+},
+{
+  "numero": 38,
+  "question": "What treatment is used for sickle cell disease?",
+  "options": ["Antibiotics only", "Anticoagulants", "Hydroxyurea and blood transfusions", "Corticosteroids"],
+  "answer": "Hydroxyurea and blood transfusions"
+},
+{
+  "numero": 39,
+  "question": "What is the role of hemoglobin?",
+  "options": ["Coagulation", "Immunity", "Oxygen transport", "Nutrient transport"],
+  "answer": "Oxygen transport"
+},
+{
+  "numero": 40,
+  "question": "What is the clinical sign of anemia?",
+  "options": ["Hyperpigmentation", "Paleness of skin and mucous membranes", "Cyanosis", "Edema"],
+  "answer": "Paleness of skin and mucous membranes"
+},
+{
+  "numero": 41,
+  "question": "Which type of white blood cells is mainly involved in the humoral immune response?",
+  "options": ["Neutrophils", "B lymphocytes", "Monocytes", "Eosinophils"],
+  "answer": "B lymphocytes"
+},
+{
+  "numero": 42,
+  "question": "What is the main role of neutrophils?",
+  "options": ["Oxygen transport", "Antibody production", "Phagocytosis of bacteria", "Coagulation"],
+  "answer": "Phagocytosis of bacteria"
+},
+{
+  "numero": 43,
+  "question": "Which test is used to screen for coagulation disorders?",
+  "options": ["Platelet count only", "Hemoglobin", "Prothrombin time (PT) and activated partial thromboplastin time (aPTT)", "Blood glucose"],
+  "answer": "Prothrombin time (PT) and activated partial thromboplastin time (aPTT)"
+},
+{
+  "numero": 44,
+  "question": "What is the treatment for hemophilia A?",
+  "options": ["Antibiotics", "Corticosteroids", "Factor VIII injection", "Anticoagulants"],
+  "answer": "Factor VIII injection"
+},
+{
+  "numero": 45,
+  "question": "What is the characteristic sign of leukemia?",
+  "options": ["Chest pain", "Paleness only", "Fatigue, frequent infections, bleeding", "Abdominal pain"],
+  "answer": "Fatigue, frequent infections, bleeding"
+},
+{
+  "numero": 46,
+  "question": "Which blood cell is responsible for allergic reactions?",
+  "options": ["Neutrophils", "Eosinophils", "Monocytes", "Lymphocytes"],
+  "answer": "Eosinophils"
+},
+{
+  "numero": 47,
+  "question": "What is the role of monocytes?",
+  "options": ["Antibody production", "Oxygen transport", "Phagocytosis and antigen presentation", "Coagulation"],
+  "answer": "Phagocytosis and antigen presentation"
+},
+{
+  "numero": 48,
+  "question": "What is the most common cause of bleeding in a patient with thrombocytopenia?",
+  "options": ["Infection", "Hypercoagulability", "Decreased platelet count", "Iron deficiency anemia"],
+  "answer": "Decreased platelet count"
+},
+{
+  "numero": 49,
+  "question": "What is the role of factor VIII?",
+  "options": ["Transport oxygen", "Antibody production", "Blood coagulation (intrinsic pathway)", "Immune response"],
+  "answer": "Blood coagulation (intrinsic pathway)"
+},
+{
+  "numero": 50,
+  "question": "What is the main treatment for acute lymphoblastic leukemia (ALL)?",
+  "options": ["Antibiotics", "Intensive chemotherapy", "Iron supplementation", "Anticoagulants"],
+  "answer": "Intensive chemotherapy"
+}
 ]
