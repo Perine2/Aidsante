@@ -1,548 +1,550 @@
 [
-  {
-        "id": 1,
-        "question": "Quelle est la cause la plus fréquente d'otite externe ?",
-        "options": [
-            "Virus",
-            "Bactéries (Pseudomonas aeruginosa)",
-            "Champignons",
-            "Corps étranger"
-        ],
-        "answer": "Bactéries (Pseudomonas aeruginosa)"
-    },
-    {
-        "id": 2,
-        "question": "Quel nerf est principalement responsable de l’audition ?",
-        "options": [
-            "Vague (X)",
-            "Facial (VII)",
-            "Vestibulocochléaire (VIII)",
-            "Trijumeau (V)"
-        ],
-        "answer": "Vestibulocochléaire (VIII)"
-    },
-    {
-        "id": 3,
-        "question": "Quelle structure sépare l’oreille externe de l’oreille moyenne ?",
-        "options": [
-            "Os temporal",
-            "Trompe d’Eustache",
-            "Tympan",
-            "Fenêtre ronde"
-        ],
-        "answer": "Tympan"
-    },
-    {
-        "id": 4,
-        "question": "Quelle est la cause la plus fréquente de surdité de transmission chez l’enfant ?",
-        "options": [
-            "Traumatisme crânien",
-            "Otite séreuse chronique",
-            "Otosclérose",
-            "Infection virale"
-        ],
-        "answer": "Otite séreuse chronique"
-    },
-    {
-        "id": 5,
-        "question": "Quel est le traitement initial d’une épistaxis antérieure bénigne ?",
-        "options": [
-            "Ligature artérielle",
-            "Compression digitale et glaçage",
-            "Antibiotiques",
-            "Corticoïdes nasaux"
-        ],
-        "answer": "Compression digitale et glaçage"
-    },
-    {
-        "id": 6,
-        "question": "Une perte brutale de l’audition unilatérale évoque :",
-        "options": [
-            "Otite externe",
-            "Surdité brusque neurosensorielle",
-            "Rhinite allergique",
-            "Adénopathie"
-        ],
-        "answer": "Surdité brusque neurosensorielle"
-    },
-    {
-        "id": 7,
-        "question": "La maladie de Ménière associe :",
-        "options": [
-            "Vertiges, acouphènes, surdité fluctuante",
-            "Acouphènes, paralysie faciale, fièvre",
-            "Otalgie, toux, fièvre",
-            "Rhinorrhée, congestion nasale, éternuements"
-        ],
-        "answer": "Vertiges, acouphènes, surdité fluctuante"
-    },
-    {
-        "id": 8,
-        "question": "Quel examen confirme une perforation tympanique ?",
-        "options": [
-            "Scanner des sinus",
-            "Otoscopie",
-            "Audiométrie",
-            "Tympanométrie"
-        ],
-        "answer": "Otoscopie"
-    },
-    {
-        "id": 9,
-        "question": "Le nerf facial traverse :",
-        "options": [
-            "Le nasopharynx",
-            "L’oreille moyenne",
-            "Les fosses nasales",
-            "Le larynx"
-        ],
-        "answer": "L’oreille moyenne"
-    },
-    {
-        "id": 10,
-        "question": "Quel germe est le plus souvent responsable d’angine bactérienne ?",
-        "options": [
-            "Streptococcus pneumoniae",
-            "Streptococcus pyogenes (GAS)",
-            "Haemophilus influenzae",
-            "Staphylococcus aureus"
-        ],
-        "answer": "Streptococcus pyogenes (GAS)"
-    },{
-        "id": 11,
-        "question": "Quel est le traitement de première intention de la sinusite aiguë ?",
-        "options": [
-            "Corticoïdes injectables",
-            "Lavages + antibiotiques si persistance >10 jours",
-            "Chirurgie des sinus",
-            "Antihistaminiques"
-        ],
-        "answer": "Lavages + antibiotiques si persistance >10 jours"
-    },
-    {
-        "id": 12,
-        "question": "Une dysphonie persistante sans douleur doit faire suspecter :",
-        "options": [
-            "Rhinite allergique",
-            "Amygdalite",
-            "Lésion des cordes vocales (ex. polype ou cancer)",
-            "Otite"
-        ],
-        "answer": "Lésion des cordes vocales (ex. polype ou cancer)"
-    },
-    {
-        "id": 13,
-        "question": "Quel est le rôle de la trompe d’Eustache ?",
-        "options": [
-            "Percevoir les sons",
-            "Lubrifier le tympan",
-            "Équilibrer les pressions entre l’oreille moyenne et l’extérieur",
-            "Transmettre les vibrations"
-        ],
-        "answer": "Équilibrer les pressions entre l’oreille moyenne et l’extérieur"
-    },
-    {
-        "id": 14,
-        "question": "Quelle complication redoutée d’une angine à streptocoque nécessite un traitement antibiotique ?",
-        "options": [
-            "Asthme",
-            "Otite externe",
-            "Rhumatisme articulaire aigu (RAA)",
-            "Bronchite chronique"
-        ],
-        "answer": "Rhumatisme articulaire aigu (RAA)"
-    },
-    {
-        "id": 15,
-        "question": "Un enfant qui ronfle fort avec des pauses respiratoires doit être évalué pour :",
-        "options": [
-            "Bronchite",
-            "Surdité",
-            "Hypertrophie des amygdales et des végétations",
-            "Otite moyenne"
-        ],
-        "answer": "Hypertrophie des amygdales et des végétations"
-    },
-    {
-        "id": 16,
-        "question": "Quelle est la cause la plus fréquente d’acouphènes subjectifs ?",
-        "options": [
-            "Déficit vestibulaire",
-            "Traumatisme du larynx",
-            "Perte auditive liée à l’âge (presbyacousie)",
-            "Polype nasal"
-        ],
-        "answer": "Perte auditive liée à l’âge (presbyacousie)"
-    },
-    {
-        "id": 17,
-        "question": "Quelle technique est utilisée pour évaluer la conduction osseuse ?",
-        "options": [
-            "Scanner",
-            "Diapason (tests de Weber et Rinne)",
-            "Audiométrie tonale",
-            "Endoscopie nasale"
-        ],
-        "answer": "Diapason (tests de Weber et Rinne)"
-    },
-    {
-        "id": 18,
-        "question": "Un abcès péri-amygdalien nécessite :",
-        "options": [
-            "Surveillance simple",
-            "Lavage nasal",
-            "Drainage + antibiothérapie",
-            "Antifongiques"
-        ],
-        "answer": "Drainage + antibiothérapie"
-    },
-    {
-        "id": 19,
-        "question": "Quelle est la principale complication d'une otite moyenne aiguë non traitée ?",
-        "options": [
-            "Laryngite",
-            "Toux sèche",
-            "Mastoïdite",
-            "Rhinite chronique"
-        ],
-        "answer": "Mastoïdite"
-    },
-    {
-        "id": 20,
-        "question": "Quel traitement est utilisé dans la rhinite allergique ?",
-        "options": [
-            "Antibiotiques",
-            "Antihistaminiques + corticoïdes nasaux",
-            "Lavages oculaires",
-            "Chirurgie du septum"
-        ],
-        "answer": "Antihistaminiques + corticoïdes nasaux"
-    },{
-        "id": 21,
-        "question": "Quel est le lien entre reflux gastro-œsophagien et ORL ?",
-        "options": [
-            "Aucun",
-            "Il peut causer des laryngites chroniques",
-            "Il protège le pharynx",
-            "Il cause des douleurs auriculaires"
-        ],
-        "answer": "Il peut causer des laryngites chroniques"
-    },
-    {
-        "id": 22,
-        "question": "Une sensation d’oreille bouchée avec audition normale évoque :",
-        "options": [
-            "Otite externe",
-            "Dysfonction tubaire",
-            "Acouphène",
-            "Otospongiose"
-        ],
-        "answer": "Dysfonction tubaire"
-    },
-    {
-        "id": 23,
-        "question": "Quel est le principal symptôme d’un polype nasal ?",
-        "options": [
-            "Douleur intense",
-            "Obstruction nasale chronique",
-            "Vertige",
-            "Dysphonie"
-        ],
-        "answer": "Obstruction nasale chronique"
-    },
-    {
-        "id": 24,
-        "question": "Un saignement du nez postérieur est souvent dû à une lésion de :",
-        "options": [
-            "Plexus de Kiesselbach",
-            "Artère sphénopalatine",
-            "Cornet inférieur",
-            "Trompe d’Eustache"
-        ],
-        "answer": "Artère sphénopalatine"
-    },
-    {
-        "id": 25,
-        "question": "L’otosclérose touche principalement :",
-        "options": [
-            "Le nerf optique",
-            "L’étrier (stapes)",
-            "La trompe d’Eustache",
-            "L’oreille externe"
-        ],
-        "answer": "L’étrier (stapes)"
-    },
-    {
-        "id": 26,
-        "question": "Quel est le traitement chirurgical de l’otosclérose ?",
-        "options": [
-            "Tympanoplastie",
-            "Stapedectomie",
-            "Mastoïdectomie",
-            "Myringotomie"
-        ],
-        "answer": "Stapedectomie"
-    },
-    {
-        "id": 27,
-        "question": "Une adénoïdectomie est indiquée en cas de :",
-        "options": [
-            "Végétations chroniquement infectées et obstructives",
-            "Sinusite aiguë",
-            "Otite externe",
-            "Trachéite"
-        ],
-        "answer": "Végétations chroniquement infectées et obstructives"
-    },
-    {
-        "id": 28,
-        "question": "Quelle est la fréquence normale de l’audition humaine ?",
-        "options": [
-            "100–10 000 Hz",
-            "20–20 000 Hz",
-            "200–200 000 Hz",
-            "2–20 Hz"
-        ],
-        "answer": "20–20 000 Hz"
-    },
-    {
-        "id": 29,
-        "question": "Une perforation tympanique chronique peut entraîner :",
-        "options": [
-            "Vertiges passagers",
-            "Surdité de transmission",
-            "Presbyacousie",
-            "Acouphènes bilatéraux"
-        ],
-        "answer": "Surdité de transmission"
-    },
-    {
-        "id": 30,
-        "question": "La paralysie faciale périphérique aiguë la plus fréquente est :",
-        "options": [
-            "Traumatique",
-            "Idiopathique (paralysie de Bell)",
-            "Tumorale",
-            "Vasculaire"
-        ],
-        "answer": "Idiopathique (paralysie de Bell)"
-    },{
-        "id": 31,
-        "question": "Quel est le traitement de première intention de la paralysie de Bell ?",
-        "options": [
-            "Corticoïdes oraux",
-            "Antibiotiques",
-            "Chirurgie",
-            "Antiviraux seuls"
-        ],
-        "answer": "Corticoïdes oraux"
-    },
-    {
-        "id": 32,
-        "question": "Quelle est la cause fréquente d’un vertige rotatoire aigu sans perte auditive ?",
-        "options": [
-            "Otite",
-            "Vertige paroxystique positionnel bénin (VPPB)",
-            "Presbyacousie",
-            "Otosclérose"
-        ],
-        "answer": "Vertige paroxystique positionnel bénin (VPPB)"
-    },
-    {
-        "id": 33,
-        "question": "Quel test utilise des mouvements oculaires pour diagnostiquer un vertige ?",
-        "options": [
-            "Scanner",
-            "Épreuve de Dix-Hallpike",
-            "Audiométrie",
-            "Fibroscopie"
-        ],
-        "answer": "Épreuve de Dix-Hallpike"
-    },
-    {
-        "id": 34,
-        "question": "Une douleur d’oreille sans signe d’otite peut être d’origine :",
-        "options": [
-            "Dentaire ou pharyngée (otalgie réflexe)",
-            "Pulmonaire",
-            "Hépatique",
-            "Vasculaire"
-        ],
-        "answer": "Dentaire ou pharyngée (otalgie réflexe)"
-    },
-    {
-        "id": 35,
-        "question": "Le signe clinique d’un cholestéatome est :",
-        "options": [
-            "Hypoacousie légère",
-            "Écoulement clair",
-            "Otorrhée fétide chronique avec hypoacousie",
-            "Éternuement"
-        ],
-        "answer": "Otorrhée fétide chronique avec hypoacousie"
-    },
-    {
-        "id": 36,
-        "question": "Quel examen confirme la présence de polypes nasaux ?",
-        "options": [
-            "Scanner thoracique",
-            "Nasofibroscopie ou scanner des sinus",
-            "Radiographie pulmonaire",
-            "Tympanométrie"
-        ],
-        "answer": "Nasofibroscopie ou scanner des sinus"
-    },
-    {
-        "id": 37,
-        "question": "Quel est le traitement d’un polype des cordes vocales ?",
-        "options": [
-            "Corticoïdes",
-            "Chirurgie (microlaryngoscopie)",
-            "Antiviraux",
-            "Radiothérapie"
-        ],
-        "answer": "Chirurgie (microlaryngoscopie)"
-    },
-    {
-        "id": 38,
-        "question": "Quelle structure est atteinte dans la laryngite aiguë ?",
-        "options": [
-            "Amygdales",
-            "Cordes vocales",
-            "Trompe d’Eustache",
-            "Cornet nasal"
-        ],
-        "answer": "Cordes vocales"
-    },
-    {
-        "id": 39,
-        "question": "Quelle est la principale manifestation d’un reflux pharyngolaryngé ?",
-        "options": [
-            "Dysphonie et toux chronique",
-            "Otite",
-            "Rhinite",
-            "Laryngospasme aigu"
-        ],
-        "answer": "Dysphonie et toux chronique"
-    },
-    {
-        "id": 40,
-        "question": "La tympanométrie permet d’évaluer :",
-        "options": [
-            "L’audition subjective",
-            "La compliance du tympan et la fonction tubaire",
-            "La mastoïde",
-            "La transmission nerveuse"
-        ],
-        "answer": "La compliance du tympan et la fonction tubaire"
-    },{
-        "id": 41,
-        "question": "Quelle est la complication grave d’une sinusite frontale non traitée ?",
-        "options": [
-            "Thrombose du sinus caverneux",
-            "Perforation nasale",
-            "Rhinite allergique",
-            "Otite externe"
-        ],
-        "answer": "Thrombose du sinus caverneux"
-    },
-    {
-        "id": 42,
-        "question": "Quelle est la principale tumeur maligne des voies aérodigestives supérieures liée au tabac ?",
-        "options": [
-            "Angiome",
-            "Carcinome épidermoïde",
-            "Adénome",
-            "Lymphome"
-        ],
-        "answer": "Carcinome épidermoïde"
-    },
-    {
-        "id": 43,
-        "question": "Quelle est l’indication urgente d’une trachéotomie ?",
-        "options": [
-            "Rhinorrhée allergique",
-            "Obstruction des voies aériennes supérieures",
-            "Otite moyenne",
-            "Dysphonie"
-        ],
-        "answer": "Obstruction des voies aériennes supérieures"
-    },
-    {
-        "id": 44,
-        "question": "Quel est l'examen de référence pour une atteinte des cordes vocales ?",
-        "options": [
-            "Audiogramme",
-            "Laryngoscopie",
-            "IRM cérébrale",
-            "TDM thoracique"
-        ],
-        "answer": "Laryngoscopie"
-    },
-    {
-        "id": 45,
-        "question": "Une hyposmie chronique est souvent causée par :",
-        "options": [
-            "Allergies cutanées",
-            "Polypose nasosinusienne",
-            "Otite moyenne",
-            "Amygdalite"
-        ],
-        "answer": "Polypose nasosinusienne"
-    },
-    {
-        "id": 46,
-        "question": "Le syndrome de Plummer-Vinson associe :",
-        "options": [
-            "Vertige, acouphènes, hypoacousie",
-            "Dysphagie, glossite, anémie ferriprive",
-            "Rhinite, pharyngite, dyspnée",
-            "Paralysie faciale, toux, œdème"
-        ],
-        "answer": "Dysphagie, glossite, anémie ferriprive"
-    },
-    {
-        "id": 47,
-        "question": "Quel est le traitement d’une épiglottite aiguë ?",
-        "options": [
-            "Lavages salins",
-            "Hospitalisation + antibiothérapie IV + surveillance respiratoire",
-            "Chirurgie immédiate",
-            "Antifongiques"
-        ],
-        "answer": "Hospitalisation + antibiothérapie IV + surveillance respiratoire"
-    },
-    {
-        "id": 48,
-        "question": "La dyspnée inspiratoire avec stridor chez un enfant évoque :",
-        "options": [
-            "Laryngite aiguë sous-glottique",
-            "Bronchite",
-            "Asthme",
-            "Rhinite allergique"
-        ],
-        "answer": "Laryngite aiguë sous-glottique"
-    },
-    {
-        "id": 49,
-        "question": "Quel est le test de choix en cas de vertige chronique ?",
-        "options": [
-            "Tympanogramme",
-            "Vidéo-nystagmographie (VNG)",
-            "IRM du thorax",
-            "Fibroscopie digestive"
-        ],
-        "answer": "Vidéo-nystagmographie (VNG)"
-    },
-    {
-        "id": 50,
-        "question": "Une tumeur du nasopharynx peut se révéler par :",
-        "options": [
-            "Douleur abdominale",
-            "Dyspnée expiratoire",
-            "Obstruction nasale, épistaxis, adénopathies cervicales",
-            "Hypoacousie bilatérale uniquement"
-        ],
-        "answer": "Obstruction nasale, épistaxis, adénopathies cervicales"
-    }
+ {
+  "id": 1,
+  "question": "What is the most common cause of external otitis?",
+  "options": [
+    "Virus",
+    "Bacteria (Pseudomonas aeruginosa)",
+    "Fungi",
+    "Foreign body"
+  ],
+  "answer": "Bacteria (Pseudomonas aeruginosa)"
+},
+{
+  "id": 2,
+  "question": "Which nerve is mainly responsible for hearing?",
+  "options": [
+    "Vagus (X)",
+    "Facial (VII)",
+    "Vestibulocochlear (VIII)",
+    "Trigeminal (V)"
+  ],
+  "answer": "Vestibulocochlear (VIII)"
+},
+{
+  "id": 3,
+  "question": "Which structure separates the external ear from the middle ear?",
+  "options": [
+    "Temporal bone",
+    "Eustachian tube",
+    "Tympanic membrane",
+    "Round window"
+  ],
+  "answer": "Tympanic membrane"
+},
+{
+  "id": 4,
+  "question": "What is the most common cause of conductive hearing loss in children?",
+  "options": [
+    "Head trauma",
+    "Chronic serous otitis media",
+    "Otosclerosis",
+    "Viral infection"
+  ],
+  "answer": "Chronic serous otitis media"
+},
+{
+  "id": 5,
+  "question": "What is the initial treatment of a benign anterior nosebleed?",
+  "options": [
+    "Arterial ligation",
+    "Digital compression and icing",
+    "Antibiotics",
+    "Nasal corticosteroids"
+  ],
+  "answer": "Digital compression and icing"
+},
+{
+  "id": 6,
+  "question": "A sudden unilateral hearing loss suggests:",
+  "options": [
+    "External otitis",
+    "Sudden sensorineural hearing loss",
+    "Allergic rhinitis",
+    "Lymphadenopathy"
+  ],
+  "answer": "Sudden sensorineural hearing loss"
+},
+{
+  "id": 7,
+  "question": "Meniere's disease is characterized by:",
+  "options": [
+    "Vertigo, tinnitus, fluctuating hearing loss",
+    "Tinnitus, facial paralysis, fever",
+    "Ear pain, cough, fever",
+    "Runny nose, nasal congestion, sneezing"
+  ],
+  "answer": "Vertigo, tinnitus, fluctuating hearing loss"
+},
+{
+  "id": 8,
+  "question": "Which exam confirms a tympanic membrane perforation?",
+  "options": [
+    "Sinus CT scan",
+    "Otoscopy",
+    "Audiometry",
+    "Tympanometry"
+  ],
+  "answer": "Otoscopy"
+},
+{
+  "id": 9,
+  "question": "The facial nerve passes through:",
+  "options": [
+    "Nasopharynx",
+    "Middle ear",
+    "Nasal cavities",
+    "Larynx"
+  ],
+  "answer": "Middle ear"
+},
+{
+  "id": 10,
+  "question": "Which germ is most often responsible for bacterial tonsillitis?",
+  "options": [
+    "Streptococcus pneumoniae",
+    "Streptococcus pyogenes (GAS)",
+    "Haemophilus influenzae",
+    "Staphylococcus aureus"
+  ],
+  "answer": "Streptococcus pyogenes (GAS)"
+},
+{
+  "id": 11,
+  "question": "What is the first-line treatment for acute sinusitis?",
+  "options": [
+    "Injectable corticosteroids",
+    "Nasal irrigations + antibiotics if symptoms persist >10 days",
+    "Sinus surgery",
+    "Antihistamines"
+  ],
+  "answer": "Nasal irrigations + antibiotics if symptoms persist >10 days"
+},
+{
+  "id": 12,
+  "question": "Persistent dysphonia without pain should raise suspicion of:",
+  "options": [
+    "Allergic rhinitis",
+    "Tonsillitis",
+    "Vocal cord lesion (e.g., polyp or cancer)",
+    "Otitis"
+  ],
+  "answer": "Vocal cord lesion (e.g., polyp or cancer)"
+},
+{
+  "id": 13,
+  "question": "What is the role of the Eustachian tube?",
+  "options": [
+    "Perceive sounds",
+    "Lubricate the tympanic membrane",
+    "Equalize pressure between the middle ear and the outside",
+    "Transmit vibrations"
+  ],
+  "answer": "Equalize pressure between the middle ear and the outside"
+},
+{
+  "id": 14,
+  "question": "Which feared complication of streptococcal tonsillitis requires antibiotic treatment?",
+  "options": [
+    "Asthma",
+    "External otitis",
+    "Acute rheumatic fever (ARF)",
+    "Chronic bronchitis"
+  ],
+  "answer": "Acute rheumatic fever (ARF)"
+},
+{
+  "id": 15,
+  "question": "A child who snores loudly with breathing pauses should be evaluated for:",
+  "options": [
+    "Bronchitis",
+    "Deafness",
+    "Enlargement of tonsils and adenoids",
+    "Middle ear infection"
+  ],
+  "answer": "Enlargement of tonsils and adenoids"
+},
+{
+  "id": 16,
+  "question": "What is the most frequent cause of subjective tinnitus?",
+  "options": [
+    "Vestibular deficit",
+    "Laryngeal trauma",
+    "Age-related hearing loss (presbycusis)",
+    "Nasal polyp"
+  ],
+  "answer": "Age-related hearing loss (presbycusis)"
+},
+{
+  "id": 17,
+  "question": "Which technique is used to assess bone conduction?",
+  "options": [
+    "CT scan",
+    "Tuning fork (Weber and Rinne tests)",
+    "Pure tone audiometry",
+    "Nasal endoscopy"
+  ],
+  "answer": "Tuning fork (Weber and Rinne tests)"
+},
+{
+  "id": 18,
+  "question": "A peritonsillar abscess requires:",
+  "options": [
+    "Simple observation",
+    "Nasal lavage",
+    "Drainage + antibiotic therapy",
+    "Antifungals"
+  ],
+  "answer": "Drainage + antibiotic therapy"
+},
+{
+  "id": 19,
+  "question": "What is the main complication of untreated acute otitis media?",
+  "options": [
+    "Laryngitis",
+    "Dry cough",
+    "Mastoiditis",
+    "Chronic rhinitis"
+  ],
+  "answer": "Mastoiditis"
+},
+{
+  "id": 20,
+  "question": "Which treatment is used for allergic rhinitis?",
+  "options": [
+    "Antibiotics",
+    "Antihistamines + nasal corticosteroids",
+    "Eye washes",
+    "Septal surgery"
+  ],
+  "answer": "Antihistamines + nasal corticosteroids"
+},{
+  "id": 21,
+  "question": "What is the connection between gastroesophageal reflux and ENT?",
+  "options": [
+    "None",
+    "It can cause chronic laryngitis",
+    "It protects the pharynx",
+    "It causes ear pain"
+  ],
+  "answer": "It can cause chronic laryngitis"
+},
+{
+  "id": 22,
+  "question": "A sensation of a blocked ear with normal hearing suggests:",
+  "options": [
+    "Otitis externa",
+    "Eustachian tube dysfunction",
+    "Tinnitus",
+    "Otosclerosis"
+  ],
+  "answer": "Eustachian tube dysfunction"
+},
+{
+  "id": 23,
+  "question": "What is the main symptom of a nasal polyp?",
+  "options": [
+    "Severe pain",
+    "Chronic nasal obstruction",
+    "Vertigo",
+    "Dysphonia"
+  ],
+  "answer": "Chronic nasal obstruction"
+},
+{
+  "id": 24,
+  "question": "A posterior nosebleed is often due to injury of the:",
+  "options": [
+    "Kiesselbach’s plexus",
+    "Sphenopalatine artery",
+    "Inferior turbinate",
+    "Eustachian tube"
+  ],
+  "answer": "Sphenopalatine artery"
+},
+{
+  "id": 25,
+  "question": "Otosclerosis primarily affects the:",
+  "options": [
+    "Optic nerve",
+    "Stapes",
+    "Eustachian tube",
+    "Outer ear"
+  ],
+  "answer": "Stapes"
+},
+{
+  "id": 26,
+  "question": "What is the surgical treatment for otosclerosis?",
+  "options": [
+    "Tympanoplasty",
+    "Stapedectomy",
+    "Mastoidectomy",
+    "Myringotomy"
+  ],
+  "answer": "Stapedectomy"
+},
+{
+  "id": 27,
+  "question": "An adenoidectomy is indicated in cases of:",
+  "options": [
+    "Chronically infected and obstructive adenoids",
+    "Acute sinusitis",
+    "Otitis externa",
+    "Tracheitis"
+  ],
+  "answer": "Chronically infected and obstructive adenoids"
+},
+{
+  "id": 28,
+  "question": "What is the normal frequency range of human hearing?",
+  "options": [
+    "100–10,000 Hz",
+    "20–20,000 Hz",
+    "200–200,000 Hz",
+    "2–20 Hz"
+  ],
+  "answer": "20–20,000 Hz"
+},
+{
+  "id": 29,
+  "question": "A chronic tympanic membrane perforation can lead to:",
+  "options": [
+    "Temporary vertigo",
+    "Conductive hearing loss",
+    "Presbycusis",
+    "Bilateral tinnitus"
+  ],
+  "answer": "Conductive hearing loss"
+},
+{
+  "id": 30,
+  "question": "The most common cause of acute peripheral facial paralysis is:",
+  "options": [
+    "Traumatic",
+    "Idiopathic (Bell’s palsy)",
+    "Tumoral",
+    "Vascular"
+  ],
+  "answer": "Idiopathic (Bell’s palsy)"
+},{
+  "id": 31,
+  "question": "What is the first-line treatment for Bell's palsy?",
+  "options": [
+    "Oral corticosteroids",
+    "Antibiotics",
+    "Surgery",
+    "Antivirals alone"
+  ],
+  "answer": "Oral corticosteroids"
+},
+{
+  "id": 32,
+  "question": "What is a common cause of acute rotational vertigo without hearing loss?",
+  "options": [
+    "Otitis",
+    "Benign paroxysmal positional vertigo (BPPV)",
+    "Presbycusis",
+    "Otosclerosis"
+  ],
+  "answer": "Benign paroxysmal positional vertigo (BPPV)"
+},
+{
+  "id": 33,
+  "question": "Which test uses eye movements to diagnose vertigo?",
+  "options": [
+    "CT scan",
+    "Dix-Hallpike maneuver",
+    "Audiometry",
+    "Fibroscopy"
+  ],
+  "answer": "Dix-Hallpike maneuver"
+},
+{
+  "id": 34,
+  "question": "Ear pain without signs of otitis can originate from:",
+  "options": [
+    "Dental or pharyngeal (referred otalgia)",
+    "Pulmonary",
+    "Hepatic",
+    "Vascular"
+  ],
+  "answer": "Dental or pharyngeal (referred otalgia)"
+},
+{
+  "id": 35,
+  "question": "The clinical sign of a cholesteatoma is:",
+  "options": [
+    "Mild hearing loss",
+    "Clear discharge",
+    "Chronic foul-smelling otorrhea with hearing loss",
+    "Sneezing"
+  ],
+  "answer": "Chronic foul-smelling otorrhea with hearing loss"
+},
+{
+  "id": 36,
+  "question": "Which exam confirms the presence of nasal polyps?",
+  "options": [
+    "Chest CT scan",
+    "Nasofibroscopy or sinus CT scan",
+    "Chest X-ray",
+    "Tympanometry"
+  ],
+  "answer": "Nasofibroscopy or sinus CT scan"
+},
+{
+  "id": 37,
+  "question": "What is the treatment for a vocal cord polyp?",
+  "options": [
+    "Corticosteroids",
+    "Surgery (microlaryngoscopy)",
+    "Antivirals",
+    "Radiotherapy"
+  ],
+  "answer": "Surgery (microlaryngoscopy)"
+},
+{
+  "id": 38,
+  "question": "Which structure is affected in acute laryngitis?",
+  "options": [
+    "Tonsils",
+    "Vocal cords",
+    "Eustachian tube",
+    "Nasal concha"
+  ],
+  "answer": "Vocal cords"
+},
+{
+  "id": 39,
+  "question": "What is the main manifestation of pharyngolaryngeal reflux?",
+  "options": [
+    "Dysphonia and chronic cough",
+    "Otitis",
+    "Rhinitis",
+    "Acute laryngospasm"
+  ],
+  "answer": "Dysphonia and chronic cough"
+},
+{
+  "id": 40,
+  "question": "Tympanometry evaluates:",
+  "options": [
+    "Subjective hearing",
+    "Tympanic membrane compliance and Eustachian tube function",
+    "Mastoid",
+    "Nerve transmission"
+  ],
+  "answer": "Tympanic membrane compliance and Eustachian tube function"
+},
+{
+  "id": 41,
+  "question": "What is the serious complication of untreated frontal sinusitis?",
+  "options": [
+    "Cavernous sinus thrombosis",
+    "Nasal perforation",
+    "Allergic rhinitis",
+    "External otitis"
+  ],
+  "answer": "Cavernous sinus thrombosis"
+},
+{
+  "id": 42,
+  "question": "What is the main malignant tumor of the upper aerodigestive tract linked to tobacco?",
+  "options": [
+    "Angioma",
+    "Squamous cell carcinoma",
+    "Adenoma",
+    "Lymphoma"
+  ],
+  "answer": "Squamous cell carcinoma"
+},
+{
+  "id": 43,
+  "question": "What is the urgent indication for a tracheotomy?",
+  "options": [
+    "Allergic rhinorrhea",
+    "Upper airway obstruction",
+    "Otitis media",
+    "Dysphonia"
+  ],
+  "answer": "Upper airway obstruction"
+},
+{
+  "id": 44,
+  "question": "What is the reference exam for vocal cord lesions?",
+  "options": [
+    "Audiogram",
+    "Laryngoscopy",
+    "Brain MRI",
+    "Chest CT scan"
+  ],
+  "answer": "Laryngoscopy"
+},
+{
+  "id": 45,
+  "question": "Chronic hyposmia is often caused by:",
+  "options": [
+    "Skin allergies",
+    "Nasal sinus polyposis",
+    "Otitis media",
+    "Tonsillitis"
+  ],
+  "answer": "Nasal sinus polyposis"
+},
+{
+  "id": 46,
+  "question": "Plummer-Vinson syndrome includes:",
+  "options": [
+    "Vertigo, tinnitus, hearing loss",
+    "Dysphagia, glossitis, iron-deficiency anemia",
+    "Rhinitis, pharyngitis, dyspnea",
+    "Facial paralysis, cough, edema"
+  ],
+  "answer": "Dysphagia, glossitis, iron-deficiency anemia"
+},
+{
+  "id": 47,
+  "question": "What is the treatment for acute epiglottitis?",
+  "options": [
+    "Saline rinses",
+    "Hospitalization + IV antibiotics + respiratory monitoring",
+    "Immediate surgery",
+    "Antifungals"
+  ],
+  "answer": "Hospitalization + IV antibiotics + respiratory monitoring"
+},
+{
+  "id": 48,
+  "question": "Inspiratory dyspnea with stridor in a child suggests:",
+  "options": [
+    "Acute subglottic laryngitis",
+    "Bronchitis",
+    "Asthma",
+    "Allergic rhinitis"
+  ],
+  "answer": "Acute subglottic laryngitis"
+},
+{
+  "id": 49,
+  "question": "What is the test of choice for chronic vertigo?",
+  "options": [
+    "Tympanogram",
+    "Video nystagmography (VNG)",
+    "Chest MRI",
+    "Digestive fibroscopy"
+  ],
+  "answer": "Video nystagmography (VNG)"
+},
+{
+  "id": 50,
+  "question": "A nasopharyngeal tumor may present with:",
+  "options": [
+    "Abdominal pain",
+    "Expiratory dyspnea",
+    "Nasal obstruction, epistaxis, cervical lymphadenopathy",
+    "Bilateral hearing loss only"
+  ],
+  "answer": "Nasal obstruction, epistaxis, cervical lymphadenopathy"
+}
 ]
