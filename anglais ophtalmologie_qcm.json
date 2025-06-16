@@ -1,489 +1,500 @@
 [
   {
-  "numero": 1,
-    "question": "Quelle structure de l'œil est responsable de la mise au point des images sur la rétine ?",
-    "options": [
-      "Rétine",
-      "Cornée",
-      "Cristallin",
-      "Iris"
-    ],
-    "answer": "Cristallin"
-  },{
-  "numero": 2,
-    "question": "Quelle maladie est la cause la plus fréquente de cécité irréversible dans le monde ?",
-    "options": [
-      "Cataracte",
-      "Dégénérescence maculaire liée à l’âge (DMLA)",
-      "Glaucome",
-      "Kératite"
-    ],
-    "answer": "Glaucome"
-  },
-  "answer": 3,
-    "question": "Quel est le principal symptôme de la cataracte ?",
-    "options": [
-      "Douleur oculaire",
-      "Perte périphérique de vision",
-      "Vision floue progressive",
-      "Sécheresse oculaire"
-    ],
-    "answer": "Vision floue progressive"
-  },{
-  "numero": 4,
-    "question": "Quel test mesure la pression intraoculaire ?",
-    "options": [
-      "Ophtalmoscopie",
-      "OCT",
-      "Tonometry",
-      "Réfractométrie"
-    ],
-    "answer": "Tonometry"
-  },{
-  "numero": 5,
-    "question": "Quelle affection provoque des corps flottants et des éclairs lumineux soudains ?",
-    "options": [
-      "Conjonctivite",
-      "Cataracte",
-      "Décollement de rétine",
-      "Glaucome"
-    ],
-    "answer": "Décollement de rétine"
-  },{
- "numero": 6,
-    "question": "Quel est le traitement principal d’un glaucome à angle ouvert ?",
-    "options": [
-      "Corticoïdes",
-      "Antibiotiques",
-      "Collyres hypotenseurs (ex. bêta-bloquants)",
-      "Greffe de cornée"
-    ],
-    "answer": "Collyres hypotenseurs (ex. bêta-bloquants)"
-  },{
-  "numero": 7,
-    "question": "Quelle anomalie réfractive est causée par un globe oculaire trop long ?",
-    "options": [
-      "Hypermétropie",
-      "Myopie",
-      "Astigmatisme",
-      "Presbytie"
-    ],
-    "answer": "Myopie"
-  },{
-  "numero": 8,
-    "question": "Quelle est la fonction de la rétine ?",
-    "options": [
-      "Contrôler la quantité de lumière",
-      "Protéger l’œil",
-      "Convertir la lumière en impulsions nerveuses",
-      "Maintenir la forme de l’œil"
-    ],
-    "answer": "Convertir la lumière en impulsions nerveuses"
-  },{
-  "numero": 9,
-    "question": "Quel test est utilisé pour diagnostiquer la DMLA ?",
-    "options": [
-      "Test de Schirmer",
-      "Tomographie par cohérence optique (OCT)",
-      "Pachymétrie",
-      "Tonographie"
-    ],
-    "answer": "Tomographie par cohérence optique (OCT)"
-  },{
-  "numero": 10,
-    "question": "Quelle est la principale cause infectieuse de cécité dans les pays en développement ?",
-    "options": [
-      "Trachome",
-      "Uvéite",
-      "Herpès oculaire",
-      "Blépharite"
-    ],
-    "answer": "Trachome"
-  },{
-    "numero": 11,
-    "question": "Quel médicament est contre-indiqué dans le glaucome aigu par fermeture de l’angle ?",
-    "options": ["Acétazolamide", "Bêta-bloquant", "Atropine", "Pilocarpine"],
-    "reponse": "Atropine"
-  },
-  {
-    "numero": 12,
-    "question": "Quel trouble est lié à l’âge et entraîne une perte de la vision centrale ?",
-    "options": ["Rétinopathie diabétique", "Glaucome", "Dégénérescence maculaire liée à l’âge (DMLA)", "Hypermétropie"],
-    "reponse": "Dégénérescence maculaire liée à l’âge (DMLA)"
-  },
-  {
-    "numero": 13,
-    "question": "Quelle est la fonction de l’iris ?",
-    "options": ["Produire l’humeur aqueuse", "Réguler la quantité de lumière qui entre dans l’œil", "Contrôler l’accommodation", "Stabiliser la rétine"],
-    "reponse": "Réguler la quantité de lumière qui entre dans l’œil"
-  },
-  {
-    "numero": 14,
-    "question": "Quel test permet de mesurer l’acuité visuelle ?",
-    "options": ["Tonographie", "OCT", "Échelle de Snellen", "Test de Schirmer"],
-    "reponse": "Échelle de Snellen"
-  },
-  {
-    "numero": 15,
-    "question": "Quel est le traitement chirurgical de la cataracte ?",
-    "options": ["Trabéculectomie", "Phacoémulsification", "Vitrectomie", "Laser YAG"],
-    "reponse": "Phacoémulsification"
-  },
-  {
-    "numero": 16,
-    "question": "Quelle est une cause fréquente de conjonctivite bactérienne ?",
-    "options": ["Virus herpes simplex", "Pseudomonas", "Staphylococcus aureus", "Candida"],
-    "reponse": "Staphylococcus aureus"
-  },
-  {
-    "numero": 17,
-    "question": "Qu'est-ce que le kératocône ?",
-    "options": ["Inflammation du nerf optique", "Déformation progressive de la cornée", "Décollement de la macula", "Occlusion veineuse rétinienne"],
-    "reponse": "Déformation progressive de la cornée"
-  },
-  {
-    "numero": 18,
-    "question": "Quelle vitamine est essentielle pour la vision nocturne ?",
-    "options": ["Vitamine C", "Vitamine K", "Vitamine A", "Vitamine D"],
-    "reponse": "Vitamine A"
-  },
-  {
-    "numero": 19,
-    "question": "Quelle structure oculaire est affectée dans l’uvéite ?",
-    "options": ["Cornée", "Tunique vasculaire (uvée)", "Rétine externe", "Cristallin"],
-    "reponse": "Tunique vasculaire (uvée)"
-  },
-  {
-    "numero": 20,
-    "question": "Quel examen est utilisé pour visualiser le fond d’œil ?",
-    "options": ["Tonométrie", "Ophtalmoscopie", "Réfractométrie", "Biomicroscopie"],
-    "reponse": "Ophtalmoscopie"
-  },{
-    "numero": 21,
-    "question": "La presbytie est due à :",
-    "options": [
-      "Une augmentation de la longueur de l’œil",
-      "Une perte d’élasticité du cristallin liée à l’âge",
-      "Une pression intraoculaire élevée",
-      "Une inflammation de la cornée"
-    ],
-    "reponse": "Une perte d’élasticité du cristallin liée à l’âge"
-  },
-  {
-    "numero": 22,
-    "question": "Quel est le principal symptôme de la rétinopathie diabétique ?",
-    "options": [
-      "Photophobie",
-      "Baisse progressive de l’acuité visuelle",
-      "Hyperlacrimation",
-      "Diplopie"
-    ],
-    "reponse": "Baisse progressive de l’acuité visuelle"
-  },
-  {
-    "numero": 23,
-    "question": "Quelle complication est fréquente après chirurgie de la cataracte ?",
-    "options": [
-      "Kératite",
-      "Opacification secondaire de la capsule postérieure",
-      "Rétinopathie hypertensive",
-      "Presbytie"
-    ],
-    "reponse": "Opacification secondaire de la capsule postérieure"
-  },
-  {
-    "numero": 24,
-    "question": "Quel test mesure la sécrétion lacrymale ?",
-    "options": [
-      "OCT",
-      "Test de Schirmer",
-      "Tonographie",
-      "Snellen"
-    ],
-    "reponse": "Test de Schirmer"
-  },
-  {
-    "numero": 25,
-    "question": "Quelle est la cause la plus fréquente de kératite virale ?",
-    "options": [
-      "VIH",
-      "Herpès simplex",
-      "VZV",
-      "CMV"
-    ],
-    "reponse": "Herpès simplex"
-  },
-  {
-    "numero": 26,
-    "question": "Quelle pathologie est souvent associée à une douleur oculaire intense et baisse brutale de vision ?",
-    "options": [
-      "Conjonctivite",
-      "Glaucome aigu par fermeture de l’angle",
-      "Myopie",
-      "Presbytie"
-    ],
-    "reponse": "Glaucome aigu par fermeture de l’angle"
-  },
-  {
-    "numero": 27,
-    "question": "Quelle est une conséquence de la myopie forte non corrigée ?",
-    "options": [
-      "Détachement de rétine",
-      "Presbytie précoce",
-      "Hypertonie oculaire",
-      "Cataracte brune"
-    ],
-    "reponse": "Détachement de rétine"
-  },
-  {
-    "numero": 28,
-    "question": "La diplopie est définie comme :",
-    "options": [
-      "Cécité nocturne",
-      "Vision double",
-      "Photophobie",
-      "Hyperacuité"
-    ],
-    "reponse": "Vision double"
-  },
-  {
-    "numero": 29,
-    "question": "Quel est l’objectif principal de la chirurgie du glaucome ?",
-    "options": [
-      "Réduire la pression de la rétine",
-      "Réduire la pression intraoculaire",
-      "Réparer la cornée",
-      "Dilater l’iris"
-    ],
-    "reponse": "Réduire la pression intraoculaire"
-  },
-  {
-    "numero": 30,
-    "question": "Quel médicament est un collyre antiglaucomateux fréquemment utilisé ?",
-    "options": [
-      "Atropine",
-      "Timolol",
-      "Cyclopentolate",
-      "Lidocaïne"
-    ],
-    "reponse": "Timolol"
-  },{
-        "numero": 31,
-        "question": "Quelle anomalie cause un flou visuel corrigé par des lunettes cylindriques ?",
-        "options": [
-            "Hypermétropie",
-            "Presbytie",
-            "Astigmatisme",
-            "Cataracte"
-        ],
-        "answer": "Astigmatisme"
-    },
-    {
-        "numero": 32,
-        "question": "Quelle affection est associée à un œdème papillaire bilatéral ?",
-        "options": [
-            "Presbytie",
-            "Hypertension intracrânienne",
-            "Cataracte",
-            "DMLA"
-        ],
-        "answer": "Hypertension intracrânienne"
-    },
-    {
-        "numero": 33,
-        "question": "Quel test évalue la perception des couleurs ?",
-        "options": [
-            "OCT",
-            "Test de Snellen",
-            "Test d’Ishihara",
-            "Test de Schirmer"
-        ],
-        "answer": "Test d’Ishihara"
-    },
-    {
-        "numero": 34,
-        "question": "Quel est le traitement de la DMLA exsudative ?",
-        "options": [
-            "Corticoïdes",
-            "Collyres antioxydants",
-            "Injections intravitréennes d’anti-VEGF",
-            "Vitrectomie"
-        ],
-        "answer": "Injections intravitréennes d’anti-VEGF"
-    },
-    {
-        "numero": 35,
-        "question": "Quel symptôme est typique d’une atteinte du nerf optique ?",
-        "options": [
-            "Myosis",
-            "Diplopie",
-            "Baisse brutale de vision centrale",
-            "Corps flottants"
-        ],
-        "answer": "Baisse brutale de vision centrale"
-    },
-    {
-        "numero": 36,
-        "question": "Quelle est la cause la plus fréquente de cécité chez les diabétiques ?",
-        "options": [
-            "Rétinopathie diabétique",
-            "Glaucome",
-            "Cataracte",
-            "Hypermétropie"
-        ],
-        "answer": "Rétinopathie diabétique"
-    },
-    {
-        "numero": 37,
-        "question": "Quelle pathologie est décrite comme une \"vision en tunnel\" ?",
-        "options": [
-            "Presbytie",
-            "Glaucome avancé",
-            "Astigmatisme",
-            "DMLA"
-        ],
-        "answer": "Glaucome avancé"
-    },
-    {
-        "numero": 38,
-        "question": "Quel est le traitement d’une conjonctivite allergique ?",
-        "options": [
-            "Antibiotiques",
-            "Antihistaminiques topiques",
-            "Antiviraux",
-            "Corticoïdes systémiques"
-        ],
-        "answer": "Antihistaminiques topiques"
-    },
-    {
-        "numero": 39,
-        "question": "Quel trouble est typique chez les enfants et nécessite un traitement rapide ?",
-        "options": [
-            "Presbytie",
-            "Strabisme",
-            "Cataracte sénile",
-            "Myopie de l’adulte"
-        ],
-        "answer": "Strabisme"
-    },
-    {
-        "numero": 40,
-        "question": "Quelle pathologie est associée à une vision altérée en basse lumière ?",
-        "options": [
-            "Astigmatisme",
-            "Dystrophie rétinienne",
-            "Diplopie",
-            "Blépharite"
-        ],
-        "answer": "Dystrophie rétinienne"
-    }, {
-        "numero": 41,
-        "question": "Quel est l’effet indésirable le plus fréquent des collyres à base de prostaglandines ?",
-        "options": [
-            "Sécheresse",
-            "Hyperpigmentation de l’iris",
-            "Mydriase",
-            "Vision double"
-        ],
-        "answer": "Hyperpigmentation de l’iris"
-    },
-    {
-        "id": 42,
-        "question": "Quelle est la technique chirurgicale utilisée en cas de décollement de rétine ?",
-        "options": [
-            "Trabéculectomie",
-            "Vitrectomie",
-            "LASIK",
-            "Greffe de cornée"
-        ],
-        "answer": "Vitrectomie"
-    },
-    {
-        "numero": 43,
-        "question": "Quel est le rôle de la choroïde ?",
-        "options": [
-            "Fournir les larmes",
-            "Vasculariser la rétine externe",
-            "Réguler la pression",
-            "Soutenir le cristallin"
-        ],
-        "answer": "Vasculariser la rétine externe"
-    },
-    {
-        "numero": 44,
-        "question": "Quel est le signe ophtalmologique d’une hypertension artérielle sévère ?",
-        "options": [
-            "Diplopie",
-            "Rétinopathie hypertensive",
-            "Myopie brutale",
-            "Blépharite"
-        ],
-        "answer": "Rétinopathie hypertensive"
-    },
-    {
-        "numero": 45,
-        "question": "Quel type de laser est utilisé pour traiter la DMLA humide ?",
-        "options": [
-            "Argon",
-            "Photocoagulation thermique ou anti-VEGF intravitréen",
-            "Femtoseconde",
-            "YAG"
-        ],
-        "answer": "Photocoagulation thermique ou anti-VEGF intravitréen"
-    },
-    {
-        "numero": 46,
-        "question": "Quelle est la cause la plus fréquente d’uvéite antérieure ?",
-        "options": [
-            "Diabète",
-            "VIH",
-            "Maladie auto-immune (ex. HLA-B27)",
-            "Hypertension artérielle"
-        ],
-        "answer": "Maladie auto-immune (ex. HLA-B27)"
-    },
-    {
-        "numero": 47,
-        "question": "Quel est le traitement initial d’une dacryocystite aiguë ?",
-        "options": [
-            "Laser",
-            "Antibiothérapie",
-            "Greffe",
-            "Chirurgie immédiate"
-        ],
-        "answer": "Antibiothérapie"
-    },
-    {
-        "numero": 48,
-        "question": "Qu’est-ce que l’anisométropie ?",
-        "options": [
-            "Trouble de la vision nocturne",
-            "Différence significative de réfraction entre les deux yeux",
-            "Inflammation bilatérale",
-            "Absence de cristallin"
-        ],
-        "answer": "Différence significative de réfraction entre les deux yeux"
-    },
-    {
-        "numero": 49,
-        "question": "Quel est l’examen le plus adapté pour un œdème maculaire ?",
-        "options": [
-            "Biomicroscopie",
-            "OCT",
-            "Snellen",
-            "Schirmer"
-        ],
-        "answer": "OCT"
-    },
-    {
-        "numero": 50,
-        "question": "Quel réflexe est perturbé dans une neuropathie optique ?",
-        "options": [
-            "Accommodatif",
-            "Photomoteur direct",
-            "Cornéen",
-            "Pupillaire consensuel"
-        ],
-        "answer": "Photomoteur direct"
-    }
+  "number": 1,
+  "question": "Which structure of the eye is responsible for focusing images on the retina?",
+  "options": [
+    "Retina",
+    "Cornea",
+    "Lens",
+    "Iris"
+  ],
+  "answer": "Lens"
+},
+{
+  "number": 2,
+  "question": "Which disease is the most common cause of irreversible blindness worldwide?",
+  "options": [
+    "Cataract",
+    "Age-related macular degeneration (AMD)",
+    "Glaucoma",
+    "Keratitis"
+  ],
+  "answer": "Glaucoma"
+},
+{
+  "number": 3,
+  "question": "What is the main symptom of cataract?",
+  "options": [
+    "Eye pain",
+    "Peripheral vision loss",
+    "Progressive blurred vision",
+    "Dry eyes"
+  ],
+  "answer": "Progressive blurred vision"
+},
+{
+  "number": 4,
+  "question": "Which test measures intraocular pressure?",
+  "options": [
+    "Ophthalmoscopy",
+    "OCT",
+    "Tonometry",
+    "Refractometry"
+  ],
+  "answer": "Tonometry"
+},
+{
+  "number": 5,
+  "question": "Which condition causes floaters and sudden flashes of light?",
+  "options": [
+    "Conjunctivitis",
+    "Cataract",
+    "Retinal detachment",
+    "Glaucoma"
+  ],
+  "answer": "Retinal detachment"
+},
+{
+  "number": 6,
+  "question": "What is the main treatment for open-angle glaucoma?",
+  "options": [
+    "Corticosteroids",
+    "Antibiotics",
+    "Hypotensive eye drops (e.g., beta-blockers)",
+    "Corneal transplant"
+  ],
+  "answer": "Hypotensive eye drops (e.g., beta-blockers)"
+},
+{
+  "number": 7,
+  "question": "Which refractive error is caused by an eyeball that is too long?",
+  "options": [
+    "Hyperopia",
+    "Myopia",
+    "Astigmatism",
+    "Presbyopia"
+  ],
+  "answer": "Myopia"
+},
+{
+  "number": 8,
+  "question": "What is the function of the retina?",
+  "options": [
+    "Control the amount of light",
+    "Protect the eye",
+    "Convert light into nerve impulses",
+    "Maintain the shape of the eye"
+  ],
+  "answer": "Convert light into nerve impulses"
+},
+{
+  "number": 9,
+  "question": "Which test is used to diagnose AMD?",
+  "options": [
+    "Schirmer test",
+    "Optical coherence tomography (OCT)",
+    "Pachymetry",
+    "Tonography"
+  ],
+  "answer": "Optical coherence tomography (OCT)"
+},
+{
+  "number": 10,
+  "question": "What is the main infectious cause of blindness in developing countries?",
+  "options": [
+    "Trachoma",
+    "Uveitis",
+    "Ocular herpes",
+    "Blepharitis"
+  ],
+  "answer": "Trachoma"
+},
+{
+  "number": 11,
+  "question": "Which medication is contraindicated in acute angle-closure glaucoma?",
+  "options": ["Acetazolamide", "Beta-blocker", "Atropine", "Pilocarpine"],
+  "answer": "Atropine"
+},
+{
+  "number": 12,
+  "question": "Which age-related disorder causes loss of central vision?",
+  "options": ["Diabetic retinopathy", "Glaucoma", "Age-related macular degeneration (AMD)", "Hyperopia"],
+  "answer": "Age-related macular degeneration (AMD)"
+},
+{
+  "number": 13,
+  "question": "What is the function of the iris?",
+  "options": ["Produce aqueous humor", "Regulate the amount of light entering the eye", "Control accommodation", "Stabilize the retina"],
+  "answer": "Regulate the amount of light entering the eye"
+},
+{
+  "number": 14,
+  "question": "Which test measures visual acuity?",
+  "options": ["Tonography", "OCT", "Snellen chart", "Schirmer test"],
+  "answer": "Snellen chart"
+},
+{
+  "number": 15,
+  "question": "What is the surgical treatment for cataract?",
+  "options": ["Trabeculectomy", "Phacoemulsification", "Vitrectomy", "YAG laser"],
+  "answer": "Phacoemulsification"
+},
+{
+  "number": 16,
+  "question": "What is a common cause of bacterial conjunctivitis?",
+  "options": ["Herpes simplex virus", "Pseudomonas", "Staphylococcus aureus", "Candida"],
+  "answer": "Staphylococcus aureus"
+},
+{
+  "number": 17,
+  "question": "What is keratoconus?",
+  "options": ["Inflammation of the optic nerve", "Progressive deformation of the cornea", "Macular detachment", "Retinal vein occlusion"],
+  "answer": "Progressive deformation of the cornea"
+},
+{
+  "number": 18,
+  "question": "Which vitamin is essential for night vision?",
+  "options": ["Vitamin C", "Vitamin K", "Vitamin A", "Vitamin D"],
+  "answer": "Vitamin A"
+},
+{
+  "number": 19,
+  "question": "Which ocular structure is affected in uveitis?",
+  "options": ["Cornea", "Vascular tunic (uvea)", "Outer retina", "Lens"],
+  "answer": "Vascular tunic (uvea)"
+},
+{
+  "number": 20,
+  "question": "Which exam is used to visualize the fundus of the eye?",
+  "options": ["Tonometry", "Ophthalmoscopy", "Refractometry", "Biomicroscopy"],
+  "answer": "Ophthalmoscopy"
+},{
+  "number": 21,
+  "question": "Presbyopia is caused by:",
+  "options": [
+    "An increase in the length of the eye",
+    "An age-related loss of elasticity of the lens",
+    "High intraocular pressure",
+    "Inflammation of the cornea"
+  ],
+  "answer": "An age-related loss of elasticity of the lens"
+},
+{
+  "number": 22,
+  "question": "What is the main symptom of diabetic retinopathy?",
+  "options": [
+    "Photophobia",
+    "Progressive decrease in visual acuity",
+    "Excessive tearing",
+    "Double vision"
+  ],
+  "answer": "Progressive decrease in visual acuity"
+},
+{
+  "number": 23,
+  "question": "What is a common complication after cataract surgery?",
+  "options": [
+    "Keratitis",
+    "Secondary opacification of the posterior capsule",
+    "Hypertensive retinopathy",
+    "Presbyopia"
+  ],
+  "answer": "Secondary opacification of the posterior capsule"
+},
+{
+  "number": 24,
+  "question": "Which test measures tear secretion?",
+  "options": [
+    "OCT",
+    "Schirmer’s test",
+    "Tonography",
+    "Snellen"
+  ],
+  "answer": "Schirmer’s test"
+},
+{
+  "number": 25,
+  "question": "What is the most common cause of viral keratitis?",
+  "options": [
+    "HIV",
+    "Herpes simplex",
+    "VZV",
+    "CMV"
+  ],
+  "answer": "Herpes simplex"
+},
+{
+  "number": 26,
+  "question": "Which condition is often associated with severe eye pain and sudden vision loss?",
+  "options": [
+    "Conjunctivitis",
+    "Acute angle-closure glaucoma",
+    "Myopia",
+    "Presbyopia"
+  ],
+  "answer": "Acute angle-closure glaucoma"
+},
+{
+  "number": 27,
+  "question": "What is a consequence of high uncorrected myopia?",
+  "options": [
+    "Retinal detachment",
+    "Early presbyopia",
+    "Ocular hypertension",
+    "Brown cataract"
+  ],
+  "answer": "Retinal detachment"
+},
+{
+  "number": 28,
+  "question": "Diplopia is defined as:",
+  "options": [
+    "Night blindness",
+    "Double vision",
+    "Photophobia",
+    "Hyperacuity"
+  ],
+  "answer": "Double vision"
+},
+{
+  "number": 29,
+  "question": "What is the main goal of glaucoma surgery?",
+  "options": [
+    "Reduce retinal pressure",
+    "Reduce intraocular pressure",
+    "Repair the cornea",
+    "Dilate the iris"
+  ],
+  "answer": "Reduce intraocular pressure"
+},
+{
+  "number": 30,
+  "question": "Which medication is a commonly used antiglaucoma eye drop?",
+  "options": [
+    "Atropine",
+    "Timolol",
+    "Cyclopentolate",
+    "Lidocaine"
+  ],
+  "answer": "Timolol"
+},{
+  "number": 31,
+  "question": "Which abnormality causes blurred vision corrected by cylindrical glasses?",
+  "options": [
+    "Hyperopia",
+    "Presbyopia",
+    "Astigmatism",
+    "Cataract"
+  ],
+  "answer": "Astigmatism"
+},
+{
+  "number": 32,
+  "question": "Which condition is associated with bilateral papilledema?",
+  "options": [
+    "Presbyopia",
+    "Intracranial hypertension",
+    "Cataract",
+    "AMD"
+  ],
+  "answer": "Intracranial hypertension"
+},
+{
+  "number": 33,
+  "question": "Which test evaluates color perception?",
+  "options": [
+    "OCT",
+    "Snellen test",
+    "Ishihara test",
+    "Schirmer test"
+  ],
+  "answer": "Ishihara test"
+},
+{
+  "number": 34,
+  "question": "What is the treatment for exudative AMD?",
+  "options": [
+    "Corticosteroids",
+    "Antioxidant eye drops",
+    "Intravitreal anti-VEGF injections",
+    "Vitrectomy"
+  ],
+  "answer": "Intravitreal anti-VEGF injections"
+},
+{
+  "number": 35,
+  "question": "Which symptom is typical of optic nerve damage?",
+  "options": [
+    "Miosis",
+    "Diplopia",
+    "Sudden loss of central vision",
+    "Floaters"
+  ],
+  "answer": "Sudden loss of central vision"
+},
+{
+  "number": 36,
+  "question": "What is the most common cause of blindness in diabetics?",
+  "options": [
+    "Diabetic retinopathy",
+    "Glaucoma",
+    "Cataract",
+    "Hyperopia"
+  ],
+  "answer": "Diabetic retinopathy"
+},
+{
+  "number": 37,
+  "question": "Which pathology is described as \"tunnel vision\"?",
+  "options": [
+    "Presbyopia",
+    "Advanced glaucoma",
+    "Astigmatism",
+    "AMD"
+  ],
+  "answer": "Advanced glaucoma"
+},
+{
+  "number": 38,
+  "question": "What is the treatment for allergic conjunctivitis?",
+  "options": [
+    "Antibiotics",
+    "Topical antihistamines",
+    "Antivirals",
+    "Systemic corticosteroids"
+  ],
+  "answer": "Topical antihistamines"
+},
+{
+  "number": 39,
+  "question": "Which disorder is typical in children and requires prompt treatment?",
+  "options": [
+    "Presbyopia",
+    "Strabismus",
+    "Senile cataract",
+    "Adult myopia"
+  ],
+  "answer": "Strabismus"
+},
+{
+  "number": 40,
+  "question": "Which pathology is associated with impaired vision in low light?",
+  "options": [
+    "Astigmatism",
+    "Retinal dystrophy",
+    "Diplopia",
+    "Blepharitis"
+  ],
+  "answer": "Retinal dystrophy"
+},
+{
+  "number": 41,
+  "question": "What is the most frequent side effect of prostaglandin-based eye drops?",
+  "options": [
+    "Dryness",
+    "Iris hyperpigmentation",
+    "Mydriasis",
+    "Double vision"
+  ],
+  "answer": "Iris hyperpigmentation"
+},
+{
+  "id": 42,
+  "question": "Which surgical technique is used for retinal detachment?",
+  "options": [
+    "Trabeculectomy",
+    "Vitrectomy",
+    "LASIK",
+    "Corneal transplant"
+  ],
+  "answer": "Vitrectomy"
+},
+{
+  "number": 43,
+  "question": "What is the role of the choroid?",
+  "options": [
+    "Produce tears",
+    "Vascularize the outer retina",
+    "Regulate pressure",
+    "Support the lens"
+  ],
+  "answer": "Vascularize the outer retina"
+},
+{
+  "number": 44,
+  "question": "What is the ophthalmologic sign of severe hypertension?",
+  "options": [
+    "Diplopia",
+    "Hypertensive retinopathy",
+    "Sudden myopia",
+    "Blepharitis"
+  ],
+  "answer": "Hypertensive retinopathy"
+},
+{
+  "number": 45,
+  "question": "Which type of laser is used to treat wet AMD?",
+  "options": [
+    "Argon",
+    "Thermal photocoagulation or intravitreal anti-VEGF",
+    "Femtosecond",
+    "YAG"
+  ],
+  "answer": "Thermal photocoagulation or intravitreal anti-VEGF"
+},
+{
+  "number": 46,
+  "question": "What is the most frequent cause of anterior uveitis?",
+  "options": [
+    "Diabetes",
+    "HIV",
+    "Autoimmune disease (e.g., HLA-B27)",
+    "Hypertension"
+  ],
+  "answer": "Autoimmune disease (e.g., HLA-B27)"
+},
+{
+  "number": 47,
+  "question": "What is the initial treatment of acute dacryocystitis?",
+  "options": [
+    "Laser",
+    "Antibiotic therapy",
+    "Transplant",
+    "Immediate surgery"
+  ],
+  "answer": "Antibiotic therapy"
+},
+{
+  "number": 48,
+  "question": "What is anisometropia?",
+  "options": [
+    "Night vision disorder",
+    "Significant difference in refraction between the two eyes",
+    "Bilateral inflammation",
+    "Absence of lens"
+  ],
+  "answer": "Significant difference in refraction between the two eyes"
+},
+{
+  "number": 49,
+  "question": "Which exam is best suited for macular edema?",
+  "options": [
+    "Biomicroscopy",
+    "OCT",
+    "Snellen",
+    "Schirmer"
+  ],
+  "answer": "OCT"
+},
+{
+  "number": 50,
+  "question": "Which reflex is impaired in optic neuropathy?",
+  "options": [
+    "Accommodation",
+    "Direct pupillary light reflex",
+    "Corneal",
+    "Consensual pupillary"
+  ],
+  "answer": "Direct pupillary light reflex"
+}
 ]
