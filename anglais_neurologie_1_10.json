@@ -1,314 +1,331 @@
 [
   {
-    "question": "1. Quelle est la principale cause d’AVC ischémique ?",
-    "options": [
-      "Tumeur cérébrale",
-      "Hémorragie méningée",
-      "Thrombose artérielle ou embolie",
-      "Hypoglycémie"
-    ],
-    "answer": "Thrombose artérielle ou embolie"
-  },
-  {
-    "question": "2. Une hémiplégie droite avec aphasie évoque une lésion dans :",
-    "options": [
-      "Hémisphère droit",
-      "Hémisphère gauche (aire de Broca)",
-      "Tronc cérébral",
-      "Cervelet"
-    ],
-    "answer": "Hémisphère gauche (aire de Broca)"
-  },
-  {
-    "question": "3. Quelle est la triade classique de la maladie de Parkinson ?",
-    "options": [
-      "Amnésie, apathie, hallucinations",
-      "Tremblement de repos, akinésie, rigidité",
-      "Hémiplégie, paralysie faciale, aphasie",
-      "Vertige, céphalée, diplopie"
-    ],
-    "answer": "Tremblement de repos, akinésie, rigidité"
-  },
-  {
-    "question": "4. Le traitement de référence de la maladie de Parkinson est :",
-    "options": [
-      "Corticoïdes",
-      "Lévodopa (L-DOPA)",
-      "Diazépam",
-      "Bêtabloquants"
-    ],
-    "answer": "Lévodopa (L-DOPA)"
-  },
-  {
-    "question": "5. Quel examen est le plus utile dans le diagnostic d’épilepsie ?",
-    "options": [
-      "Scanner",
-      "Électroencéphalogramme (EEG)",
-      "ECG",
-      "Ponction lombaire"
-    ],
-    "answer": "Électroencéphalogramme (EEG)"
-  },
-  {
-    "question": "6. L’aura dans l’épilepsie est :",
-    "options": [
-      "Un symptôme sensoriel annonciateur d’une crise",
-      "Une période post-critique",
-      "Un état de mal épileptique",
-      "Une hallucination"
-    ],
-    "answer": "Un symptôme sensoriel annonciateur d’une crise"
-  },
-  {
-    "question": "7. Une paralysie faciale périphérique se reconnaît par :",
-    "options": [
-      "Atteinte de toute l’hémiface, y compris le front",
-      "Atteinte uniquement de la bouche",
-      "Absence de troubles moteurs",
-      "Spasmes faciaux isolés"
-    ],
-    "answer": "Atteinte de toute l’hémiface, y compris le front"
-  },
-  {
-    "question": "8. La sclérose en plaques est une maladie :",
-    "options": [
-      "Génétique dominante",
-      "Auto-immune démyélinisante du SNC",
-      "Vasculaire",
-      "Infectieuse chronique"
-    ],
-    "answer": "Auto-immune démyélinisante du SNC"
-  },
-  {
-    "question": "9. La névralgie du trijumeau provoque :",
-    "options": [
-      "Paresthésies des 4 membres",
-      "Douleurs faciales unilatérales paroxystiques",
-      "Diplopie",
-      "Douleurs cervicales bilatérales"
-    ],
-    "answer": "Douleurs faciales unilatérales paroxystiques"
-  },
-  {
-    "question": "10. Une diplopie avec ptose palpébrale chez un jeune adulte évoque :",
-    "options": [
-      "AVC",
-      "Migraine",
-      "Myasthénie",
-      "SLA"
-    ],
-    "answer": "Myasthénie"
-  },{
-        "id": 11,
-        "question": "L’AVC hémorragique est souvent lié à :",
-        "options": ["Hypotension", "Hypertension artérielle", "Hypoglycémie", "Carence en fer"],
-        "answer": "Hypertension artérielle"
-    },
-    {
-        "id": 12,
-        "question": "L’aphasie de Broca est caractérisée par :",
-        "options": [
-            "Trouble de l’expression orale avec compréhension conservée",
-            "Trouble de compréhension uniquement",
-            "Mutisme complet",
-            "Paroles fluides mais incohérentes"
-        ],
-        "answer": "Trouble de l’expression orale avec compréhension conservée"
-    },
-    {
-        "id": 13,
-        "question": "Un syndrome cérébelleux entraîne typiquement :",
-        "options": ["Spasticité", "Paralysie", "Ataxie, dysarthrie, tremblements d’intention", "Perte de mémoire"],
-        "answer": "Ataxie, dysarthrie, tremblements d’intention"
-    },
-    {
-        "id": 14,
-        "question": "Quelle est la principale complication d’un status epilepticus ?",
-        "options": [
-            "Détresse respiratoire et séquelles neurologiques",
-            "Paralysie faciale",
-            "Fièvre",
-            "Hallucinations auditives"
-        ],
-        "answer": "Détresse respiratoire et séquelles neurologiques"
-    },
-    {
-        "id": 15,
-        "question": "Un test couramment utilisé pour la mémoire immédiate est :",
-        "options": [
-            "EEG",
-            "IRM",
-            "Test des 3 mots – 3 objets (Mini-Mental)",
-            "EMG"
-        ],
-        "answer": "Test des 3 mots – 3 objets (Mini-Mental)"
-    },
-    {
-        "id": 16,
-        "question": "Une méningite bactérienne aiguë peut provoquer :",
-        "options": [
-            "Dyspnée",
-            "Jaunisse",
-            "Raideur de nuque, fièvre, céphalées",
-            "Toux productive"
-        ],
-        "answer": "Raideur de nuque, fièvre, céphalées"
-    },
-    {
-        "id": 17,
-        "question": "Quel nerf crânien contrôle la vision ?",
-        "options": ["III", "II (nerf optique)", "V", "VII"],
-        "answer": "II (nerf optique)"
-    },
-    {
-        "id": 18,
-        "question": "Le syndrome de Guillain-Barré est une :",
-        "options": [
-            "Encéphalite virale",
-            "Polyradiculonévrite aiguë post-infectieuse",
-            "Tumeur du cervelet",
-            "Sclérose combinée de la moelle"
-        ],
-        "answer": "Polyradiculonévrite aiguë post-infectieuse"
-    },
-    {
-        "id": 19,
-        "question": "Le principal symptôme d’une hémorragie méningée est :",
-        "options": [
-            "Convulsion",
-            "Céphalée en coup de tonnerre",
-            "Paralysie d’un membre",
-            "Fièvre seule"
-        ],
-        "answer": "Céphalée en coup de tonnerre"
-    },
-    {
-        "id": 20,
-        "question": "Quel médicament est utilisé dans le traitement de la myasthénie grave ?",
-        "options": [
-            "Gabapentine",
-            "Pyridostigmine (anti-acétylcholinestérasique)",
-            "Propranolol",
-            "Diazépam"
-        ],
-        "answer": "Pyridostigmine (anti-acétylcholinestérasique)"
-    }, {
-        "question_num": 31,
-        "question": "La maladie de Huntington est :",
-        "options": ["Auto-immune", "Héréditaire autosomique dominante", "Infectieuse", "Mitochondriale"],
-        "answer": "Héréditaire autosomique dominante"
-    },
-    {
-        "question_num": 32,
-        "question": "Le test du doigt-nez évalue :",
-        "options": ["La mémoire", "La coordination cérébelleuse", "L’audition", "L’olfaction"],
-        "answer": "La coordination cérébelleuse"
-    },
-    {
-        "question_num": 33,
-        "question": "Le réflexe de Babinski est positif lorsque :",
-        "options": ["Extension du gros orteil à la stimulation plantaire", "Flexion du pied", "Contraction du mollet", "Aucun mouvement"],
-        "answer": "Extension du gros orteil à la stimulation plantaire"
-    },
-    {
-        "question_num": 34,
-        "question": "Le traitement initial d’un AVC ischémique aigu peut inclure :",
-        "options": ["Aspirine IV", "Thrombolyse par rt-PA si conditions remplies", "Bêtabloquant", "Lévétiracétam"],
-        "answer": "Thrombolyse par rt-PA si conditions remplies"
-    },
-    {
-        "question_num": 35,
-        "question": "Une agnosie est :",
-        "options": ["Un trouble moteur", "Une incapacité à reconnaître un objet malgré une fonction sensorielle intacte", "Une amnésie", "Une hallucination"],
-        "answer": "Une incapacité à reconnaître un objet malgré une fonction sensorielle intacte"
-    },
-    {
-        "question_num": 36,
-        "question": "Quelle est la principale cause de crise d’épilepsie chez le patient âgé ?",
-        "options": ["Traumatisme", "AVC", "Tumeur", "Hypocalcémie"],
-        "answer": "AVC"
-    },
-    {
-        "question_num": 37,
-        "question": "Le syndrome pyramidal se manifeste par :",
-        "options": ["Hypotonie", "Spasticité, hyperréflexie, signe de Babinski", "Myoclonie", "Hyporéflexie"],
-        "answer": "Spasticité, hyperréflexie, signe de Babinski"
-    },
-    {
-        "question_num": 38,
-        "question": "Le nerf crânien X est aussi appelé :",
-        "options": ["Trijumeau", "Facial", "Vague (vagus)", "Vestibulaire"],
-        "answer": "Vague (vagus)"
-    },
-    {
-        "question_num": 39,
-        "question": "Le traitement de la SEP en poussée est :",
-        "options": ["Antiviraux", "Corticothérapie IV (méthylprednisolone)", "Antiépileptiques", "Immunoglobulines"],
-        "answer": "Corticothérapie IV (méthylprednisolone)"
-    },
-    {
-        "question_num": 40,
-        "question": "L’encéphalopathie hépatique peut causer :",
-        "options": ["Sclérose", "Troubles de conscience et astérixis", "Épilepsie chronique", "AVC"],
-        "answer": "Troubles de conscience et astérixis"
-    }, {
-        "num": 41,
-        "question": "L’IRM de diffusion est utile pour diagnostiquer :",
-        "options": ["AVC ischémique très précoce", "SEP", "Méningite", "Maladie de Charcot"],
-        "answer": "AVC ischémique très précoce"
-    },
-    {
-        "num": 42,
-        "question": "Une mydriase unilatérale fixe peut indiquer :",
-        "options": ["AVC bulbaire", "Hypotension", "Engagement cérébral (hernie tentorielle)", "Trouble psychiatrique"],
-        "answer": "Engagement cérébral (hernie tentorielle)"
-    },
-    {
-        "num": 43,
-        "question": "Le syndrome de la queue de cheval nécessite :",
-        "options": ["Urgence chirurgicale (décompression)", "Rééducation", "Scanner abdominal", "Antibiotiques IV"],
-        "answer": "Urgence chirurgicale (décompression)"
-    },
-    {
-        "num": 44,
-        "question": "Le traitement de la névralgie du trijumeau est souvent :",
-        "options": ["AINS", "Carbamazépine", "Antidépresseurs", "Propranolol"],
-        "answer": "Carbamazépine"
-    },
-    {
-        "num": 45,
-        "question": "Une atrophie hippocampique bilatérale est typique de :",
-        "options": ["SLA", "Alzheimer", "SEP", "Encéphalite herpétique"],
-        "answer": "Alzheimer"
-    },
-    {
-        "num": 46,
-        "question": "La diplégie spastique est fréquente dans :",
-        "options": ["AVC", "Paralysie cérébrale infantile", "Guillain-Barré", "SEP"],
-        "answer": "Paralysie cérébrale infantile"
-    },
-    {
-        "num": 47,
-        "question": "Le LCR clair avec hyperprotéinorachie sans pleiocytose évoque :",
-        "options": ["Méningite virale", "SEP", "Guillain-Barré", "Hémorragie sous-arachnoïdienne"],
-        "answer": "Guillain-Barré"
-    },
-    {
-        "num": 48,
-        "question": "L’encéphalite herpétique touche préférentiellement :",
-        "options": ["Lobes temporaux", "Moelle épinière", "Cervelet", "Tronc cérébral"],
-        "answer": "Lobes temporaux"
-    },
-    {
-        "num": 49,
-        "question": "La dystonie est :",
-        "options": ["Une crise d’épilepsie partielle", "Contraction musculaire involontaire soutenue", "Un trouble du langage", "Une perte d’équilibre"],
-        "answer": "Contraction musculaire involontaire soutenue"
-    },
-    {
-        "num": 50,
-        "question": "Le principal signe précoce de tumeur cérébrale est :",
-        "options": ["Fièvre", "Céphalées progressives matinales avec vomissements", "Dysurie", "Diplopie bilatérale"],
-        "answer": "Céphalées progressives matinales avec vomissements"
-    }
+  "question": "1. What is the main cause of ischemic stroke?",
+  "options": [
+    "Brain tumor",
+    "Subarachnoid hemorrhage",
+    "Arterial thrombosis or embolism",
+    "Hypoglycemia"
+  ],
+  "answer": "Arterial thrombosis or embolism"
+},
+{
+  "question": "2. Right hemiplegia with aphasia suggests a lesion in:",
+  "options": [
+    "Right hemisphere",
+    "Left hemisphere (Broca’s area)",
+    "Brainstem",
+    "Cerebellum"
+  ],
+  "answer": "Left hemisphere (Broca’s area)"
+},
+{
+  "question": "3. What is the classic triad of Parkinson’s disease?",
+  "options": [
+    "Amnesia, apathy, hallucinations",
+    "Resting tremor, akinesia, rigidity",
+    "Hemiplegia, facial paralysis, aphasia",
+    "Vertigo, headache, diplopia"
+  ],
+  "answer": "Resting tremor, akinesia, rigidity"
+},
+{
+  "question": "4. The reference treatment for Parkinson’s disease is:",
+  "options": [
+    "Corticosteroids",
+    "Levodopa (L-DOPA)",
+    "Diazepam",
+    "Beta blockers"
+  ],
+  "answer": "Levodopa (L-DOPA)"
+},
+{
+  "question": "5. Which test is most useful in diagnosing epilepsy?",
+  "options": [
+    "CT scan",
+    "Electroencephalogram (EEG)",
+    "ECG",
+    "Lumbar puncture"
+  ],
+  "answer": "Electroencephalogram (EEG)"
+},
+{
+  "question": "6. The aura in epilepsy is:",
+  "options": [
+    "A sensory symptom warning of a seizure",
+    "A postictal period",
+    "Status epilepticus",
+    "A hallucination"
+  ],
+  "answer": "A sensory symptom warning of a seizure"
+},
+{
+  "question": "7. Peripheral facial paralysis is recognized by:",
+  "options": [
+    "Involvement of the entire half of the face, including the forehead",
+    "Involvement of the mouth only",
+    "No motor disturbances",
+    "Isolated facial spasms"
+  ],
+  "answer": "Involvement of the entire half of the face, including the forehead"
+},
+{
+  "question": "8. Multiple sclerosis is a:",
+  "options": [
+    "Dominant genetic disease",
+    "Autoimmune demyelinating disease of the CNS",
+    "Vascular disease",
+    "Chronic infectious disease"
+  ],
+  "answer": "Autoimmune demyelinating disease of the CNS"
+},
+{
+  "question": "9. Trigeminal neuralgia causes:",
+  "options": [
+    "Paresthesias of all four limbs",
+    "Unilateral paroxysmal facial pain",
+    "Diplopia",
+    "Bilateral neck pain"
+  ],
+  "answer": "Unilateral paroxysmal facial pain"
+},
+{
+  "question": "10. Diplopia with eyelid ptosis in a young adult suggests:",
+  "options": [
+    "Stroke",
+    "Migraine",
+    "Myasthenia",
+    "ALS"
+  ],
+  "answer": "Myasthenia"
+},
+{
+  "id": 11,
+  "question": "Hemorrhagic stroke is often related to:",
+  "options": [
+    "Hypotension",
+    "Arterial hypertension",
+    "Hypoglycemia",
+    "Iron deficiency"
+  ],
+  "answer": "Arterial hypertension"
+},
+{
+  "id": 12,
+  "question": "Broca’s aphasia is characterized by:",
+  "options": [
+    "Difficulty in spoken expression with preserved comprehension",
+    "Comprehension difficulty only",
+    "Complete mutism",
+    "Fluent but incoherent speech"
+  ],
+  "answer": "Difficulty in spoken expression with preserved comprehension"
+},
+{
+  "id": 13,
+  "question": "A cerebellar syndrome typically causes:",
+  "options": [
+    "Spasticity",
+    "Paralysis",
+    "Ataxia, dysarthria, intention tremors",
+    "Memory loss"
+  ],
+  "answer": "Ataxia, dysarthria, intention tremors"
+},
+{
+  "id": 14,
+  "question": "What is the main complication of status epilepticus?",
+  "options": [
+    "Respiratory distress and neurological sequelae",
+    "Facial paralysis",
+    "Fever",
+    "Auditory hallucinations"
+  ],
+  "answer": "Respiratory distress and neurological sequelae"
+},
+{
+  "id": 15,
+  "question": "A commonly used test for immediate memory is:",
+  "options": [
+    "EEG",
+    "MRI",
+    "3 words – 3 objects test (Mini-Mental)",
+    "EMG"
+  ],
+  "answer": "3 words – 3 objects test (Mini-Mental)"
+},
+{
+  "id": 16,
+  "question": "Acute bacterial meningitis can cause:",
+  "options": [
+    "Dyspnea",
+    "Jaundice",
+    "Neck stiffness, fever, headache",
+    "Productive cough"
+  ],
+  "answer": "Neck stiffness, fever, headache"
+},
+{
+  "id": 17,
+  "question": "Which cranial nerve controls vision?",
+  "options": [
+    "III",
+    "II (optic nerve)",
+    "V",
+    "VII"
+  ],
+  "answer": "II (optic nerve)"
+},
+{
+  "id": 18,
+  "question": "Guillain-Barré syndrome is a:",
+  "options": [
+    "Viral encephalitis",
+    "Acute post-infectious polyradiculoneuritis",
+    "Cerebellar tumor",
+    "Combined spinal sclerosis"
+  ],
+  "answer": "Acute post-infectious polyradiculoneuritis"
+},
+{
+  "id": 19,
+  "question": "The main symptom of subarachnoid hemorrhage is:",
+  "options": [
+    "Seizure",
+    "Thunderclap headache",
+    "Limb paralysis",
+    "Fever alone"
+  ],
+  "answer": "Thunderclap headache"
+},
+{
+  "id": 20,
+  "question": "Which drug is used to treat myasthenia gravis?",
+  "options": [
+    "Gabapentin",
+    "Pyridostigmine (acetylcholinesterase inhibitor)",
+    "Propranolol",
+    "Diazepam"
+  ],
+  "answer": "Pyridostigmine (acetylcholinesterase inhibitor)"
+}, {
+    "question_num": 31,
+    "question": "Huntington's disease is:",
+    "options": ["Autoimmune", "Autosomal dominant hereditary", "Infectious", "Mitochondrial"],
+    "answer": "Autosomal dominant hereditary"
+},
+{
+    "question_num": 32,
+    "question": "The finger-to-nose test assesses:",
+    "options": ["Memory", "Cerebellar coordination", "Hearing", "Olfaction"],
+    "answer": "Cerebellar coordination"
+},
+{
+    "question_num": 33,
+    "question": "Babinski reflex is positive when there is:",
+    "options": ["Extension of the big toe upon plantar stimulation", "Foot flexion", "Calf muscle contraction", "No movement"],
+    "answer": "Extension of the big toe upon plantar stimulation"
+},
+{
+    "question_num": 34,
+    "question": "Initial treatment of acute ischemic stroke may include:",
+    "options": ["IV aspirin", "Thrombolysis with rt-PA if criteria are met", "Beta-blockers", "Levetiracetam"],
+    "answer": "Thrombolysis with rt-PA if criteria are met"
+},
+{
+    "question_num": 35,
+    "question": "Agnosia is:",
+    "options": ["A motor disorder", "An inability to recognize an object despite intact sensory function", "Amnesia", "A hallucination"],
+    "answer": "An inability to recognize an object despite intact sensory function"
+},
+{
+    "question_num": 36,
+    "question": "What is the main cause of seizures in elderly patients?",
+    "options": ["Trauma", "Stroke", "Tumor", "Hypocalcemia"],
+    "answer": "Stroke"
+},
+{
+    "question_num": 37,
+    "question": "Pyramidal syndrome is characterized by:",
+    "options": ["Hypotonia", "Spasticity, hyperreflexia, Babinski sign", "Myoclonus", "Hyporeflexia"],
+    "answer": "Spasticity, hyperreflexia, Babinski sign"
+},
+{
+    "question_num": 38,
+    "question": "Cranial nerve X is also called:",
+    "options": ["Trigeminal", "Facial", "Vagus", "Vestibular"],
+    "answer": "Vagus"
+},
+{
+    "question_num": 39,
+    "question": "The treatment for a multiple sclerosis flare-up is:",
+    "options": ["Antivirals", "IV corticosteroids (methylprednisolone)", "Antiepileptics", "Immunoglobulins"],
+    "answer": "IV corticosteroids (methylprednisolone)"
+},
+{
+    "question_num": 40,
+    "question": "Hepatic encephalopathy can cause:",
+    "options": ["Sclerosis", "Altered consciousness and asterixis", "Chronic epilepsy", "Stroke"],
+    "answer": "Altered consciousness and asterixis"
+},
+{
+    "question_num": 41,
+    "question": "Diffusion MRI is useful to diagnose:",
+    "options": ["Very early ischemic stroke", "Multiple sclerosis", "Meningitis", "ALS (Charcot disease)"],
+    "answer": "Very early ischemic stroke"
+},
+{
+    "question_num": 42,
+    "question": "A fixed unilateral mydriasis may indicate:",
+    "options": ["Medullary stroke", "Hypotension", "Brain herniation (tentorial herniation)", "Psychiatric disorder"],
+    "answer": "Brain herniation (tentorial herniation)"
+},
+{
+    "question_num": 43,
+    "question": "Cauda equina syndrome requires:",
+    "options": ["Surgical emergency (decompression)", "Rehabilitation", "Abdominal CT scan", "IV antibiotics"],
+    "answer": "Surgical emergency (decompression)"
+},
+{
+    "question_num": 44,
+    "question": "Treatment for trigeminal neuralgia is often:",
+    "options": ["NSAIDs", "Carbamazepine", "Antidepressants", "Propranolol"],
+    "answer": "Carbamazepine"
+},
+{
+    "question_num": 45,
+    "question": "Bilateral hippocampal atrophy is typical of:",
+    "options": ["ALS", "Alzheimer's disease", "Multiple sclerosis", "Herpes encephalitis"],
+    "answer": "Alzheimer's disease"
+},
+{
+    "question_num": 46,
+    "question": "Spastic diplegia is common in:",
+    "options": ["Stroke", "Cerebral palsy", "Guillain-Barré syndrome", "Multiple sclerosis"],
+    "answer": "Cerebral palsy"
+},
+{
+    "question_num": 47,
+    "question": "Clear CSF with high protein and no pleocytosis suggests:",
+    "options": ["Viral meningitis", "Multiple sclerosis", "Guillain-Barré syndrome", "Subarachnoid hemorrhage"],
+    "answer": "Guillain-Barré syndrome"
+},
+{
+    "question_num": 48,
+    "question": "Herpes encephalitis primarily affects the:",
+    "options": ["Temporal lobes", "Spinal cord", "Cerebellum", "Brainstem"],
+    "answer": "Temporal lobes"
+},
+{
+    "question_num": 49,
+    "question": "Dystonia is:",
+    "options": ["A partial seizure", "Sustained involuntary muscle contraction", "A speech disorder", "A balance disorder"],
+    "answer": "Sustained involuntary muscle contraction"
+},
+{
+    "question_num": 50,
+    "question": "The main early sign of a brain tumor is:",
+    "options": ["Fever", "Progressive early morning headaches with vomiting", "Dysuria", "Bilateral diplopia"],
+    "answer": "Progressive early morning headaches with vomiting"
+}
 ]
