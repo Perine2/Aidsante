@@ -1,0 +1,348 @@
+[
+    {
+        "numero": 1,
+        "question": "Quelle maladie rhumatologique est caractérisée par une inflammation chronique des articulations ?",
+        "options": [
+            "Ostéoporose",
+            "Polyarthrite rhumatoïde",
+            "Arthrose",
+            "Goutte"
+        ],
+        "answer": "Polyarthrite rhumatoïde"
+    },
+    {
+        "numero": 2,
+        "question": "Quel est le principal facteur de risque de l’arthrose ?",
+        "options": [
+            "Infection bactérienne",
+            "Maladie auto-immune",
+            "Vieillissement et surutilisation articulaire",
+            "Carence en calcium"
+        ],
+        "answer": "Vieillissement et surutilisation articulaire"
+    },
+    {
+        "numero": 3,
+        "question": "La goutte est due à :",
+        "options": [
+            "Un excès de cholestérol",
+            "Une accumulation d’acide urique dans les articulations",
+            "Une infection virale",
+            "Une carence en vitamine D"
+        ],
+        "answer": "Une accumulation d’acide urique dans les articulations"
+    },
+    {
+        "numero": 4,
+        "question": "Quel examen est le plus utile pour diagnostiquer une fracture osseuse ?",
+        "options": [
+            "IRM",
+            "Échographie",
+            "Radiographie",
+            "Prise de sang"
+        ],
+        "answer": "Radiographie"
+    },
+    {
+        "numero": 5,
+        "question": "La spondylarthrite ankylosante affecte principalement :",
+        "options": [
+            "Les doigts",
+            "Les genoux",
+            "La colonne vertébrale et les articulations sacro-iliaques",
+            "Les hanches uniquement"
+        ],
+        "answer": "La colonne vertébrale et les articulations sacro-iliaques"
+    },
+    {
+        "numero": 6,
+        "question": "Quel biomarqueur est souvent élevé dans la polyarthrite rhumatoïde ?",
+        "options": [
+            "CRP",
+            "HbA1c",
+            "Facteur rhumatoïde (FR) et anticorps anti-CCP",
+            "Cholestérol"
+        ],
+        "answer": "Facteur rhumatoïde (FR) et anticorps anti-CCP"
+    },
+    {
+        "numero": 7,
+        "question": "Quel traitement est couramment utilisé en première ligne pour la polyarthrite rhumatoïde ?",
+        "options": [
+            "Antibiotiques",
+            "Anti-inflammatoires non stéroïdiens (AINS)",
+            "Corticostéroïdes oraux",
+            "Biothérapies"
+        ],
+        "answer": "Anti-inflammatoires non stéroïdiens (AINS)"
+    },
+    {
+        "numero": 8,
+        "question": "Quelle vitamine est essentielle pour la santé osseuse ?",
+        "options": [
+            "Vitamine C",
+            "Vitamine B12",
+            "Vitamine D",
+            "Vitamine K"
+        ],
+        "answer": "Vitamine D"
+    },
+    {
+        "numero": 9,
+        "question": "Quel est le principal mécanisme de l’ostéoporose ?",
+        "options": [
+            "Inflammation articulaire",
+            "Accumulation d’acide urique",
+            "Diminution de la densité osseuse due à un déséquilibre entre résorption et formation osseuse",
+            "Infection"
+        ],
+        "answer": "Diminution de la densité osseuse due à un déséquilibre entre résorption et formation osseuse"
+    },
+    {
+        "numero": 10,
+        "question": "Quel est le symptôme caractéristique d’une bursite ?",
+        "options": [
+            "Douleur musculaire",
+            "Engourdissement",
+            "Douleur et gonflement localisé près d’une articulation",
+            "Rougeur généralisée"
+        ],
+        "answer": "Douleur et gonflement localisé près d’une articulation"
+    }, {
+        "numero": 11,
+        "question": "Quel est le traitement de choix pour une crise aiguë de goutte ?",
+        "options": ["Antibiotiques", "Corticostéroïdes systémiques", "Colchicine et AINS", "Antifongiques"],
+        "answer": "Colchicine et AINS"
+    },
+    {
+        "numero": 12,
+        "question": "La cause principale de la spondylarthrite ankylosante est :",
+        "options": ["Infection bactérienne", "Facteurs génétiques (HLA-B27)", "Carence en calcium", "Traumatisme"],
+        "answer": "Facteurs génétiques (HLA-B27)"
+    },
+    {
+        "numero": 13,
+        "question": "Quel examen est utile pour évaluer la densité minérale osseuse ?",
+        "options": ["Radiographie simple", "IRM", "Densitométrie osseuse (DEXA)", "Échographie"],
+        "answer": "Densitométrie osseuse (DEXA)"
+    },
+    {
+        "numero": 14,
+        "question": "Quelle maladie est caractérisée par une inflammation des tissus autour des articulations, notamment les tendons ?",
+        "options": ["Arthrose", "Polyarthrite rhumatoïde", "Tendinite", "Goutte"],
+        "answer": "Tendinite"
+    },
+    {
+        "numero": 15,
+        "question": "Quel est le rôle des bisphosphonates ?",
+        "options": ["Réduire l’inflammation", "Inhiber la résorption osseuse", "Stimuler la formation de cartilage", "Soulager la douleur uniquement"],
+        "answer": "Inhiber la résorption osseuse"
+    },
+    {
+        "numero": 16,
+        "question": "La fibromyalgie se manifeste principalement par :",
+        "options": ["Inflammation des articulations", "Perte de densité osseuse", "Douleurs musculo-squelettiques diffuses et fatigue", "Crises de goutte"],
+        "answer": "Douleurs musculo-squelettiques diffuses et fatigue"
+    },
+    {
+        "numero": 17,
+        "question": "Quel type d’arthrite est généralement associé à une infection bactérienne ?",
+        "options": ["Arthrite rhumatoïde", "Arthrite septique", "Arthrose", "Spondylarthrite ankylosante"],
+        "answer": "Arthrite septique"
+    },
+    {
+        "numero": 18,
+        "question": "Quel est le principal symptôme de l’arthrose ?",
+        "options": ["Douleur nocturne intense", "Douleur mécanique aggravée par l’activité", "Gonflement sévère", "Fièvre"],
+        "answer": "Douleur mécanique aggravée par l’activité"
+    },
+    {
+        "numero": 19,
+        "question": "Quel examen sanguin est utilisé pour surveiller l’inflammation dans les maladies rhumatismales ?",
+        "options": ["Hémoglobine", "Vitesse de sédimentation (VS) et protéine C-réactive (CRP)", "Glycémie", "Ionogramme"],
+        "answer": "Vitesse de sédimentation (VS) et protéine C-réactive (CRP)"
+    },
+    {
+        "numero": 20,
+        "question": "Quelle articulation est le plus souvent touchée en premier dans la polyarthrite rhumatoïde ?",
+        "options": ["Genou", "Hanche", "Petites articulations des mains et des pieds", "Épaule"],
+        "answer": "Petites articulations des mains et des pieds"
+    },{
+    "numero": 21,
+    "question": "Quel est le principal symptôme d’une hernie discale lombaire ?",
+    "options": ["Douleur thoracique", "Engourdissement des doigts", "Lombalgie irradiant dans la jambe (sciatique)", "Douleur abdominale"],
+    "answer": "Lombalgie irradiant dans la jambe (sciatique)"
+  },
+  {
+    "numero": 22,
+    "question": "Quel médicament est considéré comme un « traitement de fond » dans la polyarthrite rhumatoïde ?",
+    "options": ["Paracétamol", "Méthotrexate", "AINS", "Antibiotiques"],
+    "answer": "Méthotrexate"
+  },
+  {
+    "numero": 23,
+    "question": "Quel est le principal facteur de risque de l’ostéoporose post-ménopausique ?",
+    "options": ["Hyperthyroïdie", "Tabagisme", "Diminution des œstrogènes", "Obésité"],
+    "answer": "Diminution des œstrogènes"
+  },
+  {
+    "numero": 24,
+    "question": "Quel test est utilisé pour détecter la présence de cristaux dans une articulation ?",
+    "options": ["Prise de sang", "Analyse du liquide synovial", "Radiographie", "Échographie"],
+    "answer": "Analyse du liquide synovial"
+  },
+  {
+    "numero": 25,
+    "question": "La sclérodermie est une maladie caractérisée par :",
+    "options": ["Inflammation articulaire", "Durcissement et fibrose de la peau et des organes internes", "Fractures fréquentes", "Perte de cheveux"],
+    "answer": "Durcissement et fibrose de la peau et des organes internes"
+  },
+  {
+    "numero": 26,
+    "question": "Quel est le symptôme typique de la tendinite ?",
+    "options": ["Fièvre", "Rougeur généralisée", "Douleur localisée à la mobilisation du tendon", "Engourdissement"],
+    "answer": "Douleur localisée à la mobilisation du tendon"
+  },
+  {
+    "numero": 27,
+    "question": "Quel est le traitement de la spondylarthrite ankylosante ?",
+    "options": ["Antibiotiques", "Corticostéroïdes uniquement", "AINS et biothérapies (anti-TNF)", "Antifongiques"],
+    "answer": "AINS et biothérapies (anti-TNF)"
+  },
+  {
+    "numero": 28,
+    "question": "Quel est le mécanisme de la goutte ?",
+    "options": ["Infection bactérienne", "Traumatisme", "Dépôt de cristaux d’urate monosodique dans les articulations", "Carence en vitamine D"],
+    "answer": "Dépôt de cristaux d’urate monosodique dans les articulations"
+  },
+  {
+    "numero": 29,
+    "question": "Quel est le signe radiologique caractéristique de l’arthrose ?",
+    "options": ["Ostéophytes et pincement de l’interligne articulaire", "Érosion osseuse", "Calcifications des tendons", "Perte de densité osseuse"],
+    "answer": "Ostéophytes et pincement de l’interligne articulaire"
+  },
+  {
+    "numero": 30,
+    "question": "Quel est le symptôme principal de la bursite ?",
+    "options": ["Douleur diffuse", "Douleur localisée et gonflement au niveau de la bourse séreuse", "Rougeur généralisée", "Fièvre"],
+    "answer": "Douleur localisée et gonflement au niveau de la bourse séreuse"
+  }, {
+        "numero": 31,
+        "question": "Quel est le rôle du liquide synovial ?",
+        "options": ["Nourrir les muscles", "Lubrifier et amortir les articulations", "Produire du collagène", "Transmettre la douleur"],
+        "answer": "Lubrifier et amortir les articulations"
+    },
+    {
+        "numero": 32,
+        "question": "Quel examen d’imagerie est le plus sensible pour détecter une inflammation articulaire précoce ?",
+        "options": ["Radiographie", "IRM", "Scanner", "Échographie"],
+        "answer": "IRM"
+    },
+    {
+        "numero": 33,
+        "question": "Quel médicament est utilisé pour réduire la douleur et l’inflammation dans la polyarthrite rhumatoïde ?",
+        "options": ["Antibiotiques", "AINS", "Antifongiques", "Antiviraux"],
+        "answer": "AINS"
+    },
+    {
+        "numero": 34,
+        "question": "L’ostéophyte est :",
+        "options": ["Une fracture osseuse", "Une excroissance osseuse liée à l’arthrose", "Un kyste articulaire", "Une inflammation du tendon"],
+        "answer": "Une excroissance osseuse liée à l’arthrose"
+    },
+    {
+        "numero": 35,
+        "question": "La douleur inflammatoire est caractérisée par :",
+        "options": ["Douleur qui s’aggrave à l’effort", "Douleur au repos et raideur matinale prolongée", "Douleur uniquement nocturne", "Douleur intermittente"],
+        "answer": "Douleur au repos et raideur matinale prolongée"
+    },
+    {
+        "numero": 36,
+        "question": "Quelle articulation est la plus touchée par la goutte ?",
+        "options": ["Épaule", "Genou", "Gros orteil (podagre)", "Poignet"],
+        "answer": "Gros orteil (podagre)"
+    },
+    {
+        "numero": 37,
+        "question": "Quel test sanguin est spécifique de la polyarthrite rhumatoïde ?",
+        "options": ["CRP", "Vitesse de sédimentation", "Anticorps anti-CCP", "Glycémie"],
+        "answer": "Anticorps anti-CCP"
+    },
+    {
+        "numero": 38,
+        "question": "Quelle est la complication majeure de l’ostéoporose ?",
+        "options": ["Arthrite", "Inflammation", "Fractures osseuses", "Tumeurs"],
+        "answer": "Fractures osseuses"
+    },
+    {
+        "numero": 39,
+        "question": "La fibromyalgie est :",
+        "options": ["Une maladie inflammatoire", "Une infection", "Un syndrome de douleurs musculo-squelettiques chroniques sans inflammation", "Une tumeur"],
+        "reponse": "Un syndrome de douleurs musculo-squelettiques chroniques sans inflammation"
+    },
+    {
+        "numero": 40,
+        "question": "Quel examen est recommandé pour évaluer une suspicion de polyarthrite rhumatoïde ?",
+        "options": ["Radiographie pulmonaire", "Radiographies des mains et poignets", "Échographie cardiaque", "Scanner abdominal"],
+        "answer": "Radiographies des mains et poignets"
+    },{
+        "numero": 41,
+        "question": "Quel médicament est un inhibiteur du TNF utilisé en rhumatologie ?",
+        "options": ["Méthotrexate", "Colchicine", "Adalimumab", "Paracétamol"],
+        "answer": "Adalimumab"
+    },
+    {
+        "numero": 42,
+        "question": "Quel est le mécanisme de l’arthrose ?",
+        "options": ["Maladie auto-immune", "Dégénérescence du cartilage articulaire", "Infection bactérienne", "Inflammation des tendons"],
+        "answer": "Dégénérescence du cartilage articulaire"
+    },
+    {
+        "numero": 43,
+        "question": "La polyarthrite rhumatoïde peut provoquer :",
+        "options": ["Paralysie", "Destruction articulaire et déformations", "Fractures osseuses", "Hypercalcémie"],
+        "answer": "Destruction articulaire et déformations"
+    },
+    {
+        "numero": 44,
+        "question": "Quelle est la principale cause d’ostéoporose secondaire ?",
+        "options": ["Malnutrition", "Corticothérapie prolongée", "Infection virale", "Traumatisme"],
+        "answer": "Corticothérapie prolongée"
+    },
+    {
+        "numero": 45,
+        "question": "Quel examen est essentiel pour diagnostiquer une spondylarthrite ankylosante ?",
+        "options": ["Scanner cérébral", "Radiographie du bassin (sacro-iliaque)", "IRM cardiaque", "Échographie abdominale"],
+        "answer": "Radiographie du bassin (sacro-iliaque)"
+    },
+    {
+        "numero": 46,
+        "question": "Quel est le principal symptôme de la fibromyalgie ?",
+        "options": ["Fièvre", "Gonflement articulaire", "Douleur musculaire diffuse", "Rougeur"],
+        "answer": "Douleur musculaire diffuse"
+    },
+    {
+        "numero": 47,
+        "question": "Quel est le traitement recommandé pour l’ostéoporose ?",
+        "options": ["Antibiotiques", "Corticostéroïdes", "Supplémentation en calcium et vitamine D, bisphosphonates", "AINS"],
+        "answer": "Supplémentation en calcium et vitamine D, bisphosphonates"
+    },
+    {
+        "numero": 48,
+        "question": "Quel est le rôle des corticostéroïdes en rhumatologie ?",
+        "options": ["Antibactérien", "Antifongique", "Anti-inflammatoire puissant", "Immunostimulant"],
+        "answer": "Anti-inflammatoire puissant"
+    },
+    {
+        "numero": 49,
+        "question": "Quel est le signe clinique de la tendinite ?",
+        "options": ["Fièvre", "Rougeur généralisée", "Douleur à la mobilisation du tendon", "Perte de cheveux"],
+        "answer": "Douleur à la mobilisation du tendon"
+    },
+    {
+        "numero": 50,
+        "question": "Quel est le principal traitement de la polyarthrite rhumatoïde modérée à sévère ?",
+        "options": ["Antibiotiques", "Paracétamol", "Traitements de fond (méthotrexate, biothérapies)", "Antifongiques"],
+        "answer": "Traitements de fond (méthotrexate, biothérapies)"
+    }
+]
