@@ -1,0 +1,26 @@
+{
+  "name": "AidSanté",
+  "short_name": "AidSanté",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#370237",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://cdn.cmsfly.com/6829a70a9d3106001285c913/images/aidsante-icon-1921-OtO30.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://cdn.cmsfly.com/6829a70a9d3106001285c913/images/aidsante-icon-5125-B7Peo.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "https://cdn.cmsfly.com/6829a70a9d3106001285c913/images/aidsante-icon-1024-mOFVf.png",
+      "sizes": "1024x1024",
+      "type": "image/png"
+    }
+  ]
+}
